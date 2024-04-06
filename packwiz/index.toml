@@ -836,7 +836,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastconfigapi.pw.toml"
-hash = "cc7b506a4ba2f25312c95f417f1c14a3cbdbdd9a120b9b8306539795844b93a6"
+hash = "0edd61d17f07183a40f98cb034ecdb58d5b736a48578ab9d8f0f4df5fbec51a3"
 metafile = true
 
 [[files]]

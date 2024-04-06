@@ -1,6 +1,6 @@
 name = "Fast Config API"
 filename = "fastconfigapi-1.0.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/jhHNjn7K/versions/CrvPy8Jb/fastconfigapi-1.0.1.jar"
