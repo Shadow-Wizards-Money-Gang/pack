@@ -1152,6 +1152,11 @@ file = "mods/playerex-3.6.2+wizards+1.20.1.jar"
 hash = "19b91625786746787dcd2d7148ddf39ea5e4804102ddfbf2bbd093f9c48ff699"
 
 [[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "74058d27cf4f2eaa273b7e3e7068e573a196d12116d2290c9088cdb5895c3aa8"
+metafile = true
+
+[[files]]
 file = "mods/profundis-1.6.2.jar"
 hash = "f4f941029fa5590de76295098e35c083350eebe97683ab5d3b82f5cea8df2634"
 
@@ -2229,4 +2234,4 @@ hash = "4cb846542af0edfec3b131f17166f7b275d4a85e3d467e85f357069c650ef28d"
 
 [[files]]
 file = "unsup.toml"
-hash = "a341d1f1939d6d3d54facc9b751876a6016b173881efccc2ff924b87adf27672"
+hash = "64e6bc773e0eaf49b6e22faba9bddcad72f2f1d1f77e843b30de1ca825e36022"
