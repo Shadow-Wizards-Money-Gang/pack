@@ -836,7 +836,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastconfigapi.pw.toml"
-hash = "705cf2cf75b17c3695a341fa79048ed05f8b6e59725c9f81fa36d0d66be7b20d"
+hash = "cc7b506a4ba2f25312c95f417f1c14a3cbdbdd9a120b9b8306539795844b93a6"
 metafile = true
 
 [[files]]
@@ -966,7 +966,7 @@ metafile = true
 
 [[files]]
 file = "mods/labelling-containers.pw.toml"
-hash = "32c0d09f4d4398b81d8c7e69b8e33665f3cf1dba082731555dddf54dac92f41e"
+hash = "693fbea72d7579c6821e7d0eb3f6da4338986747cbf16eb6873492334d8e5925"
 metafile = true
 
 [[files]]
