@@ -795,11 +795,6 @@ hash = "ca8cb9025bcbbcb69937b0c3a1766a6e22ab61060153974c0beb3650cb7780d4"
 metafile = true
 
 [[files]]
-file = "mods/enhanced-weather.pw.toml"
-hash = "8e8c7dbc64b07e88e4e7f19b88bf9e5d8f97cac3082fdac76f2ef5e0f7be658c"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "33f865a014f3acf2c1f2c452bfe7ba1a864acad178322a6eab3759c7e63c9654"
 metafile = true
@@ -822,11 +817,6 @@ metafile = true
 [[files]]
 file = "mods/fadeless.pw.toml"
 hash = "bd5311680997fada18e6492a91770fdc0762c718b3109820d67c1b019c2f1bf8"
-metafile = true
-
-[[files]]
-file = "mods/fancy-dyes.pw.toml"
-hash = "1f7e6cfd4dc8a7658e1c38aa09204b1f972c5e37fc3a7211a51fa19b8b99ecb1"
 metafile = true
 
 [[files]]
@@ -1529,6 +1519,14 @@ hash = "ede2af6d4fde0f3d2f96af59d8e910926b01c3679b302e49a7da426194174332"
 
 [[files]]
 file = "required_resources/Medieval_Expansion_2.1/assets/minecraft/models/entity/drowned/outer_armor.json"
+hash = "a6a1dda6764d885cdf85b65bd736604b299541aa4bfd2f166788981012c5eb5b"
+
+[[files]]
+file = "required_resources/Medieval_Expansion_2.1/assets/minecraft/models/entity/guardvillagersguard_armor_inner/main.json"
+hash = "c87b30a6a4b49ad753f87d94070bc7ff9c1f351dff0b705fddc3876b9efdea8d"
+
+[[files]]
+file = "required_resources/Medieval_Expansion_2.1/assets/minecraft/models/entity/guardvillagersguard_armor_outer/main.json"
 hash = "a6a1dda6764d885cdf85b65bd736604b299541aa4bfd2f166788981012c5eb5b"
 
 [[files]]
