@@ -51,7 +51,7 @@
     "potion_texture": true
   },
   "jukebox": {
-    "new_model": true,
+    "new_model": false,
     "disc_spin": true
   },
   "misc": {
