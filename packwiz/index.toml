@@ -390,7 +390,7 @@ hash = "26ceed7d96f58ae72ecd8a7a476cf9a062b165a91317bc4c97a37c82651729e0"
 
 [[files]]
 file = "config/shadow-wizards.json5"
-hash = "421f594b0ce2d703222318758e2bd6a6ee96871c5f3ec1efd920a254121ae846"
+hash = "ce0ef317d13e385bda3059f1c9f33d873a880e3c068ceefd78e0676e4e11d7bb"
 
 [[files]]
 file = "config/snowrealmagic-client.yaml"
@@ -655,11 +655,6 @@ metafile = true
 [[files]]
 file = "mods/charmonium.pw.toml"
 hash = "f2e1d6a93b68fbec1adbbb8fa107682a7fced5115b02a33f1e7eb70c50018c84"
-metafile = true
-
-[[files]]
-file = "mods/choicetheorems-overhauled-village.pw.toml"
-hash = "495aede00b5661e9e0bb86082748bdf2e9832759f0d0366f6bbf9f7d22110333"
 metafile = true
 
 [[files]]
