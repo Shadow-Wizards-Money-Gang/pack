@@ -837,6 +837,10 @@ file = "config/zoomify.json"
 hash = "57c4971b2ee499697bcae725b2cf4648184711759dc0f34b6bc422cb3ec88246"
 
 [[files]]
+file = "instance.png"
+hash = "8aee91b355637ac7b7f481f0bdf8ac240266a2ebc2915c161158f9727df922fe"
+
+[[files]]
 file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
@@ -1011,11 +1015,6 @@ metafile = true
 [[files]]
 file = "mods/drp-global-datapack.pw.toml"
 hash = "3f23d9658879953ace25b9129c2d2872a31c0b92704696c572773f5fe7a8d9b2"
-metafile = true
-
-[[files]]
-file = "mods/druids-of-storm-and-spirit.pw.toml"
-hash = "6e22641708a42044d8356dcd8a81d8b63fdb34e4e403c5d8053473f05fef2dce"
 metafile = true
 
 [[files]]
@@ -1499,36 +1498,6 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "200557716291399497216a70e772a4f3df1e4e6c7c52b5949b8fc7271b5a42e9"
-metafile = true
-
-[[files]]
-file = "mods/yungs-api-fabric.pw.toml"
-hash = "39a31a5c6bbb5fb31d4ee996b5540b5c4e4ffef7ffd87df76ff036a1263b2046"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-desert-temples-fabric.pw.toml"
-hash = "129c4bbfa9c25574433eee4205ad3136d91027af612ff850a941d634d4051f62"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-dungeons-fabric.pw.toml"
-hash = "5563f135632355c7b180c1f93087f6789863e3d605ee3149ba9075fdc917f9bd"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-jungle-temples-fabric.pw.toml"
-hash = "ef6c989521fc38807fcbf8bccc204c0f01f2f071387c2690bdce50e77ed370a3"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-mineshafts-fabric.pw.toml"
-hash = "4b051a6f31f33f629199e2033a5773fa25e24fcdaebf250c96f95a96f629b758"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-ocean-monuments-fabric.pw.toml"
-hash = "42b17d95baef2a67c36a91d3cbdef1a7a0858852792a8fd9b67b1c5ca6960658"
 metafile = true
 
 [[files]]
