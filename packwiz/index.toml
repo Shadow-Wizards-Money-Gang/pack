@@ -1501,6 +1501,16 @@ hash = "200557716291399497216a70e772a4f3df1e4e6c7c52b5949b8fc7271b5a42e9"
 metafile = true
 
 [[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "95d6181cf78eb40066382ec4cdc27b101bda35e4a84523d7c46b4d936727af98"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts.pw.toml"
+hash = "540d5f43dc1c27980097f1d11609ffa3b863e36910d835c16e51ea10ee40ae8c"
+metafile = true
+
+[[files]]
 file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/consecration/tags/damage_type/holy.json"
 hash = "7b3e313a9d682471244b12452a90426c0ec118c87a7e548a7f43403c7ecbb078"
 
