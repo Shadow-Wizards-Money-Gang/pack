@@ -649,7 +649,7 @@ metafile = true
 
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
-hash = "b3503cb0b7eae56e27e1d7980882795c0b81f4750ec9b140beb996a9d7c0dfb3"
+hash = "50e3b067e93d3e6683d540edc4d046ed7b6b5fbb31409df1727b120f225b1975"
 metafile = true
 
 [[files]]
@@ -689,7 +689,7 @@ metafile = true
 
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
-hash = "5cd02e1361c1b2dccdf780f0bb70fea5a0f6b8955839d964c9ff34d311f125a3"
+hash = "ffbc244ff8dc311ffb6f0c83ff86edceb814ebead8fce9e32e4b061db38af14b"
 metafile = true
 
 [[files]]
@@ -1006,7 +1006,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "85167839c93b4edf3cf0e24d31f07c3e3854020d3608fc46efd7e4987ea2aa66"
+hash = "d99891e0086fce3f9704c4c10a58a60c8ba787cae02160ba011276499bcd3240"
 metafile = true
 
 [[files]]
@@ -1226,11 +1226,6 @@ metafile = true
 [[files]]
 file = "mods/shadow-wizards-0.0.7-indev.jar"
 hash = "941c2434d5bf01969cf7e7829691c3c847aec09a097b1b652b6c4078c39eb11a"
-
-[[files]]
-file = "mods/skinshuffle.pw.toml"
-hash = "abc82cb71dec45323262a414693a111e7a70c0da97c7613eac1c68e0b93d9b20"
-metafile = true
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
