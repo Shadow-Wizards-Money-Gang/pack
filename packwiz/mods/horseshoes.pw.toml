@@ -1,0 +1,13 @@
+name = "Horseshoes"
+filename = "horseshoes-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "324b62783f0e0b95cd29fb491bec0f683259c18b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5234355
+project-id = 986033

@@ -1,0 +1,13 @@
+name = "Rechiseled"
+filename = "rechiseled-1.1.5b-fabric-mc1.20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7a42fc8715e8afd76fd38868e67e954f3c908530"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4836028
+project-id = 558998

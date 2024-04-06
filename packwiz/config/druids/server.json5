@@ -1,0 +1,4 @@
+{
+	// Spell Lightning charges creepers (Default: FALSE)
+	"charge_creepers": false
+}

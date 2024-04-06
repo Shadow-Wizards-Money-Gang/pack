@@ -1,0 +1,5 @@
+[flavor_groups.client]
+name = "Client Extras"
+description = "<ul>Disabled by default!</ul>\n<ul>Can dramatically improve performance on all devices, but may cause unwanted effects with some mods and certain GUI elements may behave strangely.</ul>\nRenders most GUIs and screens at a lower framerate to speed up world rendering."
+side = "client"
+choices = ["exordium_off", "exordium_on"]

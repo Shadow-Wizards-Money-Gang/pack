@@ -1,0 +1,13 @@
+name = "Dye Depot"
+filename = "dye_depot-1.0.2-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "710cf2027240d9e06f4fd5656d7d31b7e2e3ced0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5205445
+project-id = 988504

@@ -1,0 +1,35 @@
+{
+  "isCrouchMiningAllowed": true,
+  "multiplyToolDamage": true,
+  "multiplyFoodExhaustion": true,
+  "treeLifetimeLength": 4.0,
+  "filter": {
+    "log": {
+      "whitelistedBlockTags": [
+        "minecraft:logs"
+      ],
+      "whitelistedBlocks": [],
+      "blacklistedBlocks": []
+    },
+    "leaves": {
+      "whitelistedBlockTags": [
+        "minecraft:leaves"
+      ],
+      "whitelistedBlocks": [],
+      "blacklistedBlocks": []
+    }
+  },
+  "limitations": {
+    "maxLeavesDistance": 7,
+    "treeFallRequirements": {
+      "maxAmountType": "BASE_BLOCK_AMOUNT",
+      "maxAmount": 200,
+      "onlyRequiredTool": false
+    }
+  },
+  "features": {
+    "disableCactusTrees": false,
+    "disableBambooTrees": false,
+    "disableChorusTrees": false
+  }
+}

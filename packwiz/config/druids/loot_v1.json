@@ -1,0 +1,80 @@
+{
+  "item_groups": {
+    "wands_tier_1": {
+      "ids": [
+        "druids:wand_lightning"
+      ],
+      "chance": 0.3,
+      "bonus_roll": 0.0,
+      "weight": 1
+    },
+    "staves_tier_2_enchanted": {
+      "ids": [
+        "druids:staff_lightning"
+      ],
+      "chance": 0.3,
+      "bonus_roll": 0.2,
+      "weight": 1,
+      "enchant": {
+        "min_power": 1.0,
+        "max_power": 30.0,
+        "allow_treasure": true
+      }
+    },
+    "staves_tier_2": {
+      "ids": [
+        "druids:staff_lightning"
+      ],
+      "chance": 0.3,
+      "bonus_roll": 0.2,
+      "weight": 1
+    }
+  },
+  "loot_tables": {
+    "minecraft:chests/bastion_treasure": [
+      "staves_tier_2_enchanted"
+    ],
+    "minecraft:chests/underwater_ruin_small": [
+      "staves_tier_2"
+    ],
+    "minecraft:chests/end_city_treasure": [
+      "staves_tier_2_enchanted"
+    ],
+    "minecraft:chests/nether_bridge": [
+      "staves_tier_2"
+    ],
+    "minecraft:chests/pillager_outpost": [
+      "wands_tier_1",
+      "staves_tier_2"
+    ],
+    "minecraft:chests/simple_dungeon": [
+      "wands_tier_1",
+      "staves_tier_2"
+    ],
+    "minecraft:chests/desert_pyramid": [
+      "wands_tier_1",
+      "staves_tier_2"
+    ],
+    "minecraft:chests/bastion_bridge": [
+      "wands_tier_1",
+      "staves_tier_2"
+    ],
+    "minecraft:chests/jungle_temple": [
+      "wands_tier_1",
+      "staves_tier_2"
+    ],
+    "minecraft:chests/ancient_city": [
+      "staves_tier_2_enchanted"
+    ],
+    "minecraft:chests/stronghold_crossing": [
+      "wands_tier_1",
+      "staves_tier_2"
+    ],
+    "minecraft:chests/bastion_other": [
+      "staves_tier_2"
+    ],
+    "minecraft:chests/stronghold_library": [
+      "staves_tier_2_enchanted"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+name = "Dungeons+: Towers"
+filename = "towers-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9ea3f49361b41a850a46226cd7e5b9bac37e07a5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4944896
+project-id = 948477

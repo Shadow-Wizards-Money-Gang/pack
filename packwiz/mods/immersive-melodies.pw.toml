@@ -1,0 +1,13 @@
+name = "Immersive Melodies [Fabric/Forge]"
+filename = "immersive_melodies-0.1.0+1.20.1-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "067d72ee3dcc78917b852ab93833841e6025003f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4760708
+project-id = 904471

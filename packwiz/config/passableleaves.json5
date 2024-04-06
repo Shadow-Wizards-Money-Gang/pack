@@ -1,0 +1,16 @@
+{
+	"fallingDistanceMultiplier": 0.5,
+	"fallingSpeedMultiplier": 0.5,
+	"walkSlowMultiplier": 0.4955357015132904,
+	"jumpSlowMultiplier": 0.5089285969734192,
+	"fallingEnabled": true,
+	"enchantmentEnabled": true,
+	"playerOnly": false,
+	"leafWalking": true,
+	"leafSprinting": false,
+	"fallOnKeyPress": true,
+	"disableFovChange": false,
+	"soundEnabled": true,
+	"hideNameTag": false,
+	"particlesEnabled": true
+}

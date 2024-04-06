@@ -1,0 +1,13 @@
+name = "Respawn Obelisks"
+filename = "respawnobelisks-2.5-b.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4d5102ef603a0b48d1903f6fff063194584731ff"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5208316
+project-id = 824852

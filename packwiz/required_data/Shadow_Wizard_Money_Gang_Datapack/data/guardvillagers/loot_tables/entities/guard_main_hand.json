@@ -1,0 +1,26 @@
+{
+  "type": "guardvillagers:slot",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:iron_sword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "paladins:iron_claymore"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "paladins:iron_mace"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:crossbow"
+        }
+      ]
+    }
+  ]
+}

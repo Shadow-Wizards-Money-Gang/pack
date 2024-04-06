@@ -1,0 +1,134 @@
+{
+    "texture": {
+        "width": 128,
+        "height": 128
+    },
+    "bones": {
+        "head": {
+            "cuboids": [],
+            "children": {}
+        },
+        "right_arm": {
+            "transform": {
+                "origin": [
+                    -5,
+                    2,
+                    0
+                ]
+            },
+            "cuboids": [],
+            "children": {}
+        },
+        "left_leg": {
+            "transform": {
+                "origin": [
+                    1.9,
+                    12,
+                    0
+                ]
+            },
+            "cuboids": [
+                {
+                    "name": "left_chausses",
+                    "offset": [
+                        -2,
+                        0,
+                        -2
+                    ],
+                    "dimensions": [
+                        4,
+                        12,
+                        4
+                    ],
+                    "uv": [
+                        0,
+                        41
+                    ],
+                    "mirror": true,
+                    "dilation": [
+                        0.3,
+                        0.3,
+                        0.3
+                    ]
+                }
+            ],
+            "children": {}
+        },
+        "left_arm": {
+            "transform": {
+                "origin": [
+                    5,
+                    2,
+                    0
+                ]
+            },
+            "cuboids": [],
+            "children": {}
+        },
+        "right_leg": {
+            "transform": {
+                "origin": [
+                    -1.9,
+                    12,
+                    0
+                ]
+            },
+            "cuboids": [
+                {
+                    "name": "right_chausses",
+                    "offset": [
+                        -2,
+                        0,
+                        -2
+                    ],
+                    "dimensions": [
+                        4,
+                        12,
+                        4
+                    ],
+                    "uv": [
+                        0,
+                        41
+                    ],
+                    "dilation": [
+                        0.3,
+                        0.3,
+                        0.3
+                    ]
+                }
+            ],
+            "children": {}
+        },
+        "hat": {
+            "cuboids": [],
+            "children": {}
+        },
+        "body": {
+            "cuboids": [
+                {
+                    "name": "hauberk",
+                    "offset": [
+                        -4,
+                        0,
+                        -2
+                    ],
+                    "dimensions": [
+                        8,
+                        12,
+                        4
+                    ],
+                    "uv": [
+                        0,
+                        16
+                    ],
+                    "dilation": [
+                        0.31,
+                        0.31,
+                        0.31
+                    ]
+                }
+            ],
+            "children": {}
+        }
+    }
+}
