@@ -1,5 +1,67 @@
-[flavor_groups.client]
-name = "Client Extras"
-description = "<ul>Disabled by default!</ul>\n<ul>Can dramatically improve performance on all devices, but may cause unwanted effects with some mods and certain GUI elements may behave strangely.</ul>\nRenders most GUIs and screens at a lower framerate to speed up world rendering."
+[flavor_groups.client_options]
+name = "Extra Client Options"
+description = "Which client mods you'd like to use.\nIncreases or decreases performance depending on choices."
 side = "client"
-choices = ["exordium_off", "exordium_on"]
+[[flavor_groups.rendering_mod.choices]]
+id = "all"
+name = "All"
+description = "Installs all optional client mods. Recommended."
+[[flavor_groups.rendering_mod.choices]]
+id = "performance"
+name = "Performance"
+description = "Installs only the important performance mods on client, and general utility. Doesn't install any fancy rendering that may slow down."
+[[flavor_groups.rendering_mod.choices]]
+id = "no_rendering_mods"
+description = "No rendering mods. No extra mods. Reduces Performance. May be useful for testing. Not Recommended"
+name = "None"
+
+
+[metafile.sodium]
+flavors = ["performance", "all"]
+[metafile.sodium-extra]
+flavors = ["performance", "all"]
+[metafile.indium]
+flavors = ["performance", "all"]
+[metafile.iris]
+flavors = ["performance", "all"]
+[metafile.jsonem]
+flavors = ["performance", "all"]
+[metafile.dynamic-fps]
+flavors = ["performance", "all"]
+[metafile.fast-paintings]
+flavors = ["performance", "all"]
+[metafile.borderless-mining]
+flavors = ["performance", "all"]
+[metafile.immediatly_fast]
+flavors = ["performance", "all"]
+[metafile.jei]
+flavors = ["performance", "all"]
+[metafile.nvidium]
+flavors = ["performance", "all"]
+[metafile.moreculling]
+flavors = ["performance", "all"]
+[metafile.held-item-tooltips]
+flavors = ["performance", "all"]
+[metafile.modelfix]
+flavors = ["performance", "all"]
+
+[metafile.cit-resewn]
+flavors = ["all"]
+[metafile.continuity]
+flavors = ["all"]
+[metafile.fabricskyboxes]
+flavors = ["all"]
+[metafile.lambdynamiclights]
+flavors = ["all"]
+[metafile.charmonium]
+flavors = ["all"]
+[metafile.sound]
+flavors = ["all"]
+[metafile.skinshuffle]
+flavors = ["all"]
+[metafile.cameraoverhaul]
+flavors = ["all"]
+[metafile.nicer-skies]
+flavors = ["all"]
+[metafile.leawind-third-person]
+flavors = ["all"]

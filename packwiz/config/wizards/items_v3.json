@@ -6,7 +6,7 @@
       "attributes": [
         {
           "id": "spell_power:fire",
-          "value": 3.0,
+          "value": 5.0,
           "operation": "ADDITION"
         }
       ]
@@ -17,7 +17,7 @@
       "attributes": [
         {
           "id": "spell_power:frost",
-          "value": 3.0,
+          "value": 5.0,
           "operation": "ADDITION"
         }
       ]
@@ -28,7 +28,7 @@
       "attributes": [
         {
           "id": "spell_power:arcane",
-          "value": 3.0,
+          "value": 5.0,
           "operation": "ADDITION"
         }
       ]
@@ -39,7 +39,7 @@
       "attributes": [
         {
           "id": "spell_power:fire",
-          "value": 0.5,
+          "value": 2.0,
           "operation": "ADDITION"
         }
       ]
@@ -50,7 +50,7 @@
       "attributes": [
         {
           "id": "spell_power:arcane",
-          "value": 2.0,
+          "value": 4.0,
           "operation": "ADDITION"
         }
       ]
@@ -61,7 +61,7 @@
       "attributes": [
         {
           "id": "spell_power:fire",
-          "value": 0.1,
+          "value": 1.0,
           "operation": "ADDITION"
         }
       ]
@@ -72,7 +72,7 @@
       "attributes": [
         {
           "id": "spell_power:arcane",
-          "value": 0.5,
+          "value": 2.0,
           "operation": "ADDITION"
         }
       ]
@@ -83,7 +83,7 @@
       "attributes": [
         {
           "id": "spell_power:frost",
-          "value": 2.0,
+          "value": 4.0,
           "operation": "ADDITION"
         }
       ]
@@ -105,7 +105,7 @@
       "attributes": [
         {
           "id": "spell_power:fire",
-          "value": 2.0,
+          "value": 4.0,
           "operation": "ADDITION"
         }
       ]
@@ -116,7 +116,7 @@
       "attributes": [
         {
           "id": "spell_power:frost",
-          "value": 1.0,
+          "value": 2.0,
           "operation": "ADDITION"
         }
       ]
@@ -148,7 +148,7 @@
       "attributes": [
         {
           "id": "spell_power:fire",
-          "value": 1.5,
+          "value": 3.0,
           "operation": "ADDITION"
         }
       ]
@@ -159,7 +159,7 @@
       "attributes": [
         {
           "id": "spell_power:frost",
-          "value": 1.5,
+          "value": 3.0,
           "operation": "ADDITION"
         }
       ]
@@ -174,7 +174,7 @@
         "attributes": [
           {
             "id": "spell_power:arcane",
-            "value": 0.1,
+            "value": 0.25,
             "operation": "MULTIPLY_BASE"
           },
           {
@@ -189,7 +189,7 @@
         "attributes": [
           {
             "id": "spell_power:arcane",
-            "value": 0.1,
+            "value": 0.25,
             "operation": "MULTIPLY_BASE"
           },
           {
@@ -204,7 +204,7 @@
         "attributes": [
           {
             "id": "spell_power:arcane",
-            "value": 0.1,
+            "value": 0.25,
             "operation": "MULTIPLY_BASE"
           },
           {
@@ -219,7 +219,7 @@
         "attributes": [
           {
             "id": "spell_power:arcane",
-            "value": 0.1,
+            "value": 0.25,
             "operation": "MULTIPLY_BASE"
           },
           {
@@ -238,7 +238,7 @@
         "attributes": [
           {
             "id": "spell_power:fire",
-            "value": 0.1,
+            "value": 0.25,
             "operation": "MULTIPLY_BASE"
           },
           {
@@ -253,7 +253,7 @@
         "attributes": [
           {
             "id": "spell_power:fire",
-            "value": 0.1,
+            "value": 0.25,
             "operation": "MULTIPLY_BASE"
           },
           {
@@ -268,7 +268,7 @@
         "attributes": [
           {
             "id": "spell_power:fire",
-            "value": 0.1,
+            "value": 0.25,
             "operation": "MULTIPLY_BASE"
           },
           {
@@ -283,7 +283,7 @@
         "attributes": [
           {
             "id": "spell_power:fire",
-            "value": 0.1,
+            "value": 0.25,
             "operation": "MULTIPLY_BASE"
           },
           {
@@ -302,7 +302,7 @@
         "attributes": [
           {
             "id": "spell_power:frost",
-            "value": 0.1,
+            "value": 0.25,
             "operation": "MULTIPLY_BASE"
           },
           {
@@ -317,7 +317,7 @@
         "attributes": [
           {
             "id": "spell_power:frost",
-            "value": 0.1,
+            "value": 0.25,
             "operation": "MULTIPLY_BASE"
           },
           {
@@ -332,7 +332,7 @@
         "attributes": [
           {
             "id": "spell_power:frost",
-            "value": 0.1,
+            "value": 0.25,
             "operation": "MULTIPLY_BASE"
           },
           {
@@ -347,7 +347,7 @@
         "attributes": [
           {
             "id": "spell_power:frost",
-            "value": 0.1,
+            "value": 0.25,
             "operation": "MULTIPLY_BASE"
           },
           {
@@ -366,17 +366,17 @@
         "attributes": [
           {
             "id": "spell_power:arcane",
-            "value": 0.25,
+            "value": 1.0,
             "operation": "ADDITION"
           },
           {
             "id": "spell_power:fire",
-            "value": 0.25,
+            "value": 1.0,
             "operation": "ADDITION"
           },
           {
             "id": "spell_power:frost",
-            "value": 0.25,
+            "value": 1.0,
             "operation": "ADDITION"
           }
         ]

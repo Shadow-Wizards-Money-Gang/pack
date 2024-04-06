@@ -26,8 +26,8 @@
   "hotbar": {
     "origin": "BOTTOM",
     "offset": {
-      "field_1343": 181.0,
-      "field_1342": -9.5
+      "field_1343": -170.0,
+      "field_1342": -11.0
     }
   },
   "error_message": {

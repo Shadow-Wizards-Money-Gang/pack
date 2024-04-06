@@ -56,7 +56,7 @@
         "collision_inertia": 1.5,
         "collision_force": 15.0,
         "min_angle": 0.0,
-        "max_angle": 54.99998,
+        "max_angle": 54.999996,
         "damping": 1.625
       }
     },
@@ -100,9 +100,9 @@
       "orange",
       "yellow",
       "red",
-      "dark_green",
+      "green",
       "lime",
-      "teal",
+      "cyan",
       "blue",
       "purple"
     ],

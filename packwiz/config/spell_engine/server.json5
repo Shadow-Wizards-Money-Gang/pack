@@ -1,6 +1,6 @@
 {
 	// Default `0.2` matches the same as movement speed during vanilla item usage (such as bow)
-	"movement_speed_while_casting_spell": 0.42500001192092896,
+	"movement_speed_while_casting_spell": 0.35,
 	// Allow spells to bypass invulnerability frames. This is required in order for high attack frequency spells (such as beams) to work.
 	"bypass_iframes": true,
 	// Spell haste reduces the cooldown time of abilities
@@ -14,9 +14,9 @@
 	// If set true, a Fireball doesn't collide with an ally, a healing projectile doesn't collide with an enemy
 	"projectiles_pass_thru_irrelevant_targets": true,
 	// Spell book creation level requirement
-	"spell_book_binding_level_requirement": 20,
+	"spell_book_binding_level_requirement": 30,
 	// Spell book creation level cost
-	"spell_book_binding_level_cost": 1,
+	"spell_book_binding_level_cost": 30,
 	// Should the player be able to cast spells from the offhand spell book?
 	"spell_book_offhand": false,
 	// Apply `Spell Casting from Spell Book` capability to anything that subclasses Sword

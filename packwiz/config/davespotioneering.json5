@@ -10,7 +10,7 @@
 	"lingering_potion_stack_size": 4,
 	"potion_use_cooldown": 30,
 	"potion_throw_cooldown": 30,
-	"gauntlet_cooldown": 30,
+	"gauntlet_cooldown": 600,
 	"coating_uses": 25,
 	"spike_food": true,
 	"show_spiked_food": false,

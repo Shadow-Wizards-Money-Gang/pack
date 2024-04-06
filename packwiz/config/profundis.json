@@ -9,6 +9,6 @@
   "generateBlackCaves": true,
   "generateAridCaves": true,
   "generateFloralLushCaves": true,
-  "generateDirtCaves": false,
+  "generateSparseLushCaves": true,
   "debug": {}
 }

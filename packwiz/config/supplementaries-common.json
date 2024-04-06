@@ -126,10 +126,10 @@
         "xycraft_world:rgb_lamp_pole"
       ],
       "special_blocks": {
-        "quark:dirty_glass": "minecraft:glass",
-        "minecraft:sticky_piston": "minecraft:piston",
+        "#alexscaves:cave_paintings": "alexscaves:smooth_limestone",
         "quark:dirty_glass_pane": "minecraft:glass_pane",
-        "#alexscaves:cave_paintings": "alexscaves:smooth_limestone"
+        "minecraft:sticky_piston": "minecraft:piston",
+        "quark:dirty_glass": "minecraft:glass"
       }
     },
     "present": {

@@ -4,10 +4,10 @@
       "jewelry_tier_3"
     ],
     "minecraft:chests/woodland_mansion": [
-      "jewelry_tier_1"
+      "jewelry_tier_2"
     ],
     "minecraft:chests/end_city_treasure": [
-      "jewelry_tier_3"
+      "jewelry_tier_4"
     ],
     "minecraft:chests/abandoned_mineshaft": [
       "jewelry_tier_0"
@@ -16,38 +16,57 @@
       "jewelry_tier_0"
     ],
     "minecraft:chests/underwater_ruin_big": [
-      "jewelry_tier_1"
-    ],
-    "minecraft:chests/nether_bridge": [
       "jewelry_tier_2"
     ],
-    "minecraft:chests/simple_dungeon": [
-      "jewelry_tier_1"
-    ],
-    "minecraft:chests/desert_pyramid": [
-      "jewelry_tier_0"
-    ],
-    "minecraft:chests/jungle_temple": [
-      "jewelry_tier_0"
-    ],
-    "minecraft:chests/ancient_city": [
+    "minecraft:chests/nether_bridge": [
       "jewelry_tier_3"
     ],
-    "minecraft:chests/stronghold_crossing": [
+    "minecraft:chests/simple_dungeon": [
+      "jewelry_tier_2"
+    ],
+    "minecraft:chests/desert_pyramid": [
       "jewelry_tier_1"
+    ],
+    "minecraft:chests/jungle_temple": [
+      "jewelry_tier_1"
+    ],
+    "minecraft:chests/ancient_city": [
+      "jewelry_tier_4"
+    ],
+    "minecraft:chests/stronghold_crossing": [
+      "jewelry_tier_2"
     ],
     "minecraft:chests/igloo_chest": [
       "jewelry_tier_0"
     ],
     "minecraft:chests/stronghold_library": [
-      "jewelry_tier_1"
+      "jewelry_tier_2"
     ],
     "minecraft:chests/bastion_other": [
-      "jewelry_tier_2"
+      "jewelry_tier_3"
     ]
   },
   "item_groups": {
     "jewelry_tier_2": {
+      "ids": [
+        "jewelry:ruby_ring",
+        "jewelry:topaz_ring",
+        "jewelry:citrine_ring",
+        "jewelry:jade_ring",
+        "jewelry:sapphire_ring",
+        "jewelry:tanzanite_ring",
+        "jewelry:ruby_necklace",
+        "jewelry:topaz_necklace",
+        "jewelry:citrine_necklace",
+        "jewelry:jade_necklace",
+        "jewelry:sapphire_necklace",
+        "jewelry:tanzanite_necklace"
+      ],
+      "chance": 0.2,
+      "bonus_roll_chance": 1.2,
+      "weight": 1
+    },
+    "jewelry_tier_3": {
       "ids": [
         "jewelry:netherite_ruby_ring",
         "jewelry:netherite_topaz_ring",
@@ -66,7 +85,26 @@
       "bonus_roll_chance": 1.2,
       "weight": 1
     },
-    "jewelry_tier_3": {
+    "jewelry_tier_0": {
+      "ids": [
+        "jewelry:copper_ring",
+        "jewelry:iron_ring",
+        "jewelry:gold_ring"
+      ],
+      "chance": 0.3,
+      "bonus_roll_chance": 1.2,
+      "weight": 1
+    },
+    "jewelry_tier_1": {
+      "ids": [
+        "jewelry:diamond_necklace",
+        "jewelry:emerald_necklace"
+      ],
+      "chance": 0.3,
+      "bonus_roll_chance": 1.2,
+      "weight": 1
+    },
+    "jewelry_tier_4": {
       "ids": [
         "jewelry:unique_attack_ring",
         "jewelry:unique_attack_necklace",
@@ -86,35 +124,6 @@
         "jewelry:unique_healing_necklace"
       ],
       "chance": 0.5,
-      "bonus_roll_chance": 1.2,
-      "weight": 1
-    },
-    "jewelry_tier_0": {
-      "ids": [
-        "jewelry:copper_ring",
-        "jewelry:iron_ring",
-        "jewelry:gold_ring"
-      ],
-      "chance": 0.3,
-      "bonus_roll_chance": 1.2,
-      "weight": 1
-    },
-    "jewelry_tier_1": {
-      "ids": [
-        "jewelry:ruby_ring",
-        "jewelry:topaz_ring",
-        "jewelry:citrine_ring",
-        "jewelry:jade_ring",
-        "jewelry:sapphire_ring",
-        "jewelry:tanzanite_ring",
-        "jewelry:ruby_necklace",
-        "jewelry:topaz_necklace",
-        "jewelry:citrine_necklace",
-        "jewelry:jade_necklace",
-        "jewelry:sapphire_necklace",
-        "jewelry:tanzanite_necklace"
-      ],
-      "chance": 0.2,
       "bonus_roll_chance": 1.2,
       "weight": 1
     }
