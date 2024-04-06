@@ -401,10 +401,6 @@ file = "config/snowrealmagic-common.yaml"
 hash = "6b4465c328bcf3b9661adb9238c9bacd1de94bd8fcbad75994ad230e5357f281"
 
 [[files]]
-file = "config/sodium-fingerprint.json"
-hash = "1eec44b93c2794501e6d9bdae7112a1c1764531b1f12aeac54e31fd6d40b90ec"
-
-[[files]]
 file = "config/sodium-mixins.properties"
 hash = "8939df3a10627cf3b9a3cc0e2824337923e9a26d11e60f5a1f7c0cfbd171a574"
 
