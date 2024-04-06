@@ -1,0 +1,17 @@
+{
+	"wyvernSpawnWeight": 3,
+	"moleclawSpawnWeight": 500,
+	"pikehornSpawnWeight": 0,
+	"allowDragonGriefing": "ALL",
+	"blockDropChance": 100,
+	"dragonDamageMultiplier": 1.0,
+	"dragonHealthMultiplier": 1.0,
+	"cameraDistanceOffset": 2.0,
+	"cameraVerticalOffset": 0.0,
+	"cameraHorizontalOffset": -1.5,
+	"enableCameraOffset": true,
+	"enableCrosshair": true,
+	"autoThirdPerson": true,
+	"disableNamedEntityModels": false,
+	"disableEmissiveTextures": false
+}
