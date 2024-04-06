@@ -322,11 +322,11 @@ hash = "86f3699ca35c9e7450fb8b835de20cbde3d19ba77fcc7b47f0b9687fa11921e3"
 
 [[files]]
 file = "config/exposure-client.toml"
-hash = "1eb640c41b8d04ae21afed19ccc8ac1d5ec79a9aea054bc12318026ebe05a849"
+hash = "987978a9d2d6ab631cb30fe1fa463629bebe25cb2c27ce2b3f1723be058299b8"
 
 [[files]]
 file = "config/exposure-common.toml"
-hash = "53d3eb565fc125c915733874e4f8165acc69b3a2d7e773131411185e72cc2c66"
+hash = "bf41ce73e106f65c26a1c3acf6842ae2da268f057aca2a1f8504feeea8d1b141"
 
 [[files]]
 file = "config/extraspellattributes/server.json5"
@@ -334,7 +334,7 @@ hash = "5222fc9f223281b18b94dc2756adafe1e7b2ad2c46d2834e2106051451a47a59"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "f6ff9ff4df7225a90c21cb98c008e4b35cccf59b0c0aef3273dab3c9ecaeb8b2"
+hash = "17f3e68e36b74d0742f0e0d4f3e078e3fca88e0e62f96c597ff5750b50877371"
 
 [[files]]
 file = "config/fabricskyboxes-config.json"
@@ -350,7 +350,7 @@ hash = "999a84563549e098978ef10d8cc7e3fc5f71145d44095097625154b4de8e73c8"
 
 [[files]]
 file = "config/fallingtrees_common.json"
-hash = "9fdb19069a96666e06385ad940a1bd600182577f8d593ccf5bf1378f845a4d00"
+hash = "64cebc500d9145a41946dc19ed32ec8b3a8eb27e6763a03dce02fde84a02669a"
 
 [[files]]
 file = "config/fastmove.toml"
@@ -406,7 +406,7 @@ hash = "efbc8de49abf975121bb916e25832a1363b6e052d811ef4692875bbc0b4aece1"
 
 [[files]]
 file = "config/indium-renderer.properties"
-hash = "fe41253dd3297fe0c515348e4dfa5fa2bc23905c8ad5077348d9cc4dd6aab625"
+hash = "a4f75603e34fb744d5b5f4781f40587b83675d682b6c42d7d43f6bf903b0edfe"
 
 [[files]]
 file = "config/iris.properties"
@@ -698,15 +698,15 @@ hash = "7620262e9a6f3bc0d285e9d29c56b8f2d3e1a520bbd459820d2a1e6d4c4b5fc0"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "de314e2c00f5e57fa3899b59b45ba1d429e284bcb0486906681175dae40f0dbe"
+hash = "26d50ff84dd29a15b973d78491c7100547cce60a10e1a335b7534d066347e6eb"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "596e157a37acce9ba2d632bd7dee833ec7ff2539560dd56f3339dc84f89629e1"
+hash = "e7db1103f4f74f835be63be7a9bd28a2cf458c14cdec8c84fbff57a51f6c6697"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "91e052e97767f80d0e71d86acfe1969c2a6028f5392b68f55323abb22a542300"
+hash = "04be8051e0bcad22e1db75487acd18abc95e87f6b59878af0a11f051f39183ac"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
