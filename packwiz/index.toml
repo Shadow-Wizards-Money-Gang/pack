@@ -25,10 +25,6 @@ file = "config/NoChatReports/README.md"
 hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
 
 [[files]]
-file = "config/amendments-client.json"
-hash = "8e97c9b7e0c840903da36d3492c255de7b2d2e62336ae57958565a0441bf49bb"
-
-[[files]]
 file = "config/amendments-common.json"
 hash = "d7cbede7ce67b2f7f8e17a579677f3cdc5ddb32d8c6bf3c0daf11e4f4ef22653"
 
