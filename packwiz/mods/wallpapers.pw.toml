@@ -1,13 +1,13 @@
 name = "Wallpapers"
-filename = "wallpapers-0.9a-Fabric-1.20.1.jar"
+filename = "wallpapers-1.0a-Fabric-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/JsJ52MHU/versions/YZhH3H0S/wallpapers-0.9a-Fabric-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/JsJ52MHU/versions/jGreHgu5/wallpapers-1.0a-Fabric-1.20.1.jar"
 hash-format = "sha1"
-hash = "48ebd9572a0724f3f8a27a3749ae2ff1230e5f5d"
+hash = "c1019a3a8b9c7c6aa7b3479ae409847306a86133"
 
 [update]
 [update.modrinth]
 mod-id = "JsJ52MHU"
-version = "YZhH3H0S"
+version = "jGreHgu5"

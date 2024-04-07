@@ -1,6 +1,6 @@
 {
 	// Default `0.2` matches the same as movement speed during vanilla item usage (such as bow)
-	"movement_speed_while_casting_spell": 0.35,
+	"movement_speed_while_casting_spell": 0.3499999940395355,
 	// Allow spells to bypass invulnerability frames. This is required in order for high attack frequency spells (such as beams) to work.
 	"bypass_iframes": true,
 	// Spell haste reduces the cooldown time of abilities
