@@ -1349,6 +1349,11 @@ hash = "ecb927b59cc3e10f42a46b64b06c47c66848579293cb7884793208919f36f5cf"
 metafile = true
 
 [[files]]
+file = "mods/wallpapers.pw.toml"
+hash = "a72133c667b05b37d57f5baa7b30d3aef30d486c87f22d4275f623502dea6bd7"
+metafile = true
+
+[[files]]
 file = "mods/wizards.pw.toml"
 hash = "e0bf74d9ab31bd9864a51835b41e54088d9912e656c581332df8b38d2f0546b6"
 metafile = true
