@@ -44,6 +44,8 @@ flavors = ["performance", "all"]
 flavors = ["performance", "all"]
 [metafile.modelfix]
 flavors = ["performance", "all"]
+[metafile.serious-player-animations]
+flavors = ["performance", "all"]
 
 [metafile.cit-resewn]
 flavors = ["all"]

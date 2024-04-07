@@ -1209,6 +1209,11 @@ hash = "72ce52db32f382db85056fea1dfe67959cd709c2b4806704520c0ff760584fd1"
 metafile = true
 
 [[files]]
+file = "mods/serious-player-animations.pw.toml"
+hash = "1cda49a5161ed2661ac3e503e7103e5088b44effe757e8fa5c08cbae35959d93"
+metafile = true
+
+[[files]]
 file = "mods/shadow-wizards-0.0.7-indev.jar"
 hash = "941c2434d5bf01969cf7e7829691c3c847aec09a097b1b652b6c4078c39eb11a"
 
@@ -1492,6 +1497,10 @@ hash = "9147e91df5cf80c577da984a44c114e32795a3309fedd1284f6cb51ede52acd8"
 [[files]]
 file = "required_data/WWOO-QUILT-MODIFIED.zip"
 hash = "9924a10019d31b5d64a916d137dc536a34e15df93f78bb75e5a769df073ba6c0"
+
+[[files]]
+file = "required_data/cavernous-r-barebones-v1-0.zip"
+hash = "51028b86d9afabbbcbbf772cef58327509f4baa0120e6e1b2bc18bb4cdb025e4"
 
 [[files]]
 file = "required_resources/Medieval_Expansion_edited.zip"
@@ -1823,4 +1832,4 @@ hash = "4cb846542af0edfec3b131f17166f7b275d4a85e3d467e85f357069c650ef28d"
 
 [[files]]
 file = "unsup.toml"
-hash = "64e6bc773e0eaf49b6e22faba9bddcad72f2f1d1f77e843b30de1ca825e36022"
+hash = "bd334c31324b3403bf270207ce8ceab89aeb2342f432ff66b0e433777322cefb"
