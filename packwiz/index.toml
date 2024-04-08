@@ -521,10 +521,6 @@ file = "config/sodium-extra.properties"
 hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
 
 [[files]]
-file = "config/sodium-fingerprint.json"
-hash = "5c0a7781f2f3e1675fc28c1b9003f15fb3b02fa1d90f3d1d1cf55bd5b4cf9912"
-
-[[files]]
 file = "config/sodium-mixins.properties"
 hash = "8939df3a10627cf3b9a3cc0e2824337923e9a26d11e60f5a1f7c0cfbd171a574"
 
