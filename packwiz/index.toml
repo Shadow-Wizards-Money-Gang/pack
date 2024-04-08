@@ -1419,11 +1419,6 @@ hash = "1e086041b1176bd6aaf0ed9de79352b9382a06bab6368816bd2c16fae3e1b8f8"
 metafile = true
 
 [[files]]
-file = "mods/sound.pw.toml"
-hash = "05441a62bf50a593b1e4921a55f5b73cc0cfa364df91621677d1e28a5a898afb"
-metafile = true
-
-[[files]]
 file = "mods/spark.pw.toml"
 hash = "d5ed51699dd5358cabc504b6a553b290fd6578c9926ab14f29e14786d43b6b84"
 metafile = true
@@ -2003,4 +1998,4 @@ hash = "4cb846542af0edfec3b131f17166f7b275d4a85e3d467e85f357069c650ef28d"
 
 [[files]]
 file = "unsup.toml"
-hash = "705c40084372f450c5714690dbc262d97e49fae252d2f2df220c87a2e3c3466e"
+hash = "8d12bf4ead7c4688863017c1412c3d7072584c0ded3c87854f905cd0081aec41"
