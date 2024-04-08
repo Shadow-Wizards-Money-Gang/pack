@@ -502,7 +502,7 @@ hash = "6e8bfe7a4c301de6e1658f8995a5bc533f6ec850aa57f701e23adf5fb9d708e9"
 
 [[files]]
 file = "config/shadow-wizards.json5"
-hash = "ce0ef317d13e385bda3059f1c9f33d873a880e3c068ceefd78e0676e4e11d7bb"
+hash = "47012b39126967d7005ecfa28554f988c2c036806a005340ace7c47ff7322fb0"
 
 [[files]]
 file = "config/snowrealmagic-client.yaml"
@@ -1216,11 +1216,6 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "ef9c4bc27256d065df4feaba2bc05883ba22987c41cd48786070d37ae85cc8e1"
-metafile = true
-
-[[files]]
-file = "mods/mru.pw.toml"
-hash = "051b1bee4a7fd8f2a55753fe95eda061e0f2a724c5b8ad38d2ca3619c88f2fae"
 metafile = true
 
 [[files]]

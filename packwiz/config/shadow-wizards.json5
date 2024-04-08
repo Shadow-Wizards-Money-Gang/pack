@@ -9,6 +9,7 @@
 			0,
 			0,
 			0,
+			0,
 			0
 		],
 		"minecraft:golden_apple": [
@@ -16,41 +17,47 @@
 			0,
 			0,
 			0,
-			8
+			8,
+			0
 		],
 		"minecraft:brewing_stand": [
 			0,
 			0,
 			0,
 			0,
-			8
+			8,
+			0
 		],
 		"minecraft:enchanting_table": [
 			0,
 			0,
 			0,
 			0,
-			8
+			8,
+			0
 		],
 		"minecraft:enchanted_golden_apple": [
 			0,
 			0,
 			0,
 			0,
-			8
+			8,
+			0
 		],
 		"minecraft:golden_carrot": [
 			0,
 			0,
 			0,
 			0,
-			3
+			3,
+			0
 		],
 		"minecraft:end_crystal": [
 			0,
 			0,
 			0,
 			8,
+			0,
 			0
 		],
 		"minecraft:ender_pearl": [
@@ -58,6 +65,7 @@
 			0,
 			0,
 			8,
+			0,
 			0
 		],
 		"minecraft:elytra": [
@@ -65,9 +73,11 @@
 			0,
 			0,
 			0,
+			0,
 			0
 		],
 		"archers:flint_spear": [
+			0,
 			0,
 			0,
 			0,
@@ -79,12 +89,14 @@
 			0,
 			0,
 			0,
+			0,
 			0
 		],
 		"archers:ranger_armor_head": [
 			0,
 			0,
 			18,
+			0,
 			0,
 			0
 		],
@@ -93,12 +105,14 @@
 			0,
 			18,
 			0,
+			0,
 			0
 		],
 		"archers:ranger_armor_legs": [
 			0,
 			0,
 			18,
+			0,
 			0,
 			0
 		],
@@ -107,11 +121,13 @@
 			0,
 			18,
 			0,
+			0,
 			0
 		],
 		"paladins:crusader_armor_head": [
 			8,
 			12,
+			0,
 			0,
 			0,
 			0
@@ -121,11 +137,13 @@
 			12,
 			0,
 			0,
+			0,
 			0
 		],
 		"paladins:crusader_armor_legs": [
 			8,
 			12,
+			0,
 			0,
 			0,
 			0
@@ -135,11 +153,13 @@
 			12,
 			0,
 			0,
+			0,
 			0
 		],
 		"paladins:prior_robe_head": [
 			0,
 			18,
+			0,
 			0,
 			0,
 			0
@@ -149,11 +169,13 @@
 			18,
 			0,
 			0,
+			0,
 			0
 		],
 		"paladins:prior_robe_legs": [
 			0,
 			18,
+			0,
 			0,
 			0,
 			0
@@ -163,6 +185,7 @@
 			18,
 			0,
 			0,
+			0,
 			0
 		],
 		"arcanuscontinuum:battle_mage_helmet": [
@@ -170,6 +193,7 @@
 			0,
 			0,
 			12,
+			0,
 			0
 		],
 		"arcanuscontinuum:battle_mage_chestplate": [
@@ -177,6 +201,7 @@
 			0,
 			0,
 			12,
+			0,
 			0
 		],
 		"arcanuscontinuum:battle_mage_leggings": [
@@ -184,6 +209,7 @@
 			0,
 			0,
 			12,
+			0,
 			0
 		],
 		"arcanuscontinuum:battle_mage_boots": [
@@ -191,6 +217,7 @@
 			0,
 			0,
 			12,
+			0,
 			0
 		],
 		"arcanuscontinuum:battle_mage_upgrade_smithing_template": [
@@ -198,11 +225,13 @@
 			0,
 			0,
 			12,
+			0,
 			0
 		]
 	},
 	"ITEM_CATEGORY_REQUERIMENTS": {
 		"minecraft": [
+			0,
 			0,
 			0,
 			0,
@@ -214,6 +243,7 @@
 			0,
 			0,
 			18,
+			0,
 			0
 		],
 		"lostrelics": [
@@ -221,25 +251,21 @@
 			0,
 			0,
 			15,
-			15
+			15,
+			0
 		],
 		"davespotioneering": [
 			0,
 			0,
 			0,
 			0,
-			18
-		],
-		"rusticated": [
-			0,
-			0,
-			0,
-			0,
-			7
+			18,
+			0
 		],
 		"paladins": [
 			0,
 			8,
+			0,
 			0,
 			0,
 			0
@@ -249,6 +275,7 @@
 			0,
 			8,
 			0,
+			0,
 			0
 		],
 		"spellbladenext": [
@@ -256,6 +283,7 @@
 			0,
 			0,
 			12,
+			0,
 			0
 		],
 		"wizards": [
@@ -263,6 +291,7 @@
 			0,
 			0,
 			8,
+			0,
 			0
 		]
 	},
