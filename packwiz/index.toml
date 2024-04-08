@@ -976,11 +976,6 @@ hash = "92f94f9773950de6a7c63e5421542d96a8ca6d1689e291bcfd94d6d88be0b8a1"
 metafile = true
 
 [[files]]
-file = "mods/fastconfigapi.pw.toml"
-hash = "cc7b506a4ba2f25312c95f417f1c14a3cbdbdd9a120b9b8306539795844b93a6"
-metafile = true
-
-[[files]]
 file = "mods/ferritecore-fabric.pw.toml"
 hash = "28f53f38c111e3d6aa7f6854fa976a1456f4094dc504a929a6d4bf1f9f8cc30a"
 metafile = true
@@ -1118,11 +1113,6 @@ metafile = true
 [[files]]
 file = "mods/kurisus-passable-leaves.pw.toml"
 hash = "99532f67fd0a6be3493a22441362a56c1b579ce2c2b954d46aac6bba7e06d1bf"
-metafile = true
-
-[[files]]
-file = "mods/labelling-containers.pw.toml"
-hash = "693fbea72d7579c6821e7d0eb3f6da4338986747cbf16eb6873492334d8e5925"
 metafile = true
 
 [[files]]
