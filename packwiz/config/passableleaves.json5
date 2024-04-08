@@ -11,6 +11,6 @@
 	"fallOnKeyPress": true,
 	"disableFovChange": false,
 	"soundEnabled": true,
-	"hideNameTag": false,
+	"hideNameTag": true,
 	"particlesEnabled": true
 }

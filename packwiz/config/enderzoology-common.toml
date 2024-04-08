@@ -5,11 +5,10 @@ dire_wolf = true
 #Should fallen knights together with their mounts spawn anywhere where zombies can spawn in the overworld.
 fallen_knight = true
 #Should infested zombies spawn anywhere where zombies can spawn in the overworld.
-infested_zombie = true
+infested_zombie = false
 #Should owls spawn anywhere where rabbits can spawn in the overworld.
 owl = true
 #Should concussion creepers spawn anywhere where creepers can spawn in the overworld.
-concussion_creeper = true
+concussion_creeper = false
 #Should wither witches spawn anywhere where witches can spawn in the overworld.
 wither_witch = true
-

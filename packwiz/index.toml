@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/GoodOlRegen.sf.ini"
-hash = "2013febc0b3e989750f638b8d604200bee990392ec27645d29a6099a27e05aaf"
+hash = "7b2413fb347689f7995ec01760dffebd05994dd344b8eacf35b733c1c1e42b9f"
 
 [[files]]
 file = "config/NoChatReports/NCR-Client.json"
@@ -86,7 +86,7 @@ hash = "70559fefef0a995257cb79a5d419ce4154b6a922c1fec0238ff17edb036be828"
 
 [[files]]
 file = "config/brutalbosses.json"
-hash = "4a3d276a016b57df188e53bf7fac0d81568b494535ffbeab537e30986f71819b"
+hash = "7f162802fe5d35d89527dce96f07a893f34f41010deb99bbc865636555c886b7"
 
 [[files]]
 file = "config/c2me.toml"
@@ -174,7 +174,7 @@ hash = "108779ecaeb417e358c5bcc2d3c85669947ca0d9d01da03f94c098f4c7abbd37"
 
 [[files]]
 file = "config/enderzoology-common.toml"
-hash = "a3ef5a602114c9eae87967db245dbd095003dc9aeb2153949fb48c80bf667398"
+hash = "51f8dbc19f9233da38d2021cfa269d7a03bba9b8dff8b1a5f7bd9c7dd97df157"
 
 [[files]]
 file = "config/enhanced_bes.properties"
@@ -402,7 +402,7 @@ hash = "6b0e3ee823563d94940769cc61e79598bfc07722c62febac4bdbae55dd9ef1f3"
 
 [[files]]
 file = "config/naturalist.json"
-hash = "24e5ae46ed559982b771d246709d855caeeb55e837df1bf131e91fd5b6f3a42f"
+hash = "965eaacb8646978d6247d41d8d7570ed97902bf61fd6d202a390ce5156e36226"
 
 [[files]]
 file = "config/necronomicon.json5"
@@ -434,7 +434,7 @@ hash = "1f055f8cdc62d4035fecc05af7a1b6398ff0f9efdacc4422c4e58d8ec0a253bb"
 
 [[files]]
 file = "config/passableleaves.json5"
-hash = "e078ae1b33e3afb63ad2f6a09ebeb868c257ce2ade18655c35be3aa132bda46c"
+hash = "ab5042bffbadc3918decc3c9f07a9337dc5d1ed0fc38529373cb769783ac6f49"
 
 [[files]]
 file = "config/pehkui/config.json"
@@ -1165,9 +1165,8 @@ hash = "b1c6a2eb4bbc3e642afaa60127cb1a7013ff5d513c9addfa3354d0d7a781a8f8"
 metafile = true
 
 [[files]]
-file = "mods/majruszs-progressive-difficulty.pw.toml"
-hash = "bd532fc3eb86518d0b9642f52dd317033e7785274c27f69751a516bf7c2e5157"
-metafile = true
+file = "mods/majruszs-difficulty-fabric-1.20.1-1.9.9-wiz.jar"
+hash = "e92b6918c1010ff609adc377c17a4150195b310a1f1ec5cb07f1691efa6bd5dd"
 
 [[files]]
 file = "mods/map-atlases.pw.toml"
@@ -1251,6 +1250,11 @@ metafile = true
 [[files]]
 file = "mods/nvidium.pw.toml"
 hash = "07dd8775324c01058896b4572e23a1ca1c355186cc501c61fc68e1151c5e177c"
+metafile = true
+
+[[files]]
+file = "mods/overflowing-bars.pw.toml"
+hash = "997e81246b3d8ff635679e126481e62ce4a21979659c2ad11b0a46c778f95836"
 metafile = true
 
 [[files]]
