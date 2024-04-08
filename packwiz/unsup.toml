@@ -81,4 +81,6 @@ flavors = ["all"]
 flavors = ["all"]
 [metafile.blur]
 flavors = ["all"]
+[metafile.overflowing-bars]
+flavors = ["all"]
 
