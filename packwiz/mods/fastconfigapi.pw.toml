@@ -1,13 +1,13 @@
 name = "Fast Config API"
-filename = "fastconfigapi-1.1.0.jar"
-side = "both"
+filename = "fastconfigapi-1.0.1.jar"
+side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/jhHNjn7K/versions/Fj4Ymehp/fastconfigapi-1.1.0.jar"
+url = "https://cdn.modrinth.com/data/jhHNjn7K/versions/CrvPy8Jb/fastconfigapi-1.0.1.jar"
 hash-format = "sha1"
-hash = "7468010364c649efcce9cac3696df10263f32525"
+hash = "44e7ef1e5242af77ed5f0fa1aae61735c89e0d8f"
 
 [update]
 [update.modrinth]
 mod-id = "jhHNjn7K"
-version = "Fj4Ymehp"
+version = "CrvPy8Jb"
