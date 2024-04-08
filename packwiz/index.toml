@@ -1309,7 +1309,7 @@ metafile = true
 
 [[files]]
 file = "mods/playerex-3.6.2+wizards+1.20.1.jar"
-hash = "19b91625786746787dcd2d7148ddf39ea5e4804102ddfbf2bbd093f9c48ff699"
+hash = "f9cb9e63a966f7e71849659664707d38c97a57b085e78c101f8ee13c85b6edce"
 
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
@@ -1399,8 +1399,8 @@ hash = "1cda49a5161ed2661ac3e503e7103e5088b44effe757e8fa5c08cbae35959d93"
 metafile = true
 
 [[files]]
-file = "mods/shadow-wizards-0.0.7-indev.jar"
-hash = "941c2434d5bf01969cf7e7829691c3c847aec09a097b1b652b6c4078c39eb11a"
+file = "mods/shadow-wizards-0.0.9-indev.jar"
+hash = "b742e59fb789ed0290644a4f15de1b1fafdaf86bba3806f3a3754dcd3682ec89"
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
