@@ -52,8 +52,6 @@ flavors = ["performance", "all"]
 flavors = ["performance", "all"]
 [metafile.konkrete]
 flavors = ["performance", "all"]
-[metafile.fancymenu]
-flavors = ["performance", "all"]
 [metafile.melody]
 flavors = ["performance", "all"]
 
