@@ -1,5 +1,5 @@
 #Should enderminies spawn anywhere where enderman can spawn in the overworld.
-enderminy = true
+enderminy = false
 #Should enderminies spawn anywhere in snowy biomes where wolves can spawn in the overworld.
 dire_wolf = true
 #Should fallen knights together with their mounts spawn anywhere where zombies can spawn in the overworld.

@@ -779,7 +779,7 @@
       },
       "bite": {
         "is_enabled": true,
-        "chance": 0.5,
+        "chance": 0.1,
         "blacklisted_animals": [
           "minecraft:llama"
         ]
@@ -802,22 +802,8 @@
             ]
           },
           {
-            "id": "{regex}.*_sword",
-            "chance": 0.3,
-            "enchantments": [
-              {
-                "id": "minecraft:sharpness",
-                "extra_chance_per_level": 0.04
-              },
-              {
-                "id": "{regex}(minecraft:smite)|(minecraft:bane_of_arthropods)|(majruszsenchantments:misanthropy)",
-                "extra_chance_per_level": 0.02
-              }
-            ]
-          },
-          {
             "id": "{regex}.*_axe",
-            "chance": 0.26,
+            "chance": 0.16,
             "enchantments": [
               {
                 "id": "minecraft:sharpness",
@@ -836,6 +822,16 @@
           },
           {
             "id": "{regex}.*_shovel",
+            "chance": 0.18,
+            "enchantments": []
+          },
+          {
+            "id": "{regex}.*_dagger",
+            "chance": 0.18,
+            "enchantments": []
+          },
+          {
+            "id": "{regex}.*_knife",
             "chance": 0.18,
             "enchantments": []
           },

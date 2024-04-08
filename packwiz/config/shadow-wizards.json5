@@ -92,6 +92,62 @@
 			0,
 			0
 		],
+		"paladins:stone_claymore": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"paladins:iron_claymore": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"paladins:stone_claymore": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"paladins:wooden_great_hammer": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"paladins:stone_great_hammer": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"paladins:iron_great_hammer": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"paladins:iron_mace": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
 		"archers:ranger_armor_head": [
 			0,
 			0,
@@ -188,8 +244,40 @@
 			0,
 			0
 		],
+		"immersive_armors:heavy_helmet": [
+			18,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"immersive_armors:heavy_chestplate": [
+			18,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"immersive_armors:heavy_leggings": [
+			18,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"immersive_armors:heavy_boots": [
+			18,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
 		"arcanuscontinuum:battle_mage_helmet": [
-			8,
+			0,
 			0,
 			0,
 			12,

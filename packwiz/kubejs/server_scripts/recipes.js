@@ -72,5 +72,9 @@ minerals.forEach(element => {
     // Note: tagged fluid ingredients do not work on Fabric, but tagged items do.
   )
 });
+event.remove({ output: 'immersive_armors:wooden_helmet' })
+event.remove({ output: 'immersive_armors:wooden_chestplate' })
+event.remove({ output: 'immersive_armors:wooden_leggings' })
+event.remove({ output: 'immersive_armors:wooden_boots' })
 
 })

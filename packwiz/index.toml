@@ -174,7 +174,7 @@ hash = "108779ecaeb417e358c5bcc2d3c85669947ca0d9d01da03f94c098f4c7abbd37"
 
 [[files]]
 file = "config/enderzoology-common.toml"
-hash = "5fbfce1e6b52be4fef1de9bb2694a00329d5e49156d38ab056057b94c7c3b312"
+hash = "a3ef5a602114c9eae87967db245dbd095003dc9aeb2153949fb48c80bf667398"
 
 [[files]]
 file = "config/enhanced_bes.properties"
@@ -362,7 +362,7 @@ hash = "cb33d48e8c3d60d977d6957a29baad2b219b447cdf2c7bcb3f9cb93961df4c50"
 
 [[files]]
 file = "config/majruszsdifficulty.json"
-hash = "221e78272f2f8a6380eae8f5d2e7231f70778e04698470640bfd0f821e66f12a"
+hash = "8a00877b3d212d8a0df3604a727c17c1f98638410130381dc8be2340a66f6a6d"
 
 [[files]]
 file = "config/map_atlases-client.json"
@@ -502,7 +502,7 @@ hash = "6e8bfe7a4c301de6e1658f8995a5bc533f6ec850aa57f701e23adf5fb9d708e9"
 
 [[files]]
 file = "config/shadow-wizards.json5"
-hash = "47012b39126967d7005ecfa28554f988c2c036806a005340ace7c47ff7322fb0"
+hash = "846087fc92d3cd1c79d3989720ce3d0f9ec4c3700807ec81f5c8d4de27c0924a"
 
 [[files]]
 file = "config/snowrealmagic-client.yaml"
@@ -682,7 +682,7 @@ hash = "47130ec50fa27e6bd01efdc1ebba501d7d6eebfb2948aac78651406c08222ced"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "1e153232af5470f8ff8a9db8953029402b9dddba8b5523868623e755f2d633d1"
+hash = "39f8288c3252e8bf4b35838adb7b23ab27e1180f96279fb1aab1d25b79159ad2"
 
 [[files]]
 file = "kubejs/server_scripts/worldgen.js"
@@ -1544,8 +1544,12 @@ file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/consecration/tags/d
 hash = "7b3e313a9d682471244b12452a90426c0ec118c87a7e548a7f43403c7ecbb078"
 
 [[files]]
-file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/enchancement/enchanting_material/test.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/enchancement/enchanting_material/minecraft/shield.json"
+hash = "ed83599a41f44dd779abab35bf1a02c4510f165c1e77ec0c872e1bf21af12f3a"
+
+[[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/enchancement/tags/items/retains_durability.json"
+hash = "63093696fbaab407b04268226d7746de18f02e54fe74e0623036e9d285cceac9"
 
 [[files]]
 file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/guardvillagers/loot_tables/entities/guard_chestplate.json"
