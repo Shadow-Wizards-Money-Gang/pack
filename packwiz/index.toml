@@ -1087,7 +1087,7 @@ metafile = true
 
 [[files]]
 file = "mods/jewelry.pw.toml"
-hash = "fb7f48f213efb6a1a715007208c289e6578a1b768b710c170f846c1d2b80899c"
+hash = "e478240a59d5e382331f0f18871a0635db8a57b8115e32ddd9566c26b0fc9054"
 metafile = true
 
 [[files]]
