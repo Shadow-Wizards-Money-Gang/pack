@@ -274,7 +274,7 @@ hash = "a9901a0df5394d392b892349b1a7422122a7b37d64d3868d6974b4ece31d816c"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "1299cfda8e3f3424211ab861a17eef76b979535c7e3f5f5846fd3de2efe05d9e"
+hash = "bef59929f4b8ba7bfd8dcec58095317c6db4d89da8e67e7e541102a54c58ac51"
 
 [[files]]
 file = "config/jei/blacklist.cfg"
@@ -502,7 +502,7 @@ hash = "6e8bfe7a4c301de6e1658f8995a5bc533f6ec850aa57f701e23adf5fb9d708e9"
 
 [[files]]
 file = "config/shadow-wizards.json5"
-hash = "846087fc92d3cd1c79d3989720ce3d0f9ec4c3700807ec81f5c8d4de27c0924a"
+hash = "13f290c55bd5cf6da3f8ed1979edc62780863c3210e492c29dfe730a1b87a5e5"
 
 [[files]]
 file = "config/snowrealmagic-client.yaml"
@@ -707,7 +707,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "8b42e29e66c5d88dbda15476e89435a0202942b85e4ffed2148bda13a82db255"
+hash = "4dd0610d41ab9b243c739921cf2baa90ebdc0a881f758d10b87d27b09a0c40af"
 metafile = true
 
 [[files]]
@@ -717,7 +717,7 @@ metafile = true
 
 [[files]]
 file = "mods/archers.pw.toml"
-hash = "e75a1c1e1c643c8df546e1b3e0a7de118a7990438e7e21d4e98d77aac09d4d21"
+hash = "f236bc25de265a3182557136a3e541bb868b0d478b76de5bbd9ca3780b56efcf"
 metafile = true
 
 [[files]]
@@ -810,7 +810,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "403c99e6b3c7f03bfc1ef8f0a23c79d9929eb42658be02bd0911c36b0174cf5b"
+hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
 
 [[files]]
@@ -830,7 +830,7 @@ metafile = true
 
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
-hash = "ffbc244ff8dc311ffb6f0c83ff86edceb814ebead8fce9e32e4b061db38af14b"
+hash = "8eda14f9c18b7886871baf01634f2c8d3225e2c909a41da07437e2018f186784"
 metafile = true
 
 [[files]]
@@ -853,7 +853,7 @@ metafile = true
 
 [[files]]
 file = "mods/danger-close.pw.toml"
-hash = "4162aac68b0395bd9457028936f9c8146226c70cfb40c4dc2b660c25b024c4e1"
+hash = "dd0bd0a8c4a34fa5c57f735a17a4cbbbf389bbec883901012f03f106db8066fc"
 metafile = true
 
 [[files]]
@@ -891,6 +891,11 @@ file = "mods/dungeons+-1.8.4b.jar"
 hash = "31a338392ff43a1aac7e73e3a2cb49731c0d56c856151bcd7273bf9d7c37869f"
 
 [[files]]
+file = "mods/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
+hash = "cf4b553affc8e25d8dea980efc7d73537e6fab7aa30fdd6c402c28cd79b129d5"
+metafile = true
+
+[[files]]
 file = "mods/dungeons-more-spawners.pw.toml"
 hash = "26e024de5a1ff43894309bcd6c6aadc76b92343604d9190aefb635ce2180c41a"
 metafile = true
@@ -922,7 +927,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchancement.pw.toml"
-hash = "10114a30990669e252682731259d48b94f95ad360615347dd7506b350bd4f48d"
+hash = "1003e36080ce3030178acaeae477add1095e677e12f2bdec35314259d46d2ade"
 metafile = true
 
 [[files]]
@@ -952,7 +957,7 @@ metafile = true
 
 [[files]]
 file = "mods/extra-spell-attributes.pw.toml"
-hash = "aefc098d4b5a80dde23338f2e588a11d3cd00758b0345b95e28a154c22a850a0"
+hash = "94d935631461f36193022d937568aced28bef02c16f471e7420ad51382d239d0"
 metafile = true
 
 [[files]]
@@ -967,7 +972,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "eba79a76fb725a167d32a31387378b66d1d517a3ecd23de18e267c30bc3bced0"
+hash = "e1d4ec94a9c457965fd58211855a778a025949f98eabfaec7c6a69b8bb87f4a9"
 metafile = true
 
 [[files]]
@@ -978,6 +983,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore-fabric.pw.toml"
 hash = "28f53f38c111e3d6aa7f6854fa976a1456f4094dc504a929a6d4bf1f9f8cc30a"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port-fabric.pw.toml"
+hash = "5641148e6922cc3e6768726ff5db1d23088fb3969951a67e201ed3cc8183c700"
 metafile = true
 
 [[files]]
@@ -1066,13 +1076,18 @@ hash = "9785c074b8ffaeb91fb0120b3b56fa8ba96ce5547205af2695e11f0bcc21faf7"
 metafile = true
 
 [[files]]
+file = "mods/jaiz-mobs.pw.toml"
+hash = "604dc83801c0785b7bd9f55f898de31a5e4810a663d53230265b8725bfc11de7"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "b5b076663f62cfb0c3d8ee8e304711d6fbfa043f72a4706dc88edb927da6f046"
 metafile = true
 
 [[files]]
 file = "mods/jewelry.pw.toml"
-hash = "e5f3772b2b3f9976bccd9720a15dad945c74e1ed83d9741cc909fd4a7ebe6cf7"
+hash = "fb7f48f213efb6a1a715007208c289e6578a1b768b710c170f846c1d2b80899c"
 metafile = true
 
 [[files]]
@@ -1137,7 +1152,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-candlelight.pw.toml"
-hash = "cbea1f7aea5ea661ef4f928c474b2bb58b8b1f1839392ff66c648e12d26c229e"
+hash = "d3cab8c3eddae896a7915f4871e8bce87e47576a78908b524f10f0a8472bfbb4"
 metafile = true
 
 [[files]]
@@ -1179,8 +1194,9 @@ hash = "57dc365bf7be6358709c450e95e12cd4f48b84d7ea146e8bb7cf5ced1d0abafb"
 metafile = true
 
 [[files]]
-file = "mods/memoryleakfix-fabric-1.17+-1.1.5.jar"
-hash = "b8ac33d7262e019710dd25e454116616bc9ed1f714ed910594b28a4c1da5adde"
+file = "mods/memoryleakfix.pw.toml"
+hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
+metafile = true
 
 [[files]]
 file = "mods/mixintrace.pw.toml"
@@ -1215,6 +1231,11 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "ef9c4bc27256d065df4feaba2bc05883ba22987c41cd48786070d37ae85cc8e1"
+metafile = true
+
+[[files]]
+file = "mods/morecullingextra.pw.toml"
+hash = "195c57beb3db8380c6ffe13851490be377844ce96cbd142ae96625650b4badb3"
 metafile = true
 
 [[files]]
@@ -1253,11 +1274,6 @@ hash = "07dd8775324c01058896b4572e23a1ca1c355186cc501c61fc68e1151c5e177c"
 metafile = true
 
 [[files]]
-file = "mods/overflowing-bars.pw.toml"
-hash = "997e81246b3d8ff635679e126481e62ce4a21979659c2ad11b0a46c778f95836"
-metafile = true
-
-[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "9a0ab52020c3a2d073e71f07ce11b9d2d8ae0a17b8a3cf0c9227029a51df51c3"
 metafile = true
@@ -1269,7 +1285,7 @@ metafile = true
 
 [[files]]
 file = "mods/paladins-and-priests.pw.toml"
-hash = "2a160e86f3507d7cf3ba12b6af16b8ef1df045b2e6ed43d558221e49f62830a6"
+hash = "57b8a5d76bf66af547618353b986d3b9a7663b3e7efc7cfe5382207ae84405d9"
 metafile = true
 
 [[files]]
@@ -1307,7 +1323,7 @@ hash = "f4f941029fa5590de76295098e35c083350eebe97683ab5d3b82f5cea8df2634"
 
 [[files]]
 file = "mods/projectile-damage-attribute.pw.toml"
-hash = "a0f4e71abdcb3fa24e45fe8fb83aa43fb40e1be7d0729795ae15f42a8b642f27"
+hash = "5d6fc87d397cd2da57d3779e5728cc28d7fc3a455ead4e4f82e21f6e636278c2"
 metafile = true
 
 [[files]]
@@ -1317,7 +1333,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "5a6df3930d69602402cd13bf860195ac44680e2d4556e8d1254ae730fcb4b0f9"
+hash = "eb11f1da4cf4e25c9fa21c4e57b46aa78f6c98b5d77a0bd0fceb7ec57814b412"
 metafile = true
 
 [[files]]
@@ -1327,7 +1343,7 @@ metafile = true
 
 [[files]]
 file = "mods/ranged-weapon-api.pw.toml"
-hash = "a227a86d31c54c09e4a43012ff5f649c6bdf08964e6d5a8b59c08dbc6dcc6a5c"
+hash = "119234949c4304f2a934762ac15ad92a072462b03e2909a2fdade76482fd2077"
 metafile = true
 
 [[files]]
@@ -1375,7 +1391,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "72ce52db32f382db85056fea1dfe67959cd709c2b4806704520c0ff760584fd1"
+hash = "4f6f15b3a17ed28772fe45a7cb15783a37428b259d2461564c9046b5a3540e25"
 metafile = true
 
 [[files]]
@@ -1429,17 +1445,17 @@ metafile = true
 
 [[files]]
 file = "mods/spell-engine.pw.toml"
-hash = "48236996aae03c7dc634a7004a403ac453f05d439b5529643bc818fa32c86bf1"
+hash = "928ba98843a665e4aae5ac5f812998f4e274848c58fd4807c5e69e3846f716ce"
 metafile = true
 
 [[files]]
 file = "mods/spell-power.pw.toml"
-hash = "fae9d0af983eff51d6c486f1ff525553b94c734f85f29015d5f8ae608b30bf1f"
+hash = "f6eb0b4f796b14b213bc10c3440578506e7207cd63321c5227c2f5dd9d064e6d"
 metafile = true
 
 [[files]]
 file = "mods/spellblade-next.pw.toml"
-hash = "52ad682a3b17ea25a4c58c1b10fb1327292a32c428f20697a160d27ca448d054"
+hash = "5559bc186bcf02372f80a9cc02464395ec9b22d296ee6d9a854ec511c8a4bf88"
 metafile = true
 
 [[files]]
@@ -1501,6 +1517,11 @@ file = "mods/umu_backpack-5.1-1.20.1.jar"
 hash = "e0d3640e165f850a3710df3a2b096058d0e34fe2b333fc186ced79412be91194"
 
 [[files]]
+file = "mods/unionlib.pw.toml"
+hash = "eed1d1e544e4365d5a773a886df4658195008c4359b1409257a1a4160e713cf4"
+metafile = true
+
+[[files]]
 file = "mods/useless-reptile.pw.toml"
 hash = "05e39c990669bebe60b04fbd557a469b75d5e34091d377b3e4532be71d105623"
 metafile = true
@@ -1519,13 +1540,23 @@ hash = "ecb927b59cc3e10f42a46b64b06c47c66848579293cb7884793208919f36f5cf"
 metafile = true
 
 [[files]]
+file = "mods/violent-villagers.pw.toml"
+hash = "e6d63f7e8de16dd000e53258d120c7ae3ec9d59dbcb3ef59b761160c6f34483c"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "40f1effd2c65b6c6f9a1b5dfd0903c87df02b23da6b57f389f61f361ef86d425"
+metafile = true
+
+[[files]]
 file = "mods/wallpapers.pw.toml"
 hash = "4771a99f34e75fb499605ce8add8df8e9afa52fa8acdef064da85c4f632226e2"
 metafile = true
 
 [[files]]
 file = "mods/wizards.pw.toml"
-hash = "e0bf74d9ab31bd9864a51835b41e54088d9912e656c581332df8b38d2f0546b6"
+hash = "6851c8692100d195a4a5b7eb9cd5e995a65d630674aca9012d84850cd556d677"
 metafile = true
 
 [[files]]
@@ -1676,6 +1707,74 @@ file = "required_resources/Medieval_Expansion_edited.zip"
 hash = "ff0cb88fff53f82282b3a0c30872ef16393663f0f3488ffd6984c5c2e7ba7d60"
 
 [[files]]
+file = "required_resources/Shadow Wizard Money Gang Resource Pack/assets/exposure/lang/en_us.json"
+hash = "b06b13cffa319dac1349e510680fc5cd0cb3f3e5a62008c0264a77465e4e07dd"
+
+[[files]]
+file = "required_resources/Shadow Wizard Money Gang Resource Pack/assets/exposure/models/item/camera.json"
+hash = "d6585e87c1c863487a7281838373609051f2e2e4ddf342d53dd98198be2760f8"
+
+[[files]]
+file = "required_resources/Shadow Wizard Money Gang Resource Pack/assets/exposure/models/item/camera_active.json"
+hash = "d6585e87c1c863487a7281838373609051f2e2e4ddf342d53dd98198be2760f8"
+
+[[files]]
+file = "required_resources/Shadow Wizard Money Gang Resource Pack/assets/exposure/models/item/camera_gui.json"
+hash = "d6585e87c1c863487a7281838373609051f2e2e4ddf342d53dd98198be2760f8"
+
+[[files]]
+file = "required_resources/Shadow Wizard Money Gang Resource Pack/assets/exposure/models/item/camera_gui_active.json"
+hash = "d6585e87c1c863487a7281838373609051f2e2e4ddf342d53dd98198be2760f8"
+
+[[files]]
+file = "required_resources/Shadow Wizard Money Gang Resource Pack/assets/exposure/models/item/camera_selfie.json"
+hash = "d6585e87c1c863487a7281838373609051f2e2e4ddf342d53dd98198be2760f8"
+
+[[files]]
+file = "required_resources/Shadow Wizard Money Gang Resource Pack/assets/exposure/models/item/camera_selfie_outside.json"
+hash = "d6585e87c1c863487a7281838373609051f2e2e4ddf342d53dd98198be2760f8"
+
+[[files]]
+file = "required_resources/Shadow Wizard Money Gang Resource Pack/assets/exposure/textures/item/black_and_white_film.png"
+hash = "f43478cefa713b857546d431fb1436d1daa4cbd57da604051d0d75c35314fbe6"
+
+[[files]]
+file = "required_resources/Shadow Wizard Money Gang Resource Pack/assets/exposure/textures/item/camera.png"
+hash = "a52153c0fcb3493c9f88931d37e78732aac172e74a4d06e5248a5bd3672d4ba7"
+
+[[files]]
+file = "required_resources/Shadow Wizard Money Gang Resource Pack/assets/exposure/textures/item/camera_gui.png"
+hash = "a52153c0fcb3493c9f88931d37e78732aac172e74a4d06e5248a5bd3672d4ba7"
+
+[[files]]
+file = "required_resources/Shadow Wizard Money Gang Resource Pack/assets/exposure/textures/item/camera_gui_active.png"
+hash = "a52153c0fcb3493c9f88931d37e78732aac172e74a4d06e5248a5bd3672d4ba7"
+
+[[files]]
+file = "required_resources/Shadow Wizard Money Gang Resource Pack/assets/exposure/textures/item/color_film.png"
+hash = "995a93f28becbe6c39ab5a997058b8bc940f756d37c52497d548c0639a2b9670"
+
+[[files]]
+file = "required_resources/Shadow Wizard Money Gang Resource Pack/assets/exposure/textures/item/crystal_ball_glass.png"
+hash = "8040b1481ee3a444b39c5809f6d8eb0d99425cb7b09923a1baaedd847fa89d7f"
+
+[[files]]
+file = "required_resources/Shadow Wizard Money Gang Resource Pack/assets/exposure/textures/item/crystal_ball_smoke.png"
+hash = "ffdbe9817a80d30d602d509ed62d2282646846ba88c1acbfdc3387475691b84c"
+
+[[files]]
+file = "required_resources/Shadow Wizard Money Gang Resource Pack/assets/exposure/textures/item/crystal_ball_smoke.png.mcmeta"
+hash = "1a6291f7d6cba407a38e85618a319626be6bfed59df81a0edbe7829a73d0b0c7"
+
+[[files]]
+file = "required_resources/Shadow Wizard Money Gang Resource Pack/assets/exposure/textures/item/developed_black_and_white_film.png"
+hash = "97f00ecae7e5db4808fb59eabf67530e3ac6c2a888a143eda52a6de4fea1c77c"
+
+[[files]]
+file = "required_resources/Shadow Wizard Money Gang Resource Pack/assets/exposure/textures/item/developed_color_film.png"
+hash = "3cb9997de4f5dda4a1a8877b28cd93315bf8258d302f5d123504f7dccfd6dd33"
+
+[[files]]
 file = "required_resources/Shadow Wizard Money Gang Resource Pack/assets/jewelry/lang/en_us.json"
 hash = "edc4eb2ee4cfdb1e22075774eb309a02ff0d331daace2269c77720fdf79c0c1b"
 
@@ -1781,7 +1880,7 @@ hash = "dd133cba93bf4e8fac6923bf0cb8d47024eae6b3432f5135f4135a6c843769b7"
 
 [[files]]
 file = "required_resources/Shadow Wizard Money Gang Resource Pack/assets/minecraft/lang/en_us.json"
-hash = "265e3e4d6a8a0b5bc827df396668739b8a2f0c0b951a9dcf5323f552cfc57761"
+hash = "79c46a4c27216d73185801ac4cd4242c6490bab400c9e9e4a5d70a53a2e21828"
 
 [[files]]
 file = "required_resources/Shadow Wizard Money Gang Resource Pack/assets/paladins/lang/en_us.json"
@@ -1789,7 +1888,7 @@ hash = "305ffd4ffa2245788687ce59279a83c49d189d975d599e1c2be373b0c90d328a"
 
 [[files]]
 file = "required_resources/Shadow Wizard Money Gang Resource Pack/assets/playerex/lang/en_us.json"
-hash = "055779ee99f59b71563d03dd871608aaf03f7de46ce74b10f01ea701f0d26f79"
+hash = "806686fee6d4fc1a0c8352486482e1baa3e97eafea1976660c29ea1d1ca51f14"
 
 [[files]]
 file = "required_resources/Shadow Wizard Money Gang Resource Pack/assets/rootsclassic/models/item/engraved_blade.json"
@@ -2001,4 +2100,4 @@ hash = "4cb846542af0edfec3b131f17166f7b275d4a85e3d467e85f357069c650ef28d"
 
 [[files]]
 file = "unsup.toml"
-hash = "9ad81833e7def687720632b4f1af4ed6acccddfc23639f191b3b12642ff34a53"
+hash = "62012a5a648cc71210ae5edb1aef9be8633acf654cc6fd0aba9c00bc0b6a7fa5"

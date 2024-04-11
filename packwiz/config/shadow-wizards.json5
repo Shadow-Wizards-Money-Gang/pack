@@ -17,7 +17,7 @@
 			0,
 			0,
 			0,
-			8,
+			9,
 			0
 		],
 		"minecraft:brewing_stand": [
@@ -25,15 +25,15 @@
 			0,
 			0,
 			0,
-			8,
+			9,
 			0
 		],
 		"minecraft:enchanting_table": [
 			0,
 			0,
 			0,
+			18,
 			0,
-			8,
 			0
 		],
 		"minecraft:enchanted_golden_apple": [
@@ -41,7 +41,7 @@
 			0,
 			0,
 			0,
-			8,
+			9,
 			0
 		],
 		"minecraft:golden_carrot": [
@@ -56,7 +56,7 @@
 			0,
 			0,
 			0,
-			8,
+			9,
 			0,
 			0
 		],
@@ -64,7 +64,7 @@
 			0,
 			0,
 			0,
-			8,
+			9,
 			0,
 			0
 		],
@@ -181,7 +181,7 @@
 			0
 		],
 		"paladins:crusader_armor_head": [
-			8,
+			9,
 			12,
 			0,
 			0,
@@ -189,7 +189,7 @@
 			0
 		],
 		"paladins:crusader_armor_chest": [
-			8,
+			9,
 			12,
 			0,
 			0,
@@ -197,7 +197,7 @@
 			0
 		],
 		"paladins:crusader_armor_legs": [
-			8,
+			9,
 			12,
 			0,
 			0,
@@ -205,7 +205,7 @@
 			0
 		],
 		"paladins:crusader_armor_feet": [
-			8,
+			9,
 			12,
 			0,
 			0,
@@ -277,7 +277,7 @@
 			0
 		],
 		"arcanuscontinuum:battle_mage_helmet": [
-			0,
+			9,
 			0,
 			0,
 			12,
@@ -285,7 +285,7 @@
 			0
 		],
 		"arcanuscontinuum:battle_mage_chestplate": [
-			8,
+			9,
 			0,
 			0,
 			12,
@@ -293,7 +293,7 @@
 			0
 		],
 		"arcanuscontinuum:battle_mage_leggings": [
-			8,
+			9,
 			0,
 			0,
 			12,
@@ -301,7 +301,7 @@
 			0
 		],
 		"arcanuscontinuum:battle_mage_boots": [
-			8,
+			9,
 			0,
 			0,
 			12,
@@ -309,7 +309,7 @@
 			0
 		],
 		"arcanuscontinuum:battle_mage_upgrade_smithing_template": [
-			8,
+			9,
 			0,
 			0,
 			12,
@@ -352,7 +352,7 @@
 		],
 		"paladins": [
 			0,
-			8,
+			9,
 			0,
 			0,
 			0,
@@ -361,13 +361,13 @@
 		"archers": [
 			0,
 			0,
-			8,
+			9,
 			0,
 			0,
 			0
 		],
 		"spellbladenext": [
-			8,
+			9,
 			0,
 			0,
 			12,
@@ -378,7 +378,7 @@
 			0,
 			0,
 			0,
-			8,
+			9,
 			0,
 			0
 		]
