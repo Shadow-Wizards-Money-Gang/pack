@@ -1517,11 +1517,6 @@ file = "mods/umu_backpack-5.1-1.20.1.jar"
 hash = "e0d3640e165f850a3710df3a2b096058d0e34fe2b333fc186ced79412be91194"
 
 [[files]]
-file = "mods/unionlib.pw.toml"
-hash = "eed1d1e544e4365d5a773a886df4658195008c4359b1409257a1a4160e713cf4"
-metafile = true
-
-[[files]]
 file = "mods/useless-reptile.pw.toml"
 hash = "05e39c990669bebe60b04fbd557a469b75d5e34091d377b3e4532be71d105623"
 metafile = true
@@ -1537,11 +1532,6 @@ hash = "198b7c7643ba8d794f9ddcbc97d3d1ebeda637b55cd0d3f1fc3c1f7d36902f7b"
 [[files]]
 file = "mods/villages-and-pillages.pw.toml"
 hash = "ecb927b59cc3e10f42a46b64b06c47c66848579293cb7884793208919f36f5cf"
-metafile = true
-
-[[files]]
-file = "mods/violent-villagers.pw.toml"
-hash = "e6d63f7e8de16dd000e53258d120c7ae3ec9d59dbcb3ef59b761160c6f34483c"
 metafile = true
 
 [[files]]
