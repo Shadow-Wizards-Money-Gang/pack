@@ -717,7 +717,7 @@ metafile = true
 
 [[files]]
 file = "mods/archers.pw.toml"
-hash = "f236bc25de265a3182557136a3e541bb868b0d478b76de5bbd9ca3780b56efcf"
+hash = "e75a1c1e1c643c8df546e1b3e0a7de118a7990438e7e21d4e98d77aac09d4d21"
 metafile = true
 
 [[files]]
@@ -957,7 +957,7 @@ metafile = true
 
 [[files]]
 file = "mods/extra-spell-attributes.pw.toml"
-hash = "94d935631461f36193022d937568aced28bef02c16f471e7420ad51382d239d0"
+hash = "aefc098d4b5a80dde23338f2e588a11d3cd00758b0345b95e28a154c22a850a0"
 metafile = true
 
 [[files]]
@@ -1285,7 +1285,7 @@ metafile = true
 
 [[files]]
 file = "mods/paladins-and-priests.pw.toml"
-hash = "57b8a5d76bf66af547618353b986d3b9a7663b3e7efc7cfe5382207ae84405d9"
+hash = "2a160e86f3507d7cf3ba12b6af16b8ef1df045b2e6ed43d558221e49f62830a6"
 metafile = true
 
 [[files]]
@@ -1323,7 +1323,7 @@ hash = "f4f941029fa5590de76295098e35c083350eebe97683ab5d3b82f5cea8df2634"
 
 [[files]]
 file = "mods/projectile-damage-attribute.pw.toml"
-hash = "5d6fc87d397cd2da57d3779e5728cc28d7fc3a455ead4e4f82e21f6e636278c2"
+hash = "a0f4e71abdcb3fa24e45fe8fb83aa43fb40e1be7d0729795ae15f42a8b642f27"
 metafile = true
 
 [[files]]
@@ -1343,7 +1343,7 @@ metafile = true
 
 [[files]]
 file = "mods/ranged-weapon-api.pw.toml"
-hash = "119234949c4304f2a934762ac15ad92a072462b03e2909a2fdade76482fd2077"
+hash = "a227a86d31c54c09e4a43012ff5f649c6bdf08964e6d5a8b59c08dbc6dcc6a5c"
 metafile = true
 
 [[files]]
@@ -1445,17 +1445,17 @@ metafile = true
 
 [[files]]
 file = "mods/spell-engine.pw.toml"
-hash = "928ba98843a665e4aae5ac5f812998f4e274848c58fd4807c5e69e3846f716ce"
+hash = "48236996aae03c7dc634a7004a403ac453f05d439b5529643bc818fa32c86bf1"
 metafile = true
 
 [[files]]
 file = "mods/spell-power.pw.toml"
-hash = "f6eb0b4f796b14b213bc10c3440578506e7207cd63321c5227c2f5dd9d064e6d"
+hash = "fae9d0af983eff51d6c486f1ff525553b94c734f85f29015d5f8ae608b30bf1f"
 metafile = true
 
 [[files]]
 file = "mods/spellblade-next.pw.toml"
-hash = "5559bc186bcf02372f80a9cc02464395ec9b22d296ee6d9a854ec511c8a4bf88"
+hash = "52ad682a3b17ea25a4c58c1b10fb1327292a32c428f20697a160d27ca448d054"
 metafile = true
 
 [[files]]
@@ -1556,7 +1556,7 @@ metafile = true
 
 [[files]]
 file = "mods/wizards.pw.toml"
-hash = "6851c8692100d195a4a5b7eb9cd5e995a65d630674aca9012d84850cd556d677"
+hash = "e0bf74d9ab31bd9864a51835b41e54088d9912e656c581332df8b38d2f0546b6"
 metafile = true
 
 [[files]]
@@ -2100,4 +2100,4 @@ hash = "4cb846542af0edfec3b131f17166f7b275d4a85e3d467e85f357069c650ef28d"
 
 [[files]]
 file = "unsup.toml"
-hash = "62012a5a648cc71210ae5edb1aef9be8633acf654cc6fd0aba9c00bc0b6a7fa5"
+hash = "9ad81833e7def687720632b4f1af4ed6acccddfc23639f191b3b12642ff34a53"
