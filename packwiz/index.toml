@@ -717,7 +717,7 @@ metafile = true
 
 [[files]]
 file = "mods/archers.pw.toml"
-hash = "e75a1c1e1c643c8df546e1b3e0a7de118a7990438e7e21d4e98d77aac09d4d21"
+hash = "f236bc25de265a3182557136a3e541bb868b0d478b76de5bbd9ca3780b56efcf"
 metafile = true
 
 [[files]]
@@ -815,7 +815,7 @@ metafile = true
 
 [[files]]
 file = "mods/consecration.pw.toml"
-hash = "d611011459f0ef6e2fc1b3ecb16e8246f6f1cfcd8f795305c78163967256cd2a"
+hash = "ba7cd4926299918b3c814fa2f4b729b55f817e7e88680f0bdcedd3f57a36f4e8"
 metafile = true
 
 [[files]]
@@ -957,7 +957,7 @@ metafile = true
 
 [[files]]
 file = "mods/extra-spell-attributes.pw.toml"
-hash = "aefc098d4b5a80dde23338f2e588a11d3cd00758b0345b95e28a154c22a850a0"
+hash = "94d935631461f36193022d937568aced28bef02c16f471e7420ad51382d239d0"
 metafile = true
 
 [[files]]
@@ -1087,7 +1087,7 @@ metafile = true
 
 [[files]]
 file = "mods/jewelry.pw.toml"
-hash = "e478240a59d5e382331f0f18871a0635db8a57b8115e32ddd9566c26b0fc9054"
+hash = "fb7f48f213efb6a1a715007208c289e6578a1b768b710c170f846c1d2b80899c"
 metafile = true
 
 [[files]]
@@ -1285,7 +1285,7 @@ metafile = true
 
 [[files]]
 file = "mods/paladins-and-priests.pw.toml"
-hash = "2a160e86f3507d7cf3ba12b6af16b8ef1df045b2e6ed43d558221e49f62830a6"
+hash = "57b8a5d76bf66af547618353b986d3b9a7663b3e7efc7cfe5382207ae84405d9"
 metafile = true
 
 [[files]]
@@ -1323,7 +1323,7 @@ hash = "f4f941029fa5590de76295098e35c083350eebe97683ab5d3b82f5cea8df2634"
 
 [[files]]
 file = "mods/projectile-damage-attribute.pw.toml"
-hash = "a0f4e71abdcb3fa24e45fe8fb83aa43fb40e1be7d0729795ae15f42a8b642f27"
+hash = "5d6fc87d397cd2da57d3779e5728cc28d7fc3a455ead4e4f82e21f6e636278c2"
 metafile = true
 
 [[files]]
@@ -1343,7 +1343,7 @@ metafile = true
 
 [[files]]
 file = "mods/ranged-weapon-api.pw.toml"
-hash = "a227a86d31c54c09e4a43012ff5f649c6bdf08964e6d5a8b59c08dbc6dcc6a5c"
+hash = "119234949c4304f2a934762ac15ad92a072462b03e2909a2fdade76482fd2077"
 metafile = true
 
 [[files]]
@@ -1445,17 +1445,17 @@ metafile = true
 
 [[files]]
 file = "mods/spell-engine.pw.toml"
-hash = "48236996aae03c7dc634a7004a403ac453f05d439b5529643bc818fa32c86bf1"
+hash = "5df3192e091c1831f694af0dd49ff7d2514e7edd15973b534947992beb6b71be"
 metafile = true
 
 [[files]]
 file = "mods/spell-power.pw.toml"
-hash = "fae9d0af983eff51d6c486f1ff525553b94c734f85f29015d5f8ae608b30bf1f"
+hash = "444b11039c83ad16ef16a509bb8e43c97382ac04dcebcc8930c99d02c93a2914"
 metafile = true
 
 [[files]]
 file = "mods/spellblade-next.pw.toml"
-hash = "52ad682a3b17ea25a4c58c1b10fb1327292a32c428f20697a160d27ca448d054"
+hash = "5559bc186bcf02372f80a9cc02464395ec9b22d296ee6d9a854ec511c8a4bf88"
 metafile = true
 
 [[files]]
@@ -1522,6 +1522,11 @@ hash = "05e39c990669bebe60b04fbd557a469b75d5e34091d377b3e4532be71d105623"
 metafile = true
 
 [[files]]
+file = "mods/vanilla+-blocks.pw.toml"
+hash = "3ad8d076e7f810e025bf443a65783a0c53fca843d0d2504b31873df5f910ece9"
+metafile = true
+
+[[files]]
 file = "mods/vanillablocksplus-1.4.1.jar"
 hash = "d8a0c3ac56f38a60ab708acb10c4e0b60a7fe146d1f7f260a1eaf367a2da26a3"
 
@@ -1546,7 +1551,7 @@ metafile = true
 
 [[files]]
 file = "mods/wizards.pw.toml"
-hash = "e0bf74d9ab31bd9864a51835b41e54088d9912e656c581332df8b38d2f0546b6"
+hash = "6851c8692100d195a4a5b7eb9cd5e995a65d630674aca9012d84850cd556d677"
 metafile = true
 
 [[files]]
