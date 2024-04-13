@@ -1400,8 +1400,8 @@ hash = "1cda49a5161ed2661ac3e503e7103e5088b44effe757e8fa5c08cbae35959d93"
 metafile = true
 
 [[files]]
-file = "mods/shadow-wizards-0.0.9-indev.jar"
-hash = "b742e59fb789ed0290644a4f15de1b1fafdaf86bba3806f3a3754dcd3682ec89"
+file = "mods/shadow-wizards-0.1.0.jar"
+hash = "063c1a38cc258fbb04adf800d74449e5f1f3f82ade820894ce031ead1cd0f5ee"
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
@@ -1530,10 +1530,6 @@ metafile = true
 file = "mods/vanilla+-blocks.pw.toml"
 hash = "3ad8d076e7f810e025bf443a65783a0c53fca843d0d2504b31873df5f910ece9"
 metafile = true
-
-[[files]]
-file = "mods/vanillablocksplus-1.4.1.jar"
-hash = "d8a0c3ac56f38a60ab708acb10c4e0b60a7fe146d1f7f260a1eaf367a2da26a3"
 
 [[files]]
 file = "mods/victus-0.1.16-nerfed+1.20.jar"
