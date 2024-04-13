@@ -1459,6 +1459,11 @@ hash = "5559bc186bcf02372f80a9cc02464395ec9b22d296ee6d9a854ec511c8a4bf88"
 metafile = true
 
 [[files]]
+file = "mods/spells-lab-extras.pw.toml"
+hash = "ece69d56502110cc90b11d8579789d757d3b335f2fc5eae5d292576e5886872a"
+metafile = true
+
+[[files]]
 file = "mods/steep-surface-fix-1.0.0.jar"
 hash = "c821a6eda00139092d49d07d45fcf143c3b50e15bacbf39aecadedc30a8d87e0"
 
