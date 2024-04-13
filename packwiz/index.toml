@@ -242,7 +242,7 @@ hash = "43c144ed102e422be4b78604870a9f1acf34f38de7dbb9bb584bcc2c4afd4b53"
 
 [[files]]
 file = "config/guardvillagers.json"
-hash = "fafe46cca2462296a4e37111db77ed8f8fc4e8078bbcaa04ce2785049bdc8552"
+hash = "e9be21e529ee570bd0abc15e87b379a820d0a927d174e122d3e34f4f53e8c762"
 
 [[files]]
 file = "config/helditemtooltips-client.toml"
@@ -274,7 +274,7 @@ hash = "a9901a0df5394d392b892349b1a7422122a7b37d64d3868d6974b4ece31d816c"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "bef59929f4b8ba7bfd8dcec58095317c6db4d89da8e67e7e541102a54c58ac51"
+hash = "3c40932e7134fb05edfea8421dcc76c3f74cb030bf16234cdee74b4257891b7f"
 
 [[files]]
 file = "config/jei/blacklist.cfg"
@@ -1576,12 +1576,40 @@ hash = "540d5f43dc1c27980097f1d11609ffa3b863e36910d835c16e51ea10ee40ae8c"
 metafile = true
 
 [[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/archers/recipes/netherite_heavy_crossbow_smithing.json"
+hash = "b971515375e00a01ff712e008e886e6d174f9be3dfbbfddfee3405cfb9a741cb"
+
+[[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/archers/recipes/netherite_longbow_smithing.json"
+hash = "bc23c45aacd53c2289d28540fff1bbbc73b5916443d2b3542ba24cf554417b41"
+
+[[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/archers/recipes/netherite_rapid_crossbow_smithing.json"
+hash = "187cfa9609e10bcb46c92c7f0a35f5be724727364110557ed7e601694105096a"
+
+[[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/archers/recipes/netherite_shortbow_smithing.json"
+hash = "a811c6d54839bfeb613596e4414c5d91d5b5e225a76412cabf3a5355465dbff8"
+
+[[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/brewery/recipes/netherite_brewingstation_smithing.json"
+hash = "2c4344b5dd8415862bfcceebfcdb3807ef2391c1713765028e9cf324b8a2cbd0"
+
+[[files]]
 file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/consecration/tags/damage_type/holy.json"
 hash = "7b3e313a9d682471244b12452a90426c0ec118c87a7e548a7f43403c7ecbb078"
 
 [[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/ctov/worldgen/structure_set/villages.json"
+hash = "eb28795b2615b2e83f2fa82c029a66945bd5a6fa0e63a716581a3fb3c5ef7109"
+
+[[files]]
 file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/enchancement/enchanting_material/minecraft/shield.json"
 hash = "ed83599a41f44dd779abab35bf1a02c4510f165c1e77ec0c872e1bf21af12f3a"
+
+[[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/enchancement/enchanting_material/test.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/enchancement/tags/items/retains_durability.json"
@@ -1709,7 +1737,7 @@ hash = "ff0cb88fff53f82282b3a0c30872ef16393663f0f3488ffd6984c5c2e7ba7d60"
 
 [[files]]
 file = "required_resources/Shadow Wizard Money Gang Resource Pack.zip"
-hash = "c37635f6ff4e0dd0d74d97856bcfa43d0fa33887e0411c16227c70ac3173b832"
+hash = "85b564fd2230cc09f8e8dcf521cb20a1f4fb1c7435f2df1361614da94580a38d"
 
 [[files]]
 file = "unsup.toml"

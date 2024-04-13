@@ -17,7 +17,7 @@
   "followRangeModifier": 20.0,
   "giveGuardStuffHotv": false,
   "setGuardPatrolHotv": false,
-  "chanceToDropEquipment": 100.0,
+  "chanceToDropEquipment": 0.0,
   "useSteveModel": false,
   "raidAnimals": false,
   "witchesVillager": true,
