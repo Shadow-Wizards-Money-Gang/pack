@@ -10,11 +10,23 @@
         },
         {
           "type": "minecraft:item",
-          "name": "paladins:iron_claymore"
+          "name": "paladins:iron_claymore",
+          "functions": [
+            {
+                "function": "set_nbt",
+                "tag": "{Enchantments: [{id: \"fire_aspect\", lvl: 1}]}"
+            }
+        ]
         },
         {
           "type": "minecraft:item",
-          "name": "paladins:iron_mace"
+          "name": "paladins:iron_mace",
+          "functions": [
+            {
+                "function": "set_nbt",
+                "tag": "{Enchantments: [{id: \"fire_aspect\", lvl: 1}]}"
+            }
+        ]
         },
         {
           "type": "minecraft:item",

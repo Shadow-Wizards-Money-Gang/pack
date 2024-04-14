@@ -682,7 +682,7 @@ hash = "47130ec50fa27e6bd01efdc1ebba501d7d6eebfb2948aac78651406c08222ced"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "39f8288c3252e8bf4b35838adb7b23ab27e1180f96279fb1aab1d25b79159ad2"
+hash = "7b76dad517274f8f68de4abc8ea3bdd2edbae7c91e25f7073d2264ef74096a99"
 
 [[files]]
 file = "kubejs/server_scripts/worldgen.js"
@@ -1633,7 +1633,7 @@ hash = "3c745b9d14ee2c865e076392eb87acccdc36230dd9093201bc492fc01778a4b8"
 
 [[files]]
 file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/guardvillagers/loot_tables/entities/guard_main_hand.json"
-hash = "be5c18770f8192188c1ccdc8ea3bc0e9f8e598b1486d4dc45b509101003da15b"
+hash = "ddac90e5461bdfd4c20b82cbcc024c652b331071b12db299def83f41553e5a31"
 
 [[files]]
 file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/guardvillagers/loot_tables/entities/guard_off_hand.json"

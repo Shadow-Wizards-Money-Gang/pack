@@ -78,3 +78,14 @@ event.remove({ output: 'immersive_armors:wooden_leggings' })
 event.remove({ output: 'immersive_armors:wooden_boots' })
 
 })
+
+BlockEvents.rightClicked(event => {
+  if (event.block.id === "rootsclassic:mortar" && event.player.mainHandItem == "rootsclassic:pestle")
+  {
+    if(event.player.offHandItem == "minecraft:oak_sapling" || event.player.offHandItem == "minecraft:dark_oak_sapling") {
+      event.player.offHandItem.count--
+      event.player.give('shadow-wizards:resin');
+      event.cancel()
+    }
+  }
+})
