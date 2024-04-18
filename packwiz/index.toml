@@ -1229,6 +1229,11 @@ hash = "2f0c93ad0f3b6ecc79294fd5cb42a407d9d43934f6e9d279e6818040184e8b68"
 metafile = true
 
 [[files]]
+file = "mods/morecreativetabs.pw.toml"
+hash = "a9e48c9baee2a1c13342460ff44f85cc6eb1cd4603d8a40374a6026dad5b61f6"
+metafile = true
+
+[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "ef9c4bc27256d065df4feaba2bc05883ba22987c41cd48786070d37ae85cc8e1"
 metafile = true

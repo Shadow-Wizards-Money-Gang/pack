@@ -3,8 +3,8 @@ name = "Extra Client Options"
 description = "Which client mods you'd like to use.\nIncreases or decreases performance depending on choices."
 side = "client"
 [[flavor_groups.rendering_mod.choices]]
-id = "all"
-name = "All"
+id = "default"
+name = "default"
 description = "Installs all optional client mods. Recommended."
 [[flavor_groups.rendering_mod.choices]]
 id = "performance"
@@ -14,9 +14,6 @@ description = "Installs only the important performance mods on client, and gener
 id = "no_rendering_mods"
 description = "No rendering mods. No extra mods. Reduces Performance. May be useful for testing. Not Recommended"
 name = "None"
-
-[flavors]
-rendering_mod=all
 
 [metafile.sodium]
 flavors = ["performance", "all"]
