@@ -707,12 +707,12 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "4dd0610d41ab9b243c739921cf2baa90ebdc0a881f758d10b87d27b09a0c40af"
+hash = "852b994c17e36c8a43a1b43f51e7c93c3f035fef642e2a9085b7109afd6e293c"
 metafile = true
 
 [[files]]
 file = "mods/arcanus-continuum.pw.toml"
-hash = "ca356b7fcea3faacc384b9f8abfc8ccfd211f9fc99f6457af7f88b8f5b33d215"
+hash = "484dfcb54d6678b2046644167e4676d5e152b6622b2c8bc7278414001abe39ba"
 metafile = true
 
 [[files]]
@@ -731,10 +731,6 @@ hash = "b0b72c2a6b6c969315878bf7a813fea74491653282f0fa50c87f64742547647a"
 metafile = true
 
 [[files]]
-file = "mods/aylyth-1.20.1-2.0.2.jar"
-hash = "d9da0bc2cff1cd4c67c785b44f9a83bde7cf6ae1a781d7598c27b6cf808a9343"
-
-[[files]]
 file = "mods/azurelib-armor.pw.toml"
 hash = "985f249187621a319cdcf445e2e8bfe0b5294c6194b40635191578389ff3de92"
 metafile = true
@@ -751,12 +747,12 @@ metafile = true
 
 [[files]]
 file = "mods/better-archeology.pw.toml"
-hash = "a2e8fa555dcd7218b0dd7373204cc8081206f6e2ed19212ab06b4a1730a8af82"
+hash = "885eb676ff705c60016728162bc7c3518ac3f5789b1d9ff81dc4cf19ca4e9131"
 metafile = true
 
 [[files]]
 file = "mods/better-combat-by-daedelus.pw.toml"
-hash = "2278029a39bb4c99e7a846a440653e47f65e7cff0dbd327c3d074efb6e0b3c31"
+hash = "93d8db3c64f1770e62a847782836a57996b3ce4f7a4462cf084e42c4f83d19ee"
 metafile = true
 
 [[files]]
@@ -771,7 +767,7 @@ metafile = true
 
 [[files]]
 file = "mods/bombastic-crystals-v1+1.20.1.jar"
-hash = "b945bd42f44c12e16e5c156acd4076cbaa8bba2b7018cfc453ba4909acbaa311"
+hash = "53c32b33715b42af1c0bf5522064e7146fc589d0d0e426d9ea593ea70724fdab"
 
 [[files]]
 file = "mods/borderless-mining.pw.toml"
@@ -853,7 +849,7 @@ metafile = true
 
 [[files]]
 file = "mods/danger-close.pw.toml"
-hash = "dd0bd0a8c4a34fa5c57f735a17a4cbbbf389bbec883901012f03f106db8066fc"
+hash = "7cd9f621afc0d5ee2e857299571e3ebf37ce2ef250ded9cdfdfebe0ae73737e1"
 metafile = true
 
 [[files]]
@@ -1122,7 +1118,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "03396f2eca6db04bcf5832f57286bf3b8c1981103017cd5a7713a6cd168b8053"
+hash = "dbebbeff4caa3b2b4f1568733e1573c2e0503fa451457e04ef32c49453ac41db"
 metafile = true
 
 [[files]]
@@ -1215,7 +1211,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "cb5f4d5b3be1a067da34881e7ce08aa98b4c5b20ff801f1aae5cdd80d53f4ce4"
+hash = "46ad0c07009fa651a6a50ec5b95a6be93256177f6ccacbfbef00f1ccbc8f55eb"
 metafile = true
 
 [[files]]
@@ -1235,7 +1231,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "ef9c4bc27256d065df4feaba2bc05883ba22987c41cd48786070d37ae85cc8e1"
+hash = "aeb80ffcd7d25d95429f93b54e31d620f85e75a08769126d77031bd8fb262cbf"
 metafile = true
 
 [[files]]
@@ -1270,7 +1266,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "e96aaa7d953f793cbfc854a648f00ba86d726f4d679caf56dbb2ed5fa9c114c4"
+hash = "3fa216645abadceadc1e913a581dbfb5abb1cdc7f270bcd23f7141c43d9cb79c"
 metafile = true
 
 [[files]]
@@ -1406,7 +1402,7 @@ metafile = true
 
 [[files]]
 file = "mods/shadow-wizards-0.1.0.jar"
-hash = "063c1a38cc258fbb04adf800d74449e5f1f3f82ade820894ce031ead1cd0f5ee"
+hash = "9510670d51bdc0d604a15f5a764b5a68cbed596ffa57d96ea66cd725000593ea"
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"

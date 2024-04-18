@@ -1,13 +1,13 @@
 name = "Danger Close"
-filename = "dangerclose-merged-1.20.1-3.0.1.jar"
+filename = "dangerclose-merged-1.20.1-3.0.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "89ccff5126f5a657da820d765c14721fe9ef13e6"
+hash = "a95783b287438d4511752a10b02ad0eb1055f951"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5251632
+file-id = 5262744
 project-id = 858922
