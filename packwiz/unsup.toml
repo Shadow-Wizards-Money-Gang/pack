@@ -1,4 +1,4 @@
-[flavor_groups.client_options]
+[flavor_groups.rendering_mod]
 name = "Extra Client Options"
 description = "Which client mods you'd like to use.\nIncreases or decreases performance depending on choices."
 side = "client"
