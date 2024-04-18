@@ -15,6 +15,7 @@ id = "no_rendering_mods"
 description = "No rendering mods. No extra mods. Reduces Performance. May be useful for testing. Not Recommended"
 name = "None"
 
+[flavors]
 rendering_mod=all
 
 [metafile.sodium]
