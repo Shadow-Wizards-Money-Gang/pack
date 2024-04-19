@@ -274,7 +274,7 @@ hash = "a9901a0df5394d392b892349b1a7422122a7b37d64d3868d6974b4ece31d816c"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "3c40932e7134fb05edfea8421dcc76c3f74cb030bf16234cdee74b4257891b7f"
+hash = "488f633073f46643efc5a005e75d87b92b90ce9ec425a188d22e00ba6f8e6d8a"
 
 [[files]]
 file = "config/jei/blacklist.cfg"
@@ -964,11 +964,6 @@ metafile = true
 [[files]]
 file = "mods/fadeless.pw.toml"
 hash = "bd5311680997fada18e6492a91770fdc0762c718b3109820d67c1b019c2f1bf8"
-metafile = true
-
-[[files]]
-file = "mods/fancymenu.pw.toml"
-hash = "e1d4ec94a9c457965fd58211855a778a025949f98eabfaec7c6a69b8bb87f4a9"
 metafile = true
 
 [[files]]

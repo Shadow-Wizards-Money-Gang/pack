@@ -143,7 +143,10 @@
     "rechiseled:netherite_block_pillar_connecting",
     "rechiseled:netherite_block_small_tiles",
     "rechiseled:netherite_block_small_tiles_connecting",
-    "rechiseled:netherite_block_smooth"
+    "rechiseled:netherite_block_smooth",
+    "jaizmobs:klephtopod_chestplate",
+    "jaizmobs:klephtopod_shell",
+    
     ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
