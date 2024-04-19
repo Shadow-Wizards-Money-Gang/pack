@@ -1103,7 +1103,7 @@ metafile = true
 
 [[files]]
 file = "mods/kiwi-fabric.pw.toml"
-hash = "f39e6aa5fd66fb3064b4e0568c1794067a9f5c8f939ec7f32a23cbc96f6b0eac"
+hash = "c1111166478d81fd6dca93fcfc52e911521df0a6d24300fa50e719905be42981"
 metafile = true
 
 [[files]]
@@ -1368,7 +1368,7 @@ metafile = true
 
 [[files]]
 file = "mods/respawn-obelisks.pw.toml"
-hash = "fd3c9128cd3c936366e3966488bd9adb7a212cdc73e62e496839d55c293f318d"
+hash = "985bd0ed5d870f85a2ab963f5cfd2138431987d21c0135a24a805dcbfef1bca7"
 metafile = true
 
 [[files]]
@@ -1406,7 +1406,7 @@ hash = "9510670d51bdc0d604a15f5a764b5a68cbed596ffa57d96ea66cd725000593ea"
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
-hash = "bd0b125bd9c0f016ee541acf95f7fe87407933c35314a297a1fa08cd91a9f04a"
+hash = "825261ff462fa259147ff0bea3368cc5d6351aa7cff944112e15a55f6181a572"
 metafile = true
 
 [[files]]
