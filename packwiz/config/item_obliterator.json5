@@ -146,7 +146,8 @@
     "rechiseled:netherite_block_smooth",
     "jaizmobs:klephtopod_chestplate",
     "jaizmobs:klephtopod_shell",
-    
+    "jaizmobs:hardened_skull",
+    "jaizmobs:void_scale"
     ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.

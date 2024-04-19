@@ -274,7 +274,7 @@ hash = "a9901a0df5394d392b892349b1a7422122a7b37d64d3868d6974b4ece31d816c"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "488f633073f46643efc5a005e75d87b92b90ce9ec425a188d22e00ba6f8e6d8a"
+hash = "335a95a69e69b391d14d2ee072b3fa1520789947dc789208c4147895930ba546"
 
 [[files]]
 file = "config/jei/blacklist.cfg"
@@ -442,7 +442,7 @@ hash = "03566f5b722d000ee785cccf8a55651c75c7bc00fea16d2538899578188ebb32"
 
 [[files]]
 file = "config/playerex.json"
-hash = "b476e061e52def376880edf6e32048a65beef6f318c309434121235e3f5127c8"
+hash = "5f42b724da3e2f662cbce6052d5a53c0e10954b016d5fe1a432b7d34c05f2f9b"
 
 [[files]]
 file = "config/presencefootsteps/updater.json"
@@ -746,6 +746,11 @@ hash = "2f44ef7d4597f72f70877fe9b555ecdfe2bf882f96f712d9bbcd1dab8d951544"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "ab6a6dc2a3fa157464f0294d8b5d3e6b8b882c9b520c7f7e0ca8329094ed1dfa"
+metafile = true
+
+[[files]]
 file = "mods/better-archeology.pw.toml"
 hash = "885eb676ff705c60016728162bc7c3518ac3f5789b1d9ff81dc4cf19ca4e9131"
 metafile = true
@@ -868,6 +873,11 @@ hash = "73b57f14646c1b189bc46d07e7dc6537f6eb5b3846862e8c88d6e3ab92e63a73"
 metafile = true
 
 [[files]]
+file = "mods/default-options.pw.toml"
+hash = "5c4f693a0fbc744b46f76e44746baff8621ebb81937c31c777b9edcea18d8ad6"
+metafile = true
+
+[[files]]
 file = "mods/do-api.pw.toml"
 hash = "5589437f1e132b6732bd3752b13e1732c8015dd5f4284389e17f77378558fb36"
 metafile = true
@@ -902,6 +912,11 @@ hash = "92e9d8d7d126f24912ddfd1ec8e3dbb13e8d025376b39efd1c3bab9b13d9b3cf"
 metafile = true
 
 [[files]]
+file = "mods/dusk.pw.toml"
+hash = "e08384c58e94312859c5cda36e9d9ec2b5326becf488ab96679d65a17183ef2a"
+metafile = true
+
+[[files]]
 file = "mods/dye-depot.pw.toml"
 hash = "a776024c39b8f5e0a83e54a0e1293907afa2eb3d8227958f0d59a23a742ac30c"
 metafile = true
@@ -922,8 +937,13 @@ hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
 metafile = true
 
 [[files]]
+file = "mods/eldritch-mobs.pw.toml"
+hash = "8237394bebf50709840b99c3b2edb71f1659537887e4b1e64f3c5315ac1aac75"
+metafile = true
+
+[[files]]
 file = "mods/enchancement.pw.toml"
-hash = "1003e36080ce3030178acaeae477add1095e677e12f2bdec35314259d46d2ade"
+hash = "168bd4759ad7d37d8c041a71ebcf0ce5ef8883bd6ff2767ac0c5a223c320347a"
 metafile = true
 
 [[files]]
@@ -1067,11 +1087,6 @@ hash = "9785c074b8ffaeb91fb0120b3b56fa8ba96ce5547205af2695e11f0bcc21faf7"
 metafile = true
 
 [[files]]
-file = "mods/jaiz-mobs.pw.toml"
-hash = "604dc83801c0785b7bd9f55f898de31a5e4810a663d53230265b8725bfc11de7"
-metafile = true
-
-[[files]]
 file = "mods/jei.pw.toml"
 hash = "b5b076663f62cfb0c3d8ee8e304711d6fbfa043f72a4706dc88edb927da6f046"
 metafile = true
@@ -1124,6 +1139,11 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
+metafile = true
+
+[[files]]
+file = "mods/lavender.pw.toml"
+hash = "409991ec6a4c7055cbddfa4ef1408550a6d3eb36ce43ef03e37737d78d1cd70f"
 metafile = true
 
 [[files]]
@@ -1271,7 +1291,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "9a0ab52020c3a2d073e71f07ce11b9d2d8ae0a17b8a3cf0c9227029a51df51c3"
+hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
 metafile = true
 
 [[files]]
@@ -1460,6 +1480,11 @@ hash = "ece69d56502110cc90b11d8579789d757d3b335f2fc5eae5d292576e5886872a"
 metafile = true
 
 [[files]]
+file = "mods/spice-of-fabric.pw.toml"
+hash = "6fbcbd33edab029f2bdab8c4086d8eaefc1898d3e6f3ede884f890e4f17e93b0"
+metafile = true
+
+[[files]]
 file = "mods/steep-surface-fix-1.0.0.jar"
 hash = "c821a6eda00139092d49d07d45fcf143c3b50e15bacbf39aecadedc30a8d87e0"
 
@@ -1514,12 +1539,17 @@ hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
 metafile = true
 
 [[files]]
+file = "mods/ultris.pw.toml"
+hash = "fbae272c03e36e382e39939f410fd5b9ae771a7b6f956890512f71c5a6a2d159"
+metafile = true
+
+[[files]]
 file = "mods/umu_backpack-5.1-1.20.1.jar"
 hash = "e0d3640e165f850a3710df3a2b096058d0e34fe2b333fc186ced79412be91194"
 
 [[files]]
 file = "mods/useless-reptile.pw.toml"
-hash = "05e39c990669bebe60b04fbd557a469b75d5e34091d377b3e4532be71d105623"
+hash = "3e07c47fd46cf98b6be43c118575b072b2f1971a84881f9b9abe170a518dda95"
 metafile = true
 
 [[files]]
