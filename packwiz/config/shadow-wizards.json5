@@ -1,6 +1,8 @@
 {
 	"BLACKLISTED_PLACING_STAT_BLOCKS": [
-		"minecraft:end_crystal"
+		"minecraft:end_crystal",
+		"minecraft:enchanting_table",
+		"minecraft:brewing_stand"
 	],
 	"SOFT_LOCKED_ITEMS": [],
 	"ITEM_REQUERIMENTS": {
@@ -405,6 +407,14 @@
 			0,
 			0,
 			9
+		],
+		"victus": [
+			0,
+			0,
+			0,
+			0,
+			18,
+			0
 		]
 	},
 	"BANNED_SPELL_BOOK": [

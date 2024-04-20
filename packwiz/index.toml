@@ -502,7 +502,7 @@ hash = "6e8bfe7a4c301de6e1658f8995a5bc533f6ec850aa57f701e23adf5fb9d708e9"
 
 [[files]]
 file = "config/shadow-wizards.json5"
-hash = "ce22bebc23bb81c3ab81a3a77fda1d71797a0a210a9b0538fb20d353a8215ab6"
+hash = "eccd73cc8655a2f699d314bc741c74d0ecc3bd1881cf683421ffdc1ac220986f"
 
 [[files]]
 file = "config/snowrealmagic-client.yaml"
@@ -1774,7 +1774,7 @@ hash = "51028b86d9afabbbcbbf772cef58327509f4baa0120e6e1b2bc18bb4cdb025e4"
 
 [[files]]
 file = "required_resources/Medieval_Expansion_edited.zip"
-hash = "ff0cb88fff53f82282b3a0c30872ef16393663f0f3488ffd6984c5c2e7ba7d60"
+hash = "c8e2b8d259a279fde79bbd9f03d80515d145543997080cbce025624586f5ed6e"
 
 [[files]]
 file = "required_resources/Shadow Wizard Money Gang Resource Pack.zip"
