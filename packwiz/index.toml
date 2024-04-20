@@ -502,7 +502,7 @@ hash = "6e8bfe7a4c301de6e1658f8995a5bc533f6ec850aa57f701e23adf5fb9d708e9"
 
 [[files]]
 file = "config/shadow-wizards.json5"
-hash = "13f290c55bd5cf6da3f8ed1979edc62780863c3210e492c29dfe730a1b87a5e5"
+hash = "ce22bebc23bb81c3ab81a3a77fda1d71797a0a210a9b0538fb20d353a8215ab6"
 
 [[files]]
 file = "config/snowrealmagic-client.yaml"
@@ -682,7 +682,7 @@ hash = "47130ec50fa27e6bd01efdc1ebba501d7d6eebfb2948aac78651406c08222ced"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "7b76dad517274f8f68de4abc8ea3bdd2edbae7c91e25f7073d2264ef74096a99"
+hash = "48b16b14d948f2481d66e7df9de571fb72cf082ba30c1ae5d2ff6548e23ee5e4"
 
 [[files]]
 file = "kubejs/server_scripts/worldgen.js"
@@ -708,6 +708,11 @@ metafile = true
 [[files]]
 file = "mods/amendments.pw.toml"
 hash = "852b994c17e36c8a43a1b43f51e7c93c3f035fef642e2a9085b7109afd6e293c"
+metafile = true
+
+[[files]]
+file = "mods/antique-atlas-4.pw.toml"
+hash = "299e9bb9446e7b10045c0848eba53edd8bdb64630805f24441d0af8c25579b18"
 metafile = true
 
 [[files]]
@@ -883,6 +888,11 @@ hash = "5589437f1e132b6732bd3752b13e1732c8015dd5f4284389e17f77378558fb36"
 metafile = true
 
 [[files]]
+file = "mods/dramatic-doors.pw.toml"
+hash = "ee7c6f097bf9567277fe9bf256c18827f963ffbf2c974f696705374a4c0151c5"
+metafile = true
+
+[[files]]
 file = "mods/drp-global-datapack.pw.toml"
 hash = "3f23d9658879953ace25b9129c2d2872a31c0b92704696c572773f5fe7a8d9b2"
 metafile = true
@@ -890,6 +900,11 @@ metafile = true
 [[files]]
 file = "mods/dungeon-and-taverns.pw.toml"
 hash = "43f477c4e79c55347f9cae8805fd8097b3c79afea83c47aa82b9059366f25b94"
+metafile = true
+
+[[files]]
+file = "mods/dungeon-now-loading.pw.toml"
+hash = "c00c0f0b67abcc6938f80d01099998f8f5145975d6323290c1ff096eb7116cf6"
 metafile = true
 
 [[files]]
@@ -1514,6 +1529,11 @@ hash = "5113afb95c37a18d4fec0e7521707354cb09f68b16952588855dfdd26ca5290e"
 metafile = true
 
 [[files]]
+file = "mods/surveyor.pw.toml"
+hash = "b35f04445ccc2d84146c9d832491f1e175a17186efbdfab5e8923509817337d2"
+metafile = true
+
+[[files]]
 file = "mods/the-orcs.pw.toml"
 hash = "0cb1e957abcf3e608f9534a52d60559fe3f16b6ff1c526e88a204902597187cb"
 metafile = true
@@ -1758,7 +1778,7 @@ hash = "ff0cb88fff53f82282b3a0c30872ef16393663f0f3488ffd6984c5c2e7ba7d60"
 
 [[files]]
 file = "required_resources/Shadow Wizard Money Gang Resource Pack.zip"
-hash = "5ef6c2394f6aac59cbd627d611d8f255637eeb28c5259f9f80a32a7909cc69f3"
+hash = "15584c5047ed7e1b3491519b99cdb81a33989c149a5988071db7c91dbbd6910e"
 
 [[files]]
 file = "unsup.toml"

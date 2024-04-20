@@ -315,6 +315,22 @@
 			12,
 			0,
 			0
+		],
+		"rootsclassic:engraved_blade": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			18
+		]
+		"rootsclassic:crystal_staff": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			18
 		]
 	},
 	"ITEM_CATEGORY_REQUERIMENTS": {
@@ -381,6 +397,14 @@
 			9,
 			0,
 			0
+		],
+		"rootsclassic": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			9
 		]
 	},
 	"BANNED_SPELL_BOOK": [

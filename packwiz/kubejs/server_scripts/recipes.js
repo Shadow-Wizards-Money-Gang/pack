@@ -5,11 +5,12 @@ ServerEvents.recipes(event => { //listen for the "recipes" server event.
   Item.of('minecraft:chainmail_chestplate', 1), // arg 1: output
   [
     'A A',
-    'CAC', // arg 2: the shape (array of strings)
+    'CBC', // arg 2: the shape (array of strings)
     'ACA'
   ],
   {
     A: 'minecraft:iron_nugget',
+    B: 'minecraft:leather_chestplate',
     C: 'minecraft:chain'
   }
 )
@@ -30,11 +31,12 @@ event.shaped(
   Item.of('minecraft:chainmail_leggings', 1), // arg 1: output
   [
     'AAA',
-    'C C', // arg 2: the shape (array of strings)
+    'CBC', // arg 2: the shape (array of strings)
     'A A'
   ],
   {
     A: 'minecraft:iron_nugget',
+    B: 'minecraft:leather_leggings',
     C: 'minecraft:chain'
   }
 )
