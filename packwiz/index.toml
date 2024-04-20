@@ -246,7 +246,7 @@ hash = "e9be21e529ee570bd0abc15e87b379a820d0a927d174e122d3e34f4f53e8c762"
 
 [[files]]
 file = "config/helditemtooltips-client.toml"
-hash = "44e2da952aa982dd8b9e22d817466567f23b583f6cf9b3438ed3cadc4e7997dd"
+hash = "c100d445c55737aa906ba837201f0aaf80c219952785e1af408a518dc452bfd0"
 
 [[files]]
 file = "config/illagerinvasion-server.toml"

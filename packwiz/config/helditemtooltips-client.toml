@@ -128,7 +128,7 @@ max_lines = 4
 	#Additional information supplied by individual items such as potion effect and firework duration.
 	[components.additional]
 		#Should this tooltip component be included when rendering held item tooltips.
-		include = true
+		include = false
 		#The order in which this tooltip component appears in relation to other components. Smaller values appear first.
 		#Range: > -2147483648
 		ordering = 20
