@@ -847,6 +847,11 @@ hash = "bb7b31de1f5c7941aff59030d59168a5971e8c47884bcd8905637836ff97ce46"
 metafile = true
 
 [[files]]
+file = "mods/coroutil.pw.toml"
+hash = "809ab9c953bf5ca4647570fafbc76bc7f29ada644f9556831c196e26b1822ca3"
+metafile = true
+
+[[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "754b65581daa4a2d8462d5e62b43555a85a2f24106e8662925a1adefcc9f07cf"
 metafile = true
@@ -1604,6 +1609,11 @@ hash = "4771a99f34e75fb499605ce8add8df8e9afa52fa8acdef064da85c4f632226e2"
 metafile = true
 
 [[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "fb317684448237e6abc00d035d2054d57ab00a85303056391bf721e15b2298e0"
+metafile = true
+
+[[files]]
 file = "mods/wizards.pw.toml"
 hash = "6851c8692100d195a4a5b7eb9cd5e995a65d630674aca9012d84850cd556d677"
 metafile = true
@@ -1791,6 +1801,10 @@ hash = "c8e2b8d259a279fde79bbd9f03d80515d145543997080cbce025624586f5ed6e"
 [[files]]
 file = "required_resources/Shadow Wizard Money Gang Resource Pack.zip"
 hash = "43b14dcbe3b56d765691cd7cc2f52fd3cbfd9b7e868bc4b875d48493d39c0d4b"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1.zip"
+hash = "f4925044d6975225296cb9cb84b3ee9388bc00d3aacce066eee92bc427ca66cf"
 
 [[files]]
 file = "unsup.toml"
