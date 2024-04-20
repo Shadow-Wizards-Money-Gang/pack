@@ -149,6 +149,18 @@ file = "config/debugify.json"
 hash = "b7651c21ec5a9a30267b76898932f51dc2f7a9efa5220e45450d7340ea6574a7"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "3f1d7768882b9e362d8175d24d208a0b5a5fa48214bfcd87fbf303694574b7bd"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "f9f320aaa80e0fe5ea034ebf65c37abd5eb512e145b7401d78f6f2d6d4301826"
+
+[[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "b5ba7f3f71c5ce9dd61d223a2647b0c54de459e969d0b74a14c656e2f8821d67"
+
+[[files]]
 file = "config/dummmmmmy-client.json"
 hash = "72e7adf3122bc222aa5536519942b1f2f0c6b78b0c582914dfe198296cba8694"
 
