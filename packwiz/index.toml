@@ -805,6 +805,11 @@ hash = "50e3b067e93d3e6683d540edc4d046ed7b6b5fbb31409df1727b120f225b1975"
 metafile = true
 
 [[files]]
+file = "mods/chais-inventory-sorter.pw.toml"
+hash = "5fd86a259b337bf7e35eea4ac3c26dc587722e4720a4e5f8a18711cc260c8584"
+metafile = true
+
+[[files]]
 file = "mods/charmonium.pw.toml"
 hash = "f2e1d6a93b68fbec1adbbb8fa107682a7fced5115b02a33f1e7eb70c50018c84"
 metafile = true
@@ -933,7 +938,7 @@ metafile = true
 
 [[files]]
 file = "mods/dye-depot.pw.toml"
-hash = "a776024c39b8f5e0a83e54a0e1293907afa2eb3d8227958f0d59a23a742ac30c"
+hash = "d40e69fefae60b071f360cea4319acd85504582b65d9c602e10ea907d624e908"
 metafile = true
 
 [[files]]
@@ -1250,13 +1255,8 @@ hash = "2f0c93ad0f3b6ecc79294fd5cb42a407d9d43934f6e9d279e6818040184e8b68"
 metafile = true
 
 [[files]]
-file = "mods/morecreativetabs.pw.toml"
-hash = "a9e48c9baee2a1c13342460ff44f85cc6eb1cd4603d8a40374a6026dad5b61f6"
-metafile = true
-
-[[files]]
 file = "mods/moreculling.pw.toml"
-hash = "aeb80ffcd7d25d95429f93b54e31d620f85e75a08769126d77031bd8fb262cbf"
+hash = "979e6d73369f2e45666e49c387f7f4f9b266df1085d4a7a949039aac461b3c13"
 metafile = true
 
 [[files]]
@@ -1306,7 +1306,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "9e938d8335c88f4968e29f74818d9a6be96a21973cd2f56de28a75c79793395a"
+hash = "bcadc72714d39c68453963f133d2c6f7123b72724a582cdbb4dd3af66a1e0baa"
 metafile = true
 
 [[files]]
@@ -1778,7 +1778,7 @@ hash = "ff0cb88fff53f82282b3a0c30872ef16393663f0f3488ffd6984c5c2e7ba7d60"
 
 [[files]]
 file = "required_resources/Shadow Wizard Money Gang Resource Pack.zip"
-hash = "2890b253e760cf8a4abc29627078c72227b351d000f6846d7bb646112b1cd00b"
+hash = "43b14dcbe3b56d765691cd7cc2f52fd3cbfd9b7e868bc4b875d48493d39c0d4b"
 
 [[files]]
 file = "unsup.toml"

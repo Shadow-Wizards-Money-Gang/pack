@@ -1,13 +1,13 @@
 name = "Packet Fixer"
-filename = "PacketFixer-fabric-1.20.1-1.2.8.jar"
+filename = "packetfixer-fabric-1.3.0-1.19-to-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "64da4e6968b90400c401155f6bcac8a41e5f6c32"
+hash = "52fb99ebd7df7ab4ccaf94a4112967d99f20fe2e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5128793
+file-id = 5276145
 project-id = 689467
