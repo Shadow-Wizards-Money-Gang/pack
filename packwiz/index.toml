@@ -1107,11 +1107,6 @@ hash = "8acc9b4cc9392bdc17dfafd4102c3145514a863a00e5b5bb6c326135079b1e7f"
 metafile = true
 
 [[files]]
-file = "mods/kaffees-dual-ride.pw.toml"
-hash = "aec565d92734e89cff9aae713f93ce8013c0edb9b63546dcb4d960e6cbe74730"
-metafile = true
-
-[[files]]
 file = "mods/kiwi-fabric.pw.toml"
 hash = "c1111166478d81fd6dca93fcfc52e911521df0a6d24300fa50e719905be42981"
 metafile = true
