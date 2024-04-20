@@ -702,7 +702,7 @@ hash = "75260b1eea1cdb9671dd1e3426d875ad081a13b734253b218f577d7dd6852012"
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "bedc5fd207a9959c72565f0131b65a8eec71dcdef3e83f6c4556f81e7292326a"
+hash = "a54e4390b9359fa2503c611f6d0228d5cb98d678dd4b8e5a74577d914e0aa412"
 metafile = true
 
 [[files]]
@@ -1068,7 +1068,7 @@ metafile = true
 
 [[files]]
 file = "mods/inverse-phantoms.pw.toml"
-hash = "99b9f813586d623fe41c0d37b54413620a30dd0eb7bfa171ffc71f08f965f4a9"
+hash = "09bda00568bb0ce832f0860817b94f1f21577408a326c3c211f7e2c59c7979cf"
 metafile = true
 
 [[files]]
@@ -1476,7 +1476,7 @@ metafile = true
 
 [[files]]
 file = "mods/spice-of-fabric.pw.toml"
-hash = "6fbcbd33edab029f2bdab8c4086d8eaefc1898d3e6f3ede884f890e4f17e93b0"
+hash = "6ce103cf463401162eb2f09934b5aed9277e1f4788879e11d41b3574c6f7b37c"
 metafile = true
 
 [[files]]
@@ -1583,7 +1583,7 @@ metafile = true
 
 [[files]]
 file = "mods/you-thief-remastered-edition.pw.toml"
-hash = "eda94bdf51282d0424e916bdff60f0d72c8c0c0670d41171fed7a4d7b687d9ef"
+hash = "ee92484703afd489f205d79b371e13a860c47923cb4870e79fb9e42416ca00bd"
 metafile = true
 
 [[files]]
@@ -1593,7 +1593,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-mineshafts.pw.toml"
-hash = "540d5f43dc1c27980097f1d11609ffa3b863e36910d835c16e51ea10ee40ae8c"
+hash = "2bb58b3921466f6f40b48830415c2e8b6bdacd3b126706ff141014004dad815f"
 metafile = true
 
 [[files]]

@@ -1,6 +1,6 @@
 name = "You Thief: Remastered Edition"
 filename = "Youthief-1.4.0-FABRIC.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/iW1mqMeb/versions/153zmuSd/Youthief-1.4.0-FABRIC.jar"
