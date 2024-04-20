@@ -4,6 +4,22 @@
 	{
 	  "id": "consecration:fire_stick",
 	  "required": false
+	},
+	{
+		"id": "bombastic_crystals:crystalline_bow",
+		"required": false
+	},
+	{
+		"id": "bombastic_crystals:crystalline_claymore",
+		"required": false
+	},
+	{
+		"id": "bombastic_crystals:crystalline_dagger",
+		"required": false
+	},
+	{
+		"id": "bombastic_crystals:crystalline_staff",
+		"required": false
 	}
   ]
 }

@@ -1634,7 +1634,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/enchancement/tags/items/retains_durability.json"
-hash = "63093696fbaab407b04268226d7746de18f02e54fe74e0623036e9d285cceac9"
+hash = "462198a5fb6df2e11a258aa59423fc76b03f826cceb713db78df5bcbd9a196d3"
 
 [[files]]
 file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/guardvillagers/loot_tables/entities/guard_chestplate.json"
