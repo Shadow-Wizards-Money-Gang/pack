@@ -514,7 +514,7 @@ hash = "6e8bfe7a4c301de6e1658f8995a5bc533f6ec850aa57f701e23adf5fb9d708e9"
 
 [[files]]
 file = "config/shadow-wizards.json5"
-hash = "eccd73cc8655a2f699d314bc741c74d0ecc3bd1881cf683421ffdc1ac220986f"
+hash = "30efc3d5b5c50d85387c13b9f7d7c90d7e901c988443ff2dd4d202db2bd3c144"
 
 [[files]]
 file = "config/snowrealmagic-client.yaml"
@@ -754,7 +754,7 @@ metafile = true
 
 [[files]]
 file = "mods/azurelib.pw.toml"
-hash = "db42581c6dd8b2e518f999500b68397f595344e78f216ff174ac37aa1ce6598e"
+hash = "eae248a59ef6afb914b70acfde38ed278a0de33f8f63972f5e14e31a3693886d"
 metafile = true
 
 [[files]]
@@ -775,11 +775,6 @@ metafile = true
 [[files]]
 file = "mods/better-combat-by-daedelus.pw.toml"
 hash = "93d8db3c64f1770e62a847782836a57996b3ce4f7a4462cf084e42c4f83d19ee"
-metafile = true
-
-[[files]]
-file = "mods/better-underwater-ruins.pw.toml"
-hash = "d29a7b417432dd8ea0e0c1535ca6ec26e75cad58eec96c80037dbf24ed1634c1"
 metafile = true
 
 [[files]]
@@ -1074,6 +1069,11 @@ hash = "d61ec313523785b4a65542848ccc414d2387c826754a9ffd5d6ed43ad87b95d7"
 metafile = true
 
 [[files]]
+file = "mods/hopo-better-underwater-ruins.pw.toml"
+hash = "a333b9ef66ad308ed9f9c7efc32225d299bb13f2101c0eebf2ffee373472d8f6"
+metafile = true
+
+[[files]]
 file = "mods/horseshoes.pw.toml"
 hash = "cbe17772faf2737c78592ad610982b12ba76c208d4ec530d6a896dbdab382099"
 metafile = true
@@ -1146,6 +1146,11 @@ metafile = true
 [[files]]
 file = "mods/kiwi-fabric.pw.toml"
 hash = "c1111166478d81fd6dca93fcfc52e911521df0a6d24300fa50e719905be42981"
+metafile = true
+
+[[files]]
+file = "mods/kobold-outpost.pw.toml"
+hash = "4f62f4a4618b01b70352c77109374883ac08e93e04e606a6b70b59a25c8c826a"
 metafile = true
 
 [[files]]
@@ -1242,6 +1247,11 @@ hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
 metafile = true
 
 [[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "50149a97b2d959bfac8e1c377fdab49fc52f1439d004b1ac1c26a3a7f790e044"
+metafile = true
+
+[[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
 metafile = true
@@ -1268,7 +1278,7 @@ metafile = true
 
 [[files]]
 file = "mods/monolib.pw.toml"
-hash = "2f0c93ad0f3b6ecc79294fd5cb42a407d9d43934f6e9d279e6818040184e8b68"
+hash = "72ae22bf323bad4f612eaacb9948d9ec2d7bd09810feffd4e54fe3f286973dfd"
 metafile = true
 
 [[files]]
@@ -1279,6 +1289,11 @@ metafile = true
 [[files]]
 file = "mods/morecullingextra.pw.toml"
 hash = "195c57beb3db8380c6ffe13851490be377844ce96cbd142ae96625650b4badb3"
+metafile = true
+
+[[files]]
+file = "mods/mythic-mobs.pw.toml"
+hash = "a1190763c29d3e0f0dd76fe7932bfecbe51cff575a00b9a70718fa3861760841"
 metafile = true
 
 [[files]]
@@ -1323,7 +1338,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "bcadc72714d39c68453963f133d2c6f7123b72724a582cdbb4dd3af66a1e0baa"
+hash = "15851e775c9b8b5cc944d2f8684a7b0592ccab5ca8d1fa1b0d817033e195c587"
 metafile = true
 
 [[files]]
@@ -1333,12 +1348,17 @@ metafile = true
 
 [[files]]
 file = "mods/pandalib.pw.toml"
-hash = "a4a37ce6b9207bc50f8346f5aa9c97d1bdd6e44013136da7e7d9c4ef9f15d02c"
+hash = "d9240454b5f74fd67d2e8f24356f5172843debfa9ff10a17941e21cf93af5db4"
 metafile = true
 
 [[files]]
 file = "mods/pandas-falling-trees.pw.toml"
-hash = "af5c314a54f427397f83b877bfa51088ac8e211de3875848a92d370c256847b4"
+hash = "dc57831eaac0c8f7b41ebaf50df727992f7e5fcdddcc0ece281be3a2e1757ffe"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "89e5cab6f92dbcfd6c2c058fc9381869fde193a431c284dbb828833e881cd344"
 metafile = true
 
 [[files]]

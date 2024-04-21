@@ -1,0 +1,13 @@
+name = "Kobold Outpost"
+filename = "kobold-outposts-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f94bb84f30d80d1ff0de7deb2d13e2501e78740d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5046772
+project-id = 964448

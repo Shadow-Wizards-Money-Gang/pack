@@ -333,6 +333,78 @@
 			0,
 			0,
 			18
+		],
+		"rootsclassic:pestle": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		]
+		"rootsclassic:mortar": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"rootsclassic:rooty_stew": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		]
+		"rootsclassic:fruit_salad": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"rootsclassic:nightshade": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		]
+		"rootsclassic:blackcurrant": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"rootsclassic:redcurrant": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		]
+		"rootsclassic:whitecurrant": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"rootsclassic:elderberry": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
 		]
 	},
 	"ITEM_CATEGORY_REQUERIMENTS": {

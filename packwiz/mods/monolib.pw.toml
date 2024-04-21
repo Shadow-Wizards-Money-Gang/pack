@@ -1,13 +1,13 @@
 name = "MonoLib"
-filename = "monolib-fabric-1.20.1-1.0.1.jar"
+filename = "monolib-fabric-1.20.1-1.1.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "dde75443eee1e42e3cb589f1ac338bee1fada73a"
+hash = "c6ccc91122015359009b921c815d0305e3644e74"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5106309
+file-id = 5277018
 project-id = 968432
