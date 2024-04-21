@@ -621,6 +621,10 @@ file = "config/spellbladenext/server.json5"
 hash = "b8e9a16a9b4e4e92c7555b0999f20bb9679ddc39bea55bf06f029892bb039a95"
 
 [[files]]
+file = "config/spiceoffabric.hjson"
+hash = "b8058290222eaafd95d691f35513b2940a99cfc35e1bbaf647c146c5e58809ef"
+
+[[files]]
 file = "config/structureessentials.json"
 hash = "34e14e20cd7ffa970d0bcdea197741519357ae7162f1f458d598da244ac19bea"
 
@@ -814,11 +818,6 @@ metafile = true
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "50e3b067e93d3e6683d540edc4d046ed7b6b5fbb31409df1727b120f225b1975"
-metafile = true
-
-[[files]]
-file = "mods/chais-inventory-sorter.pw.toml"
-hash = "5fd86a259b337bf7e35eea4ac3c26dc587722e4720a4e5f8a18711cc260c8584"
 metafile = true
 
 [[files]]
