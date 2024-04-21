@@ -9,7 +9,7 @@
 [vulnerability]
 	#The number of seconds that vulnerability from fire lasts.
 	#Range: 0 ~ 100
-	fireVulnerableDuration = 10
+	fireVulnerableDuration = 3
 	#The materials that will be considered holy.
 	holyMaterials = ["silver"]
 	#The number of seconds that vulnerability from holy sources lasts.

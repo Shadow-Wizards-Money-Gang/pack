@@ -110,7 +110,7 @@ hash = "4ae8241015ed1dad4c97bf133d4dd48f07fb9ed409b95b7e70e5df0470b83221"
 
 [[files]]
 file = "config/consecration-server.toml"
-hash = "bbb1c8b293a8435f4a4519cfde08ad61a89d1aee2415e06cfbffe7569c65f1a2"
+hash = "852d23990068c0bb2a05031321441bbff7363273ef1196f4ae4802c63c238244"
 
 [[files]]
 file = "config/continuity.json"
@@ -1695,7 +1695,7 @@ hash = "2c4344b5dd8415862bfcceebfcdb3807ef2391c1713765028e9cf324b8a2cbd0"
 
 [[files]]
 file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/consecration/tags/damage_type/holy.json"
-hash = "7b3e313a9d682471244b12452a90426c0ec118c87a7e548a7f43403c7ecbb078"
+hash = "6d4b890c479378ec85a7d6c47de81e2aa4d33ea7f67cec61f56258869ceb4319"
 
 [[files]]
 file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/ctov/worldgen/structure_set/villages.json"
