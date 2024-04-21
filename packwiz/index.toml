@@ -1695,7 +1695,7 @@ hash = "2c4344b5dd8415862bfcceebfcdb3807ef2391c1713765028e9cf324b8a2cbd0"
 
 [[files]]
 file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/consecration/tags/damage_type/holy.json"
-hash = "6d4b890c479378ec85a7d6c47de81e2aa4d33ea7f67cec61f56258869ceb4319"
+hash = "1248ebe5d6207dcd16dd28abbc79ae701eb9ae1d570f370fa8576cc022e610bc"
 
 [[files]]
 file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/ctov/worldgen/structure_set/villages.json"
