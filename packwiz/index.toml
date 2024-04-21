@@ -1601,11 +1601,6 @@ hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
 metafile = true
 
 [[files]]
-file = "mods/ultris.pw.toml"
-hash = "fbae272c03e36e382e39939f410fd5b9ae771a7b6f956890512f71c5a6a2d159"
-metafile = true
-
-[[files]]
 file = "mods/umu_backpack-5.1-1.20.1.jar"
 hash = "e0d3640e165f850a3710df3a2b096058d0e34fe2b333fc186ced79412be91194"
 
