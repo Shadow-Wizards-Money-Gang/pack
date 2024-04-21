@@ -778,6 +778,11 @@ hash = "93d8db3c64f1770e62a847782836a57996b3ce4f7a4462cf084e42c4f83d19ee"
 metafile = true
 
 [[files]]
+file = "mods/better-mineshaft.pw.toml"
+hash = "1a06a46a1f78e713e070beb02d0ff9a4cad3365898a4dadda6deb3eb587b7878"
+metafile = true
+
+[[files]]
 file = "mods/blur-fabric.pw.toml"
 hash = "5f53eb8d272bfec2c6f58d6d744397b8152d7561a370f1d6e7e1e495fc4a1e7a"
 metafile = true
@@ -1654,8 +1659,18 @@ hash = "95d6181cf78eb40066382ec4cdc27b101bda35e4a84523d7c46b4d936727af98"
 metafile = true
 
 [[files]]
+file = "mods/yungs-better-desert-temples.pw.toml"
+hash = "911d7f5d030bc0990e87e2a3cd113ef059c8229849f131f5957ae275634a9247"
+metafile = true
+
+[[files]]
 file = "mods/yungs-better-mineshafts.pw.toml"
 hash = "2bb58b3921466f6f40b48830415c2e8b6bdacd3b126706ff141014004dad815f"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments.pw.toml"
+hash = "925ed414ce82dd8e694288782a43a9ebaa5eb1752d7ad4e4ce3dd359040402e5"
 metafile = true
 
 [[files]]
