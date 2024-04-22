@@ -792,8 +792,8 @@ hash = "5f53eb8d272bfec2c6f58d6d744397b8152d7561a370f1d6e7e1e495fc4a1e7a"
 metafile = true
 
 [[files]]
-file = "mods/bombastic-crystals-v1+1.20.1.jar"
-hash = "53c32b33715b42af1c0bf5522064e7146fc589d0d0e426d9ea593ea70724fdab"
+file = "mods/bombastic-crystals-v1.1+1.20.1.jar"
+hash = "cd952b19f3068da8a83612f3667445059491c942dd7884f367a3217e168791c4"
 
 [[files]]
 file = "mods/borderless-mining.pw.toml"
@@ -1462,8 +1462,8 @@ hash = "1cda49a5161ed2661ac3e503e7103e5088b44effe757e8fa5c08cbae35959d93"
 metafile = true
 
 [[files]]
-file = "mods/shadow-wizards-0.1.0.jar"
-hash = "9510670d51bdc0d604a15f5a764b5a68cbed596ffa57d96ea66cd725000593ea"
+file = "mods/shadow-wizards-0.1.1.jar"
+hash = "cb8c65d15b489a0a80f7d2d253cd0fc810848026571491fcfe1df6a2a60c22e3"
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
