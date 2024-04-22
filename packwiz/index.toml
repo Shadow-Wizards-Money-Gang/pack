@@ -450,7 +450,7 @@ hash = "03566f5b722d000ee785cccf8a55651c75c7bc00fea16d2538899578188ebb32"
 
 [[files]]
 file = "config/playerex.json"
-hash = "d5f4428633469cd37eacf6b5cb1f104a29f8093a1a54aca579a62771d88e5e34"
+hash = "573ed274bd21f6cf0f92ff500f34adae298146e21d8e6705ef1725766e2a8697"
 
 [[files]]
 file = "config/presencefootsteps/updater.json"
