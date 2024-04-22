@@ -713,6 +713,10 @@ file = "mods/FastMove-1.20.1-1.0.8-beta.jar"
 hash = "75260b1eea1cdb9671dd1e3426d875ad081a13b734253b218f577d7dd6852012"
 
 [[files]]
+file = "mods/RespawningAnimals-v8.2.0-1.20.1-Fabric.jar"
+hash = "0092667db977de01b68f2715410f2848390184a886a8fa36d0253f625da2bc1f"
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "a54e4390b9359fa2503c611f6d0228d5cb98d678dd4b8e5a74577d914e0aa412"
 metafile = true
@@ -1426,11 +1430,6 @@ metafile = true
 [[files]]
 file = "mods/respawn-obelisks.pw.toml"
 hash = "985bd0ed5d870f85a2ab963f5cfd2138431987d21c0135a24a805dcbfef1bca7"
-metafile = true
-
-[[files]]
-file = "mods/respawning-animals.pw.toml"
-hash = "eb7ae6600a7479e4408944171de99fa766e37d4315b8038b87d68ceca88c68f2"
 metafile = true
 
 [[files]]
