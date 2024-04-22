@@ -65,6 +65,30 @@ event.shaped(
   }
 )
 
+event.shaped(
+  Item.of('shadow-wizards:iron_rapier', 1), // arg 1: output
+  [
+    '  A',
+    'CA ', // arg 2: the shape (array of strings)
+    'BC '
+  ],
+  {
+    A: 'minecraft:iron_ingot',
+    B: 'minecraft:stick',
+    C: 'minecraft:chain'
+  }
+)
+
+event.shapeless('4x shadow-wizards:fire_grease', [ // arg 1: output
+  'minecraft:bone_meal',
+  'minecraft:coal',
+  '4x shadow-wizards:resin'
+])
+event.shapeless('shadow-wizards:fire_grease', [ // arg 1: output
+  '2x minecraft:coal',
+  '2x shadow-wizards:resin'
+])
+
 let minerals = ["ruby", "topaz", "citrine", "jade", "sapphire", "tanzanite"]
 minerals.forEach(element => {
   event.replaceInput(

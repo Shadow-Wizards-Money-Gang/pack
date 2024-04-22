@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/GoodOlRegen.sf.ini"
-hash = "7b2413fb347689f7995ec01760dffebd05994dd344b8eacf35b733c1c1e42b9f"
+hash = "f1d9e5c548db86f672e8841af019ed27e8f136a91b150110f01e3430e1f35829"
 
 [[files]]
 file = "config/NoChatReports/NCR-Client.json"
@@ -227,10 +227,6 @@ hash = "582b93ab2b24e82e6d904f7030d95269d7b0326495d19017b63d58ebea2ac15b"
 [[files]]
 file = "config/fallingtrees_client.json"
 hash = "999a84563549e098978ef10d8cc7e3fc5f71145d44095097625154b4de8e73c8"
-
-[[files]]
-file = "config/fallingtrees_common.json"
-hash = "64cebc500d9145a41946dc19ed32ec8b3a8eb27e6763a03dce02fde84a02669a"
 
 [[files]]
 file = "config/fastmove.toml"
@@ -622,7 +618,7 @@ hash = "b8e9a16a9b4e4e92c7555b0999f20bb9679ddc39bea55bf06f029892bb039a95"
 
 [[files]]
 file = "config/spiceoffabric.hjson"
-hash = "b8058290222eaafd95d691f35513b2940a99cfc35e1bbaf647c146c5e58809ef"
+hash = "ef31c83efaee5b2163304988f7c6b08a7844a6ea2859e5ef6dc79d25fb3b6d87"
 
 [[files]]
 file = "config/structureessentials.json"
@@ -698,7 +694,7 @@ hash = "47130ec50fa27e6bd01efdc1ebba501d7d6eebfb2948aac78651406c08222ced"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "48b16b14d948f2481d66e7df9de571fb72cf082ba30c1ae5d2ff6548e23ee5e4"
+hash = "31e2c39d999f9df1b6a307ff11f622cbbc13b2e7c37881aaee9889a09ab128af"
 
 [[files]]
 file = "kubejs/server_scripts/worldgen.js"
@@ -833,6 +829,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "dadd793b51256bff8255750e6b75f4eb9133b34fd18be36010893322467bea6b"
 metafile = true
 
 [[files]]
@@ -1351,16 +1352,6 @@ hash = "57b8a5d76bf66af547618353b986d3b9a7663b3e7efc7cfe5382207ae84405d9"
 metafile = true
 
 [[files]]
-file = "mods/pandalib.pw.toml"
-hash = "d9240454b5f74fd67d2e8f24356f5172843debfa9ff10a17941e21cf93af5db4"
-metafile = true
-
-[[files]]
-file = "mods/pandas-falling-trees.pw.toml"
-hash = "dc57831eaac0c8f7b41ebaf50df727992f7e5fcdddcc0ece281be3a2e1757ffe"
-metafile = true
-
-[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "89e5cab6f92dbcfd6c2c058fc9381869fde193a431c284dbb828833e881cd344"
 metafile = true
@@ -1435,6 +1426,11 @@ metafile = true
 [[files]]
 file = "mods/respawn-obelisks.pw.toml"
 hash = "985bd0ed5d870f85a2ab963f5cfd2138431987d21c0135a24a805dcbfef1bca7"
+metafile = true
+
+[[files]]
+file = "mods/respawning-animals.pw.toml"
+hash = "eb7ae6600a7479e4408944171de99fa766e37d4315b8038b87d68ceca88c68f2"
 metafile = true
 
 [[files]]
@@ -1595,6 +1591,11 @@ hash = "00a0cba74675174812eea16aca533adfe9bac7b30a81a7e33dd81bd9343b45c4"
 metafile = true
 
 [[files]]
+file = "mods/tree-harvester.pw.toml"
+hash = "958e475fe348187dc7af3507d36f9f60b2dbe07a69f719e8a65b6f3062d12db6"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
 metafile = true
@@ -1750,7 +1751,7 @@ hash = "23a2163a9c2c1844236cbc9dbabc6d1dfde261c2c1b7873e6ec8e8d977eebcf8"
 
 [[files]]
 file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/playerex/attributes/functions.json"
-hash = "6f035878097faf0b326f9958e61d276a8b4248b9ea175a8d88c65b2d5f4a4c5f"
+hash = "db59446fdcd0bfb810633b1b96a0cebf7631d3f045215ccbd71c6b30482b3d74"
 
 [[files]]
 file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/playerex/attributes/overrides/level.json"

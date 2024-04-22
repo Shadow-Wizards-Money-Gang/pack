@@ -49,6 +49,10 @@
             	"behaviour": "MULTIPLY",
             	"value": 0.02
             },
+			"playerex:evasion": {
+            	"behaviour": "ADDITION",
+            	"value": 0.01
+            },
             "projectile_damage:generic": {
             	"behaviour": "ADDITION",
             	"value": 0.25
@@ -97,10 +101,6 @@
             	"behaviour": "ADDITION",
             	"value": 0.1
             },
-            "playerex:evasion": {
-            	"behaviour": "ADDITION",
-            	"value": 0.02
-            },
             "playerex:melee_crit_chance": {
             	"behaviour": "ADDITION",
             	"value": 0.02
@@ -108,6 +108,20 @@
             "playerex:ranged_crit_chance": {
             	"behaviour": "ADDITION",
             	"value": 0.02
+            }
+        },
+		"playerex:wisdom": {
+        	"playerex:fire_resistance": {
+            	"behaviour": "ADDITION",
+            	"value": 0.01
+            },
+            "playerex:freezing_resistance": {
+            	"behaviour": "ADDITION",
+            	"value": 0.01
+            },
+            "playerex:breaking_speed": {
+            	"behaviour": "ADDITION",
+            	"value": 0.01
             }
         }
     }
