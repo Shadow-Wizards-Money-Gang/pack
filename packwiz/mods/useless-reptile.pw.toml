@@ -1,13 +1,13 @@
 name = "Useless Reptile"
-filename = "uselessreptile-0.7.0-1.20.1.jar"
+filename = "uselessreptile-0.7.1-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "3324be25c46b32acbfcb4f049146953a15e609f2"
+hash = "2fd823b1df0df374d99ca26899cb4d45a528642f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5274989
+file-id = 5280736
 project-id = 677634

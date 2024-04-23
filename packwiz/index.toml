@@ -693,6 +693,10 @@ file = "kubejs/config/common.properties"
 hash = "47130ec50fa27e6bd01efdc1ebba501d7d6eebfb2948aac78651406c08222ced"
 
 [[files]]
+file = "kubejs/server_scripts/events.js"
+hash = "0a6d8536458d9e98c184837e714ba99c6af2d379265a65bea1088b4e07dc3565"
+
+[[files]]
 file = "kubejs/server_scripts/recipes.js"
 hash = "31e2c39d999f9df1b6a307ff11f622cbbc13b2e7c37881aaee9889a09ab128af"
 
@@ -728,7 +732,7 @@ metafile = true
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
-hash = "299e9bb9446e7b10045c0848eba53edd8bdb64630805f24441d0af8c25579b18"
+hash = "6ddf7431483166f10ac732ded0b344358ed66eea5351bfcbca1beb7fbd43d893"
 metafile = true
 
 [[files]]
@@ -758,7 +762,7 @@ metafile = true
 
 [[files]]
 file = "mods/azurelib.pw.toml"
-hash = "eae248a59ef6afb914b70acfde38ed278a0de33f8f63972f5e14e31a3693886d"
+hash = "689adb1cb4a1738cd1883da0d7e583ec3e598e8b137f889f8451de0f9d760aa9"
 metafile = true
 
 [[files]]
@@ -837,12 +841,12 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "dadd793b51256bff8255750e6b75f4eb9133b34fd18be36010893322467bea6b"
+hash = "80b21c388981aed2c368faf436e26f0214eab921cef2cdda625261e3483dfe69"
 metafile = true
 
 [[files]]
 file = "mods/consecration.pw.toml"
-hash = "6f2d522648945f8c751a55adf7567f4c25d5e8c0e2d738bba1ceb95a58f05707"
+hash = "d611011459f0ef6e2fc1b3ecb16e8246f6f1cfcd8f795305c78163967256cd2a"
 metafile = true
 
 [[files]]
@@ -930,7 +934,7 @@ metafile = true
 
 [[files]]
 file = "mods/dungeon-now-loading.pw.toml"
-hash = "c00c0f0b67abcc6938f80d01099998f8f5145975d6323290c1ff096eb7116cf6"
+hash = "0b9724e1aace0d453df08b7b702d07bfd722adbbbca3531ee7fe0d86c5def24f"
 metafile = true
 
 [[files]]
@@ -984,7 +988,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchancement.pw.toml"
-hash = "168bd4759ad7d37d8c041a71ebcf0ce5ef8883bd6ff2767ac0c5a223c320347a"
+hash = "6faeb661c60d91da000cd50405d4c558832c87bba6816af589f2b7b29e675352"
 metafile = true
 
 [[files]]
@@ -1371,8 +1375,8 @@ hash = "ba530a2e04476bef87448769a8d3609a9225065dfaed24a54c401c3035a79ed3"
 metafile = true
 
 [[files]]
-file = "mods/playerex-3.6.2+wizards+1.20.1.jar"
-hash = "f9cb9e63a966f7e71849659664707d38c97a57b085e78c101f8ee13c85b6edce"
+file = "mods/playerex-3.6.3+wizards+1.20.1.jar"
+hash = "3510dfc45607fae6bd326f1ad6d6512ffea9807e9538804350c50bb57eb3bb20"
 
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
@@ -1522,7 +1526,7 @@ metafile = true
 
 [[files]]
 file = "mods/spellblade-next.pw.toml"
-hash = "5559bc186bcf02372f80a9cc02464395ec9b22d296ee6d9a854ec511c8a4bf88"
+hash = "88e96d2c5bac989c3a938512e023e63af7435fa2e40b2d7041ca2a60e6b95d8d"
 metafile = true
 
 [[files]]
@@ -1571,7 +1575,7 @@ metafile = true
 
 [[files]]
 file = "mods/surveyor.pw.toml"
-hash = "b35f04445ccc2d84146c9d832491f1e175a17186efbdfab5e8923509817337d2"
+hash = "812333bc4c982bed24e8f585b3a90e38b2cd3584533b2b7616479691dfda904f"
 metafile = true
 
 [[files]]
@@ -1605,7 +1609,7 @@ hash = "e0d3640e165f850a3710df3a2b096058d0e34fe2b333fc186ced79412be91194"
 
 [[files]]
 file = "mods/useless-reptile.pw.toml"
-hash = "3e07c47fd46cf98b6be43c118575b072b2f1971a84881f9b9abe170a518dda95"
+hash = "a6760487f5c8b05e6878ccda7c2c7bb556caad7a404a83bb821abcfdd591cac5"
 metafile = true
 
 [[files]]
