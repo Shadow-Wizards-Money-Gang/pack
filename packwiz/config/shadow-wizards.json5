@@ -198,6 +198,46 @@
 			0,
 			0
 		],
+		"paladins:acolyte_wand": [
+			0,
+			5,
+			0,
+			0,
+			0,
+			0
+		],
+		"paladins:holy_wand": [
+			0,
+			5,
+			0,
+			0,
+			0,
+			0
+		],
+		"paladins:holy_staff": [
+			0,
+			5,
+			0,
+			0,
+			0,
+			0
+		],
+		"paladins:priest_spell_book": [
+			0,
+			18,
+			0,
+			0,
+			0,
+			0
+		],
+		"paladins:paladin_spell_book": [
+			9,
+			12,
+			0,
+			0,
+			0,
+			0
+		],
 		"paladins:crusader_armor_feet": [
 			9,
 			12,
@@ -397,7 +437,31 @@
 			0,
 			0,
 			0
-		]
+		],
+		"shadow-wizards:iron_rapier": [
+			0,
+			0,
+			6,
+			0,
+			0,
+			0
+		],
+		"shadow-wizards:gilded_rapier": [
+			0,
+			0,
+			6,
+			0,
+			0,
+			0
+		],
+		"shadow-wizards:distillery": [
+			0,
+			0,
+			0,
+			0,
+			9,
+			0
+		],
 	},
 	"ITEM_CATEGORY_REQUERIMENTS": {
 		"minecraft": [

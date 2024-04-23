@@ -522,7 +522,7 @@ hash = "cb33d48e8c3d60d977d6957a29baad2b219b447cdf2c7bcb3f9cb93961df4c50"
 
 [[files]]
 file = "config/majruszsdifficulty.json"
-hash = "8a00877b3d212d8a0df3604a727c17c1f98638410130381dc8be2340a66f6a6d"
+hash = "0ba2111ff7b7035dff392b0c0df35508d9f975a55824ac0bf5e2d4df14fdba5d"
 
 [[files]]
 file = "config/map_atlases-client.json"
@@ -590,7 +590,7 @@ hash = "83424b359c7ecb13bbc25eb82f87759538fa3092654b5e44871c7c90b2ccaeb4"
 
 [[files]]
 file = "config/paladins/items_v3.json"
-hash = "265c86e6c41c83e03c3282e87fbe5c19adbc3cd46c4f5b623fbee9473ac8c8bb"
+hash = "b73c1cd1649957aa12d9c220f755d3401bff5e970a56ceeb32c9c19a11af9690"
 
 [[files]]
 file = "config/paladins/villages.json"
@@ -598,7 +598,7 @@ hash = "1f055f8cdc62d4035fecc05af7a1b6398ff0f9efdacc4422c4e58d8ec0a253bb"
 
 [[files]]
 file = "config/passableleaves.json5"
-hash = "ab5042bffbadc3918decc3c9f07a9337dc5d1ed0fc38529373cb769783ac6f49"
+hash = "c70f3399426fb90aa8c2a09f9eb0001b70a5a0017c18a26be9dbbdc575ebc6f0"
 
 [[files]]
 file = "config/patchouli.json5"
@@ -694,7 +694,7 @@ hash = "6e8bfe7a4c301de6e1658f8995a5bc533f6ec850aa57f701e23adf5fb9d708e9"
 
 [[files]]
 file = "config/shadow-wizards.json5"
-hash = "874847d3a6cfb5739a69e9a4d5468e02a6b0d92aee0bbc2f1afcb056cc137d51"
+hash = "247d7089d9d930ff3b33639b93383d79d9c9deb8a6a3ecdcc504cf21861f76bb"
 
 [[files]]
 file = "config/snowrealmagic-client.yaml"
@@ -1517,10 +1517,6 @@ hash = "b1c6a2eb4bbc3e642afaa60127cb1a7013ff5d513c9addfa3354d0d7a781a8f8"
 metafile = true
 
 [[files]]
-file = "mods/majruszs-difficulty-fabric-1.20.1-1.9.9-wiz.jar"
-hash = "e92b6918c1010ff609adc377c17a4150195b310a1f1ec5cb07f1691efa6bd5dd"
-
-[[files]]
 file = "mods/map-atlases.pw.toml"
 hash = "9d98fa7d9d97129294e8858da41675ebb8131025c3de209e46725ed719903b07"
 metafile = true
@@ -1742,8 +1738,8 @@ hash = "1cda49a5161ed2661ac3e503e7103e5088b44effe757e8fa5c08cbae35959d93"
 metafile = true
 
 [[files]]
-file = "mods/shadow-wizards-0.1.2.jar"
-hash = "ec9a7a55ae280824dc492ea1085a57ea8619d01edd0c2d0ea5b4f591e6d85db6"
+file = "mods/shadow-wizards-0.1.3.jar"
+hash = "88dfe1944a4af6f9b7f086a8c618c3813e98360071bdc8cb9ff1eaab1c18dda3"
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
@@ -1969,6 +1965,134 @@ file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/archers/recipes/net
 hash = "a811c6d54839bfeb613596e4414c5d91d5b5e225a76412cabf3a5355465dbff8"
 
 [[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/bettercombat/weapon_attributes/anchor.json"
+hash = "199291e70e0e7f5c3413e51cd46506151e0ebe722d4e372bd8ace34897d57340"
+
+[[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/bettercombat/weapon_attributes/axe.json"
+hash = "9063ed9d4a224da4339258414f160ac6c2fafa1774023278d98c4bae5b632f9f"
+
+[[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/bettercombat/weapon_attributes/battlestaff.json"
+hash = "19bf4158ffd291da806bf9c6a76db093026bef8ae741c4262d57a8f3ba8a3519"
+
+[[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/bettercombat/weapon_attributes/bow_two_handed_heavy.json"
+hash = "6b6c5e00725631f1b08a6d992abd9ee84538f1115030e721c3b5c76d3796008a"
+
+[[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/bettercombat/weapon_attributes/bow_two_handed_light.json"
+hash = "5a6adab5ef615a563c6d576308fef0573f01c86fe3d8c843897507f5c35c4feb"
+
+[[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/bettercombat/weapon_attributes/claw.json"
+hash = "52d5cc52a8810ddc296ad8631404a44560eced0a8f231bd021114725c0260e32"
+
+[[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/bettercombat/weapon_attributes/claymore.json"
+hash = "a1dd4a0d0d34bf498b80fd4d0f22cc30cf9813ae6802c2a585b05c8216ac7266"
+
+[[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/bettercombat/weapon_attributes/coral_blade.json"
+hash = "3e19e7108b9172d74a90358bfd0bd85f0e47b93fcd6dce245edce13dd40be965"
+
+[[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/bettercombat/weapon_attributes/crossbow_two_handed_heavy.json"
+hash = "32e270b1d5ce296eb730ec0912263d8873c9d15d6029e89348540529f6fc6437"
+
+[[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/bettercombat/weapon_attributes/crossbow_two_handed_light.json"
+hash = "5a6adab5ef615a563c6d576308fef0573f01c86fe3d8c843897507f5c35c4feb"
+
+[[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/bettercombat/weapon_attributes/cutlass.json"
+hash = "9ca0afe76caad1b4c3e4e0f889656468dbaa3ff7577f535291b4b10907f28b0b"
+
+[[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/bettercombat/weapon_attributes/dagger.json"
+hash = "ffd1f6da2dd775d7078436e9b971803c282849328d04bd7515fcd9b40d38c5a5"
+
+[[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/bettercombat/weapon_attributes/double_axe.json"
+hash = "408e5d3f106dcf636617ba39732d8986c6a1267f4995863485541db1a4b22745"
+
+[[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/bettercombat/weapon_attributes/fist.json"
+hash = "e0409c22758216ec7f88e03f659e136d8952594811be12c71759b9fe5e6e79a8"
+
+[[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/bettercombat/weapon_attributes/glaive.json"
+hash = "9a11b5dd7c11c6c68132e5245d6784d848bf8ae1529e6aa825e3b0fb935fb880"
+
+[[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/bettercombat/weapon_attributes/halberd.json"
+hash = "3bf0813465587f9f3d4983f44581fac7943f595da3668f8d7cd00c2f881a224d"
+
+[[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/bettercombat/weapon_attributes/hammer.json"
+hash = "dd3ebfbb5c96907187594c8d0e89a9fe5a70648d96954d35907764f386aeb234"
+
+[[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/bettercombat/weapon_attributes/heavy_axe.json"
+hash = "737205037cda194b9a1a7902413462dc0d2f644a1db5cf3f6589629277fbc88d"
+
+[[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/bettercombat/weapon_attributes/katana.json"
+hash = "65e970d6752ab5cb08cf8cc2111a1adc07f19f2787b28a37ec6c74259078328d"
+
+[[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/bettercombat/weapon_attributes/lance.json"
+hash = "0649b34f774f005cba7abe76d06b38630dac843b8ec740dc5784e74c0f4770c3"
+
+[[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/bettercombat/weapon_attributes/mace.json"
+hash = "372355f9c02cf7b1c4e3992da5fa2f797619974ca9392b5575c8a77eda15e316"
+
+[[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/bettercombat/weapon_attributes/pickaxe.json"
+hash = "bbae2a97f48ba2a6388664253b1c365c4ca8b26e49d3566c1b7b2cce2f3aeeb4"
+
+[[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/bettercombat/weapon_attributes/rapier.json"
+hash = "d1b81bdba4df69bb66cb19fd8fd60cbae7b8e3ecf18d0f1caeb9ecfaf486fa81"
+
+[[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/bettercombat/weapon_attributes/scythe.json"
+hash = "e4775dc06748adcf975971af8472893928260556837241910c01010dd3fcd9b9"
+
+[[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/bettercombat/weapon_attributes/sickle.json"
+hash = "b50131ff6897660df4f3dbd81fa46c142ce717d66a488bd2b5cbcbf12d0ecf12"
+
+[[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/bettercombat/weapon_attributes/soul_knife.json"
+hash = "df387462d4cf7d81555ddaea39a37fc3d0ca3e6c2012f51e56702fcf230d8f21"
+
+[[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/bettercombat/weapon_attributes/spear.json"
+hash = "5c892d2aaeea82c436e4fc379e3f9698f8ac47b89536bb9ad6bf789c49526709"
+
+[[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/bettercombat/weapon_attributes/staff.json"
+hash = "c374ae00ca7013deae4e90cc455c62c4bbed916e2241db932822217eec35696d"
+
+[[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/bettercombat/weapon_attributes/sword.json"
+hash = "68a1f1a2108f2e6b6eb02fadabefa625c23d5f403faf555b95fe8d7064a3ebe0"
+
+[[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/bettercombat/weapon_attributes/trident.json"
+hash = "a39ac383adbee37178c0300c1f3201164d7e01b138df10ed34a6e286c8d49033"
+
+[[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/bettercombat/weapon_attributes/twin_blade.json"
+hash = "2933be44c86171f39e2a55dc0c2c140a82841d7853c2b783ae98d86a776eedbc"
+
+[[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/bettercombat/weapon_attributes/wand.json"
+hash = "9417e478365c9a2e658a281fda0b6ec6b5731eceab3f4f5b3acffc151834b053"
+
+[[files]]
 file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/brewery/recipes/netherite_brewingstation_smithing.json"
 hash = "2c4344b5dd8415862bfcceebfcdb3807ef2391c1713765028e9cf324b8a2cbd0"
 
@@ -2025,6 +2149,58 @@ file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/paladins/recipes/ne
 hash = "c9da810358c2e0302d5986f4fed3689b40f3ddf5fc1908492ec263c2bfca41f3"
 
 [[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/paladins/spell_assignments/diamond_holy_staff.json"
+hash = "f1aeb7a5c46a3a3f73f149d5aac4d47be178a13d2bf724483749d4ba827295fe"
+
+[[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/paladins/spell_assignments/diamond_holy_wand.json"
+hash = "f1aeb7a5c46a3a3f73f149d5aac4d47be178a13d2bf724483749d4ba827295fe"
+
+[[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/paladins/spell_assignments/netherite_holy_staff.json"
+hash = "f1aeb7a5c46a3a3f73f149d5aac4d47be178a13d2bf724483749d4ba827295fe"
+
+[[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/paladins/spell_assignments/netherite_holy_wand.json"
+hash = "f1aeb7a5c46a3a3f73f149d5aac4d47be178a13d2bf724483749d4ba827295fe"
+
+[[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/paladins/spells/barrier.json"
+hash = "152ba59400d0277113e44b548b87edcbafbf4ea2f402f5996a38f3a1cfbb0b97"
+
+[[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/paladins/spells/battle_banner.json"
+hash = "8d03f67c35c99e7a0314d4c376bf27a81cdfdf1204810cc720be60263ddd7974"
+
+[[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/paladins/spells/circle_of_healing.json"
+hash = "0464c00d1fadd8cbe0a0d3b969da24559c050770ff491495aff1c2586c928c3d"
+
+[[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/paladins/spells/divine_protection.json"
+hash = "4a482733ba9da66627c779bce36c5aee7f3443e6188fe6fe79fed75e8868e200"
+
+[[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/paladins/spells/flash_heal.json"
+hash = "e4bff9ab2230146387d464e792e701bff99192461dfdd551b9facca2fe076a88"
+
+[[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/paladins/spells/heal.json"
+hash = "d75bd642ea047bad384bf11496c9526a0bdf6574e48a3f62267f22dd7aa5d66a"
+
+[[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/paladins/spells/holy_beam.json"
+hash = "c4d784d0f0cc79b37d3fbdc67c2b1e636ec2481ea6fdb8f7e9c2c834ac5e0074"
+
+[[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/paladins/spells/holy_shock.json"
+hash = "8935403ba4077b2e80d7ecc1b8f5274babd165630fb2230250bc6d608c16b2d6"
+
+[[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/paladins/spells/judgement.json"
+hash = "5091c49f2297f6528b11d13992a3b20e23246aa5e505ce100a082714fa3fc222"
+
+[[files]]
 file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/playerex/attributes/entity_types.json"
 hash = "23a2163a9c2c1844236cbc9dbabc6d1dfde261c2c1b7873e6ec8e8d977eebcf8"
 
@@ -2063,6 +2239,30 @@ hash = "0c0f29ff560f19d0a4411a09f3d4b36b5159d053291ec11ce5c21f6666d25315"
 [[files]]
 file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/spellbladenext/spell_pools/tabula_rasa.json"
 hash = "d7a8f1629fd98a1037155011a722a078532b29658e0737f14307b0e5c62dfec2"
+
+[[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/spellslabextra/spells/arrow_rain.json"
+hash = "73428a23a314062f6b59eaca48d9f93ab095c8dcc2624fe2879b2b78a81b0645"
+
+[[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/spellslabextra/spells/force_push.json"
+hash = "953e065cc7487d2abe54cf4669674ee081c0af32b36ce84355adcea5917dd5b1"
+
+[[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/spellslabextra/spells/holy_rain.json"
+hash = "f62d0d0ef491ccee2e9ace21de87c33fc824cae4a9a122215317237203b87e69"
+
+[[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/spellslabextra/spells/ice_barrage.json"
+hash = "00f7e3b1f5242ada516b3510d33b3725cb4940d829b2193e09b6b371ee7ab2c3"
+
+[[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/spellslabextra/spells/scorch.json"
+hash = "ba14f64c796c0cfe440c66ea61c3343b648288b706a5f159f1245e0d80dafc25"
+
+[[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/spellslabextra/spells/stone_fist.json"
+hash = "f356b543e24f65d4ea95fd02e6e1d81aa2fb2d1c02637eab4fcf51c51ff322fc"
 
 [[files]]
 file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/trinkets/slots/charm/spell_book.json"
@@ -2114,7 +2314,7 @@ hash = "c8e2b8d259a279fde79bbd9f03d80515d145543997080cbce025624586f5ed6e"
 
 [[files]]
 file = "required_resources/Shadow Wizard Money Gang Resource Pack.zip"
-hash = "43b14dcbe3b56d765691cd7cc2f52fd3cbfd9b7e868bc4b875d48493d39c0d4b"
+hash = "bc3afcdc9aeed0c272b8da40f41efa57d2d340a580f8a7e5cf61fb8148e31e18"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.1.1.zip"

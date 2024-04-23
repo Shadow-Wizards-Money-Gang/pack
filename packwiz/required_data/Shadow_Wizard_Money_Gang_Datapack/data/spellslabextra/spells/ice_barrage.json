@@ -1,0 +1,91 @@
+{
+    "school": "FROST",
+    "range": 10,
+    "learn": {
+      "tier": 3
+    },
+    "cast": {
+      "duration": 1,
+      "animation": "spell_engine:one_handed_area_charge",
+      "sound": {
+        "id": "spell_engine:generic_frost_casting",
+        "randomness": 0
+      },
+      "particles": [
+        {
+          "particle_id": "spell_engine:snowflake",
+          "shape": "PIPE",
+          "origin": "CENTER",
+          "count": 0.5,
+          "min_speed": 0.1,
+          "max_speed": 0.2
+        }
+      ]
+    },
+    "release": {
+      "target": {
+        "type": "PROJECTILE",
+        "projectile": {
+          "launch_properties": {
+            "velocity": 1.7,
+            "extra_launch_count": 7,
+            "extra_launch_delay": 1
+          },
+          "projectile": {
+            "divergence": 25,
+            "client_data": {
+              "travel_particles": [
+                {
+                  "particle_id": "spell_engine:frost_hit",
+                  "shape": "CIRCLE",
+                  "rotation": "LOOK",
+                  "origin": "CENTER",
+                  "count": 1.0,
+                  "min_speed": 0.05,
+                  "max_speed": 0.1
+                }
+              ],
+              "model": {
+                "model_id": "wizards:projectile/frost_shard_projectile",
+                "scale": 0.8
+              }
+            }
+          }
+        }
+      },
+      "animation": "spell_engine:one_handed_projectile_release",
+      "sound": {
+        "id": "spell_engine:generic_frost_release"
+      }
+    },
+    "impact": [
+      {
+        "action": {
+          "type": "DAMAGE",
+          "damage": {
+            "spell_power_coefficient": 0.3,
+            "knockback": 2
+          }
+        },
+        "particles": [
+            {
+                "particle_id": "spell_engine:frost_shard",
+                "shape": "SPHERE",
+                "origin": "CENTER",
+                "count": 10.0,
+                "min_speed": 0.1,
+                "max_speed": 0.2
+            }
+        ],
+        "sound": {
+            "id": "wizards:ice_lance_impact",
+            "randomness": 1
+        }
+      }
+    ],
+    "cost": {
+      "cooldown_duration": 15,
+      "exhaust" : 0.3,
+      "item_id": "runes:frost_stone"
+    }
+  }
