@@ -1,0 +1,13 @@
+{
+	// CAMERA SETTINGS
+	cameraDistanceOffset: 2.0,
+	cameraVerticalOffset: 0.0,
+	cameraHorizontalOffset: -1.5,
+	enableCameraOffset: true,
+	enableCrosshair: true,
+	autoThirdPerson: true,
+	// DRAGON APPEARANCE
+	disableNamedEntityModels: false,
+	disableEmissiveTextures: false,
+	attackBoxesInDebug: false
+}

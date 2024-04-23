@@ -12,3 +12,4 @@ owl = true
 concussion_creeper = false
 #Should wither witches spawn anywhere where witches can spawn in the overworld.
 wither_witch = true
+

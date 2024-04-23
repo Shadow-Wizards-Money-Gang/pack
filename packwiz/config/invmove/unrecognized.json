@@ -1,0 +1,13 @@
+{
+  "allowMovement": {
+    "net.minecraft.class_434": true,
+    "folk.sisby.antique_atlas.gui.AtlasScreen": true,
+    "com.github.clevernucleus.playerex.client.gui.ExScreen": true,
+    "mezz.jei.gui.recipes.RecipesGui": true
+  },
+  "hideBackground": {
+    "folk.sisby.antique_atlas.gui.AtlasScreen": true,
+    "com.github.clevernucleus.playerex.client.gui.ExScreen": true,
+    "mezz.jei.gui.recipes.RecipesGui": true
+  }
+}

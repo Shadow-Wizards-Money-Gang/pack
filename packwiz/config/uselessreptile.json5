@@ -1,0 +1,29 @@
+{
+	// SPAWN WEIGHT AND CHANCES
+	wyvernSpawnWeight: 1,
+	moleclawSpawnWeight: 1,
+	pikehornSpawnWeight: 1,
+	lightningChaserSpawnWeight: 0,
+	// Defines a chance of Lightning Chaser spawning near player during thunderstorms each 30 seconds (1200 ticks)
+	lightningChaserThunderstormSpawnChance: 10,
+	// Amount of time (in ticks) that must pass before Lightning Chaser can attempt to spawn near the same player
+	lightningChaserThunderstormSpawnTimerCooldown: 24000,
+	// SPAWN GROUP CAPACITIES
+	dragonSpawnGroupCapacity: 2,
+	smallDragonSpawnGroupCapacity: 12,
+	undergroundDragonSpawnGroupCapacity: 6,
+	// GROUP SIZES
+	wyvernMinGroupSize: 1,
+	wyvernMaxGroupSize: 1,
+	moleclawMinGroupSize: 1,
+	moleclawMaxGroupSize: 1,
+	pikehornMinGroupSize: 1,
+	pikehornMaxGroupSize: 3,
+	lightningChaserMinGroupSize: 1,
+	lightningChaserMaxGroupSize: 1,
+	// BEHAVIOUR 
+	// Possible values: ALL, TAMED, DISABLED
+	allowDragonGriefing: "ALL",
+	blockDropChance: 100,
+	dragonMadness: false
+}

@@ -95,7 +95,7 @@
 			0
 		],
 		"paladins:stone_claymore": [
-			0,
+			6,
 			0,
 			0,
 			0,
@@ -103,15 +103,7 @@
 			0
 		],
 		"paladins:iron_claymore": [
-			0,
-			0,
-			0,
-			0,
-			0,
-			0
-		],
-		"paladins:stone_claymore": [
-			0,
+			6,
 			0,
 			0,
 			0,
@@ -325,7 +317,7 @@
 			0,
 			0,
 			18
-		]
+		],
 		"rootsclassic:crystal_staff": [
 			0,
 			0,
@@ -341,7 +333,7 @@
 			0,
 			0,
 			0
-		]
+		],
 		"rootsclassic:mortar": [
 			0,
 			0,
@@ -357,7 +349,7 @@
 			0,
 			0,
 			0
-		]
+		],
 		"rootsclassic:fruit_salad": [
 			0,
 			0,
@@ -373,7 +365,7 @@
 			0,
 			0,
 			0
-		]
+		],
 		"rootsclassic:blackcurrant": [
 			0,
 			0,
@@ -389,7 +381,7 @@
 			0,
 			0,
 			0
-		]
+		],
 		"rootsclassic:whitecurrant": [
 			0,
 			0,

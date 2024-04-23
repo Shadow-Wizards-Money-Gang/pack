@@ -123,6 +123,7 @@ mode = "fancy"
 			[light_sources.settings.entities.uselessreptile]
 				moleclaw = true
 				wyvern_projectile = true
+				river_pikehorn = true
 				wyvern = true
 
 			[light_sources.settings.entities.xercapaint]
@@ -148,6 +149,9 @@ mode = "fancy"
 			[light_sources.settings.entities.arcanuscontinuum]
 				opossum = true
 				wizard = true
+
+			[light_sources.settings.entities.mythicmobs]
+				mushroom_thing = true
 
 			[light_sources.settings.entities.illagerinvasion]
 				sorcerer = true

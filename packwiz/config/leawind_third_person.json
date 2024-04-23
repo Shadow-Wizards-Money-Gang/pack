@@ -1,6 +1,6 @@
 {
   "is_mod_enable": true,
-  "is_third_person_mode": true,
+  "is_third_person_mode": false,
   "lock_camera_pitch_angle": false,
   "player_rotate_with_camera_when_not_aiming": false,
   "rotate_to_moving_direction": true,
