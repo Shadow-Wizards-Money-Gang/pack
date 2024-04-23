@@ -793,7 +793,7 @@
         "list": [
           {
             "id": "minecraft:trident",
-            "chance": 0.3,
+            "chance": 0.5,
             "enchantments": [
               {
                 "id": "minecraft:impaling",
@@ -817,7 +817,12 @@
           },
           {
             "id": "{regex}(.*_pickaxe)|minecraft:shears",
-            "chance": 0.22,
+            "chance": 0.1,
+            "enchantments": []
+          },
+          {
+            "id": "{regex}.*_mace",
+            "chance": 0.33,
             "enchantments": []
           },
           {
@@ -826,13 +831,8 @@
             "enchantments": []
           },
           {
-            "id": "{regex}.*_dagger",
-            "chance": 0.18,
-            "enchantments": []
-          },
-          {
-            "id": "{regex}.*_knife",
-            "chance": 0.18,
+            "id": "{regex}.*_dagger|{regex}.*_knife",
+            "chance": 0.25,
             "enchantments": []
           },
           {

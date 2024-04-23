@@ -6,7 +6,7 @@
 	"fallingEnabled": true,
 	"enchantmentEnabled": false,
 	"playerOnly": false,
-	"leafWalking": false,
+	"leafWalking": true,
 	"leafSprinting": false,
 	"fallOnKeyPress": true,
 	"disableFovChange": false,
