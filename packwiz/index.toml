@@ -1112,7 +1112,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
+hash = "403c99e6b3c7f03bfc1ef8f0a23c79d9929eb42658be02bd0911c36b0174cf5b"
 metafile = true
 
 [[files]]
@@ -1210,7 +1210,7 @@ metafile = true
 
 [[files]]
 file = "mods/dungeon-now-loading.pw.toml"
-hash = "170dc5be86ab75e0aa840c6693f20d18306f43199ff683cf43780550d7d25434"
+hash = "8a4c430439b69ae3def48514ba4c9e0c29fb3e5bd42c6d3ffe80bba34a381956"
 metafile = true
 
 [[files]]
@@ -1284,7 +1284,7 @@ metafile = true
 
 [[files]]
 file = "mods/eugenes-whistle-spur.pw.toml"
-hash = "7d413534b6bc9c71a0603c2ccfe3cffd19d7f3e070869023160c2d0098a6fe52"
+hash = "fdec95c61d33e2ffc25833e7db6f2d1702db43711eaeb721aee40b61f4b36a40"
 metafile = true
 
 [[files]]
