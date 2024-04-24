@@ -1,0 +1,13 @@
+name = "Labelling Containers"
+filename = "labellingcontainers-1.6.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/b2T42hfY/versions/s0CAmRug/labellingcontainers-1.6.1.jar"
+hash-format = "sha1"
+hash = "c7dfd10451eb7e1ab0f1afd34702e81bf224f4f4"
+
+[update]
+[update.modrinth]
+mod-id = "b2T42hfY"
+version = "s0CAmRug"

@@ -1008,7 +1008,7 @@ metafile = true
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
-hash = "6ddf7431483166f10ac732ded0b344358ed66eea5351bfcbca1beb7fbd43d893"
+hash = "8d47de6a378f312e752c0ddd444107608f58d0825f07a64476bb4c4b05512082"
 metafile = true
 
 [[files]]
@@ -1023,7 +1023,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "13cb21e09b9d0d6622359f24f0bfed0e4123fcbaf7e65a1eb7e5396c47a56349"
+hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
 metafile = true
 
 [[files]]
@@ -1117,7 +1117,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "80b21c388981aed2c368faf436e26f0214eab921cef2cdda625261e3483dfe69"
+hash = "74de5fe21667e3094946c3be41832567107c1a43cb7dcbbdfbf97d5f43061e8d"
 metafile = true
 
 [[files]]
@@ -1210,7 +1210,7 @@ metafile = true
 
 [[files]]
 file = "mods/dungeon-now-loading.pw.toml"
-hash = "6019cb687761a919cfec0c2f2f42eea0ea56aaf370dc08ffa1dc4161da0c65d4"
+hash = "170dc5be86ab75e0aa840c6693f20d18306f43199ff683cf43780550d7d25434"
 metafile = true
 
 [[files]]
@@ -1244,7 +1244,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "5d08ee5a9dad38ed87772d437d7e1779fecc0baa4a0e6d33b324bce9908c60ea"
+hash = "b7a7971c44fd891674222a48df8999e379b8658d96ab9b3cf55c17c0b00bd1ce"
 metafile = true
 
 [[files]]
@@ -1283,6 +1283,11 @@ hash = "33f865a014f3acf2c1f2c452bfe7ba1a864acad178322a6eab3759c7e63c9654"
 metafile = true
 
 [[files]]
+file = "mods/eugenes-whistle-spur.pw.toml"
+hash = "7d413534b6bc9c71a0603c2ccfe3cffd19d7f3e070869023160c2d0098a6fe52"
+metafile = true
+
+[[files]]
 file = "mods/exordium.pw.toml"
 hash = "2b9b5a34a6f3cb5796b4e9996fe1da41d7b063b2727743aeed6c8d350d7cdbb6"
 metafile = true
@@ -1310,6 +1315,11 @@ metafile = true
 [[files]]
 file = "mods/fast-paintings.pw.toml"
 hash = "92f94f9773950de6a7c63e5421542d96a8ca6d1689e291bcfd94d6d88be0b8a1"
+metafile = true
+
+[[files]]
+file = "mods/fastconfigapi.pw.toml"
+hash = "f65e97a8401e11d8293f31e200cc321dc81212eea5e571fdc023aa03ebeca88c"
 metafile = true
 
 [[files]]
@@ -1404,7 +1414,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "eb0d9a1475b609eb82f26d0440846d52034c1aef8fcc21ee1cc327dc52648f7d"
+hash = "bea7422cbe82074a7e6306cdcd0ab8941cce0e86e439fcbffd3d9930de3e32a3"
 metafile = true
 
 [[files]]
@@ -1460,6 +1470,11 @@ metafile = true
 [[files]]
 file = "mods/kurisus-passable-leaves.pw.toml"
 hash = "99532f67fd0a6be3493a22441362a56c1b579ce2c2b954d46aac6bba7e06d1bf"
+metafile = true
+
+[[files]]
+file = "mods/labelling-containers.pw.toml"
+hash = "4cb55e3c199ded3ce5f04068fa09a28fdc185f1cddebe6eb371f80d14e72cb09"
 metafile = true
 
 [[files]]
@@ -1597,11 +1612,6 @@ hash = "ddbcdf60f634287b6df241a873fc07b4ce56facfb358a0a74cb1df9acff97725"
 metafile = true
 
 [[files]]
-file = "mods/niftycarts.pw.toml"
-hash = "d6dbbacb36148aa371b6b0e9da3ff1864d2da521cb60decab9a694cc0d72c202"
-metafile = true
-
-[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
@@ -1623,7 +1633,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "15851e775c9b8b5cc944d2f8684a7b0592ccab5ca8d1fa1b0d817033e195c587"
+hash = "65860d4d22148389848533605f46b05e742ed703dcf17beefedef33fdd9a3399"
 metafile = true
 
 [[files]]
@@ -1671,7 +1681,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "eb11f1da4cf4e25c9fa21c4e57b46aa78f6c98b5d77a0bd0fceb7ec57814b412"
+hash = "5a6df3930d69602402cd13bf860195ac44680e2d4556e8d1254ae730fcb4b0f9"
 metafile = true
 
 [[files]]
@@ -1686,7 +1696,7 @@ metafile = true
 
 [[files]]
 file = "mods/rechiseled.pw.toml"
-hash = "4e7f45977492f791daa6f21c0940557a05806a90263435848d7fd4b6438a707d"
+hash = "8515079e00355e8e6010a6a18b53e6f19593d19c649a84d02afe6ea4b5a7b9d8"
 metafile = true
 
 [[files]]
@@ -1847,7 +1857,7 @@ metafile = true
 
 [[files]]
 file = "mods/surveyor.pw.toml"
-hash = "812333bc4c982bed24e8f585b3a90e38b2cd3584533b2b7616479691dfda904f"
+hash = "f05dc77aa14e34c6aa3023afc627942b943e90948a3fb1d4695f0a90c35a3c3d"
 metafile = true
 
 [[files]]

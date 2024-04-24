@@ -1,0 +1,13 @@
+name = "Eugene's Whistle & Spur"
+filename = "eugenes_horse_whistle-1.1.1-1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kdPyFGUG/versions/OKvsSCln/eugenes_horse_whistle-1.1.1-1.20.4.jar"
+hash-format = "sha1"
+hash = "8c1a108cf37c678c7c267f1d15558daf83f9b091"
+
+[update]
+[update.modrinth]
+mod-id = "kdPyFGUG"
+version = "OKvsSCln"

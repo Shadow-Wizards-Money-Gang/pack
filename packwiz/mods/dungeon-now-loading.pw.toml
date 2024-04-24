@@ -1,13 +1,13 @@
 name = "Dungeon Now Loading"
-filename = "Dungeon Now Loading-fabric-1.20.1-1.0.0.jar"
+filename = "Dungeon Now Loading-fabric-1.20.1-1.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/vZoqTqwv/versions/4ec709uf/Dungeon%20Now%20Loading-fabric-1.20.1-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/vZoqTqwv/versions/YgioyQai/Dungeon%20Now%20Loading-fabric-1.20.1-1.0.1.jar"
 hash-format = "sha1"
-hash = "93ed20b13cdb6cbd1aa1ca7f3e6590ffd2494c9c"
+hash = "8f6f5ae244870f834df3cfdf8ae962b4979168a6"
 
 [update]
 [update.modrinth]
 mod-id = "vZoqTqwv"
-version = "4ec709uf"
+version = "YgioyQai"
