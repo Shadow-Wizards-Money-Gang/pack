@@ -190,7 +190,7 @@ hash = "600046b205e20aa3a2ff5af8a66a202c00a97b1c27a6c0675211dbe11d4c0b5f"
 
 [[files]]
 file = "config/consecration-server.toml"
-hash = "d7691432df62f28fbbad1593d179a102185c543e64fa1a630f6e19ae92264cb3"
+hash = "3f7815d631788f5d2174ba4532c37a2782112126e17ecf2088d8fdf4ee050bc1"
 
 [[files]]
 file = "config/continuity.json"
@@ -694,7 +694,7 @@ hash = "6e8bfe7a4c301de6e1658f8995a5bc533f6ec850aa57f701e23adf5fb9d708e9"
 
 [[files]]
 file = "config/shadow-wizards.json5"
-hash = "247d7089d9d930ff3b33639b93383d79d9c9deb8a6a3ecdcc504cf21861f76bb"
+hash = "b2b5e801ad3c0e0753aed79f078ca7e38daa4348de404bb16e602c3629413bf9"
 
 [[files]]
 file = "config/snowrealmagic-client.yaml"
@@ -1379,7 +1379,7 @@ metafile = true
 
 [[files]]
 file = "mods/illager-invasion.pw.toml"
-hash = "41107a14b1983544bc97209d8c1ac08d2e96e133eb1a3fd94d3ca5189d28ef3c"
+hash = "83ddb016541548322b3bed6e4306ec9dadb6c751d85aa3889e705e8704614195"
 metafile = true
 
 [[files]]
@@ -1568,7 +1568,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "46ad0c07009fa651a6a50ec5b95a6be93256177f6ccacbfbef00f1ccbc8f55eb"
+hash = "3c1e3ba6e9e921ce577d241794a2c5207944b6ec60bd50350856837ac2a4da2e"
 metafile = true
 
 [[files]]
@@ -1610,6 +1610,10 @@ metafile = true
 file = "mods/nicer-skies.pw.toml"
 hash = "ddbcdf60f634287b6df241a873fc07b4ce56facfb358a0a74cb1df9acff97725"
 metafile = true
+
+[[files]]
+file = "mods/niftycarts-3.0.3-wiz+1.20.1.jar"
+hash = "8077b0bf61a0bb81da65803a1d8554ae3c47324491b67444be70efe5136c6291"
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
@@ -1748,8 +1752,8 @@ hash = "1cda49a5161ed2661ac3e503e7103e5088b44effe757e8fa5c08cbae35959d93"
 metafile = true
 
 [[files]]
-file = "mods/shadow-wizards-0.1.3.jar"
-hash = "88dfe1944a4af6f9b7f086a8c618c3813e98360071bdc8cb9ff1eaab1c18dda3"
+file = "mods/shadow-wizards-0.1.5.jar"
+hash = "97ae260f7bbf94953cd77d66f81c10431a0e24f4f18954d7bf943bf0271db172"
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
@@ -2324,7 +2328,7 @@ hash = "c8e2b8d259a279fde79bbd9f03d80515d145543997080cbce025624586f5ed6e"
 
 [[files]]
 file = "required_resources/Shadow Wizard Money Gang Resource Pack.zip"
-hash = "bc3afcdc9aeed0c272b8da40f41efa57d2d340a580f8a7e5cf61fb8148e31e18"
+hash = "4f6a09a2e2b5b7521ba08deb02a04d9c832763507dc4cb7990e1416c3fad6062"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.1.1.zip"

@@ -1,13 +1,13 @@
 name = "Illager Invasion"
-filename = "IllagerInvasion-v8.0.4-1.20.1-Fabric.jar"
+filename = "IllagerInvasion-v8.0.5-1.20.1-Fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/jSV9w0J5/versions/LlLRdJcg/IllagerInvasion-v8.0.4-1.20.1-Fabric.jar"
+url = "https://cdn.modrinth.com/data/jSV9w0J5/versions/GNRbymwI/IllagerInvasion-v8.0.5-1.20.1-Fabric.jar"
 hash-format = "sha1"
-hash = "624f1e93c8354a89c7f07c48a62fa1672fd10e10"
+hash = "489c3b4377d00ddb77da73635236a6eba8d775ca"
 
 [update]
 [update.modrinth]
 mod-id = "jSV9w0J5"
-version = "LlLRdJcg"
+version = "GNRbymwI"
