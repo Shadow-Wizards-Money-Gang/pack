@@ -1468,6 +1468,11 @@ hash = "99532f67fd0a6be3493a22441362a56c1b579ce2c2b954d46aac6bba7e06d1bf"
 metafile = true
 
 [[files]]
+file = "mods/labels.pw.toml"
+hash = "dd4349579a8951e8174862000c6c8a02e9fb99388976953eb557db52e1f99083"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
 metafile = true
@@ -1569,6 +1574,11 @@ metafile = true
 [[files]]
 file = "mods/monolib.pw.toml"
 hash = "72ae22bf323bad4f612eaacb9948d9ec2d7bd09810feffd4e54fe3f286973dfd"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "dbf0d2e7c313030080e7ca5919f6cb095ce023ed97bd1b34f3c9ff27ba32cb64"
 metafile = true
 
 [[files]]

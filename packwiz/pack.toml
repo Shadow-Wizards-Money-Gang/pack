@@ -1,12 +1,12 @@
 name = "Shadow Wizards Money Gang"
 author = "SantyPlays,Cybercat555"
-version = "0.0.72"
+version = "0.0.73"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f91a0ec64e12d2c2dc98ec3de5872050773d076e42941c67eefdda04592680c5"
+hash = "e742c076875d391c019f61160ef52a2705e1fb0cd1270c3c2229ed15cde373f9"
 
 [versions]
 minecraft = "1.20.1"
