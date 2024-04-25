@@ -1527,8 +1527,8 @@ hash = "b1c6a2eb4bbc3e642afaa60127cb1a7013ff5d513c9addfa3354d0d7a781a8f8"
 metafile = true
 
 [[files]]
-file = "mods/majruszs-difficulty-fabric-1.20.1-1.9.9-wiz.jar"
-hash = "e92b6918c1010ff609adc377c17a4150195b310a1f1ec5cb07f1691efa6bd5dd"
+file = "mods/majruszs-difficulty-fabric-1.20.1-1.9.9-swmg-edited.jar"
+hash = "80c14bf5b4abc0f0795e8f03c6ffa7a2886b5da110ee521c8664379b7d3a45de"
 
 [[files]]
 file = "mods/map-atlases.pw.toml"
