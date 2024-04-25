@@ -1527,8 +1527,8 @@ hash = "b1c6a2eb4bbc3e642afaa60127cb1a7013ff5d513c9addfa3354d0d7a781a8f8"
 metafile = true
 
 [[files]]
-file = "mods/majruszs-difficulty-fabric-1.20.1-1.9.9-swmg-edited.jar"
-hash = "80c14bf5b4abc0f0795e8f03c6ffa7a2886b5da110ee521c8664379b7d3a45de"
+file = "mods/majruszs-difficulty-fabric-1.20.1-1.9.10-swmg-edited.jar"
+hash = "194bab40b270877138f5eea9a2d63434fb5bff3aafa2d7ca6b804a51da2cbf2d"
 
 [[files]]
 file = "mods/map-atlases.pw.toml"
@@ -2121,6 +2121,10 @@ hash = "1248ebe5d6207dcd16dd28abbc79ae701eb9ae1d570f370fa8576cc022e610bc"
 [[files]]
 file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/ctov/worldgen/structure_set/villages.json"
 hash = "eb28795b2615b2e83f2fa82c029a66945bd5a6fa0e63a716581a3fb3c5ef7109"
+
+[[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/dynamiclights/item/fire_stick.json"
+hash = "977ecb1ae1394e2a7810f4c6af8138f9caaed7b9ee637320cf290a9a5bd6b6b7"
 
 [[files]]
 file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/enchancement/enchanting_material/minecraft/shield.json"
