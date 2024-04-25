@@ -831,7 +831,12 @@
             "enchantments": []
           },
           {
-            "id": "{regex}.*_dagger|{regex}.*_knife",
+            "id": "{regex}.*_dagger",
+            "chance": 0.25,
+            "enchantments": []
+          },
+          {
+            "id": "{regex}.*_knife",
             "chance": 0.25,
             "enchantments": []
           },

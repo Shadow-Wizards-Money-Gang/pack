@@ -522,7 +522,7 @@ hash = "cb33d48e8c3d60d977d6957a29baad2b219b447cdf2c7bcb3f9cb93961df4c50"
 
 [[files]]
 file = "config/majruszsdifficulty.json"
-hash = "0ba2111ff7b7035dff392b0c0df35508d9f975a55824ac0bf5e2d4df14fdba5d"
+hash = "f0df27db47a3d3a42f7a12297f1c00447b931eb75a718b39fb639ed9984b5606"
 
 [[files]]
 file = "config/map_atlases-client.json"
