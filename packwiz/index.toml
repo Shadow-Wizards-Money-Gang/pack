@@ -197,10 +197,6 @@ file = "config/consecration-server.toml"
 hash = "3f7815d631788f5d2174ba4532c37a2782112126e17ecf2088d8fdf4ee050bc1"
 
 [[files]]
-file = "config/consecration-server.toml.orig"
-hash = "852d23990068c0bb2a05031321441bbff7363273ef1196f4ae4802c63c238244"
-
-[[files]]
 file = "config/continuity.json"
 hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
 
