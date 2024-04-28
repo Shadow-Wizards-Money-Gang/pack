@@ -1117,7 +1117,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "74de5fe21667e3094946c3be41832567107c1a43cb7dcbbdfbf97d5f43061e8d"
+hash = "068d400e65ec04f110ff30663902b08310039f32ec6ea419459bda968222cec2"
 metafile = true
 
 [[files]]
@@ -1186,6 +1186,11 @@ metafile = true
 [[files]]
 file = "mods/default-options.pw.toml"
 hash = "5c4f693a0fbc744b46f76e44746baff8621ebb81937c31c777b9edcea18d8ad6"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "fe79cc78adf75a5aa3f32b2ac61a141ee7a4db1baebf628bee058a9c4381b255"
 metafile = true
 
 [[files]]
@@ -1379,7 +1384,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "bd0e1bfaa16148cd114e33d11ec8f742979ec5b9372f6baa6a335a316659e70e"
+hash = "5ced7018dfc37d708c019789aee53cfc54c4a9b31139557871627176182caf93"
 metafile = true
 
 [[files]]
@@ -1494,7 +1499,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-brewery.pw.toml"
-hash = "a2a6170143c067a2806ac14816bbfc2e0d18e9d04dee96c499c481358ae65d86"
+hash = "93a14565065fe4d346e520939f85ed7cc13ae4dc81e93e5d1337bab2fa70adca"
 metafile = true
 
 [[files]]
@@ -1523,12 +1528,12 @@ hash = "02f40f0ffbc7e2de873e0b6c4ba5e0d450d8ba264633f8ea9a7f7921ff2e86e4"
 
 [[files]]
 file = "mods/majrusz-library.pw.toml"
-hash = "b1c6a2eb4bbc3e642afaa60127cb1a7013ff5d513c9addfa3354d0d7a781a8f8"
+hash = "7c98df55f02dbfa876f7bf35c16df8e07912604216f779b6de6efc3d61f60c1c"
 metafile = true
 
 [[files]]
-file = "mods/majruszs-difficulty-fabric-1.20.1-1.9.11-swmg-edited.jar"
-hash = "f22ee236de560a082dbde17ee12a4aec6e1a8b5221cddb48aa990caa1e7053c9"
+file = "mods/majruszs-difficulty-common-1.20.1-1.9.10-swmg-edited.jar"
+hash = "9496d73e17402523176c48531de1368179202cefacf22aeaa5defd4b60094e1f"
 
 [[files]]
 file = "mods/map-atlases.pw.toml"
@@ -1694,7 +1699,7 @@ metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
-hash = "e5b1afd1fedd08ba9fca6d88fe1f0fedf6154fc7b6fa92946dfe0f8357efeebd"
+hash = "77520b0d6b6d512b3fac85990e2d45d67c3ed7fdffb56db013e7b0660e69ffb2"
 metafile = true
 
 [[files]]
@@ -1756,8 +1761,8 @@ hash = "1cda49a5161ed2661ac3e503e7103e5088b44effe757e8fa5c08cbae35959d93"
 metafile = true
 
 [[files]]
-file = "mods/shadow-wizards-0.1.7.jar"
-hash = "4e7f8003e5299470bff3dc29bd0b34e9147234a690537a6152a5dd3180aae9db"
+file = "mods/shadow-wizards-0.1.8.jar"
+hash = "5494128e9d551fcafef7e9982f0ef26567addd96bcdeefa8243d4663d4a3ef2c"
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
@@ -1865,7 +1870,7 @@ metafile = true
 
 [[files]]
 file = "mods/surveyor.pw.toml"
-hash = "f05dc77aa14e34c6aa3023afc627942b943e90948a3fb1d4695f0a90c35a3c3d"
+hash = "2d54f13d5cbab402dd417b9e469c424de56587b6274f9a61fe55028cfc0b9283"
 metafile = true
 
 [[files]]
@@ -2336,7 +2341,7 @@ hash = "c8e2b8d259a279fde79bbd9f03d80515d145543997080cbce025624586f5ed6e"
 
 [[files]]
 file = "required_resources/Shadow Wizard Money Gang Resource Pack.zip"
-hash = "4f6a09a2e2b5b7521ba08deb02a04d9c832763507dc4cb7990e1416c3fad6062"
+hash = "81039882501aff58f0f895a3f4c1f0b230fd033e9cb43517652ba013719846b3"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.1.1.zip"
@@ -2344,4 +2349,4 @@ hash = "f4925044d6975225296cb9cb84b3ee9388bc00d3aacce066eee92bc427ca66cf"
 
 [[files]]
 file = "unsup.toml"
-hash = "e035239f0583162ae5e1bd77a037ed335c633702e03b8d9baf8cfaab7e613380"
+hash = "671969994dd8cf674001d5d8f6edccf555dd9e692f27948bb4a163391cc5dba0"
