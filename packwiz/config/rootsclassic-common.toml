@@ -38,7 +38,7 @@
 	staffUses = 65
 	#The number of ticks required to prepare a spell with a staff
 	#Range: 1 ~ 32767
-	staffChargeTicks = 20
+	staffChargeTicks = 40
 	#Number of uses added by each efficiency level on a spell
 	#Range: 1 ~ 100
 	staffUsesEfficiency = 15

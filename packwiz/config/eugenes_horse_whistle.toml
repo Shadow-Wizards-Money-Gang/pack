@@ -1,0 +1,3 @@
+entitySearchRadius = 128.0
+maxTeleportOffset = 32
+teleportDistanceThreshold = 64.0

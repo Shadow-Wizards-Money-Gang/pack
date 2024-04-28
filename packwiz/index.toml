@@ -38,7 +38,7 @@ hash = "fc3a87a63aac0b15a3019c154c8452d47cb9b412e3127abea76adc1fb36961de"
 
 [[files]]
 file = "config/antique-atlas.toml"
-hash = "8de065476975012f05a42f93fe1613d01e7a4dfb0d79b0addca6147abdd0b3c8"
+hash = "37c8e4fde149cb6e25dcd5ec89208244904ef8efc8e54101ae511145d44009d9"
 
 [[files]]
 file = "config/arcanuscontinuum.jsonc"
@@ -75,6 +75,10 @@ hash = "33606d9f309e655d6494dab932a061efe1f1f917a286bfc74b07f1876096464f"
 [[files]]
 file = "config/balm-common.toml"
 hash = "33606d9f309e655d6494dab932a061efe1f1f917a286bfc74b07f1876096464f"
+
+[[files]]
+file = "config/banhammer/config.json"
+hash = "4a5ba9aef6660eac16116ebf7f4685231291bf7d29a8b1f92379b8b4eb115f81"
 
 [[files]]
 file = "config/banhammer/discord-messages.json"
@@ -193,6 +197,10 @@ file = "config/consecration-server.toml"
 hash = "3f7815d631788f5d2174ba4532c37a2782112126e17ecf2088d8fdf4ee050bc1"
 
 [[files]]
+file = "config/consecration-server.toml.orig"
+hash = "852d23990068c0bb2a05031321441bbff7363273ef1196f4ae4802c63c238244"
+
+[[files]]
 file = "config/continuity.json"
 hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
 
@@ -309,8 +317,12 @@ file = "config/entityculling.json"
 hash = "b8a87894038f8e3fed39687928119da41553ec72fafd3c6b98e39efb62ac6e7d"
 
 [[files]]
+file = "config/eugenes_horse_whistle.toml"
+hash = "a5b54dfc837c8fd65523f2b0fe7a0509d986286e305194ec22af53d37bac3de8"
+
+[[files]]
 file = "config/exordium.json"
-hash = "497169beb8b72b7e3b29e40c91df218cf929f8c214c8d9bbb6cf3db061a99638"
+hash = "f431da1728e0d5a3536178cbb9948e2497801c9b6d51ba063fc831040aa42523"
 
 [[files]]
 file = "config/exposure-client.toml"
@@ -322,7 +334,7 @@ hash = "e0f3d08eeb7ee7cd74f47113f21c67032b5b4188c9635ab617df84533696534d"
 
 [[files]]
 file = "config/extraspellattributes/server.json5"
-hash = "5222fc9f223281b18b94dc2756adafe1e7b2ad2c46d2834e2106051451a47a59"
+hash = "9606a1529ef487428b5f2381a864b25a68c26222b37cdd13bbc4e68101eff50c"
 
 [[files]]
 file = "config/f2d/settings.conf"
@@ -330,7 +342,7 @@ hash = "a689f61dcbf04750bb206587275e34ff3105f7b3eed8a29c6a08714c9d76c8be"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "e66330fd29dbc0eefbc22dba60b8cd280363ab68ac16b727b72bfdd6f9d08642"
+hash = "c66bef9d915f4dcc808208fd59c2d222a3031b0bbfec3f1f377fbbbddbbb036c"
 
 [[files]]
 file = "config/fabricskyboxes-config.json"
@@ -390,7 +402,7 @@ hash = "efbc8de49abf975121bb916e25832a1363b6e052d811ef4692875bbc0b4aece1"
 
 [[files]]
 file = "config/indium-renderer.properties"
-hash = "7474da15bc55522af1f63e25054ad5ad45de6e5884effe3bbf0071982be583da"
+hash = "21a12c82f12f68124e5280ecb9d629bdd1804f23fc3632fb430c01b970bff38d"
 
 [[files]]
 file = "config/invmove.json"
@@ -406,7 +418,7 @@ hash = "e2c5633901520e37f24995b2fd0f619af5cdb3fb6acd70e4a5ddd0f8f6c2a352"
 
 [[files]]
 file = "config/iris.properties"
-hash = "071a4b84cadcedcf743fe7d973515589dec6c16a1c3487d83d00d16689712492"
+hash = "7aadb4e52bb07d9fd005e8abc6f654bc3f248d0ee037d963b99f839d3284a64d"
 
 [[files]]
 file = "config/item_obliterator.json5"
@@ -674,7 +686,7 @@ hash = "81f0f029ae55f1fe2568b03cafc2eeba4810ea50f06e606cd41b7c50d2596950"
 
 [[files]]
 file = "config/rootsclassic-common.toml"
-hash = "37fbf131dcf60769ea155c69a3b1fe2742d541e03f8c7d2120cc05b77d15992c"
+hash = "a8bdcb7894b3ef8c5051b63db5bcf888d79a932e29646bba25062c6e13aefe96"
 
 [[files]]
 file = "config/rpg_series/loot.json"
@@ -694,7 +706,7 @@ hash = "6e8bfe7a4c301de6e1658f8995a5bc533f6ec850aa57f701e23adf5fb9d708e9"
 
 [[files]]
 file = "config/shadow-wizards.json5"
-hash = "b2b5e801ad3c0e0753aed79f078ca7e38daa4348de404bb16e602c3629413bf9"
+hash = "6f739357ef5dd57c178204fe49deef8651128f29b502cabf8a15896d3607825e"
 
 [[files]]
 file = "config/snowrealmagic-client.yaml"
@@ -713,6 +725,10 @@ file = "config/sodium-extra.properties"
 hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
 
 [[files]]
+file = "config/sodium-fingerprint.json"
+hash = "31f2f18c5af0b80f42efa81713bd009c1f4fcd759369eaeb7a5ede2eaa0296e0"
+
+[[files]]
 file = "config/sodium-mixins.properties"
 hash = "8939df3a10627cf3b9a3cc0e2824337923e9a26d11e60f5a1f7c0cfbd171a574"
 
@@ -726,15 +742,15 @@ hash = "7620262e9a6f3bc0d285e9d29c56b8f2d3e1a520bbd459820d2a1e6d4c4b5fc0"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "541e60ff81b89e2a764e14fcab633dd1290e3aab29800db758dd7e6876cdd7dc"
+hash = "13f142f0c89f59feaf2be79ed169dbac475637dc4bebc904d6a6741d39ce3764"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "af0354ebf1c9f6f1c6bf826d189275f93864357127ca8e516ecaa8c04e0216be"
+hash = "d328a2aaa5d349474b9bbad6e66eafa8bae5d16e2ae5b1a2b138cdc2dbfe0e1f"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "1790b2b3d3bb5452f8b860c7dd0d5c084069fb2443f49a4ec66d2e91f7bf5377"
+hash = "1499a3557333d615c0bf6b40c8b9cc4d0c52e7649cd738a93266858334561647"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -902,7 +918,7 @@ hash = "0096632678ab85c5dde40b13d8ec15cc6053b198ac2f6283e18354ab186748fe"
 
 [[files]]
 file = "config/vmp.properties"
-hash = "ce84e138320f3cf6464e76aa31cfa33572844b61a12c8b9f3415e26270019cfa"
+hash = "b867fc1523152fed5f3f9891a701cf2318e10f2500b920462522d6ef1e342b8b"
 
 [[files]]
 file = "config/voicechat/translations.properties"
@@ -2349,4 +2365,4 @@ hash = "f4925044d6975225296cb9cb84b3ee9388bc00d3aacce066eee92bc427ca66cf"
 
 [[files]]
 file = "unsup.toml"
-hash = "671969994dd8cf674001d5d8f6edccf555dd9e692f27948bb4a163391cc5dba0"
+hash = "5ca8debbaee83d04d59993e7af6ffa49726f7293ae8bde59fd56fd9a41698089"

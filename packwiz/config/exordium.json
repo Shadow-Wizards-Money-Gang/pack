@@ -1,5 +1,5 @@
 {
-  "configVersion": 2,
+  "configVersion": 3,
   "enableSignBuffering": true,
   "targetFPSNameTags": 60,
   "enableNametagScreenBuffering": false,
