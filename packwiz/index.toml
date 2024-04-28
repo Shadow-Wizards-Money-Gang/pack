@@ -1678,8 +1678,8 @@ hash = "ba530a2e04476bef87448769a8d3609a9225065dfaed24a54c401c3035a79ed3"
 metafile = true
 
 [[files]]
-file = "mods/playerex-3.6.3+wizards+1.20.1.jar"
-hash = "3510dfc45607fae6bd326f1ad6d6512ffea9807e9538804350c50bb57eb3bb20"
+file = "mods/playerex-3.6.4+wizards+1.20.1.jar"
+hash = "3610065f7ae92c1b443f30e478909a496e1f4ffb506bf9a0a0360624a1ae03d0"
 
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
