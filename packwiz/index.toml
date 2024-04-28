@@ -2348,8 +2348,8 @@ file = "required_resources/Medieval_Expansion_edited.zip"
 hash = "c8e2b8d259a279fde79bbd9f03d80515d145543997080cbce025624586f5ed6e"
 
 [[files]]
-file = "required_resources/Shadow Wizard Money Gang Resource Pack.zip"
-hash = "d78b833c893900925cb7e3d52a4dc40d31f80cc878b1eca3782d7a1c908b39a6"
+file = "required_resources/Shadow Wizard Money Gang Pack.zip"
+hash = "0478bb06c6f76a53a47be6a827aba5a0904482d23a5c782a0a82f7e23afae9a5"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.1.1.zip"

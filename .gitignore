@@ -7,3 +7,4 @@ config/spark/activity.json
 extra
 packwiz/config/sodium-fingerprint.json
 packwiz/required_resources/packwiz
+packwiz/packwiz
