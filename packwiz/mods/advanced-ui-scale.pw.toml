@@ -1,0 +1,13 @@
+name = "Advanced UI Scaling"
+filename = "advanced-ui-scale-1.2.1-1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PUuG285V/versions/BsS87XBc/advanced-ui-scale-1.2.1-1.20.1.jar"
+hash-format = "sha1"
+hash = "f491a631deec1835faf657378fd3563d96841e2d"
+
+[update]
+[update.modrinth]
+mod-id = "PUuG285V"
+version = "BsS87XBc"

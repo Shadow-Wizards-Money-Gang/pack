@@ -1,13 +1,13 @@
 name = "Vanilla+ Blocks"
-filename = "vanillablocksplus-1.4.2.jar"
+filename = "vanillablocksplus-1.4.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/hL3gOKSc/versions/L2u4O1I4/vanillablocksplus-1.4.2.jar"
+url = "https://cdn.modrinth.com/data/hL3gOKSc/versions/TYXdO8g6/vanillablocksplus-1.4.3.jar"
 hash-format = "sha1"
-hash = "8a83c1d526315ce8585bdc9d34f293220307abb2"
+hash = "8db2ba3addd6dbade9854abb327de1970e228a31"
 
 [update]
 [update.modrinth]
 mod-id = "hL3gOKSc"
-version = "L2u4O1I4"
+version = "TYXdO8g6"

@@ -550,7 +550,7 @@ hash = "b55936928438ab49ebc8086579cd2218faf14d777fd15ec6eee895dbcadb667d"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
-hash = "a4c46de0b7a92b2d7456ca2f3d339d50de70a4b9b43389f39405cb6b59aa2597"
+hash = "8003c7f77cc8e888c2ae7ea7e50bb66ff3700b746d4eba69cf58f3ad3b2138e1"
 
 [[files]]
 file = "config/modmenu.json"
@@ -1005,6 +1005,11 @@ file = "mods/RespawningAnimals-v8.2.0-1.20.1-Fabric.jar"
 hash = "0092667db977de01b68f2715410f2848390184a886a8fa36d0253f625da2bc1f"
 
 [[files]]
+file = "mods/advanced-ui-scale.pw.toml"
+hash = "72f8388403d2a0d93cb55eda9e8dd52d072d06ce0916dabf7ad35a94d6d5b187"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "a54e4390b9359fa2503c611f6d0228d5cb98d678dd4b8e5a74577d914e0aa412"
 metafile = true
@@ -1080,6 +1085,11 @@ hash = "5f53eb8d272bfec2c6f58d6d744397b8152d7561a370f1d6e7e1e495fc4a1e7a"
 metafile = true
 
 [[files]]
+file = "mods/bobby.pw.toml"
+hash = "628ca822826f31018f97293b673e09defe9bc46616a7636bbd4a3b51ee4c9949"
+metafile = true
+
+[[files]]
 file = "mods/bombastic-crystals-v1.1+1.20.1.jar"
 hash = "cd952b19f3068da8a83612f3667445059491c942dd7884f367a3217e168791c4"
 
@@ -1124,8 +1134,18 @@ hash = "403c99e6b3c7f03bfc1ef8f0a23c79d9929eb42658be02bd0911c36b0174cf5b"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "54b6de813db1fc2774b4002898fa89f902a7efeb33a05197cf7bfda498f6b94e"
+metafile = true
+
+[[files]]
 file = "mods/collective.pw.toml"
 hash = "068d400e65ec04f110ff30663902b08310039f32ec6ea419459bda968222cec2"
+metafile = true
+
+[[files]]
+file = "mods/completeconfig.pw.toml"
+hash = "2b880a4be1a624e956fafaea89834828c58b0c512e611e6746c3fb8d9e93b260"
 metafile = true
 
 [[files]]
@@ -1174,6 +1194,11 @@ metafile = true
 [[files]]
 file = "mods/danger-close.pw.toml"
 hash = "7cd9f621afc0d5ee2e857299571e3ebf37ce2ef250ded9cdfdfebe0ae73737e1"
+metafile = true
+
+[[files]]
+file = "mods/dashloader.pw.toml"
+hash = "f9f4439a50f6de55c91eab4c2dcbe1a6c9c325a7b87d1b579c79a6098f5dedc1"
 metafile = true
 
 [[files]]
@@ -1326,8 +1351,18 @@ hash = "bd5311680997fada18e6492a91770fdc0762c718b3109820d67c1b019c2f1bf8"
 metafile = true
 
 [[files]]
+file = "mods/fast-async-world-save-forge-fabric.pw.toml"
+hash = "9e525b31263cc8c7caa45efc23d180a085b51286e3bde80640d74dc1d982e8f7"
+metafile = true
+
+[[files]]
 file = "mods/fast-paintings.pw.toml"
 hash = "92f94f9773950de6a7c63e5421542d96a8ca6d1689e291bcfd94d6d88be0b8a1"
+metafile = true
+
+[[files]]
+file = "mods/fastload.pw.toml"
+hash = "0e72ac12907f4fb5a499a459cc2c64f9225a0c77ee59e76c9360ff0d3479aea2"
 metafile = true
 
 [[files]]
@@ -1383,6 +1418,11 @@ metafile = true
 [[files]]
 file = "mods/horseshoes.pw.toml"
 hash = "cbe17772faf2737c78592ad610982b12ba76c208d4ec530d6a896dbdab382099"
+metafile = true
+
+[[files]]
+file = "mods/icterine.pw.toml"
+hash = "93cdd634f12d54a53e669782083d732a091b043724e3ce0afbcbee96fafd856e"
 metafile = true
 
 [[files]]
@@ -1574,6 +1614,11 @@ hash = "8a72a4a9c8423a92771121544a6ed259c69bd95187de27bd290f404b1a86667a"
 metafile = true
 
 [[files]]
+file = "mods/mobtimizations.pw.toml"
+hash = "860db3da30e2e3d9fcec655d38704be88b593b85c7770fa76c30de6a537691d7"
+metafile = true
+
+[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "e78faacb02c5ad86a31ff1178d48c5b231433bb1128584c987ef60224057fb75"
 metafile = true
@@ -1609,6 +1654,11 @@ hash = "195c57beb3db8380c6ffe13851490be377844ce96cbd142ae96625650b4badb3"
 metafile = true
 
 [[files]]
+file = "mods/multiplayer-server-pause.pw.toml"
+hash = "a6de951e4d89d37e73f5f71d24ef28cea7f36e5317b1ad5df86d4879849e8e52"
+metafile = true
+
+[[files]]
 file = "mods/mythic-mobs.pw.toml"
 hash = "a1190763c29d3e0f0dd76fe7932bfecbe51cff575a00b9a70718fa3861760841"
 metafile = true
@@ -1621,6 +1671,11 @@ metafile = true
 [[files]]
 file = "mods/necronomicon.pw.toml"
 hash = "82353cd9b74b15dc32229b2ad2cac620a35972422ebc15db60e2268c42c05f0e"
+metafile = true
+
+[[files]]
+file = "mods/nerb.pw.toml"
+hash = "bc5a74e00fd355ed0c2b33609b15586612f3288a4faa73c9a2dea52b2d0350be"
 metafile = true
 
 [[files]]
@@ -1639,7 +1694,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "3fa216645abadceadc1e913a581dbfb5abb1cdc7f270bcd23f7141c43d9cb79c"
+hash = "b67abea74ec9d9135ee0864c53f81a1b74ab7c2e16288eb133297fac55a9a69b"
 metafile = true
 
 [[files]]
@@ -1783,6 +1838,11 @@ hash = "825261ff462fa259147ff0bea3368cc5d6351aa7cff944112e15a55f6181a572"
 metafile = true
 
 [[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "6c622ba7f91c31843cc394e056948a018db6a0e08b20b8dd9fc4182854d27715"
+metafile = true
+
+[[files]]
 file = "mods/snow-real-magic-fabric.pw.toml"
 hash = "1574e5c3b0a69fdd0da15f1bef65e51a6c4fb68e0af94d73d707641a274eac51"
 metafile = true
@@ -1917,7 +1977,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanilla+-blocks.pw.toml"
-hash = "3ad8d076e7f810e025bf443a65783a0c53fca843d0d2504b31873df5f910ece9"
+hash = "56c34873718214763f5a54fe0e445ad1c2ca1499af82c67bc1cccdbd52c42c56"
 metafile = true
 
 [[files]]
