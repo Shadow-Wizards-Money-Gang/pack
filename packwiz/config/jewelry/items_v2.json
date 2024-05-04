@@ -4,7 +4,7 @@
       "attributes": [
         {
           "id": "minecraft:generic.max_health",
-          "value": 2.0,
+          "value": 1.0,
           "operation": "ADDITION"
         }
       ]
@@ -46,7 +46,7 @@
       "attributes": [
         {
           "id": "minecraft:generic.attack_damage",
-          "value": 0.08,
+          "value": 0.04,
           "operation": "MULTIPLY_BASE"
         }
       ]
@@ -78,7 +78,7 @@
       "attributes": [
         {
           "id": "minecraft:generic.max_health",
-          "value": 2.0,
+          "value": 1.0,
           "operation": "ADDITION"
         }
       ]
@@ -87,7 +87,7 @@
       "attributes": [
         {
           "id": "generic.attack_damage",
-          "value": 0.08,
+          "value": 0.04,
           "operation": "MULTIPLY_BASE"
         }
       ]
@@ -225,7 +225,7 @@
       "attributes": [
         {
           "id": "generic.attack_damage",
-          "value": 0.04,
+          "value": 0.02,
           "operation": "MULTIPLY_BASE"
         }
       ]
@@ -256,7 +256,7 @@
       "attributes": [
         {
           "id": "minecraft:generic.max_health",
-          "value": 4.0,
+          "value": 3.0,
           "operation": "ADDITION"
         }
       ]
@@ -386,7 +386,7 @@
       "attributes": [
         {
           "id": "minecraft:generic.max_health",
-          "value": 4.0,
+          "value": 3.0,
           "operation": "ADDITION"
         }
       ]
@@ -466,7 +466,7 @@
       "attributes": [
         {
           "id": "minecraft:generic.attack_damage",
-          "value": 0.04,
+          "value": 0.02,
           "operation": "MULTIPLY_BASE"
         }
       ]

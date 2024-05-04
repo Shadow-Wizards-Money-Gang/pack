@@ -1,0 +1,13 @@
+name = "Luki's Grand Capitals"
+filename = "luki-s-grand-capitals-0.6-fabric-1.19-1.20.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7d69cd12859043977008d74618ed5c70d0af5c76"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5291721
+project-id = 1003666

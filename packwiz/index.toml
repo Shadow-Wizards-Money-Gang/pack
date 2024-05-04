@@ -294,7 +294,7 @@ hash = "108779ecaeb417e358c5bcc2d3c85669947ca0d9d01da03f94c098f4c7abbd37"
 
 [[files]]
 file = "config/enderzoology-common.toml"
-hash = "44c501ddf1962cd1c7ef9b45f12c113682f03d86b644af56d8183fff408373fd"
+hash = "65ebda4183d02b270aa57a8c8660fb6bfb9643c18e64aab58879f43681408f5e"
 
 [[files]]
 file = "config/enhanced_bes.properties"
@@ -330,7 +330,7 @@ hash = "e0f3d08eeb7ee7cd74f47113f21c67032b5b4188c9635ab617df84533696534d"
 
 [[files]]
 file = "config/extraspellattributes/server.json5"
-hash = "9606a1529ef487428b5f2381a864b25a68c26222b37cdd13bbc4e68101eff50c"
+hash = "41a560ed4bc779692864004c74ea1fd5578ace5382d4ab82284cd7a5bf758ea6"
 
 [[files]]
 file = "config/f2d/settings.conf"
@@ -458,11 +458,11 @@ hash = "59d0afc2cce8b3cd9c7e9c64952fbe816888acdfbe66bfe1ba89daa780d683cc"
 
 [[files]]
 file = "config/jewelry/items_v2.json"
-hash = "9231c9de761d4e56a8fa322572c7a73c70c9dd638839e5ed5dcc55a2760bcc33"
+hash = "19261d8190e6af6f168123b793315143b369bfcb7c010200064910916d1cba0e"
 
 [[files]]
 file = "config/jewelry/loot_v2.json"
-hash = "a69d1aafe19c66593a6cd7deb054071b3cb8fa65415c98d3a944a69fb460cbe3"
+hash = "ce2ce8caec24e126f5fcb0d326b25dd28d608636e4e92ebca0c66857dda6989f"
 
 [[files]]
 file = "config/jewelry/villages.json"
@@ -554,7 +554,7 @@ hash = "8003c7f77cc8e888c2ae7ea7e50bb66ff3700b746d4eba69cf58f3ad3b2138e1"
 
 [[files]]
 file = "config/modmenu.json"
-hash = "748cb550ed31f0d7f2a8faf26cd0c659826ae10cfabc4a89eee7d32eed98f157"
+hash = "3e9f8d45844532c3c7d3cd868e3f4ce260c2e0448ba9c11e3b41cdc41b54f068"
 
 [[files]]
 file = "config/moonlight-client.json"
@@ -702,7 +702,7 @@ hash = "6e8bfe7a4c301de6e1658f8995a5bc533f6ec850aa57f701e23adf5fb9d708e9"
 
 [[files]]
 file = "config/shadow-wizards.json5"
-hash = "6f739357ef5dd57c178204fe49deef8651128f29b502cabf8a15896d3607825e"
+hash = "316a21d1cb87adf4f2ea62c1b7f4d5c3457661bd757cfaa1fb1a9abbe8891def"
 
 [[files]]
 file = "config/snowrealmagic-client.yaml"
@@ -1005,11 +1005,6 @@ file = "mods/RespawningAnimals-v8.2.0-1.20.1-Fabric.jar"
 hash = "0092667db977de01b68f2715410f2848390184a886a8fa36d0253f625da2bc1f"
 
 [[files]]
-file = "mods/advanced-ui-scale.pw.toml"
-hash = "72f8388403d2a0d93cb55eda9e8dd52d072d06ce0916dabf7ad35a94d6d5b187"
-metafile = true
-
-[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "a54e4390b9359fa2503c611f6d0228d5cb98d678dd4b8e5a74577d914e0aa412"
 metafile = true
@@ -1273,11 +1268,6 @@ metafile = true
 [[files]]
 file = "mods/dungeons-towers.pw.toml"
 hash = "92e9d8d7d126f24912ddfd1ec8e3dbb13e8d025376b39efd1c3bab9b13d9b3cf"
-metafile = true
-
-[[files]]
-file = "mods/dusk.pw.toml"
-hash = "e08384c58e94312859c5cda36e9d9ec2b5326becf488ab96679d65a17183ef2a"
 metafile = true
 
 [[files]]
@@ -1561,11 +1551,6 @@ hash = "d3cab8c3eddae896a7915f4871e8bce87e47576a78908b524f10f0a8472bfbb4"
 metafile = true
 
 [[files]]
-file = "mods/lios-overhauled-villages.pw.toml"
-hash = "8a391bb7f927632cc14a91ab293ac9ecfbd328e633de7746b3e3e0565740a114"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
@@ -1583,6 +1568,11 @@ metafile = true
 [[files]]
 file = "mods/lostrelics-1.20-1.jar"
 hash = "02f40f0ffbc7e2de873e0b6c4ba5e0d450d8ba264633f8ea9a7f7921ff2e86e4"
+
+[[files]]
+file = "mods/lukis-grand-capitals.pw.toml"
+hash = "99e894877592f5c273691915e512150f858e647631866c72ca30a8c1d6d603ca"
+metafile = true
 
 [[files]]
 file = "mods/majrusz-library.pw.toml"

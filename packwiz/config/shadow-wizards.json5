@@ -543,7 +543,55 @@
 			0,
 			18,
 			0
-		]
+		],
+		"jewelry:unique_attack_necklace:": [
+			9,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"jewelry:unique_attack_ring:": [
+			9,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"jewelry:unique_defense_necklace:": [
+			9,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"jewelry:unique_defense_ring:": [
+			9,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"jewelry:unique_archer_ring:": [
+			9,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"jewelry:unique_archer_necklace:": [
+			9,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
 	},
 	"BANNED_SPELL_BOOK": [
 		"spellbladenext:arcane_battlemage_spell_book",

@@ -24,9 +24,9 @@
 	// Mod of undying soul
 	"undying_soul_mod": 0.10000000149011612,
 	// Mod of gold absorption ring
-	"gold_absorption_ring_mod": 0.5,
+	"gold_absorption_ring_mod": 1.0,
 	// Mod of netherite absorption ring
-	"netherite_absorption_ring_mod": 1.0,
+	"netherite_absorption_ring_mod": 2.0,
 	// Mod of gold necklace
 	"gold_absorption_necklace_mod": 0.10000000149011612,
 	// Mod of netherite necklace

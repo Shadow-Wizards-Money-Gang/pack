@@ -7,7 +7,7 @@ fallen_knight = true
 #Should infested zombies spawn anywhere where zombies can spawn in the overworld.
 infested_zombie = false
 #Should owls spawn anywhere where rabbits can spawn in the overworld.
-owl = true
+owl = false
 #Should concussion creepers spawn anywhere where creepers can spawn in the overworld.
 concussion_creeper = false
 #Should wither witches spawn anywhere where witches can spawn in the overworld.
