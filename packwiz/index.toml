@@ -1016,12 +1016,12 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "852b994c17e36c8a43a1b43f51e7c93c3f035fef642e2a9085b7109afd6e293c"
+hash = "175e89b2fb76991438450c5ecf4e8a87438e9325b981fa257999fd66fee218eb"
 metafile = true
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
-hash = "8d47de6a378f312e752c0ddd444107608f58d0825f07a64476bb4c4b05512082"
+hash = "e853b0a08068b6cdaa7f84702b71b336c0fdedc3ea84642ea095d05b3796a05d"
 metafile = true
 
 [[files]]
@@ -1145,7 +1145,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "0714edca30b6f466444a25754c861cd4c4738ba7346f49ab15b0f0b30781fb12"
+hash = "9cc335e136843f168134c5b5da40f95260da3f33340de437ea2c1a6caa24404a"
 metafile = true
 
 [[files]]
@@ -1253,7 +1253,7 @@ metafile = true
 
 [[files]]
 file = "mods/dungeon-now-loading.pw.toml"
-hash = "8a4c430439b69ae3def48514ba4c9e0c29fb3e5bd42c6d3ffe80bba34a381956"
+hash = "e02835faafc85a21e85f59dac415a93f8acdb3e573b2f58ff4eca85c1ff657c0"
 metafile = true
 
 [[files]]
@@ -1337,7 +1337,7 @@ metafile = true
 
 [[files]]
 file = "mods/extra-spell-attributes.pw.toml"
-hash = "94d935631461f36193022d937568aced28bef02c16f471e7420ad51382d239d0"
+hash = "f07692d5bae52a324e74480dc2bdee83892085b5a28626b47cf127d341cfc10a"
 metafile = true
 
 [[files]]
@@ -1432,7 +1432,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "5ced7018dfc37d708c019789aee53cfc54c4a9b31139557871627176182caf93"
+hash = "51614a206b26e8a54d3f2392ba4d4300a5f7f60ed1814dc24eb242b0c4c0a3ba"
 metafile = true
 
 [[files]]
@@ -1532,7 +1532,7 @@ metafile = true
 
 [[files]]
 file = "mods/lavender.pw.toml"
-hash = "409991ec6a4c7055cbddfa4ef1408550a6d3eb36ce43ef03e37737d78d1cd70f"
+hash = "c6336dbc672b4b11347845e30f7f08e781e73e91fe85e03f343195d6cae8f85b"
 metafile = true
 
 [[files]]
@@ -1586,17 +1586,12 @@ hash = "02f40f0ffbc7e2de873e0b6c4ba5e0d450d8ba264633f8ea9a7f7921ff2e86e4"
 
 [[files]]
 file = "mods/majrusz-library.pw.toml"
-hash = "7c98df55f02dbfa876f7bf35c16df8e07912604216f779b6de6efc3d61f60c1c"
+hash = "f277db9c1af9cfb3f505e9a292e0c4368dadf5d0d2b3d567aa0b18e85cb7051b"
 metafile = true
 
 [[files]]
 file = "mods/majruszs-difficulty-fabric-1.20.1-1.9.10-swmg-edited.jar"
 hash = "0161f9e6d0a43c46f81e3bb41ec8ed902a30e554218da0f25922911be779f11d"
-
-[[files]]
-file = "mods/map-atlases.pw.toml"
-hash = "9d98fa7d9d97129294e8858da41675ebb8131025c3de209e46725ed719903b07"
-metafile = true
 
 [[files]]
 file = "mods/melody.pw.toml"
@@ -1650,7 +1645,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "dbf0d2e7c313030080e7ca5919f6cb095ce023ed97bd1b34f3c9ff27ba32cb64"
+hash = "cb2cb6c5a89af4b588343028ad03044fcd3aa7ba39b3b29c99372346387b7fd0"
 metafile = true
 
 [[files]]
@@ -1787,7 +1782,7 @@ metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
-hash = "77520b0d6b6d512b3fac85990e2d45d67c3ed7fdffb56db013e7b0660e69ffb2"
+hash = "025234450612bb71d2692b901bcfa5c93ad931c67a0019260eb8cead4396c10f"
 metafile = true
 
 [[files]]
@@ -1860,7 +1855,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "4f6f15b3a17ed28772fe45a7cb15783a37428b259d2461564c9046b5a3540e25"
+hash = "61bece982f9106ace0e56ef43b9b10b08b95e2e6596bc458a839ca7a704a7c36"
 metafile = true
 
 [[files]]
@@ -1929,7 +1924,7 @@ metafile = true
 
 [[files]]
 file = "mods/spellblade-next.pw.toml"
-hash = "88e96d2c5bac989c3a938512e023e63af7435fa2e40b2d7041ca2a60e6b95d8d"
+hash = "ea6f7782f2046cafe81a838637b94c4ae3822d50174c2bd8bb7414330b29c600"
 metafile = true
 
 [[files]]
@@ -1978,7 +1973,7 @@ metafile = true
 
 [[files]]
 file = "mods/surveyor.pw.toml"
-hash = "2d54f13d5cbab402dd417b9e469c424de56587b6274f9a61fe55028cfc0b9283"
+hash = "fa0c7b4e2f64b9bc3e13bcec498a08ca28ff7d30ec8ab8ee2a92497e023cd276"
 metafile = true
 
 [[files]]
