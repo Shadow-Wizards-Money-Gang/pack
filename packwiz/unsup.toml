@@ -4,16 +4,19 @@ description = "Which client mods you'd like to use.\nIncreases or decreases perf
 side = "client"
 [[flavor_groups.rendering_mod.choices]]
 id = "default"
-name = "default"
+name = "Default"
 description = "Recommended Options."
+
 [[flavor_groups.rendering_mod.choices]]
 id = "performance"
 name = "Performance"
+
 description = "Instdefaults only the important performance mods on client, and general utility. Doesn't instdefault any fancy rendering that may slow down."
 [[flavor_groups.rendering_mod.choices]]
 id = "extra"
-name = "extra"
-description = "Recommended Options + Distant Horizons! (May cause lag or performance issues.)"
+name = "Extra"
+description = "Recommended Options + Distant Horizons! + New Music! (May cause lag or performance issues.)"
+
 [[flavor_groups.rendering_mod.choices]]
 id = "no_rendering_mods"
 description = "No rendering mods. No extra mods. Reduces Performance. May be useful for testing. Not Recommended"
@@ -90,4 +93,8 @@ flavors = ["default", "extra"]
 flavors = ["default", "extra"]
 
 [metafile.distanthorizons]
+flavors = ["extra"]
+[metafile.medieval-music]
+flavors = ["extra"]
+[metafile.biome-music]
 flavors = ["extra"]

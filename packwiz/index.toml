@@ -1080,6 +1080,11 @@ hash = "1a06a46a1f78e713e070beb02d0ff9a4cad3365898a4dadda6deb3eb587b7878"
 metafile = true
 
 [[files]]
+file = "mods/biome-music.pw.toml"
+hash = "f0cf3fe88563fd9da00071e1b446f3f3333c003d481a67e549541dd9b3239cbf"
+metafile = true
+
+[[files]]
 file = "mods/blur-fabric.pw.toml"
 hash = "5f53eb8d272bfec2c6f58d6d744397b8152d7561a370f1d6e7e1e495fc4a1e7a"
 metafile = true
@@ -1096,6 +1101,11 @@ hash = "cd952b19f3068da8a83612f3667445059491c942dd7884f367a3217e168791c4"
 [[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "c49d42cddfb05cf5e4882d5753bd98a525c9a994fda5f49651003e8266b7aa9d"
+metafile = true
+
+[[files]]
+file = "mods/bountiful-fares.pw.toml"
+hash = "71b6c2474ea17120a1b48f0ad10e4d117b3d4ba1975eae557be8b9a8828aa36b"
 metafile = true
 
 [[files]]
@@ -1542,7 +1552,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-brewery.pw.toml"
-hash = "93a14565065fe4d346e520939f85ed7cc13ae4dc81e93e5d1337bab2fa70adca"
+hash = "038ee9b8ab345c46a2bf8b5559f5168ad46bdbb8c463da895d784e4bb3f32be8"
 metafile = true
 
 [[files]]
@@ -1582,6 +1592,11 @@ metafile = true
 [[files]]
 file = "mods/majruszs-difficulty-fabric-1.20.1-1.9.10-swmg-edited.jar"
 hash = "0161f9e6d0a43c46f81e3bb41ec8ed902a30e554218da0f25922911be779f11d"
+
+[[files]]
+file = "mods/medieval-music.pw.toml"
+hash = "3ec68923ba927481655db70d8171660d1fdaf1647838aafa72955eb69024b535"
+metafile = true
 
 [[files]]
 file = "mods/melody.pw.toml"
@@ -1635,7 +1650,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "cb2cb6c5a89af4b588343028ad03044fcd3aa7ba39b3b29c99372346387b7fd0"
+hash = "9d49f2eec8470438c0a6ed686586b530ba7cf661d31bd2dda233c8f8c334f7f5"
 metafile = true
 
 [[files]]
@@ -1800,11 +1815,6 @@ file = "mods/refined-advancements-1.0.3d.jar"
 hash = "79acbc5dc87d8f250a96466883070b14a4fe1c29fe38dc043990c24e14aed16f"
 
 [[files]]
-file = "mods/replaymod.pw.toml"
-hash = "e1fdb3d4b7619e35b10a6131631addbae338a5c52b0145b0d58d24bd7b9007b2"
-metafile = true
-
-[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "2937f8044610c554d49b4617210885a76d3f81cb9325a36dba6bfbd131cc45ab"
 metafile = true
@@ -1845,7 +1855,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "61bece982f9106ace0e56ef43b9b10b08b95e2e6596bc458a839ca7a704a7c36"
+hash = "8e3bce9082186574ba16c88ec513b6f6476015fd27da257f9aee51d53452b8c6"
 metafile = true
 
 [[files]]
@@ -1964,6 +1974,11 @@ metafile = true
 [[files]]
 file = "mods/surveyor.pw.toml"
 hash = "fa0c7b4e2f64b9bc3e13bcec498a08ca28ff7d30ec8ab8ee2a92497e023cd276"
+metafile = true
+
+[[files]]
+file = "mods/tempest.pw.toml"
+hash = "1e2f17ca183438fa9a35e0d51ae2488f890d1b54e7c4bae9f69e486905d5b473"
 metafile = true
 
 [[files]]
