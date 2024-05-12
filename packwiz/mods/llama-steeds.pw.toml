@@ -1,0 +1,13 @@
+name = "Llama Steeds"
+filename = "llamasteeds-2023.04.09.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VmkAInWR/versions/l7ylHlip/llamasteeds-2023.04.09.jar"
+hash-format = "sha1"
+hash = "6090c768f22485d064e1fd09a13008b3c7fc0b99"
+
+[update]
+[update.modrinth]
+mod-id = "VmkAInWR"
+version = "l7ylHlip"

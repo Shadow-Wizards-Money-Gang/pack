@@ -1,13 +1,13 @@
 name = "[Let's Do] Brewery"
-filename = "letsdo-brewery-fabric-1.1.7.jar"
+filename = "letsdo-brewery-fabric-1.1.8.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f00443e9d67cb24f623336c76972ba51eccf157b"
+hash = "782724ebc75c5b8ef8e55fba7aa7c8e0f108fa47"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5314757
+file-id = 5320648
 project-id = 971636

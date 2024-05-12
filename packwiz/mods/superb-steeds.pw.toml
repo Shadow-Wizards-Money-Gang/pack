@@ -1,13 +1,13 @@
 name = "Superb Steeds"
-filename = "superbsteeds-1.20-3.jar"
+filename = "superbsteeds-1.20-4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a948c2b9e4ffdcbccddecbd34b23e2f7d73b5a93"
+hash = "dca2220669e00ddde759519805e22395b5cb1938"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5080760
+file-id = 5335952
 project-id = 953254

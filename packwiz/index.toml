@@ -1006,7 +1006,7 @@ hash = "0092667db977de01b68f2715410f2848390184a886a8fa36d0253f625da2bc1f"
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "a54e4390b9359fa2503c611f6d0228d5cb98d678dd4b8e5a74577d914e0aa412"
+hash = "6b6306b292af31f2d372afd9f8a86adb37967913d95bd12d23ef20a3b3253bee"
 metafile = true
 
 [[files]]
@@ -1051,7 +1051,7 @@ metafile = true
 
 [[files]]
 file = "mods/azurelib.pw.toml"
-hash = "689adb1cb4a1738cd1883da0d7e583ec3e598e8b137f889f8451de0f9d760aa9"
+hash = "535d8eaff4400f4750c1ee7aeb5ca741ade391ecef5bf25bf80517bac1dc83b1"
 metafile = true
 
 [[files]]
@@ -1150,7 +1150,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "9cc335e136843f168134c5b5da40f95260da3f33340de437ea2c1a6caa24404a"
+hash = "14e2b2f26aff8192baac5ba50948aa131bd7b70ce0c1bf703804a0b08ead7dd0"
 metafile = true
 
 [[files]]
@@ -1238,7 +1238,7 @@ metafile = true
 
 [[files]]
 file = "mods/do-api.pw.toml"
-hash = "5589437f1e132b6732bd3752b13e1732c8015dd5f4284389e17f77378558fb36"
+hash = "de8d69e0b821c8a09f5666e18e78ca34482ad99a81564e32f580bed18a7d6761"
 metafile = true
 
 [[files]]
@@ -1332,7 +1332,7 @@ metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "e6b80bd5a63b96416ca76fdfe3d08223dc3cb9718dbe0a04c5559f0b7fad9ec3"
+hash = "0e1bcec4edde700e8c4bf9b5db47b379262dd27102faa932041c7d4b45790a73"
 metafile = true
 
 [[files]]
@@ -1357,7 +1357,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-paintings.pw.toml"
-hash = "92f94f9773950de6a7c63e5421542d96a8ca6d1689e291bcfd94d6d88be0b8a1"
+hash = "47a15513ff0bdc6e5cc6278af9fbbf47b5d4d9193e99effcfbe18005be664840"
 metafile = true
 
 [[files]]
@@ -1432,7 +1432,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "51614a206b26e8a54d3f2392ba4d4300a5f7f60ed1814dc24eb242b0c4c0a3ba"
+hash = "d10d6632f398e4bc8f62555eab1d70a6624837741fc653f2e2a18188166c6477"
 metafile = true
 
 [[files]]
@@ -1547,17 +1547,17 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-bakery.pw.toml"
-hash = "e996eb7a3ec09b7f3c8dc0a4f84b2421ce765b1950278e4a6e792be1b1d6eb82"
+hash = "197aec84789abf3fb08e27d370541cacd63e01dca0713ac3c8cc4c951b56fe7b"
 metafile = true
 
 [[files]]
 file = "mods/lets-do-brewery.pw.toml"
-hash = "038ee9b8ab345c46a2bf8b5559f5168ad46bdbb8c463da895d784e4bb3f32be8"
+hash = "164e3d4045f9e5cfe12c770941f87eecba4bd6182d006ec171346b2eba27edb0"
 metafile = true
 
 [[files]]
 file = "mods/lets-do-candlelight.pw.toml"
-hash = "d3cab8c3eddae896a7915f4871e8bce87e47576a78908b524f10f0a8472bfbb4"
+hash = "51f5a68804cd6825b7a7d62d9a6ca0e8de49f84c75be3b93cf174e3ecea8e0f8"
 metafile = true
 
 [[files]]
@@ -1568,6 +1568,11 @@ metafile = true
 [[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "d99891e0086fce3f9704c4c10a58a60c8ba787cae02160ba011276499bcd3240"
+metafile = true
+
+[[files]]
+file = "mods/llama-steeds.pw.toml"
+hash = "d486b8814d6c4a3032f6902e3a371f2a7960d0009bee5426f44b4ee6fd8ea6db"
 metafile = true
 
 [[files]]
@@ -1620,7 +1625,7 @@ metafile = true
 
 [[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
-hash = "8a72a4a9c8423a92771121544a6ed259c69bd95187de27bd290f404b1a86667a"
+hash = "0a661c356af9ae6f7605ad16362ee0af81b72385eb65237f04f70c958cab634e"
 metafile = true
 
 [[files]]
@@ -1650,7 +1655,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "9d49f2eec8470438c0a6ed686586b530ba7cf661d31bd2dda233c8f8c334f7f5"
+hash = "1870620ac0fb128b9a6f2cb8c6f887cb2a5f42bdf4aed1851f2f4f3d542fffc3"
 metafile = true
 
 [[files]]
@@ -1767,7 +1772,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "6825f68b52f294d967085eedb943dad43658ee66c1fd5edbb33c5a8dcd4b6ac3"
+hash = "5017352458c35693d4aa0ea8872a0e6b80a6c128a5866327b02263d2ce87c9c4"
 metafile = true
 
 [[files]]
@@ -1855,7 +1860,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "8e3bce9082186574ba16c88ec513b6f6476015fd27da257f9aee51d53452b8c6"
+hash = "1f0bec3ad99e321884a4e7af58399a99982f00c3eb647b80d371525eede4b725"
 metafile = true
 
 [[files]]
@@ -1953,7 +1958,7 @@ metafile = true
 
 [[files]]
 file = "mods/superb-steeds.pw.toml"
-hash = "314c13c9ffaf73d29e6b77267d1916b15acc03e36daba04ee01f3ae83a4589d2"
+hash = "1a8631c458bae95073653ed03fc97683c912b0c19ea2e424e7b1ae2b6821ab63"
 metafile = true
 
 [[files]]
@@ -2017,7 +2022,7 @@ hash = "e0d3640e165f850a3710df3a2b096058d0e34fe2b333fc186ced79412be91194"
 
 [[files]]
 file = "mods/useless-reptile.pw.toml"
-hash = "a6760487f5c8b05e6878ccda7c2c7bb556caad7a404a83bb821abcfdd591cac5"
+hash = "d72d409e1957e55062f1f2c4d02576972e77bf58b946b49300bdcde6f1b29b9d"
 metafile = true
 
 [[files]]
@@ -2061,7 +2066,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
-hash = "95d6181cf78eb40066382ec4cdc27b101bda35e4a84523d7c46b4d936727af98"
+hash = "5aa508141e85bc3e7e94e9a6df06fa50365623af4b83f94540a81433bb0df318"
 metafile = true
 
 [[files]]
