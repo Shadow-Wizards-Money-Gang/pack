@@ -674,7 +674,7 @@ hash = "74283b0e4334a4692dea01212ec4ebcb4ea76a5fffaf6e382012195e4d2f735f"
 
 [[files]]
 file = "config/respawnobelisks.jsonc"
-hash = "21f72bae85381fc2b85ebbbf8a22790f4d7b05dfa1791dd08f20a6acfa921bde"
+hash = "16134333ba064a02f4ae8a1b43265f1418774788ae87e61625cf3470f55b277a"
 
 [[files]]
 file = "config/rootsclassic-client.toml"
@@ -898,7 +898,7 @@ hash = "3bb0238e86431c8609e61981b4bf0dbd2935e8fcabc40b3936293f138359b0ba"
 
 [[files]]
 file = "config/uselessreptile.json5"
-hash = "67feef45cf3224db68b79735cd90710f8fd19773bbab2794876769e1c35e8a31"
+hash = "96bc5f8898728b329361c9b8bd14d657687678eda56cde857d16684924e5e801"
 
 [[files]]
 file = "config/uselessreptile_client.json5"
@@ -994,7 +994,7 @@ hash = "7f68ba8a3c3860804ac3339970e34c79a3889269bab809531418bfec54f7fcbe"
 
 [[files]]
 file = "kubejs/startup_scripts/item_rebalancing.js"
-hash = "434aed89c713fc87d1f4fdb8e911d9f9d352f858dacef621756b7e519c20684a"
+hash = "0872f46d99d4b8218ea4bf881a685a567e9a299c0090286e783e1cffbec6366a"
 
 [[files]]
 file = "mods/FastMove-1.20.1-1.0.8-beta.jar"
@@ -1003,6 +1003,11 @@ hash = "75260b1eea1cdb9671dd1e3426d875ad081a13b734253b218f577d7dd6852012"
 [[files]]
 file = "mods/RespawningAnimals-v8.2.0-1.20.1-Fabric.jar"
 hash = "0092667db977de01b68f2715410f2848390184a886a8fa36d0253f625da2bc1f"
+
+[[files]]
+file = "mods/additional-rpg-jewelry.pw.toml"
+hash = "018b9d92368d1f4bdc7b8a601f08c501100d12bc6143efd812daf6e0e17a1274"
+metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
@@ -1077,6 +1082,11 @@ metafile = true
 [[files]]
 file = "mods/better-mineshaft.pw.toml"
 hash = "1a06a46a1f78e713e070beb02d0ff9a4cad3365898a4dadda6deb3eb587b7878"
+metafile = true
+
+[[files]]
+file = "mods/biome-fog.pw.toml"
+hash = "88a08ca4a572c277f8db4cf7722cdf26f19fbdaf8316e1a791c9541a798fa7a9"
 metafile = true
 
 [[files]]
@@ -1271,6 +1281,11 @@ hash = "cf4b553affc8e25d8dea980efc7d73537e6fab7aa30fdd6c402c28cd79b129d5"
 metafile = true
 
 [[files]]
+file = "mods/dungeons-and-taverns-pillager-outpost-rework.pw.toml"
+hash = "1bda0e03b2440e69cc4ecf5e83337143edb2f258545a3cdc3768505c54fa0ef2"
+metafile = true
+
+[[files]]
 file = "mods/dungeons-more-spawners.pw.toml"
 hash = "26e024de5a1ff43894309bcd6c6aadc76b92343604d9190aefb635ce2180c41a"
 metafile = true
@@ -1296,6 +1311,11 @@ hash = "67f86fbf1f85c1bb895d12c81bc6546befdc1b5f2016e50f25e90f4738e28aea"
 metafile = true
 
 [[files]]
+file = "mods/eating-animation.pw.toml"
+hash = "d6f3249ad3a27395ebeaa97bd4601587169f0ffa50ddefabc0538358eee8b555"
+metafile = true
+
+[[files]]
 file = "mods/ebe.pw.toml"
 hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
 metafile = true
@@ -1303,6 +1323,11 @@ metafile = true
 [[files]]
 file = "mods/eldritch-mobs.pw.toml"
 hash = "8237394bebf50709840b99c3b2edb71f1659537887e4b1e64f3c5315ac1aac75"
+metafile = true
+
+[[files]]
+file = "mods/elemental-wizards-rpg-class.pw.toml"
+hash = "52bf9c8faeb323b9c6c50867ba2c5bfd792a5f973642d19fafc6e32911e8ffde"
 metafile = true
 
 [[files]]
@@ -1388,6 +1413,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "19cbba78c4982b15d10e44736a5fb7e992e477f6101799258d0ef7e03b288033"
+metafile = true
+
+[[files]]
+file = "mods/good-ending.pw.toml"
+hash = "4ffca4ca33cea737fcf103803311dd819ec7d9298f140ad551f4b1c4e6dbb439"
 metafile = true
 
 [[files]]
@@ -1659,6 +1689,11 @@ hash = "1870620ac0fb128b9a6f2cb8c6f887cb2a5f42bdf4aed1851f2f4f3d542fffc3"
 metafile = true
 
 [[files]]
+file = "mods/more-rpg-classes.pw.toml"
+hash = "3a4ee4e1c0a6c2506687b338c8a8155bc971f377d23b506de219ce48b92e762d"
+metafile = true
+
+[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "979e6d73369f2e45666e49c387f7f4f9b266df1085d4a7a949039aac461b3c13"
 metafile = true
@@ -1700,6 +1735,11 @@ hash = "8077b0bf61a0bb81da65803a1d8554ae3c47324491b67444be70efe5136c6291"
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
+metafile = true
+
+[[files]]
+file = "mods/nocturnal-bats.pw.toml"
+hash = "806c3d1ed3e4dcb1ef3a77d25aa4961fc376b74771c84cd41ed70fceb2368856"
 metafile = true
 
 [[files]]
@@ -2035,8 +2075,18 @@ file = "mods/victus-0.1.16-nerfed+1.20.jar"
 hash = "198b7c7643ba8d794f9ddcbc97d3d1ebeda637b55cd0d3f1fc3c1f7d36902f7b"
 
 [[files]]
+file = "mods/village-healthcare.pw.toml"
+hash = "729f7020a9c3d010e19e3dae7188a787df5f4ef9c18c2f07cf0696dde2584b7c"
+metafile = true
+
+[[files]]
 file = "mods/villages-and-pillages.pw.toml"
 hash = "ecb927b59cc3e10f42a46b64b06c47c66848579293cb7884793208919f36f5cf"
+metafile = true
+
+[[files]]
+file = "mods/wabi-sabi-structures.pw.toml"
+hash = "b8d55405c8f56f78c9e25896773d32807a03f55e1fca73a68ed83436ce09296c"
 metafile = true
 
 [[files]]
@@ -2342,7 +2392,7 @@ hash = "5091c49f2297f6528b11d13992a3b20e23246aa5e505ce100a082714fa3fc222"
 
 [[files]]
 file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/playerex/attributes/entity_types.json"
-hash = "23a2163a9c2c1844236cbc9dbabc6d1dfde261c2c1b7873e6ec8e8d977eebcf8"
+hash = "256cd89cc074b2307abaed0871f0d412185d1e0101ecfe9eb50d7d68aa07a189"
 
 [[files]]
 file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/playerex/attributes/functions.json"
@@ -2462,4 +2512,4 @@ hash = "f4925044d6975225296cb9cb84b3ee9388bc00d3aacce066eee92bc427ca66cf"
 
 [[files]]
 file = "unsup.toml"
-hash = "5ca8debbaee83d04d59993e7af6ffa49726f7293ae8bde59fd56fd9a41698089"
+hash = "f73b35e432375f01a1377d7cf77d929ea611c02af45b932759dc4a04efed53f6"

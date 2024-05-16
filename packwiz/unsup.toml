@@ -2,6 +2,7 @@
 name = "Extra Client Options"
 description = "Which client mods you'd like to use.\nIncreases or decreases performance depending on choices."
 side = "client"
+
 [[flavor_groups.rendering_mod.choices]]
 id = "default"
 name = "Default"

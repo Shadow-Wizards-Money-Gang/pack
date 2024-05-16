@@ -138,7 +138,7 @@
         Useful numbers: https://minecraft.fandom.com/wiki/Experience#Leveling_up (See 'Total XP')
         Default value: 27 points/3 levels
         */
-        "xpCost": 27,
+        "xpCost": 550,
         /*
         The amount of experience(levels, not points) consumed when teleporting to an obelisk.
         This is different to 'xpCost' as the cost to teleport will technically get more expensive the more levels you have.
@@ -151,7 +151,7 @@
         Whether the immortality curse should be forcefully applied when teleporting.
         Regardless of this value, you will still receive the curse when teleporting to uncharged obelisks.
         */
-        "forcedCurseOnTp": false,
+        "forcedCurseOnTp": true,
         // Minimum radiance required to teleport. Values of 0 or lower will disable this requirement.
         "minimumTpRadiance": 1.0,
         // Amount of radiance lost when teleporting to an obelisk.
@@ -228,9 +228,9 @@
             // Whether the obeliskbound enchantment can be discoverable. (Found throughout chests in world)
             "discoverable": true,
             // The chance (%) per level to keep items with the obeliskbound enchantment.
-            "chancePerLevel": 25.0,
+            "chancePerLevel": 100.0,
             // The highest level the obeliskbound enchantment can have.
-            "maxLevel": 3
+            "maxLevel": 1
         },
         "inventory": {
             // Whether you should keep your inventory (discluding armor and offhand) when respawning at an obelisk.
