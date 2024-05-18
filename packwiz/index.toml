@@ -1016,7 +1016,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "175e89b2fb76991438450c5ecf4e8a87438e9325b981fa257999fd66fee218eb"
+hash = "53f916b9de41d827c2e83400f30444927be0755acb38d8ebf8e63254694a33ec"
 metafile = true
 
 [[files]]
@@ -1071,7 +1071,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-archeology.pw.toml"
-hash = "885eb676ff705c60016728162bc7c3518ac3f5789b1d9ff81dc4cf19ca4e9131"
+hash = "358b1f7fae7040aff5256d1670442ada1744368a5ca36af8281f796d413dbde7"
 metafile = true
 
 [[files]]
@@ -1180,7 +1180,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "bb7b31de1f5c7941aff59030d59168a5971e8c47884bcd8905637836ff97ce46"
+hash = "acbde04e67f2f0970a6b81e3c818a5f8ed3eceab4f3a04330d80c70c24d03afe"
 metafile = true
 
 [[files]]
@@ -1248,7 +1248,7 @@ metafile = true
 
 [[files]]
 file = "mods/do-api.pw.toml"
-hash = "de8d69e0b821c8a09f5666e18e78ca34482ad99a81564e32f580bed18a7d6761"
+hash = "2215a1c2b0ac55cb1d780938f441b819cd2ea32cfb841427f45897bb61586a32"
 metafile = true
 
 [[files]]
@@ -1268,7 +1268,7 @@ metafile = true
 
 [[files]]
 file = "mods/dungeon-now-loading.pw.toml"
-hash = "e02835faafc85a21e85f59dac415a93f8acdb3e573b2f58ff4eca85c1ff657c0"
+hash = "d4a31dc7f7c057041930d91696a4d1cb978eaa16f8727df31a4b97668eb542a1"
 metafile = true
 
 [[files]]
@@ -1552,7 +1552,7 @@ metafile = true
 
 [[files]]
 file = "mods/labels.pw.toml"
-hash = "dd4349579a8951e8174862000c6c8a02e9fb99388976953eb557db52e1f99083"
+hash = "285213bce90eecfcdb5e890d40c022d33df365802c5f1875c2905bca77595322"
 metafile = true
 
 [[files]]
@@ -1567,7 +1567,7 @@ metafile = true
 
 [[files]]
 file = "mods/leaky.pw.toml"
-hash = "7de0a9017b726b11733cebaa1ea3c16ecd563841ce2b49fc3751f43ac2be91af"
+hash = "942eac0139c78d7c696c380f06c191ebcb9e01333eb0c5309a0dabd635247bb5"
 metafile = true
 
 [[files]]
@@ -1577,7 +1577,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-bakery.pw.toml"
-hash = "197aec84789abf3fb08e27d370541cacd63e01dca0713ac3c8cc4c951b56fe7b"
+hash = "cb3bbff11623cd344bcf6914575f5368f11f6394287a6bb4777504d99b716707"
 metafile = true
 
 [[files]]
@@ -1685,12 +1685,12 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "1870620ac0fb128b9a6f2cb8c6f887cb2a5f42bdf4aed1851f2f4f3d542fffc3"
+hash = "7db3009cf237f070d70a644fe4d421e951f276b30d98b4b5854571d6aefcfcfc"
 metafile = true
 
 [[files]]
 file = "mods/more-rpg-classes.pw.toml"
-hash = "3a4ee4e1c0a6c2506687b338c8a8155bc971f377d23b506de219ce48b92e762d"
+hash = "e9e77dd98bc620e3030db10a2886523ca7f2d693bff88d9ab2154b7cedf5ac08"
 metafile = true
 
 [[files]]
@@ -1798,7 +1798,7 @@ hash = "3610065f7ae92c1b443f30e478909a496e1f4ffb506bf9a0a0360624a1ae03d0"
 
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
-hash = "74058d27cf4f2eaa273b7e3e7068e573a196d12116d2290c9088cdb5895c3aa8"
+hash = "35f2b7d27291e3a313c986137b70b7675bc32b3d0097e0940c7e23b0cf62b92e"
 metafile = true
 
 [[files]]
@@ -1900,7 +1900,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "1f0bec3ad99e321884a4e7af58399a99982f00c3eb647b80d371525eede4b725"
+hash = "b111fdeed3878f400f8824451e6574ad83b5566f9dedfdaa4d6dcaa7bc4c208d"
 metafile = true
 
 [[files]]
@@ -2013,7 +2013,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "5113afb95c37a18d4fec0e7521707354cb09f68b16952588855dfdd26ca5290e"
+hash = "36a46701d9aa137c61c0008f0c8a7e32e501a56d220688688a3bdad93579fd45"
 metafile = true
 
 [[files]]
@@ -2023,7 +2023,7 @@ metafile = true
 
 [[files]]
 file = "mods/tempest.pw.toml"
-hash = "1e2f17ca183438fa9a35e0d51ae2488f890d1b54e7c4bae9f69e486905d5b473"
+hash = "49bfc689edc3ed959f5d003c778b85a57bb99cd330ba52f250dde09db24bc286"
 metafile = true
 
 [[files]]
@@ -2062,7 +2062,7 @@ hash = "e0d3640e165f850a3710df3a2b096058d0e34fe2b333fc186ced79412be91194"
 
 [[files]]
 file = "mods/useless-reptile.pw.toml"
-hash = "d72d409e1957e55062f1f2c4d02576972e77bf58b946b49300bdcde6f1b29b9d"
+hash = "eddd1fe7d27c37cc974d7f33939bb7e028327400b2d2aa97b221be935301577b"
 metafile = true
 
 [[files]]
@@ -2392,7 +2392,7 @@ hash = "5091c49f2297f6528b11d13992a3b20e23246aa5e505ce100a082714fa3fc222"
 
 [[files]]
 file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/playerex/attributes/entity_types.json"
-hash = "256cd89cc074b2307abaed0871f0d412185d1e0101ecfe9eb50d7d68aa07a189"
+hash = "acb45d3fc337c76b88a506106b8597daff32a377d7140ab44fa1b4d92b4739d3"
 
 [[files]]
 file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/playerex/attributes/functions.json"

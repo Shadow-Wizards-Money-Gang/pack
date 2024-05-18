@@ -1,13 +1,13 @@
 name = "Tempest"
-filename = "tempest-fabriquilt-1.20.1-0.1.12.jar"
+filename = "tempest-fabriquilt-1.20.1-0.1.13.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/YuZD6Tkx/versions/s2Bl2rjw/tempest-fabriquilt-1.20.1-0.1.12.jar"
+url = "https://cdn.modrinth.com/data/YuZD6Tkx/versions/HMlGsRdV/tempest-fabriquilt-1.20.1-0.1.13.jar"
 hash-format = "sha1"
-hash = "1863ad96850d50cc75b4abb422531c1594d35098"
+hash = "05cc5c7952ceed318a5a33c737739d989fa3a262"
 
 [update]
 [update.modrinth]
 mod-id = "YuZD6Tkx"
-version = "s2Bl2rjw"
+version = "HMlGsRdV"
