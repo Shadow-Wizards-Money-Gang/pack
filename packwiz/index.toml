@@ -1826,11 +1826,6 @@ hash = "5017352458c35693d4aa0ea8872a0e6b80a6c128a5866327b02263d2ce87c9c4"
 metafile = true
 
 [[files]]
-file = "mods/pv-addon-replaymod.pw.toml"
-hash = "9fcfd07570667771722befc821eccab31cc2c680a14f29d44eb950a6ca9d9e5a"
-metafile = true
-
-[[files]]
 file = "mods/pv-addon-soundphysics.pw.toml"
 hash = "699022f3c6f29cdc0aa6c629f46b087f1b2a65766cf14f1889c8f61c4c83cc9a"
 metafile = true
