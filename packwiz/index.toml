@@ -1011,12 +1011,17 @@ metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "6b6306b292af31f2d372afd9f8a86adb37967913d95bd12d23ef20a3b3253bee"
+hash = "2cfbf2650cf75fbf2fa43fe42dd3d01bddd8d0df02617d47d91c21a0de775a4f"
 metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "53f916b9de41d827c2e83400f30444927be0755acb38d8ebf8e63254694a33ec"
+hash = "c9a92d13fd7b80594a5d5e8f7ee5c1324272e371b5cba5016b35150145c182d7"
+metafile = true
+
+[[files]]
+file = "mods/another-furniture.pw.toml"
+hash = "505f89da0af64879da1886bc0eb282ee13a4ae032aaa61a899a4a0a83f15dd6e"
 metafile = true
 
 [[files]]
@@ -1026,7 +1031,7 @@ metafile = true
 
 [[files]]
 file = "mods/arcanus-continuum.pw.toml"
-hash = "484dfcb54d6678b2046644167e4676d5e152b6622b2c8bc7278414001abe39ba"
+hash = "b7f7aca818079a5d1b81ce3b17bcb0b4521ecea9d5c3079495ccd6022e9a0b83"
 metafile = true
 
 [[files]]
@@ -1121,6 +1126,11 @@ metafile = true
 [[files]]
 file = "mods/brutal-bosses-dungeon.pw.toml"
 hash = "ed48ca8d8a2a6bb274c254ac3d1b3360d9d7b23f69c102310475699d7f34ad2d"
+metafile = true
+
+[[files]]
+file = "mods/building-but-better.pw.toml"
+hash = "114c578300daf8d27ae0456572fb2eb29575269a8ad9dfe85cd1d1c62d638334"
 metafile = true
 
 [[files]]
@@ -1332,7 +1342,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchancement.pw.toml"
-hash = "6faeb661c60d91da000cd50405d4c558832c87bba6816af589f2b7b29e675352"
+hash = "4091cbd06fc8806b90a28a1e841b7d43620bcbc47395383d78dd0ac37fa8f175"
 metafile = true
 
 [[files]]
@@ -1462,7 +1472,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "d10d6632f398e4bc8f62555eab1d70a6624837741fc653f2e2a18188166c6477"
+hash = "2be3635a0b6d46cbe9dead49d8b9a31a7e0ff3426b18623455e4a49bc7720cf3"
 metafile = true
 
 [[files]]
@@ -1472,7 +1482,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-melodies.pw.toml"
-hash = "a903352574ece4773a17fca573b364422d4e288cb48f723e2df77f453219309b"
+hash = "339fb51966450c317cdc7bb6fad466b60df15c05e0526a618abb0420bfd3cc57"
 metafile = true
 
 [[files]]
@@ -1562,7 +1572,7 @@ metafile = true
 
 [[files]]
 file = "mods/lavender.pw.toml"
-hash = "c6336dbc672b4b11347845e30f7f08e781e73e91fe85e03f343195d6cae8f85b"
+hash = "62231160341ef817abdb470b0178423f0005590201bc9da55f9c83655bac6848"
 metafile = true
 
 [[files]]
@@ -1685,7 +1695,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "7db3009cf237f070d70a644fe4d421e951f276b30d98b4b5854571d6aefcfcfc"
+hash = "ef68c90017bfeae65a461efc1fe85179669dc03b8c1154bb55617ca5a7ea6dbf"
 metafile = true
 
 [[files]]
@@ -1900,7 +1910,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "b111fdeed3878f400f8824451e6574ad83b5566f9dedfdaa4d6dcaa7bc4c208d"
+hash = "39cf9b2dedf44cc49c98921309278a397ae93b11d4763fbbdb3c9dcab7503c97"
 metafile = true
 
 [[files]]

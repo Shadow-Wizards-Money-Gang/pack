@@ -1,0 +1,13 @@
+name = "Building But Better"
+filename = "bbb-1.20.1-fabric-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e4e7ff2a247d4bffc176a3f8ee13fd7d52fe0b1f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5355108
+project-id = 989479
