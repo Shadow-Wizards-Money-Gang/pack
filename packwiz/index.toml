@@ -1016,7 +1016,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "c9a92d13fd7b80594a5d5e8f7ee5c1324272e371b5cba5016b35150145c182d7"
+hash = "3031baa0cf2f7b26baebbe9e2d63605d35984a7b636bdadf823d8e5d9b6c0a92"
 metafile = true
 
 [[files]]
@@ -1130,7 +1130,7 @@ metafile = true
 
 [[files]]
 file = "mods/building-but-better.pw.toml"
-hash = "114c578300daf8d27ae0456572fb2eb29575269a8ad9dfe85cd1d1c62d638334"
+hash = "bf7c0a50f7408a599beca4215185d25d89c1ef54d1a725fa013db6549c91e47d"
 metafile = true
 
 [[files]]
@@ -1170,7 +1170,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "14e2b2f26aff8192baac5ba50948aa131bd7b70ce0c1bf703804a0b08ead7dd0"
+hash = "d991200509d9cac4beac85ae96ee2bda9feb38fb622679493c18e0f4639eead8"
 metafile = true
 
 [[files]]
@@ -1482,7 +1482,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-melodies.pw.toml"
-hash = "339fb51966450c317cdc7bb6fad466b60df15c05e0526a618abb0420bfd3cc57"
+hash = "14f73eb676c368ecd7218e616097ab31fafa7645d60d7cf213d6505a581d6c1b"
 metafile = true
 
 [[files]]
@@ -1626,7 +1626,7 @@ hash = "02f40f0ffbc7e2de873e0b6c4ba5e0d450d8ba264633f8ea9a7f7921ff2e86e4"
 
 [[files]]
 file = "mods/lukis-grand-capitals.pw.toml"
-hash = "99e894877592f5c273691915e512150f858e647631866c72ca30a8c1d6d603ca"
+hash = "e1890de681619eecb84f1168b909ca4bf473d1337e398b74f3414cd43ba3e448"
 metafile = true
 
 [[files]]
@@ -1695,7 +1695,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "ef68c90017bfeae65a461efc1fe85179669dc03b8c1154bb55617ca5a7ea6dbf"
+hash = "68fa2c90c80e9ae9fbd98b2e62b43422883f0937165324bf11965c400047ca86"
 metafile = true
 
 [[files]]
@@ -1716,6 +1716,11 @@ metafile = true
 [[files]]
 file = "mods/multiplayer-server-pause.pw.toml"
 hash = "a6de951e4d89d37e73f5f71d24ef28cea7f36e5317b1ad5df86d4879849e8e52"
+metafile = true
+
+[[files]]
+file = "mods/music-maker-mod.pw.toml"
+hash = "781bc89a78c823af43bdd46b74f9b1a6f76855b45fbfe469e50233bd889b27ff"
 metafile = true
 
 [[files]]
@@ -1837,7 +1842,7 @@ metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
-hash = "025234450612bb71d2692b901bcfa5c93ad931c67a0019260eb8cead4396c10f"
+hash = "943e13d07bc64f2410603366e77b1966f00bda18bf6430a9149282ac1d06a0fd"
 metafile = true
 
 [[files]]
@@ -1871,7 +1876,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "b587bea8ab6df349f3a8035d1f5b8492819c2a72722e770468fc9b0ddfb9fdd3"
+hash = "302adba0f8f48209a745dc8775f04057f428cd73a2b305d9af9fdab66abf8be4"
 metafile = true
 
 [[files]]
@@ -1905,7 +1910,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "39cf9b2dedf44cc49c98921309278a397ae93b11d4763fbbdb3c9dcab7503c97"
+hash = "ba80062b95f5763d97bc355f0776b9c189911d7224b830485b02dc5f8cdcdeb4"
 metafile = true
 
 [[files]]
@@ -2107,6 +2112,11 @@ metafile = true
 [[files]]
 file = "mods/wizards.pw.toml"
 hash = "6851c8692100d195a4a5b7eb9cd5e995a65d630674aca9012d84850cd556d677"
+metafile = true
+
+[[files]]
+file = "mods/wolfport.pw.toml"
+hash = "6e91d397d1b8308cd67f49b8d2afbffcb8b78fa076848664fb604ba25541f364"
 metafile = true
 
 [[files]]
