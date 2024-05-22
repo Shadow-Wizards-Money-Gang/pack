@@ -1139,6 +1139,11 @@ hash = "5afe4e900b83aa83109d0c845df28e9695d8e3639518b0f08169a547f0e3682b"
 metafile = true
 
 [[files]]
+file = "mods/caligo.pw.toml"
+hash = "db7de4b9a88bf11a312a231f74a2010b61bb51d1748fdff733b539d1e2d3e1c9"
+metafile = true
+
+[[files]]
 file = "mods/cameraoverhaul.pw.toml"
 hash = "b657f098bc6bdf2c7ee67f95bf6cbf7e39cf4db7c6b8fb6fd432b9471c53ec1a"
 metafile = true
@@ -1408,6 +1413,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
+metafile = true
+
+[[files]]
+file = "mods/forsaken-corpses.pw.toml"
+hash = "e101356245bb2600e4632eb082535cb79d76c0a9efd0e0b40545171f1c8ed445"
 metafile = true
 
 [[files]]
