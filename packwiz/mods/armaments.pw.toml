@@ -1,0 +1,13 @@
+name = "Armaments"
+filename = "armaments-1.0+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6a7b05b6a28446a2f1d10f3af0b88ebb6f744b04"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5350286
+project-id = 1016786

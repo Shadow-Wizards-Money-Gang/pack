@@ -997,6 +997,10 @@ file = "kubejs/startup_scripts/item_rebalancing.js"
 hash = "0872f46d99d4b8218ea4bf881a685a567e9a299c0090286e783e1cffbec6366a"
 
 [[files]]
+file = "mods/AxiomPatcher-24.0519.1453.jar"
+hash = "d04866a60f80c2be3044c32da7621ba3be9ea450c1dedc3b8c38230bc3c49095"
+
+[[files]]
 file = "mods/FastMove-1.20.1-1.0.8-beta.jar"
 hash = "75260b1eea1cdb9671dd1e3426d875ad081a13b734253b218f577d7dd6852012"
 
@@ -1050,8 +1054,18 @@ hash = "70c28de6e1dfbca3efd35c6af3eedcd61aa89121a9f76078d472ecf8377faa36"
 metafile = true
 
 [[files]]
+file = "mods/armaments.pw.toml"
+hash = "9f866d389e49862c504f749fbf6fd560b1b27f423eed109bf91ccb98a00df135"
+metafile = true
+
+[[files]]
 file = "mods/async-locator.pw.toml"
 hash = "b0b72c2a6b6c969315878bf7a813fea74491653282f0fa50c87f64742547647a"
+metafile = true
+
+[[files]]
+file = "mods/axiom.pw.toml"
+hash = "f2820df0f5b9cb37572d70be4aa7042ea68f4bc543a36a7342b9d54e9a6d7378"
 metafile = true
 
 [[files]]
@@ -1150,7 +1164,7 @@ metafile = true
 
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
-hash = "50e3b067e93d3e6683d540edc4d046ed7b6b5fbb31409df1727b120f225b1975"
+hash = "784568c3a84665e7ba13ed00de6d7be7676464e2b08390ffcc7012f2b3ee9e08"
 metafile = true
 
 [[files]]
