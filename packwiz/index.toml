@@ -997,10 +997,6 @@ file = "kubejs/startup_scripts/item_rebalancing.js"
 hash = "0872f46d99d4b8218ea4bf881a685a567e9a299c0090286e783e1cffbec6366a"
 
 [[files]]
-file = "mods/AxiomPatcher-24.0519.1453.jar"
-hash = "d04866a60f80c2be3044c32da7621ba3be9ea450c1dedc3b8c38230bc3c49095"
-
-[[files]]
 file = "mods/FastMove-1.20.1-1.0.8-beta.jar"
 hash = "75260b1eea1cdb9671dd1e3426d875ad081a13b734253b218f577d7dd6852012"
 
@@ -1030,7 +1026,7 @@ metafile = true
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
-hash = "e853b0a08068b6cdaa7f84702b71b336c0fdedc3ea84642ea095d05b3796a05d"
+hash = "f661a4d76e840d004fbec4b1be367c2210210587d11d575fda8f51c2903d01a9"
 metafile = true
 
 [[files]]
@@ -1055,17 +1051,12 @@ metafile = true
 
 [[files]]
 file = "mods/armaments.pw.toml"
-hash = "9f866d389e49862c504f749fbf6fd560b1b27f423eed109bf91ccb98a00df135"
+hash = "9caeca52a009789d262f8778996c155fc59b339b922df55a7843cc8a6e67e0af"
 metafile = true
 
 [[files]]
 file = "mods/async-locator.pw.toml"
 hash = "b0b72c2a6b6c969315878bf7a813fea74491653282f0fa50c87f64742547647a"
-metafile = true
-
-[[files]]
-file = "mods/axiom.pw.toml"
-hash = "f2820df0f5b9cb37572d70be4aa7042ea68f4bc543a36a7342b9d54e9a6d7378"
 metafile = true
 
 [[files]]
@@ -1391,7 +1382,7 @@ metafile = true
 
 [[files]]
 file = "mods/extra-spell-attributes.pw.toml"
-hash = "f07692d5bae52a324e74480dc2bdee83892085b5a28626b47cf127d341cfc10a"
+hash = "a6108f32d3c79eb180da8ae08abf007392a26fb98e197e9c93b8d3b2ed475db2"
 metafile = true
 
 [[files]]
@@ -1431,7 +1422,7 @@ metafile = true
 
 [[files]]
 file = "mods/forsaken-corpses.pw.toml"
-hash = "e101356245bb2600e4632eb082535cb79d76c0a9efd0e0b40545171f1c8ed445"
+hash = "ecfc6cb1bddb88df5edb98b4e54f739a08c0e8105698c2ea12de6c5ded8c7a3a"
 metafile = true
 
 [[files]]
@@ -1719,7 +1710,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "68fa2c90c80e9ae9fbd98b2e62b43422883f0937165324bf11965c400047ca86"
+hash = "7356c4b80f79ea0991f67456b265204c45c4897f4acc5858ce40a3028ade12fd"
 metafile = true
 
 [[files]]
@@ -1930,7 +1921,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "ba80062b95f5763d97bc355f0776b9c189911d7224b830485b02dc5f8cdcdeb4"
+hash = "d51f11f7b5c69d448ce96d7fe8c522c36521650629181b659f3fb230da6bdd6b"
 metafile = true
 
 [[files]]
@@ -1974,7 +1965,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "1e086041b1176bd6aaf0ed9de79352b9382a06bab6368816bd2c16fae3e1b8f8"
+hash = "e08ca8ac15208b48141f10d9d34b14080f859c318cc65f5592d076c6a337bffe"
 metafile = true
 
 [[files]]
@@ -2141,7 +2132,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "ff94f32d4d3ec1df6c8446455f1c70393cbb8042a78ec1175748e1ab1b1d196b"
+hash = "200557716291399497216a70e772a4f3df1e4e6c7c52b5949b8fc7271b5a42e9"
 metafile = true
 
 [[files]]
