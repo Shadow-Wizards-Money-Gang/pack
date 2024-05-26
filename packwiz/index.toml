@@ -1466,11 +1466,6 @@ hash = "d61ec313523785b4a65542848ccc414d2387c826754a9ffd5d6ed43ad87b95d7"
 metafile = true
 
 [[files]]
-file = "mods/hopo-better-underwater-ruins.pw.toml"
-hash = "a333b9ef66ad308ed9f9c7efc32225d299bb13f2101c0eebf2ffee373472d8f6"
-metafile = true
-
-[[files]]
 file = "mods/horseshoes.pw.toml"
 hash = "cbe17772faf2737c78592ad610982b12ba76c208d4ec530d6a896dbdab382099"
 metafile = true
@@ -1794,6 +1789,11 @@ hash = "57b8a5d76bf66af547618353b986d3b9a7663b3e7efc7cfe5382207ae84405d9"
 metafile = true
 
 [[files]]
+file = "mods/particular.pw.toml"
+hash = "918c80c1e73cfa197b20403434cc5fd46d709b8a75e94365d4a610b26563b3b3"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "89e5cab6f92dbcfd6c2c058fc9381869fde193a431c284dbb828833e881cd344"
 metafile = true
@@ -1801,11 +1801,6 @@ metafile = true
 [[files]]
 file = "mods/pehkui.pw.toml"
 hash = "d6ba97570ac7eb8bc4fcf20b176583c5e4181b388da4f3fe11440828808df96a"
-metafile = true
-
-[[files]]
-file = "mods/planetarium.pw.toml"
-hash = "9f672e5511d96ef885c9ba2ab026bdb806b96e020c39f8468a30400a22ba7722"
 metafile = true
 
 [[files]]
