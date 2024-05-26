@@ -1531,7 +1531,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-obliterator.pw.toml"
-hash = "9785c074b8ffaeb91fb0120b3b56fa8ba96ce5547205af2695e11f0bcc21faf7"
+hash = "80e4f4b2e96c0d0ee5250c938ea39f061ee628f4c97fb54df7954fab2943a777"
 metafile = true
 
 [[files]]
@@ -1766,10 +1766,6 @@ metafile = true
 file = "mods/nicer-skies.pw.toml"
 hash = "ddbcdf60f634287b6df241a873fc07b4ce56facfb358a0a74cb1df9acff97725"
 metafile = true
-
-[[files]]
-file = "mods/niftycarts-3.0.3-wiz+1.20.1.jar"
-hash = "8077b0bf61a0bb81da65803a1d8554ae3c47324491b67444be70efe5136c6291"
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
@@ -2145,7 +2141,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "200557716291399497216a70e772a4f3df1e4e6c7c52b5949b8fc7271b5a42e9"
+hash = "ff94f32d4d3ec1df6c8446455f1c70393cbb8042a78ec1175748e1ab1b1d196b"
 metafile = true
 
 [[files]]
