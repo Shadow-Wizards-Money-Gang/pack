@@ -1,0 +1,38 @@
+{
+  "type": "guardvillagers:slot",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:iron_sword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "paladins:iron_claymore",
+          "functions": [
+            {
+                "function": "set_nbt",
+                "tag": "{Enchantments: [{id: \"fire_aspect\", lvl: 1}]}"
+            }
+        ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "paladins:iron_mace",
+          "functions": [
+            {
+                "function": "set_nbt",
+                "tag": "{Enchantments: [{id: \"fire_aspect\", lvl: 1}]}"
+            }
+        ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:crossbow"
+        }
+      ]
+    }
+  ]
+}

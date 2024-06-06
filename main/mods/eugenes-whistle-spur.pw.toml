@@ -1,0 +1,13 @@
+name = "Eugene's Whistle & Spur"
+filename = "Eugene's Whistle 1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3541f70e08ae25c970f0f908e3047390d3db88af"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5120443
+project-id = 971785

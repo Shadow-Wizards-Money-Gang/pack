@@ -1,0 +1,14 @@
+{
+    "pack": {
+        "pack_format": 18,
+        "description": "Shadow Wizard Money Gang"
+    },
+    "filter": {
+        "block": [
+            {
+                "namespace": "minecraft",
+                "path": "advancements/.*"
+            }
+        ]
+    }
+}

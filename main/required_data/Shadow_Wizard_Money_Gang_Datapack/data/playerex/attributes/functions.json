@@ -1,0 +1,128 @@
+{
+    "values": {
+        "playerex:constitution": {
+            "minecraft:generic.max_health": {
+            	"behaviour": "ADDITION",
+            	"value": 0.5
+            },
+            "minecraft:generic.knockback_resistance": {
+            	"behaviour": "ADDITION",
+            	"value": 0.005
+            },
+            "playerex:poison_resistance": {
+            	"behaviour": "ADDITION",
+            	"value": 0.005
+            },
+            "minecraft:generic.attack_damage": {
+            	"behaviour": "ADDITION",
+            	"value": 0.125
+            },
+            "minecraft:generic.armor": {
+            	"behaviour": "ADDITION",
+            	"value": 0.25
+            },
+            "playerex:health_regeneration": {
+            	"behaviour": "ADDITION",
+            	"value": 0.005
+            }
+        },
+        "playerex:strength": {
+            "playerex:health_regeneration": {
+            	"behaviour": "ADDITION",
+            	"value": 0.01
+            },
+            "spell_power:healing": {
+		        "behaviour": "ADDITION",
+		        "value": 0.25
+	      	},
+              "playerex:heal_amplification": {
+            	"behaviour": "ADDITION",
+            	"value": 0.001
+            }
+        },
+        "playerex:dexterity": {
+        	"minecraft:generic.attack_speed": {
+            	"behaviour": "MULTIPLY",
+            	"value": 0.01
+            },
+			"minecraft:generic.movement_speed": {
+            	"behaviour": "MULTIPLY",
+            	"value": 0.02
+            },
+			"playerex:evasion": {
+            	"behaviour": "ADDITION",
+            	"value": 0.01
+            },
+            "projectile_damage:generic": {
+            	"behaviour": "ADDITION",
+            	"value": 0.25
+            },
+            "playerex:melee_crit_damage": {
+            	"behaviour": "ADDITION",
+            	"value": 0.005
+            },
+            "playerex:lightning_resistance": {
+            	"behaviour": "ADDITION",
+            	"value": 0.01
+            }
+        },
+        "playerex:intelligence": {
+            "playerex:ranged_crit_damage": {
+            	"behaviour": "ADDITION",
+            	"value": 0.005
+            },
+            "playerex:wither_resistance": {
+            	"behaviour": "ADDITION",
+            	"value": 0.01
+            },
+            "spell_power:fire": {
+		        "behaviour": "ADDITION",
+		        "value": 0.25
+	      	},
+            "spell_power:arcane": {
+		        "behaviour": "ADDITION",
+		        "value": 0.25
+	      	},
+              "spell_power:frost": {
+		        "behaviour": "ADDITION",
+		        "value": 0.25
+	      	},
+              "spell_power:soul": {
+		        "behaviour": "ADDITION",
+		        "value": 0.25
+	      	},
+            "arcanuscontinuum:mana_regen": {
+		        "behaviour": "ADDITION",
+		        "value": 0.05
+	      	}
+        },
+        "playerex:luckiness": {
+        	"minecraft:generic.luck": {
+            	"behaviour": "ADDITION",
+            	"value": 0.1
+            },
+            "playerex:melee_crit_chance": {
+            	"behaviour": "ADDITION",
+            	"value": 0.02
+            },
+            "playerex:ranged_crit_chance": {
+            	"behaviour": "ADDITION",
+            	"value": 0.02
+            }
+        },
+		"playerex:wisdom": {
+        	"playerex:fire_resistance": {
+            	"behaviour": "ADDITION",
+            	"value": 0.01
+            },
+            "playerex:freezing_resistance": {
+            	"behaviour": "ADDITION",
+            	"value": 0.01
+            },
+            "playerex:breaking_speed": {
+            	"behaviour": "ADDITION",
+            	"value": 0.01
+            }
+        }
+    }
+}

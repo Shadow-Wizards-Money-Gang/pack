@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "aylyth:esstline"
+  },
+  "base": {
+    "item": "wizards:wand_frost"
+  },
+  "result": {
+    "item": "wizards:wand_netherite_frost"
+  },
+  "template": {
+    "item": "aylyth:aylythian_upgrade_smithing_template"
+  }
+}
