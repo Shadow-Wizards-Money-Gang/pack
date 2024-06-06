@@ -570,7 +570,7 @@ hash = "6b0e3ee823563d94940769cc61e79598bfc07722c62febac4bdbae55dd9ef1f3"
 
 [[files]]
 file = "config/mythicmobs.json"
-hash = "0d61535e254564c3517ac38e7387d29eb175e5075df506bee8716e9f5546794a"
+hash = "20b8da8621e8db0c9ccc8c4d2441e5b1c614040b5f8fcacd4560e888e88a5266"
 
 [[files]]
 file = "config/naturalist.json"
@@ -893,12 +893,8 @@ file = "config/universal-graves/example_models/soul.json"
 hash = "4cefc36dc1ad8737b92db8c912bb8386e43ca0323e0515ac2ed13be5b5082af5"
 
 [[files]]
-file = "config/uselessreptile.json"
-hash = "3bb0238e86431c8609e61981b4bf0dbd2935e8fcabc40b3936293f138359b0ba"
-
-[[files]]
 file = "config/uselessreptile.json5"
-hash = "96bc5f8898728b329361c9b8bd14d657687678eda56cde857d16684924e5e801"
+hash = "0a446d9489818c60c71385d5a13d84a6014a9207ef057e5f11e46e5fdbda62c9"
 
 [[files]]
 file = "config/uselessreptile_client.json5"
@@ -1026,11 +1022,7 @@ metafile = true
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
-<<<<<<< HEAD
-hash = "f661a4d76e840d004fbec4b1be367c2210210587d11d575fda8f51c2903d01a9"
-=======
-hash = "ce6b575a6a3e263cf59cf5a28c9edad100becc38968f79d284dc8784b00ef2c9"
->>>>>>> 234867c (update test)
+hash = "fae7e12279532376972b6fe9d48247e98618775ecb70b5bbf8cda274c158e1cc"
 metafile = true
 
 [[files]]
@@ -1064,14 +1056,11 @@ hash = "b0b72c2a6b6c969315878bf7a813fea74491653282f0fa50c87f64742547647a"
 metafile = true
 
 [[files]]
-<<<<<<< HEAD
-=======
 file = "mods/axiom.pw.toml"
 hash = "297457710ba0121b7b7ff4d36bd60ee6f260aabb293c7f27006289b3979c8b5d"
 metafile = true
 
 [[files]]
->>>>>>> 234867c (update test)
 file = "mods/azurelib-armor.pw.toml"
 hash = "985f249187621a319cdcf445e2e8bfe0b5294c6194b40635191578389ff3de92"
 metafile = true
@@ -1434,11 +1423,7 @@ metafile = true
 
 [[files]]
 file = "mods/forsaken-corpses.pw.toml"
-<<<<<<< HEAD
-hash = "ecfc6cb1bddb88df5edb98b4e54f739a08c0e8105698c2ea12de6c5ded8c7a3a"
-=======
-hash = "0658814874276b59a1deddbfed8df0908e1818427b08b64837bcdf17302f9d12"
->>>>>>> 234867c (update test)
+hash = "ba9c9c3420d2de36bc70f7d649856d6c3c74318438ee732a921808968eebe523"
 metafile = true
 
 [[files]]
@@ -1538,11 +1523,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-obliterator.pw.toml"
-<<<<<<< HEAD
-hash = "80e4f4b2e96c0d0ee5250c938ea39f061ee628f4c97fb54df7954fab2943a777"
-=======
-hash = "bf5ac6c90877d9cc082be7927a4156a97076b5fd028dc82da7878148e39171b9"
->>>>>>> 234867c (update test)
+hash = "73f2a6952904eb1e37a89be08a20f4c9bf882a46313a6f8a1654d722264829bf"
 metafile = true
 
 [[files]]
@@ -1990,11 +1971,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-<<<<<<< HEAD
-hash = "e08ca8ac15208b48141f10d9d34b14080f859c318cc65f5592d076c6a337bffe"
-=======
 hash = "ad186b1967500f516790327875015c99e22caf7c6ad4939f26832ce3ba954beb"
->>>>>>> 234867c (update test)
 metafile = true
 
 [[files]]
@@ -2359,7 +2336,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/enchancement/tags/items/retains_durability.json"
-hash = "462198a5fb6df2e11a258aa59423fc76b03f826cceb713db78df5bcbd9a196d3"
+hash = "c69b995e70731f675072c57489ed167f4d776072777b77a3f375fda3df455108"
 
 [[files]]
 file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/guardvillagers/loot_tables/entities/guard_chestplate.json"
