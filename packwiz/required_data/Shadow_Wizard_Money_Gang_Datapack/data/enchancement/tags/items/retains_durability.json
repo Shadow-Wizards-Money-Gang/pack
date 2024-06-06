@@ -6,6 +6,10 @@
 	  "required": false
 	},
 	{
+		"id": "minecraft:shield",
+		"required": false
+	},
+	{
 		"id": "bombastic_crystals:crystalline_bow",
 		"required": false
 	},

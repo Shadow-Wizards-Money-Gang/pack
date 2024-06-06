@@ -1,13 +1,13 @@
 name = "Bountiful Fares"
-filename = "bountifulfares-1.1.1-1.20.1.jar"
+filename = "bountifulfares-1.2.1-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/YgrSDjlb/versions/r718llem/bountifulfares-1.1.1-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/YgrSDjlb/versions/H4COb7fF/bountifulfares-1.2.1-1.20.1.jar"
 hash-format = "sha1"
-hash = "b18108e73b9d5c2f56d61b480d68df499a3414f9"
+hash = "6a70eadded00ef59ef5f74a5aeebacfa0c3a16ec"
 
 [update]
 [update.modrinth]
 mod-id = "YgrSDjlb"
-version = "r718llem"
+version = "H4COb7fF"

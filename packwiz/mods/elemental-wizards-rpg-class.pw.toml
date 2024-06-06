@@ -1,13 +1,13 @@
 name = "Elemental Wizards (More RPG Classes)"
-filename = "elemental_wizards_rpg-1.0.0.jar"
+filename = "elemental_wizards_rpg-1.1.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "885e60fb7177d5d7f90a8b9d9fc86a0c70ef450b"
+hash = "34cc23d79a73a4be542d2c8e18962e1a47a67684"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5279607
+file-id = 5384038
 project-id = 1006892

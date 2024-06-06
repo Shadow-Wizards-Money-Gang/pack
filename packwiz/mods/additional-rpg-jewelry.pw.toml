@@ -1,13 +1,13 @@
 name = "Additional RPG Jewelry"
-filename = "additional_rpg_jewelry-1.0.0.jar"
+filename = "additional_rpg_jewelry-1.0.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "924e392facc97c9f5776ac11aed0f7325e36fda7"
+hash = "5f0aaf577d56087cac9913bf2a3155d12a7bd365"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5324305
+file-id = 5374007
 project-id = 1015097

@@ -9,8 +9,8 @@
 	// Amount of time (in ticks) that must pass before Lightning Chaser can attempt to spawn near the same player
 	lightningChaserThunderstormSpawnTimerCooldown: 24000,
 	// SPAWN GROUP CAPACITIES
-	dragonSpawnGroupCapacity: 3,
-	smallDragonSpawnGroupCapacity: 8,
+	dragonSpawnGroupCapacity: 4,
+	smallDragonSpawnGroupCapacity: 4,
 	undergroundDragonSpawnGroupCapacity: 6,
 	// GROUP SIZES
 	wyvernMinGroupSize: 1,

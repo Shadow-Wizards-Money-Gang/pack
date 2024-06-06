@@ -1,13 +1,25 @@
 name = "Forsaken Corpses"
+<<<<<<< HEAD
 filename = "forsaken_corpses_1.1.1_1.20.1.jar"
+=======
+filename = "forsaken_corpses_1.2.0_1.20.1.jar"
+>>>>>>> 234867c (update test)
 side = "both"
 
 [download]
 hash-format = "sha1"
+<<<<<<< HEAD
 hash = "bafb39e012232cd9e7b604b9d1c6706309c6515a"
+=======
+hash = "70d9f0a7b1b62f4422710eb38db4a81285c0ba95"
+>>>>>>> 234867c (update test)
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
+<<<<<<< HEAD
 file-id = 5367708
+=======
+file-id = 5385946
+>>>>>>> 234867c (update test)
 project-id = 1021399
