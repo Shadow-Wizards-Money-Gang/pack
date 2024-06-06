@@ -1022,7 +1022,7 @@ metafile = true
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
-hash = "fae7e12279532376972b6fe9d48247e98618775ecb70b5bbf8cda274c158e1cc"
+hash = "ce6b575a6a3e263cf59cf5a28c9edad100becc38968f79d284dc8784b00ef2c9"
 metafile = true
 
 [[files]]
