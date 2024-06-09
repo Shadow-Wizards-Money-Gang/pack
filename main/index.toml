@@ -1418,7 +1418,7 @@ metafile = true
 
 [[files]]
 file = "mods/forsaken-corpses.pw.toml"
-hash = "ba9c9c3420d2de36bc70f7d649856d6c3c74318438ee732a921808968eebe523"
+hash = "0658814874276b59a1deddbfed8df0908e1818427b08b64837bcdf17302f9d12"
 metafile = true
 
 [[files]]
@@ -1518,7 +1518,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-obliterator.pw.toml"
-hash = "73f2a6952904eb1e37a89be08a20f4c9bf882a46313a6f8a1654d722264829bf"
+hash = "bf5ac6c90877d9cc082be7927a4156a97076b5fd028dc82da7878148e39171b9"
 metafile = true
 
 [[files]]
@@ -1667,6 +1667,11 @@ metafile = true
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "50149a97b2d959bfac8e1c377fdab49fc52f1439d004b1ac1c26a3a7f790e044"
+metafile = true
+
+[[files]]
+file = "mods/mim1q-derelict.pw.toml"
+hash = "c8efc079dbcd7e505699d27e29c49db9275e41ac5d8bb5425f616707f17ea365"
 metafile = true
 
 [[files]]
