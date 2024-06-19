@@ -1001,11 +1001,6 @@ file = "mods/RespawningAnimals-v8.2.0-1.20.1-Fabric.jar"
 hash = "0092667db977de01b68f2715410f2848390184a886a8fa36d0253f625da2bc1f"
 
 [[files]]
-file = "mods/additional-rpg-jewelry.pw.toml"
-hash = "c036761fe258cca16ca4ef8c7a5085f62549f6855635e2317af7706dec7dc346"
-metafile = true
-
-[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "2cfbf2650cf75fbf2fa43fe42dd3d01bddd8d0df02617d47d91c21a0de775a4f"
 metafile = true
