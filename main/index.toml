@@ -1032,7 +1032,7 @@ metafile = true
 
 [[files]]
 file = "mods/archers.pw.toml"
-hash = "f236bc25de265a3182557136a3e541bb868b0d478b76de5bbd9ca3780b56efcf"
+hash = "4d947e8becf884b19ea7dff98f8b24e621ae20a9d8175fe90fb52f5a0acc0f09"
 metafile = true
 
 [[files]]
@@ -1141,12 +1141,12 @@ metafile = true
 
 [[files]]
 file = "mods/caligo.pw.toml"
-hash = "db7de4b9a88bf11a312a231f74a2010b61bb51d1748fdff733b539d1e2d3e1c9"
+hash = "1387a43b5387fdd45bea10e28b095d79cef5c5485e02b7168a94432dea927051"
 metafile = true
 
 [[files]]
 file = "mods/cameraoverhaul.pw.toml"
-hash = "b657f098bc6bdf2c7ee67f95bf6cbf7e39cf4db7c6b8fb6fd432b9471c53ec1a"
+hash = "55779930859fdb5ce10956909c965e436ed2a7712c2b4932e6eda395e6383658"
 metafile = true
 
 [[files]]
@@ -1211,7 +1211,7 @@ metafile = true
 
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
-hash = "8eda14f9c18b7886871baf01634f2c8d3225e2c909a41da07437e2018f186784"
+hash = "fdaf9a15414ff330b44b60b8ad02b1a400bc0ad552ca722c4820b27c2947867c"
 metafile = true
 
 [[files]]
@@ -1493,7 +1493,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "fc8ae39ef4edbdb8e23ec91a10d1ef42c0fc569b5c8d633d7c584bfd55daa8bc"
+hash = "523659698dcfb97f79c9971a9c3ce41ba5e654d55b0464d73da01a63cd9a1824"
 metafile = true
 
 [[files]]
@@ -1518,12 +1518,12 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "97e571c0d78f5d05afb5f90ddca30eda76fcac1cdcae0f4392eab15563689ae2"
+hash = "6ca452362268c6ff82084e95fe8d57d8ad8257ead20b661b0ba7510e669eb69a"
 metafile = true
 
 [[files]]
 file = "mods/jewelry.pw.toml"
-hash = "fb7f48f213efb6a1a715007208c289e6578a1b768b710c170f846c1d2b80899c"
+hash = "11b76a393168f7ae51ddc688ff47d3c2f6a5bec22cf99ee4a5d1e742064eb9e2"
 metafile = true
 
 [[files]]
@@ -1706,7 +1706,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "9a4bbe8d6ce1d8b0fb02085749c305f6adf31190c1dadf40c0498414da2af346"
+hash = "acca30c63aeae392c0fd1eb14fa1a3fec96211159c56c7c5c1b6653b248fb409"
 metafile = true
 
 [[files]]
@@ -1786,7 +1786,7 @@ metafile = true
 
 [[files]]
 file = "mods/paladins-and-priests.pw.toml"
-hash = "57b8a5d76bf66af547618353b986d3b9a7663b3e7efc7cfe5382207ae84405d9"
+hash = "f7f6acf24b8500a23da51e14f04ad7078d75a3724503b33d03adfff47b30ad2f"
 metafile = true
 
 [[files]]
@@ -1912,7 +1912,7 @@ hash = "42b1002001215f4078dbe3db025eb6c566e019a6edb6d8ac2b53f153ccfa9db3"
 
 [[files]]
 file = "mods/rune-crafting.pw.toml"
-hash = "47811f1ce283a8f1ed4bffef4d64881a497e709cf1e7b76f908fb43b73f80f8c"
+hash = "e717ab9cecd8294bee602e25a57d08c44e531425c3ed87c591929b76e68055e0"
 metafile = true
 
 [[files]]
@@ -1927,7 +1927,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "3dbce21cea4de9722369dd5ad3a343d43b2bab3c55e1089ab471c12ba0ebe97e"
+hash = "07f0931fdc664221b8f2848417d7b0b74296c063ff656b1099724c19816ed8a3"
 metafile = true
 
 [[files]]
@@ -1986,17 +1986,17 @@ metafile = true
 
 [[files]]
 file = "mods/spell-engine.pw.toml"
-hash = "5df3192e091c1831f694af0dd49ff7d2514e7edd15973b534947992beb6b71be"
+hash = "28e188465ca148bfee54d45196751052621e89c9ea06198e63664efc350ab375"
 metafile = true
 
 [[files]]
 file = "mods/spell-power.pw.toml"
-hash = "444b11039c83ad16ef16a509bb8e43c97382ac04dcebcc8930c99d02c93a2914"
+hash = "56673c6fd1071d0770b60bc2e786565f91343c0a6f2f41eb36a186177fc323b9"
 metafile = true
 
 [[files]]
 file = "mods/spellblade-next.pw.toml"
-hash = "795573d41b2b5f45f18d5bded042842a545e9aa7c240c9efbc1b67001bd4387c"
+hash = "bc4231d29bf399dd2eb6eae082b83cdc0eb65dabb89edea8d1e365b25a278eb2"
 metafile = true
 
 [[files]]
@@ -2045,7 +2045,7 @@ metafile = true
 
 [[files]]
 file = "mods/surveyor.pw.toml"
-hash = "fa0c7b4e2f64b9bc3e13bcec498a08ca28ff7d30ec8ab8ee2a92497e023cd276"
+hash = "e15a9118ebfd8c7733e31d05c9c0960848c6469012f8e97a0ed1a26e1b5c0e07"
 metafile = true
 
 [[files]]
@@ -2089,7 +2089,7 @@ hash = "e0d3640e165f850a3710df3a2b096058d0e34fe2b333fc186ced79412be91194"
 
 [[files]]
 file = "mods/useless-reptile.pw.toml"
-hash = "eddd1fe7d27c37cc974d7f33939bb7e028327400b2d2aa97b221be935301577b"
+hash = "2c4fa0fa6b2fec95d59a339bb478d78c4cca77e4968267acdc0113dd94f08eda"
 metafile = true
 
 [[files]]
@@ -2128,7 +2128,7 @@ metafile = true
 
 [[files]]
 file = "mods/wizards.pw.toml"
-hash = "6851c8692100d195a4a5b7eb9cd5e995a65d630674aca9012d84850cd556d677"
+hash = "754af6250301bdc6bac56597230a8a1f64a99100ed590778bcc592d72fa8e545"
 metafile = true
 
 [[files]]

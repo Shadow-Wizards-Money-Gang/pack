@@ -1,13 +1,13 @@
 name = "Caligo"
-filename = "caligo-0.1.0+1.20.1.jar"
+filename = "caligo-0.1.1+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/SdEvidHA/versions/JS5WmXKL/caligo-0.1.0%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/SdEvidHA/versions/MzxajteJ/caligo-0.1.1%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "56a6920e5663d8dfe80aad799f8c29b7ea024152"
+hash = "0e69fa0c19746bfd3e88d8eeee482f328d464deb"
 
 [update]
 [update.modrinth]
 mod-id = "SdEvidHA"
-version = "JS5WmXKL"
+version = "MzxajteJ"
