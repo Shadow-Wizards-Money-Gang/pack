@@ -702,7 +702,7 @@ hash = "6e8bfe7a4c301de6e1658f8995a5bc533f6ec850aa57f701e23adf5fb9d708e9"
 
 [[files]]
 file = "config/shadow-wizards.json5"
-hash = "316a21d1cb87adf4f2ea62c1b7f4d5c3457661bd757cfaa1fb1a9abbe8891def"
+hash = "d1d02dc6f643dc458c239fecd096953ef08e366225f0d5b2351eb1a5a7174c7a"
 
 [[files]]
 file = "config/snowrealmagic-client.yaml"
