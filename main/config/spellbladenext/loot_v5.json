@@ -2,22 +2,9 @@
   "item_groups": {
     "weapons": {
       "ids": [
-        "spellbladenext:frost_blade",
-        "spellbladenext:glacial_gladius",
-        "spellbladenext:frost_claymore",
-        "spellbladenext:frost_orb",
-        "spellbladenext:arcane_blade",
-        "spellbladenext:crystal_cutlass",
-        "spellbladenext:arcane_claymore",
-        "spellbladenext:arcane_orb",
-        "spellbladenext:fire_blade",
-        "spellbladenext:flaming_falchion",
-        "spellbladenext:fire_claymore",
-        "spellbladenext:fire_orb",
         "spellblades:whirlwindoil",
         "spellblades:spelloil",
-        "spellblades:smiteoil",
-        "spellblades:monkeystaff"
+        "spellblades:smiteoil"
       ],
       "chance": 0.5,
       "bonus_roll": 0.2,

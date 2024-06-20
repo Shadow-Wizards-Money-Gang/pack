@@ -73,39 +73,32 @@ ItemEvents.modification(event => {
         'minecraft:iron_helmet',
         'minecraft:iron_chestplate',
         'minecraft:iron_leggings',
-        'minecraft:iron_boots',
-        "mincraft:iron_sword",
-        "mincraft:iron_axe"
+        'minecraft:iron_boots'
       ], item => {
-        item.addAttribute("spell_power:fire", "1989c4f4-7685-48b3-a3af-b3c66218d93b", "Iron Penality", - 0.2, "multiply_total")
-        item.addAttribute("spell_power:arcane", "1989c4f4-7685-48b3-a3af-b3c66218d93b", "Iron Penality", - 0.2, "multiply_total")   
-        item.addAttribute("spell_power:frost", "1989c4f4-7685-48b3-a3af-b3c66218d93b", "Iron Penality", - 0.2, "multiply_total")   
-        item.addAttribute("spell_power:healing", "1989c4f4-7685-48b3-a3af-b3c66218d93b", "Iron Penality", - 0.2, "multiply_total")   
-        item.addAttribute("spell_power:soul", "1989c4f4-7685-48b3-a3af-b3c66218d93b", "Iron Penality", - 0.2, "multiply_total")   
-        item.addAttribute("arcanuscontinuum:mana_regen", "1989c4f4-7685-48b3-a3af-b3c66218d93b", "Iron Penality", - 0.2, "multiply_total")   
-    });
-
+        item.addAttribute("spell_power:fire", "1989c4f4-7685-48b3-a3af-b3c66218d93b", "Iron Penality", - 0.25, "multiply_total")
+        item.addAttribute("spell_power:arcane", "1989c4f4-7685-48b3-a3af-b3c66218d93b", "Iron Penality", - 0.25, "multiply_total")   
+        item.addAttribute("spell_power:frost", "1989c4f4-7685-48b3-a3af-b3c66218d93b", "Iron Penality", - 0.25, "multiply_total")   
+        item.addAttribute("spell_power:healing", "1989c4f4-7685-48b3-a3af-b3c66218d93b", "Iron Penality", - 0.25, "multiply_total")   
+        item.addAttribute("spell_power:soul", "1989c4f4-7685-48b3-a3af-b3c66218d93b", "Iron Penality", - 0.25, "multiply_total")   
+        item.addAttribute("arcanuscontinuum:mana_regen", "1989c4f4-7685-48b3-a3af-b3c66218d93b", "Iron Penality", - 0.25, "multiply_total")
+        item.addAttribute("minecraft:generic.movement_speed", "1989c4f4-7685-48b3-a3af-b3c66218d93b", "Iron Penality", - 0.12, "multiply_total")   
+        item.addAttribute("minecraft:generic.knockback_resistance", "1989c4f4-7685-48b3-a3af-b3c66218d93b", "Iron Penality", 0.1, "addition")   
+      });
+    
     event.modify([
       'minecraft:chainmail_helmet',
       'minecraft:chainmail_chestplate',
       'minecraft:chainmail_leggings',
-      'minecraft:chainmail_boots'
+      'minecraft:chainmail_boots',
+      "mincraft:iron_sword",
+      "mincraft:iron_axe"
     ], item => {
-      item.addAttribute("spell_power:fire", "1989c4f4-7685-48b3-a3af-b3c66218d93b", "Iron Penality", - 0.1, "multiply_total")
-      item.addAttribute("spell_power:arcane", "1989c4f4-7685-48b3-a3af-b3c66218d93b", "Iron Penality", - 0.1, "multiply_total")   
-      item.addAttribute("spell_power:frost", "1989c4f4-7685-48b3-a3af-b3c66218d93b", "Iron Penality", - 0.1, "multiply_total")   
-      item.addAttribute("spell_power:healing", "1989c4f4-7685-48b3-a3af-b3c66218d93b", "Iron Penality", - 0.1, "multiply_total")   
-      item.addAttribute("spell_power:soul", "1989c4f4-7685-48b3-a3af-b3c66218d93b", "Iron Penality", - 0.1, "multiply_total")   
-      item.addAttribute("arcanuscontinuum:mana_regen", "1989c4f4-7685-48b3-a3af-b3c66218d93b", "Iron Penality", - 0.1, "multiply_total")   
+      item.addAttribute("spell_power:fire", "1989c4f4-7685-48b3-a3af-b3c66218d93b", "Iron Penality", - 0.125, "multiply_total")
+      item.addAttribute("spell_power:arcane", "1989c4f4-7685-48b3-a3af-b3c66218d93b", "Iron Penality", - 0.125, "multiply_total")   
+      item.addAttribute("spell_power:frost", "1989c4f4-7685-48b3-a3af-b3c66218d93b", "Iron Penality", - 0.125, "multiply_total")   
+      item.addAttribute("spell_power:healing", "1989c4f4-7685-48b3-a3af-b3c66218d93b", "Iron Penality", - 0.125, "multiply_total")   
+      item.addAttribute("spell_power:soul", "1989c4f4-7685-48b3-a3af-b3c66218d93b", "Iron Penality", - 0.125, "multiply_total")   
+      item.addAttribute("arcanuscontinuum:mana_regen", "1989c4f4-7685-48b3-a3af-b3c66218d93b", "Iron Penality", - 0.07, "multiply_total")
+      item.addAttribute("minecraft:generic.movement_speed", "1989c4f4-7685-48b3-a3af-b3c66218d93b", "Iron Penality", - 0.05, "multiply_total")
   });
-
-    event.modify([
-        'minecraft:iron_helmet',
-        'minecraft:iron_chestplate',
-        'minecraft:iron_leggings',
-        'minecraft:iron_boots'
-      ], item => {
-        item.addAttribute("minecraft:generic.movement_speed", "1989c4f4-7685-48b3-a3af-b3c66218d93b", "Iron Penality", - 0.07, "multiply_total")   
-        item.addAttribute("minecraft:generic.knockback_resistance", "1989c4f4-7685-48b3-a3af-b3c66218d93b", "Iron Penality", 0.1, "addition")   
-    });
 })

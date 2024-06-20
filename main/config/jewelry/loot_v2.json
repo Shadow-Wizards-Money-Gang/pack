@@ -1,10 +1,11 @@
 {
   "loot_tables": {
     "minecraft:chests/bastion_treasure": [
-      "jewelry_tier_3"
+      "jewelry_tier_0"
     ],
     "minecraft:chests/woodland_mansion": [
-      "jewelry_tier_2"
+      "jewelry_tier_4",
+      "jewelry_tier_0"
     ],
     "minecraft:chests/end_city_treasure": [
       "jewelry_tier_4"
@@ -16,31 +17,33 @@
       "jewelry_tier_0"
     ],
     "minecraft:chests/underwater_ruin_big": [
-      "jewelry_tier_3"
+      "jewelry_tier_0"
     ],
     "minecraft:chests/nether_bridge": [
-      "jewelry_tier_3"
+      "jewelry_tier_0"
     ],
     "minecraft:chests/simple_dungeon": [
-      "jewelry_tier_3"
+      "jewelry_tier_4",
+      "jewelry_tier_0"
     ],
     "minecraft:chests/desert_pyramid": [
-      "jewelry_tier_1"
+      "jewelry_tier_0"
     ],
     "minecraft:chests/jungle_temple": [
-      "jewelry_tier_1"
+      "jewelry_tier_4"
     ],
     "minecraft:chests/ancient_city": [
       "jewelry_tier_4"
     ],
     "minecraft:chests/stronghold_crossing": [
-      "jewelry_tier_2"
+      "jewelry_tier_0"
     ],
     "minecraft:chests/igloo_chest": [
-      "jewelry_tier_1"
+      "jewelry_tier_4"
     ],
     "minecraft:chests/stronghold_library": [
-      "jewelry_tier_2"
+      "jewelry_tier_3",
+      "jewelry_tier_4"
     ],
     "minecraft:chests/bastion_other": [
       "jewelry_tier_3"
@@ -123,7 +126,7 @@
         "jewelry:unique_healing_ring",
         "jewelry:unique_healing_necklace"
       ],
-      "chance": 0.5,
+      "chance": 0.2,
       "bonus_roll_chance": 1.2,
       "weight": 1
     }
