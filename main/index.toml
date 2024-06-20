@@ -462,7 +462,7 @@ hash = "19261d8190e6af6f168123b793315143b369bfcb7c010200064910916d1cba0e"
 
 [[files]]
 file = "config/jewelry/loot_v2.json"
-hash = "ce2ce8caec24e126f5fcb0d326b25dd28d608636e4e92ebca0c66857dda6989f"
+hash = "6d0971991a5779457e8b788a4a8a20dcfec330717a8e27c06baf66300c9b89b3"
 
 [[files]]
 file = "config/jewelry/villages.json"
@@ -798,7 +798,7 @@ hash = "7809a370a36b87265876e490679ea43e9735f3f8461ed102354e52e9603a85b8"
 
 [[files]]
 file = "config/spellbladenext/loot_v5.json"
-hash = "c646c31d5de2ca1772c99207528a507c7fa32c0511c9c1aff325463993bc8263"
+hash = "1d62258b2392bcaf8b50c4771f6a32485c5ddd3a9144bd1e873082a2eae360d1"
 
 [[files]]
 file = "config/spellbladenext/server.json5"
@@ -990,7 +990,7 @@ hash = "7f68ba8a3c3860804ac3339970e34c79a3889269bab809531418bfec54f7fcbe"
 
 [[files]]
 file = "kubejs/startup_scripts/item_rebalancing.js"
-hash = "0872f46d99d4b8218ea4bf881a685a567e9a299c0090286e783e1cffbec6366a"
+hash = "5c085225b85d07573fc832e819afc3cabc7ceac8007cdbcdf084f01d0b546f58"
 
 [[files]]
 file = "mods/FastMove-1.20.1-1.0.8-beta.jar"
