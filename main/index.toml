@@ -1007,7 +1007,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "c42f5aaf3ceea7ed6f586cba6aa07fd9b5003d8c5ace7b2efba8d418369514e0"
+hash = "30791ce32eea8e694aa12f8606c180d81661f0b047207753d57e10748c305d6d"
 metafile = true
 
 [[files]]
@@ -1017,7 +1017,7 @@ metafile = true
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
-hash = "47095ce17cba3f908053531f9bdc91ff6705340ddd8542db05ff3cd952c82513"
+hash = "cbcb3c9dbb0e68e5299052df271151568f1e1ade6396f5a44ad5e82f1290f1da"
 metafile = true
 
 [[files]]
@@ -1027,7 +1027,7 @@ metafile = true
 
 [[files]]
 file = "mods/archers.pw.toml"
-hash = "4d947e8becf884b19ea7dff98f8b24e621ae20a9d8175fe90fb52f5a0acc0f09"
+hash = "43056a61e54ef08d28e2692c3abc4da349c620362afb4053eeb0161f4c0de86f"
 metafile = true
 
 [[files]]
@@ -1057,7 +1057,7 @@ metafile = true
 
 [[files]]
 file = "mods/azurelib.pw.toml"
-hash = "557290a7e77993093a0b694433fa0a5993dd04dc2210cc20dae713f82bd91d75"
+hash = "7dbfee79edeb0f856cc5571873b0128e623729cae04dde6fc04fdce883852d03"
 metafile = true
 
 [[files]]
@@ -1171,7 +1171,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "6b690f3bc815149cc5c0fd03a98ac9b19cb62a9cbdc3b9aa0f8fca3321a3a07b"
+hash = "622618762994a583312da6a35f4bdbf7ab9d69b5b7080b6875e9479a85a68ef9"
 metafile = true
 
 [[files]]
@@ -1368,7 +1368,7 @@ metafile = true
 
 [[files]]
 file = "mods/extra-spell-attributes.pw.toml"
-hash = "4ff72a568aeb27eb79b0a2ccf6c651d0e9dacde5433e556da6f257ec0a51d820"
+hash = "ecd5bc75e8a70000db7c34cb5397183474dfe2779bb6d5d89d8d46237f7ac211"
 metafile = true
 
 [[files]]
@@ -1413,7 +1413,7 @@ metafile = true
 
 [[files]]
 file = "mods/frostiful.pw.toml"
-hash = "4e966fda124b79dfb42cc1222345c7805edd568ecc312a49f2ad88a3cfa4cb18"
+hash = "56ae585809c375e11bc1446a26eb3479ebdab4b75c3cbee30d9e17783bdd40eb"
 metafile = true
 
 [[files]]
@@ -1553,7 +1553,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "dbebbeff4caa3b2b4f1568733e1573c2e0503fa451457e04ef32c49453ac41db"
+hash = "a73defaa93f5622ec5efbbcb9f8dd71f9ed4d0d27c8376fe14cc1ac41d0ff3f9"
 metafile = true
 
 [[files]]
@@ -1609,11 +1609,6 @@ metafile = true
 [[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "c1362fbf363dd8763588218dfc96daa7ee33b33a5fdd01b9f7aed80aca022ab7"
-metafile = true
-
-[[files]]
-file = "mods/llama-steeds.pw.toml"
-hash = "d486b8814d6c4a3032f6902e3a371f2a7960d0009bee5426f44b4ee6fd8ea6db"
 metafile = true
 
 [[files]]
@@ -1696,17 +1691,17 @@ metafile = true
 
 [[files]]
 file = "mods/monolib.pw.toml"
-hash = "72ae22bf323bad4f612eaacb9948d9ec2d7bd09810feffd4e54fe3f286973dfd"
+hash = "6a2a6fc592c32392e4caec30dd71c2e5570269a0bc708acfcaed569c0bd768ea"
 metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "acca30c63aeae392c0fd1eb14fa1a3fec96211159c56c7c5c1b6653b248fb409"
+hash = "3bb48b47b2c2ecba9f5a8ad1a56f4c4140a217a04cfcca5cd5431d90274780d3"
 metafile = true
 
 [[files]]
 file = "mods/more-rpg-classes.pw.toml"
-hash = "ca9f651533d3fecae016d1e486b046738d826d01bedf4b46feea176ceacc1c9e"
+hash = "ce7a2a60b82db803d5a0d7ff0f389467c0ec8d74e7af73b05683aa91dc2f5e1c"
 metafile = true
 
 [[files]]
@@ -1785,11 +1780,6 @@ hash = "f7f6acf24b8500a23da51e14f04ad7078d75a3724503b33d03adfff47b30ad2f"
 metafile = true
 
 [[files]]
-file = "mods/particular.pw.toml"
-hash = "e868456c1197e71712b605a6a9920f422005d8ddf6c6e4ad0d88f6524f82c748"
-metafile = true
-
-[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "89e5cab6f92dbcfd6c2c058fc9381869fde193a431c284dbb828833e881cd344"
 metafile = true
@@ -1854,7 +1844,7 @@ metafile = true
 
 [[files]]
 file = "mods/ranged-weapon-api.pw.toml"
-hash = "119234949c4304f2a934762ac15ad92a072462b03e2909a2fdade76482fd2077"
+hash = "ea9dc10b9c697ac70baa6907ed3719c09caaf6a4bab63596fb50e66291b233aa"
 metafile = true
 
 [[files]]
@@ -1907,7 +1897,7 @@ hash = "42b1002001215f4078dbe3db025eb6c566e019a6edb6d8ac2b53f153ccfa9db3"
 
 [[files]]
 file = "mods/rune-crafting.pw.toml"
-hash = "e717ab9cecd8294bee602e25a57d08c44e531425c3ed87c591929b76e68055e0"
+hash = "20921407c1c4c2b8627ebc84950ff412f1c8265f578595d10b8e5b1dea4c6d70"
 metafile = true
 
 [[files]]
@@ -1922,7 +1912,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "07f0931fdc664221b8f2848417d7b0b74296c063ff656b1099724c19816ed8a3"
+hash = "30c11679232a1bbd4191dc41de53a2bec673fb94dc5ebb05f3a7a1bc4037ba79"
 metafile = true
 
 [[files]]
@@ -1981,7 +1971,7 @@ metafile = true
 
 [[files]]
 file = "mods/spell-engine.pw.toml"
-hash = "28e188465ca148bfee54d45196751052621e89c9ea06198e63664efc350ab375"
+hash = "a534978479ec71b3d265d5d426ed7341209f75c8770283040150887ab6959ab2"
 metafile = true
 
 [[files]]
@@ -2035,7 +2025,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "c91ceee8ef918ef7c5f2bd6dc0d364ef2dbf2b8a8be20604f0b1f013590dbeac"
+hash = "2f9771a57ba35be61e205cbf3fec83dc7f411c14fae5e64982dbf6fa94710486"
 metafile = true
 
 [[files]]
@@ -2055,7 +2045,7 @@ metafile = true
 
 [[files]]
 file = "mods/thermoo.pw.toml"
-hash = "24ecc1c2cdd91d46733e5f388780bb066b9c6e3d204d0cd39c004bae2ca29fdd"
+hash = "43e3b35c7fd1ddf4a87326c271db962e95500715ad7df12290e79c9fcc861b38"
 metafile = true
 
 [[files]]
@@ -2074,13 +2064,14 @@ hash = "958e475fe348187dc7af3507d36f9f60b2dbe07a69f719e8a65b6f3062d12db6"
 metafile = true
 
 [[files]]
-file = "mods/trinkets.pw.toml"
-hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
+file = "mods/treeplacer.pw.toml"
+hash = "1936abc06f1ad9e034a463aa612bd6cdd1a7b7c64c9df5d9885f1d022e59477e"
 metafile = true
 
 [[files]]
-file = "mods/umu_backpack-5.1-1.20.1.jar"
-hash = "e0d3640e165f850a3710df3a2b096058d0e34fe2b333fc186ced79412be91194"
+file = "mods/trinkets.pw.toml"
+hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
+metafile = true
 
 [[files]]
 file = "mods/useless-reptile.pw.toml"
@@ -2534,8 +2525,12 @@ file = "required_resources/Shadow Wizard Money Gang Pack.zip"
 hash = "0478bb06c6f76a53a47be6a827aba5a0904482d23a5c782a0a82f7e23afae9a5"
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1.zip"
-hash = "f4925044d6975225296cb9cb84b3ee9388bc00d3aacce066eee92bc427ca66cf"
+file = "shaderpacks/ComplementaryReimagined_r5.2.1.zip"
+hash = "3eeefb1c7a3bfba61a03f1fbe79eab4d44b375450254ace147877896c7b1765f"
+
+[[files]]
+file = "shaderpacks/rethinking-voxels_r0.1-beta4-fix2.zip"
+hash = "9f6f9d1667692934657162846253a7d313ad82524dd07a8e72a4cb424b01cf5b"
 
 [[files]]
 file = "unsup.toml"

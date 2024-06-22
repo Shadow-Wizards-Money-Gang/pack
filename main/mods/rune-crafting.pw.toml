@@ -1,13 +1,13 @@
 name = "Runes [Fabric]"
-filename = "runes-fabric-0.9.12+1.20.1.jar"
+filename = "runes-0.9.13+1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d73fe71fbd3af28250cf2e080e4f9c87233b943e"
+hash = "9a13275dc0cf1c092fda619bfb88415fee7e2e67"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5434190
+file-id = 5446151
 project-id = 775518

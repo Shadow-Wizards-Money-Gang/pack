@@ -1,13 +1,13 @@
 name = "More RPG Classes"
-filename = "more_rpg_classes-1.1.7-1.20.1.jar"
+filename = "more_rpg_classes-1.1.8-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "25debc03d0d6724cdab6b2cb9b9e9ed2d76436bf"
+hash = "92fad9bf5c45f56f88d0e08ec82f5d1901f0be59"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5373638
+file-id = 5446712
 project-id = 923030
