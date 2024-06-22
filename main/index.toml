@@ -1011,11 +1011,6 @@ hash = "30791ce32eea8e694aa12f8606c180d81661f0b047207753d57e10748c305d6d"
 metafile = true
 
 [[files]]
-file = "mods/another-furniture.pw.toml"
-hash = "505f89da0af64879da1886bc0eb282ee13a4ae032aaa61a899a4a0a83f15dd6e"
-metafile = true
-
-[[files]]
 file = "mods/antique-atlas-4.pw.toml"
 hash = "cbcb3c9dbb0e68e5299052df271151568f1e1ade6396f5a44ad5e82f1290f1da"
 metafile = true
@@ -2471,6 +2466,10 @@ hash = "ba14f64c796c0cfe440c66ea61c3343b648288b706a5f159f1245e0d80dafc25"
 [[files]]
 file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/spellslabextra/spells/stone_fist.json"
 hash = "f356b543e24f65d4ea95fd02e6e1d81aa2fb2d1c02637eab4fcf51c51ff322fc"
+
+[[files]]
+file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/tempest/noise_maps/overworld.json"
+hash = "c90d7fe307b7cfa7b22b74eac1ab4fa2eeeb6eada1ef58c2fa132d16c2973053"
 
 [[files]]
 file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/trinkets/slots/charm/spell_book.json"
