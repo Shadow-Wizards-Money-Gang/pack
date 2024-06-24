@@ -607,7 +607,7 @@
 		"spellbladenext:fire_battlemage_spell_book"
 	],
 	"BAN_ITEM_FOR_ENCHANT": {
-		"minecraft:protection": [
+		"!minecraft:protection": [
 			"minecraft:iron_chestplate",
 			"minecraft:iron_helmet",
 			"minecraft:iron_leggings",
@@ -617,7 +617,7 @@
 			"minecraft:chainmail_leggings",
 			"minecraft:chainmail_boots"
 		],
-		"consecration:undead_protection": [
+		"!consecration:undead_protection": [
 			"minecraft:iron_chestplate",
 			"minecraft:iron_helmet",
 			"minecraft:iron_leggings",
@@ -627,7 +627,7 @@
 			"minecraft:chainmail_leggings",
 			"minecraft:chainmail_boots"
 		],
-		"spell_power:magic_protection": [
+		"!spell_power:magic_protection": [
 			"minecraft:iron_chestplate",
 			"minecraft:iron_helmet",
 			"minecraft:iron_leggings",
@@ -637,7 +637,7 @@
 			"minecraft:chainmail_leggings",
 			"minecraft:chainmail_boots"
 		],
-		"minecraft:projectile_protection": [
+		"!minecraft:projectile_protection": [
 			"minecraft:iron_chestplate",
 			"minecraft:iron_helmet",
 			"minecraft:iron_leggings",

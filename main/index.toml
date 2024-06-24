@@ -1887,6 +1887,11 @@ hash = "825be2106446bd057fad8c1474b39cb3245ec2af27eff33de83f1578f84afed6"
 metafile = true
 
 [[files]]
+file = "mods/rogues-and-warriors.pw.toml"
+hash = "fcf741ad2d1603f4085f0612d95018a40386d5e82ef41d229dade1c89eebbfe1"
+metafile = true
+
+[[files]]
 file = "mods/rootsclassic-1.20-1.2.2-test-fabric.jar"
 hash = "42b1002001215f4078dbe3db025eb6c566e019a6edb6d8ac2b53f153ccfa9db3"
 
