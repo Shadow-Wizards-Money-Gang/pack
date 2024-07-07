@@ -2069,11 +2069,6 @@ hash = "2c4fa0fa6b2fec95d59a339bb478d78c4cca77e4968267acdc0113dd94f08eda"
 metafile = true
 
 [[files]]
-file = "mods/vanilla+-blocks.pw.toml"
-hash = "2ac671f95dff0107ab456589a4b2a31d81d3c5a0d124cc08c320afeba5b2b043"
-metafile = true
-
-[[files]]
 file = "mods/victus-0.1.16-nerfed+1.20.jar"
 hash = "198b7c7643ba8d794f9ddcbc97d3d1ebeda637b55cd0d3f1fc3c1f7d36902f7b"
 
