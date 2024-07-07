@@ -1725,6 +1725,10 @@ hash = "ddbcdf60f634287b6df241a873fc07b4ce56facfb358a0a74cb1df9acff97725"
 metafile = true
 
 [[files]]
+file = "mods/niftycarts-20.1.4-dev.jar"
+hash = "af10b378ef5924982ac20b79bb692c36cdd3776bf51f2d0335e11350e48d03b8"
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
