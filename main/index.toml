@@ -1710,11 +1710,6 @@ hash = "195c57beb3db8380c6ffe13851490be377844ce96cbd142ae96625650b4badb3"
 metafile = true
 
 [[files]]
-file = "mods/multiplayer-server-pause.pw.toml"
-hash = "e046350c5ac34f2082507b161793b5ad66db13a7aeed043f37bbe8c8025c177f"
-metafile = true
-
-[[files]]
 file = "mods/music-maker-mod.pw.toml"
 hash = "781bc89a78c823af43bdd46b74f9b1a6f76855b45fbfe469e50233bd889b27ff"
 metafile = true
