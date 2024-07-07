@@ -1695,11 +1695,6 @@ hash = "8ab7e0ed8da8c512c3389a96ccbc17ef8a2a028e0bce92be5f37418970485de4"
 metafile = true
 
 [[files]]
-file = "mods/more-rpg-classes.pw.toml"
-hash = "5a7336c51b515e8bb206e0bf71b2e675c18d4e20539ca08d8fb154215fb04dee"
-metafile = true
-
-[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "979e6d73369f2e45666e49c387f7f4f9b266df1085d4a7a949039aac461b3c13"
 metafile = true
@@ -2495,7 +2490,7 @@ hash = "0d7c23efb0494e616de95045cb9ccbf5e51e69818e6737a532f06e890f63838e"
 
 [[files]]
 file = "required_data/Shadow_Wizard_Money_Gang_Datapack/pack.mcmeta"
-hash = "9147e91df5cf80c577da984a44c114e32795a3309fedd1284f6cb51ede52acd8"
+hash = "cb9d42c140edfa350b884b9f6304dd6007c55af175c05a44876db743c386e5da"
 
 [[files]]
 file = "required_data/WWOO-QUILT-MODIFIED.zip"

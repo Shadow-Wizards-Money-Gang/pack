@@ -7,7 +7,19 @@
         "block": [
             {
                 "namespace": "minecraft",
-                "path": "advancements/.*"
+                "path": "advancements/nether/.*"
+            },
+            {
+                "namespace": "minecraft",
+                "path": "advancements/end/.*"
+            },            
+            {
+                "namespace": "minecraft",
+                "path": "advancements/story/enter_the_nether"
+            },
+            {
+                "namespace": "minecraft",
+                "path": "advancements/story/enter_the_end"
             }
         ]
     }
