@@ -1,13 +1,13 @@
 name = "AzureLib"
-filename = "azurelib-fabric-1.20.1-2.0.29.jar"
+filename = "azurelib-fabric-1.20.1-2.0.30.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/7zlUOZvb/versions/g3JDqHIP/azurelib-fabric-1.20.1-2.0.29.jar"
+url = "https://cdn.modrinth.com/data/7zlUOZvb/versions/SzIbTbvd/azurelib-fabric-1.20.1-2.0.30.jar"
 hash-format = "sha1"
-hash = "04f008996cfec094be950145483dbab4e482cd25"
+hash = "24fbc415a36aaa27a81b80374a0f42451b9889cd"
 
 [update]
 [update.modrinth]
 mod-id = "7zlUOZvb"
-version = "g3JDqHIP"
+version = "SzIbTbvd"
