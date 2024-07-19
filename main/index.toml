@@ -1700,6 +1700,11 @@ hash = "979e6d73369f2e45666e49c387f7f4f9b266df1085d4a7a949039aac461b3c13"
 metafile = true
 
 [[files]]
+file = "mods/mru.pw.toml"
+hash = "5fe587a7451d525a055e7f5eb31d17fad16cd2aa12bed335ae1f3a82b65d3e7c"
+metafile = true
+
+[[files]]
 file = "mods/music-maker-mod.pw.toml"
 hash = "781bc89a78c823af43bdd46b74f9b1a6f76855b45fbfe469e50233bd889b27ff"
 metafile = true
@@ -1813,7 +1818,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "9db1f01e807aa89e0c6a840fc1b1f86e6f542592db46fb21ef777736628676b8"
+hash = "9e9da779b67e9a944da81e921ff76c3388dfe9a475a3ff4f597b27af814cd28a"
 metafile = true
 
 [[files]]
@@ -1941,6 +1946,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "ad186b1967500f516790327875015c99e22caf7c6ad4939f26832ce3ba954beb"
+metafile = true
+
+[[files]]
+file = "mods/sound.pw.toml"
+hash = "c8f282bcb8ae63bdb9d514759f7324566f1b618685daa169cc447dee9970690c"
 metafile = true
 
 [[files]]
