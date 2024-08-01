@@ -1101,8 +1101,8 @@ hash = "628ca822826f31018f97293b673e09defe9bc46616a7636bbd4a3b51ee4c9949"
 metafile = true
 
 [[files]]
-file = "mods/bombastic-crystals-0.1.jar"
-hash = "9fd04f95ec37ee781b781f81d0fabd7eab727554acaeef0fab61be74cea748ad"
+file = "mods/bombastic-crystals-0.1.1.jar"
+hash = "cd8fb003b4642516f2ce046727c4e59cd7bec2ddb24ef43fd7e30c413898244e"
 
 [[files]]
 file = "mods/borderless-mining.pw.toml"
@@ -1223,9 +1223,8 @@ hash = "339b82907e3a9c77c3925d97da71af67ed65ae08f83de7c1850dec506aeb2ef8"
 metafile = true
 
 [[files]]
-file = "mods/data-attributes-directors-cut.pw.toml"
-hash = "d086e5aad45db88c5c5ca4070c94dddba534e9cd80e88384e6d126bce6f29c7b"
-metafile = true
+file = "mods/dataattributes_dc-1.6.0+1.20.1.jar"
+hash = "87fab2931c3350ace35bd035132a3e89a87b521968648ae6a374afb3be4a1ca6"
 
 [[files]]
 file = "mods/daves-potioneering.pw.toml"
@@ -1280,6 +1279,11 @@ metafile = true
 [[files]]
 file = "mods/dungeons+-1.8.4b.jar"
 hash = "31a338392ff43a1aac7e73e3a2cb49731c0d56c856151bcd7273bf9d7c37869f"
+
+[[files]]
+file = "mods/dungeons+.pw.toml"
+hash = "b837c2ff3ca4497ada4a51c0d9d921e949eb5654b60c0d50fef63f72a4cac3f3"
+metafile = true
 
 [[files]]
 file = "mods/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
@@ -1348,7 +1352,7 @@ metafile = true
 
 [[files]]
 file = "mods/eugenes-whistle-spur.pw.toml"
-hash = "fdec95c61d33e2ffc25833e7db6f2d1702db43711eaeb721aee40b61f4b36a40"
+hash = "82b7536165ccf3b03123934bacbcc4fa5b1384b92ff212c34afa2c2479367860"
 metafile = true
 
 [[files]]
@@ -1905,8 +1909,8 @@ hash = "1cda49a5161ed2661ac3e503e7103e5088b44effe757e8fa5c08cbae35959d93"
 metafile = true
 
 [[files]]
-file = "mods/shadow-wizards-0.1.8.jar"
-hash = "9149ffd9ddbbad12064371e7e98b1d9cc8d34046f83c823763f3a1bb90c0e955"
+file = "mods/shadow-wizards-0.2.0.jar"
+hash = "cbfe72f39e35f2df85e99bbcc0466ad14c5b2cc36bb85e572804ccf3278390d4"
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
@@ -2112,7 +2116,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "200557716291399497216a70e772a4f3df1e4e6c7c52b5949b8fc7271b5a42e9"
+hash = "5fa3a100f874ad3d03b674e867105fc7cc7dcf98b5c1c50d7841a25a0dda4607"
 metafile = true
 
 [[files]]
