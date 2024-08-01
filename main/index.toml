@@ -1101,8 +1101,8 @@ hash = "628ca822826f31018f97293b673e09defe9bc46616a7636bbd4a3b51ee4c9949"
 metafile = true
 
 [[files]]
-file = "mods/bombastic-crystals-v1.1+1.20.1.jar"
-hash = "cd952b19f3068da8a83612f3667445059491c942dd7884f367a3217e168791c4"
+file = "mods/bombastic-crystals-0.1.jar"
+hash = "9fd04f95ec37ee781b781f81d0fabd7eab727554acaeef0fab61be74cea748ad"
 
 [[files]]
 file = "mods/borderless-mining.pw.toml"
@@ -1224,7 +1224,7 @@ metafile = true
 
 [[files]]
 file = "mods/data-attributes-directors-cut.pw.toml"
-hash = "7ea5d4cbf70257491d558918a082b74268a76402f4cc49942f8f0790a3dc173d"
+hash = "d086e5aad45db88c5c5ca4070c94dddba534e9cd80e88384e6d126bce6f29c7b"
 metafile = true
 
 [[files]]
@@ -1647,11 +1647,6 @@ metafile = true
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "50149a97b2d959bfac8e1c377fdab49fc52f1439d004b1ac1c26a3a7f790e044"
-metafile = true
-
-[[files]]
-file = "mods/mim1q-derelict.pw.toml"
-hash = "7e2f7607a78f8801bcb5c61dd148a1bad36e4b4cce9eca15c896eccc5f84892c"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Data Attributes: Directors Cut"
-filename = "data-attributes-2.0.0-beta.8+1.20.1-fabric.jar"
+filename = "dataattributes_dc-1.6.0+1.20.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/KCGxOJsE/versions/ewPsglfs/dataattributes_dc-1.6.0%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "983c1c02a8f2c957f4bc653f75bcc22c3e0fce4d"
-mode = "metadata:curseforge"
+hash = "544e5e5c9873a3c3f9d022cfc892f007d8b8a246"
 
 [update]
-[update.curseforge]
-file-id = 5579484
-project-id = 955929
+[update.modrinth]
+mod-id = "KCGxOJsE"
+version = "ewPsglfs"
