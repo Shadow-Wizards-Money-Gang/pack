@@ -1,13 +1,13 @@
 name = "Data Attributes: Directors Cut"
-filename = "dataattributes_dc-1.6.0+1.20.1.jar"
+filename = "data-attributes-2.0.0-beta.8+1.20.1-fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "544e5e5c9873a3c3f9d022cfc892f007d8b8a246"
+hash = "983c1c02a8f2c957f4bc653f75bcc22c3e0fce4d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5008022
+file-id = 5579484
 project-id = 955929

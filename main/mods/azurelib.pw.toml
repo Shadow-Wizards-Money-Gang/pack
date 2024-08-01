@@ -3,11 +3,11 @@ filename = "azurelib-fabric-1.20.1-2.0.30.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/7zlUOZvb/versions/SzIbTbvd/azurelib-fabric-1.20.1-2.0.30.jar"
+url = "https://cdn.modrinth.com/data/7zlUOZvb/versions/Nj3DO9WH/azurelib-fabric-1.20.1-2.0.30.jar"
 hash-format = "sha1"
-hash = "24fbc415a36aaa27a81b80374a0f42451b9889cd"
+hash = "543b3ea24bcae0a1e215895572be5c5b365a6622"
 
 [update]
 [update.modrinth]
 mod-id = "7zlUOZvb"
-version = "SzIbTbvd"
+version = "Nj3DO9WH"

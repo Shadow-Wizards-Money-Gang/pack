@@ -1,13 +1,13 @@
 name = "Spells Lab : Extras (RPG Series add-on)"
-filename = "spellslabextra-1.1-1.20.1.jar"
+filename = "spellslabextra-1.2-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "86bef8e9eb5b421e5eaef5be0ff4eb5e47e1a992"
+hash = "cd5d958b8edeb96a882f870449349ceaff81a4b0"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5223778
+file-id = 5584679
 project-id = 994269
