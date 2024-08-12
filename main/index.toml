@@ -1126,7 +1126,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "d20fa45129b302c95bfeeefc4497841309a6b15f2c73736be0c39addedcaf38d"
+hash = "7bdc3d711b404db28144992cba4c9da51f0fc1bff483e9ef7ba9a28e256677fa"
 metafile = true
 
 [[files]]
@@ -1166,7 +1166,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "7974e66b2677eae99179bbc124f6ac990acf2e01294ed0997b3a15a828f03017"
+hash = "cdba3e523b390a34ba0c121b939976fae2eabe0713637f9ae2775633110faabb"
 metafile = true
 
 [[files]]
@@ -1332,7 +1332,7 @@ metafile = true
 
 [[files]]
 file = "mods/eldritch-mobs.pw.toml"
-hash = "8237394bebf50709840b99c3b2edb71f1659537887e4b1e64f3c5315ac1aac75"
+hash = "3305a3fdc37dba5a3c21072786b53d6d765c7e22d913daa09ee91df8f90e5649"
 metafile = true
 
 [[files]]
@@ -1342,7 +1342,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchanted-vertical-slabs.pw.toml"
-hash = "2e76c18b94e35503b1e28dbf57a098ecba57af47cea897dc8aaa376429c41f8e"
+hash = "56f400c8cf8180d1106b6c2cffb2e798bb587156cec5c5a9163b86d4c10bbbea"
 metafile = true
 
 [[files]]
@@ -1472,7 +1472,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "1aadf91846b80dcbedfae8433ff58b5614b3470062887fe9b3d1e22d05ed0e86"
+hash = "6be56e4af966f5f08148087a7b5ccd5676bcfc203552b8d0a1439e4be5614da5"
 metafile = true
 
 [[files]]
@@ -1512,27 +1512,22 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "2516da6e994384dc1087e972510efdb88502b19bf141c5b86212a4b0655ddbfc"
+hash = "89624530d4111760d413a7123ce83ddf0485d278f9730a13e54746dbbf6601b3"
 metafile = true
 
 [[files]]
 file = "mods/jewelry.pw.toml"
-hash = "22883ecfa2bddecb216d5b433645a9c896017fdf003be8a2f14623a1ff8d5ad1"
+hash = "f1d70e5998e1903224097b6dec5a993aeec1567c70ed32a162807a7075cfa03c"
 metafile = true
 
 [[files]]
 file = "mods/joy-of-painting.pw.toml"
-hash = "e878f32f538088bd287eb104a95b98e219fbd950456cfc63811e0a95cb04ec2f"
-metafile = true
-
-[[files]]
-file = "mods/jsonem.pw.toml"
-hash = "8acc9b4cc9392bdc17dfafd4102c3145514a863a00e5b5bb6c326135079b1e7f"
+hash = "1e5a89f9f111c331e555664cf73e830d9ea2626e8356e4f695137cfd0b255320"
 metafile = true
 
 [[files]]
 file = "mods/kiwi-fabric.pw.toml"
-hash = "75eff4cad67bf52bfda37c654e8d3410f77936417b9384cc6d15d21a6dea569d"
+hash = "39fb4435e630240483ff7714432b27d4c7a48f72d5afd06ae2648be7ccbf4f30"
 metafile = true
 
 [[files]]
@@ -1582,7 +1577,7 @@ metafile = true
 
 [[files]]
 file = "mods/leawind-third-person.pw.toml"
-hash = "87c81b51adc23c2149ba61ba816d9c59402fd44049022592b29ec3b6da3f3089"
+hash = "4adb89bd03785280fdeb7db0f6a9a89f740882f49ad0737540b2a12ce3e7fe47"
 metafile = true
 
 [[files]]
@@ -1607,7 +1602,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "790610c2deca97c9416c8639caddbd4c7eb1b50b28bed4a2d8d275ea4e729fe9"
+hash = "27df30bb49ab3e71eb57790364d3d01a71ecc7d797730d5c10fae4f8144e16fd"
 metafile = true
 
 [[files]]
@@ -1660,7 +1655,7 @@ metafile = true
 
 [[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
-hash = "0a661c356af9ae6f7605ad16362ee0af81b72385eb65237f04f70c958cab634e"
+hash = "d758e6103bda1fbd07252d4bdf06f4b64236b05efce8364e7e0a118c0748348e"
 metafile = true
 
 [[files]]
@@ -1675,7 +1670,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "a6c3048c93a6dcd6ce45e0c9b1a3569177cd3af06f751b621b7fb296ab03897b"
+hash = "6812c21ed98b9c28291966622854bc155839c9420a48e1c0f140c56d3b832cd9"
 metafile = true
 
 [[files]]
@@ -1690,7 +1685,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "bbc45f671b446c7c341775e6f30f6585f8c519fc41308e834ded56e4d1c03f88"
+hash = "dc0ac3e0a3d1823aa30387953d4151bc155adb087fe4a86b5a550dcde7ce39dc"
 metafile = true
 
 [[files]]
@@ -1700,17 +1695,17 @@ metafile = true
 
 [[files]]
 file = "mods/mru.pw.toml"
-hash = "5fe587a7451d525a055e7f5eb31d17fad16cd2aa12bed335ae1f3a82b65d3e7c"
+hash = "31e02e6b22a75f70ee43bf26292190ce97ae241a0924258e1ad39d5a6ff2f2ba"
 metafile = true
 
 [[files]]
 file = "mods/music-maker-mod.pw.toml"
-hash = "781bc89a78c823af43bdd46b74f9b1a6f76855b45fbfe469e50233bd889b27ff"
+hash = "de4b84935deb4d65afb808f1cb7b60b0677d94381feb863978a66f8dae66f92a"
 metafile = true
 
 [[files]]
 file = "mods/mythic-mobs.pw.toml"
-hash = "f07c19fad620c838b23da3de6c18c4553afb1a659d28cc6ef2365c96f8e415ca"
+hash = "2200e6b5745137ef785d86ca377f8c39cef4e097534e781d69b5a72c18e227c3"
 metafile = true
 
 [[files]]
@@ -1744,7 +1739,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "b67abea74ec9d9135ee0864c53f81a1b74ab7c2e16288eb133297fac55a9a69b"
+hash = "4ecccde3987e389d9acab93fb0692b81da2e865275cf0c50063b4e250f4ed1f3"
 metafile = true
 
 [[files]]
@@ -1827,7 +1822,7 @@ metafile = true
 
 [[files]]
 file = "mods/ranged-weapon-api.pw.toml"
-hash = "ea9dc10b9c697ac70baa6907ed3719c09caaf6a4bab63596fb50e66291b233aa"
+hash = "486067e4430ca57fc759f8cbe03a7141bd3b42f6324d5123c44be3370edf8ec8"
 metafile = true
 
 [[files]]
@@ -1900,7 +1895,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "134a5fc382c90c5f2efa68685e3d9f7ca95a8bd533fb8b314c40805f232c5138"
+hash = "6b3da7a498a47ac43d2adcef18b1c6f75a4bdc63d82db8e43d1101dd91ff90a7"
 metafile = true
 
 [[files]]
@@ -1949,7 +1944,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
-hash = "e2429800268739bac0a3aef7a17bac61c9f832b8d9b56283b7090087429ff1a2"
+hash = "5236fefb1e7385a11002da99630103363ca8aeb85d3ffb03feca0c3ea066b437"
 metafile = true
 
 [[files]]
@@ -2086,7 +2081,7 @@ metafile = true
 
 [[files]]
 file = "mods/villages-and-pillages.pw.toml"
-hash = "ecb927b59cc3e10f42a46b64b06c47c66848579293cb7884793208919f36f5cf"
+hash = "b3d987a4fd3225f75647a486bba9160a03088af5b5793227c7f6724967fc7b91"
 metafile = true
 
 [[files]]
@@ -2101,7 +2096,7 @@ metafile = true
 
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
-hash = "fb317684448237e6abc00d035d2054d57ab00a85303056391bf721e15b2298e0"
+hash = "d9439d9594d8666f09ac0634ee9bbcf82c430de010896f87e7cd44d17a4391d7"
 metafile = true
 
 [[files]]
@@ -2511,10 +2506,6 @@ hash = "9924a10019d31b5d64a916d137dc536a34e15df93f78bb75e5a769df073ba6c0"
 [[files]]
 file = "required_data/cavernous-r-barebones-v1-0.zip"
 hash = "51028b86d9afabbbcbbf772cef58327509f4baa0120e6e1b2bc18bb4cdb025e4"
-
-[[files]]
-file = "required_resources/Medieval_Expansion_edited.zip"
-hash = "c8e2b8d259a279fde79bbd9f03d80515d145543997080cbce025624586f5ed6e"
 
 [[files]]
 file = "required_resources/Shadow Wizard Money Gang Pack.zip"
