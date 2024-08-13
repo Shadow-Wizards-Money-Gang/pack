@@ -838,7 +838,7 @@ hash = "6e8bfe7a4c301de6e1658f8995a5bc533f6ec850aa57f701e23adf5fb9d708e9"
 
 [[files]]
 file = "config/shadow-wizards-api.json5"
-hash = "3c1368a3b98302370d66080a4dd9a74a0395daf1c82e7e8d3be6be59db6492ca"
+hash = "07e61479f2b5ff4b62c0b6cc688a1e963c2cb07d2f523aa521deb246602ac937"
 
 [[files]]
 file = "config/shadow-wizards.json5"

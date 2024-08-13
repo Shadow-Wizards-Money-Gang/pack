@@ -1,661 +1,661 @@
 {
-	"BLACKLISTED_PLACING_STAT_BLOCKS": [
-		"minecraft:end_crystal",
-		"minecraft:enchanting_table",
-		"minecraft:brewing_stand"
-	],
-	"SOFT_LOCKED_ITEMS": [],
-	"BANNED_ITEMS": [],
-	"ITEM_REQUERIMENTS": {
-		"minecraft:apple": [
-			0,
-			0,
-			0,
-			0,
-			0,
-			0
-		],
-		"minecraft:shield": [
-			9,
-			0,
-			0,
-			0,
-			0,
-			0
-		],
-		"minecraft:golden_apple": [
-			0,
-			0,
-			0,
-			0,
-			9,
-			0
-		],
-		"minecraft:brewing_stand": [
-			0,
-			0,
-			0,
-			0,
-			100,
-			0
-		],
-		"minecraft:enchanting_table": [
-			0,
-			0,
-			0,
-			9,
-			0,
-			0
-		],
-		"minecraft:enchanted_golden_apple": [
-			0,
-			0,
-			0,
-			0,
-			9,
-			0
-		],
-		"minecraft:golden_carrot": [
-			0,
-			0,
-			0,
-			0,
-			3,
-			0
-		],
-		"minecraft:end_crystal": [
-			0,
-			0,
-			0,
-			9,
-			0,
-			0
-		],
-		"minecraft:ender_pearl": [
-			0,
-			0,
-			0,
-			9,
-			0,
-			0
-		],
-		"minecraft:elytra": [
-			26,
-			0,
-			0,
-			0,
-			0,
-			0
-		],
-		"archers:flint_spear": [
-			0,
-			0,
-			0,
-			0,
-			0,
-			0
-		],
-		"archers:iron_spear": [
-			0,
-			0,
-			0,
-			0,
-			0,
-			0
-		],
-		"paladins:stone_claymore": [
-			6,
-			0,
-			0,
-			0,
-			0,
-			0
-		],
-		"paladins:iron_claymore": [
-			6,
-			0,
-			0,
-			0,
-			0,
-			0
-		],
-		"paladins:wooden_great_hammer": [
-			0,
-			0,
-			0,
-			0,
-			0,
-			0
-		],
-		"paladins:stone_great_hammer": [
-			0,
-			0,
-			0,
-			0,
-			0,
-			0
-		],
-		"paladins:iron_great_hammer": [
-			0,
-			0,
-			0,
-			0,
-			0,
-			0
-		],
-		"paladins:iron_mace": [
-			0,
-			0,
-			0,
-			0,
-			0,
-			0
-		],
-		"archers:ranger_armor_head": [
-			0,
-			0,
-			18,
-			0,
-			0,
-			0
-		],
-		"archers:ranger_armor_chest": [
-			0,
-			0,
-			18,
-			0,
-			0,
-			0
-		],
-		"archers:ranger_armor_legs": [
-			0,
-			0,
-			18,
-			0,
-			0,
-			0
-		],
-		"archers:ranger_armor_feet": [
-			0,
-			0,
-			18,
-			0,
-			0,
-			0
-		],
-		"paladins:crusader_armor_head": [
-			9,
-			12,
-			0,
-			0,
-			0,
-			0
-		],
-		"paladins:crusader_armor_chest": [
-			9,
-			12,
-			0,
-			0,
-			0,
-			0
-		],
-		"paladins:crusader_armor_legs": [
-			9,
-			12,
-			0,
-			0,
-			0,
-			0
-		],
-		"paladins:acolyte_wand": [
-			0,
-			5,
-			0,
-			0,
-			0,
-			0
-		],
-		"paladins:holy_wand": [
-			0,
-			5,
-			0,
-			0,
-			0,
-			0
-		],
-		"paladins:holy_staff": [
-			0,
-			5,
-			0,
-			0,
-			0,
-			0
-		],
-		"paladins:priest_spell_book": [
-			0,
-			18,
-			0,
-			0,
-			0,
-			0
-		],
-		"paladins:paladin_spell_book": [
-			9,
-			12,
-			0,
-			0,
-			0,
-			0
-		],
-		"paladins:crusader_armor_feet": [
-			9,
-			12,
-			0,
-			0,
-			0,
-			0
-		],
-		"paladins:prior_robe_head": [
-			0,
-			18,
-			0,
-			0,
-			0,
-			0
-		],
-		"paladins:prior_robe_chest": [
-			0,
-			18,
-			0,
-			0,
-			0,
-			0
-		],
-		"paladins:prior_robe_legs": [
-			0,
-			18,
-			0,
-			0,
-			0,
-			0
-		],
-		"paladins:prior_robe_feet": [
-			0,
-			18,
-			0,
-			0,
-			0,
-			0
-		],
-		"immersive_armors:heavy_helmet": [
-			18,
-			0,
-			0,
-			0,
-			0,
-			0
-		],
-		"immersive_armors:heavy_chestplate": [
-			18,
-			0,
-			0,
-			0,
-			0,
-			0
-		],
-		"immersive_armors:heavy_leggings": [
-			18,
-			0,
-			0,
-			0,
-			0,
-			0
-		],
-		"immersive_armors:heavy_boots": [
-			18,
-			0,
-			0,
-			0,
-			0,
-			0
-		],
-		"arcanuscontinuum:battle_mage_helmet": [
-			9,
-			0,
-			0,
-			12,
-			0,
-			0
-		],
-		"arcanuscontinuum:battle_mage_chestplate": [
-			9,
-			0,
-			0,
-			12,
-			0,
-			0
-		],
-		"arcanuscontinuum:battle_mage_leggings": [
-			9,
-			0,
-			0,
-			12,
-			0,
-			0
-		],
-		"arcanuscontinuum:battle_mage_boots": [
-			9,
-			0,
-			0,
-			12,
-			0,
-			0
-		],
-		"arcanuscontinuum:battle_mage_upgrade_smithing_template": [
-			9,
-			0,
-			0,
-			12,
-			0,
-			0
-		],
-		"rootsclassic:engraved_blade": [
-			0,
-			0,
-			0,
-			0,
-			0,
-			18
-		],
-		"rootsclassic:crystal_staff": [
-			0,
-			0,
-			0,
-			0,
-			0,
-			18
-		],
-		"rootsclassic:pestle": [
-			0,
-			0,
-			0,
-			0,
-			0,
-			0
-		],
-		"rootsclassic:mortar": [
-			0,
-			0,
-			0,
-			0,
-			0,
-			0
-		],
-		"rootsclassic:rooty_stew": [
-			0,
-			0,
-			0,
-			0,
-			0,
-			0
-		],
-		"rootsclassic:fruit_salad": [
-			0,
-			0,
-			0,
-			0,
-			0,
-			0
-		],
-		"rootsclassic:nightshade": [
-			0,
-			0,
-			0,
-			0,
-			0,
-			0
-		],
-		"rootsclassic:blackcurrant": [
-			0,
-			0,
-			0,
-			0,
-			0,
-			0
-		],
-		"rootsclassic:redcurrant": [
-			0,
-			0,
-			0,
-			0,
-			0,
-			0
-		],
-		"rootsclassic:whitecurrant": [
-			0,
-			0,
-			0,
-			0,
-			0,
-			0
-		],
-		"rootsclassic:elderberry": [
-			0,
-			0,
-			0,
-			0,
-			0,
-			0
-		],
-		"shadow-wizards:iron_rapier": [
-			0,
-			0,
-			6,
-			0,
-			0,
-			0
-		],
-		"shadow-wizards:gilded_rapier": [
-			0,
-			0,
-			6,
-			0,
-			0,
-			0
-		],
-		"shadow-wizards:distillery": [
-			0,
-			0,
-			0,
-			0,
-			9,
-			0
-		],
-				"jewelry:unique_attack_necklace:": [
-			9,
-			0,
-			0,
-			0,
-			0,
-			0
-		],
-		"jewelry:unique_attack_ring:": [
-			9,
-			0,
-			0,
-			0,
-			0,
-			0
-		],
-		"jewelry:unique_defense_necklace:": [
-			9,
-			0,
-			0,
-			0,
-			0,
-			0
-		],
-		"jewelry:unique_defense_ring:": [
-			9,
-			0,
-			0,
-			0,
-			0,
-			0
-		],
-		"jewelry:unique_archer_ring:": [
-			9,
-			0,
-			0,
-			0,
-			0,
-			0
-		],
-		"jewelry:unique_archer_necklace:": [
-			9,
-			0,
-			0,
-			0,
-			0,
-			0
-		],
-	},
-	"ITEM_CATEGORY_REQUERIMENTS": {
-		"minecraft": [
-			0,
-			0,
-			0,
-			0,
-			0,
-			0
-		],
-		"rogues": [
-			9,
-			0,
-			0,
-			0,
-			0,
-			0
-		]
-		"arcanuscontinuum": [
-			0,
-			0,
-			0,
-			18,
-			0,
-			0
-		],
-		"lostrelics": [
-			0,
-			0,
-			0,
-			18,
-			2,
-			0
-		],
-		"davespotioneering": [
-			0,
-			0,
-			0,
-			0,
-			18,
-			0
-		],
-		"paladins": [
-			0,
-			9,
-			0,
-			0,
-			0,
-			0
-		],
-		"archers": [
-			0,
-			0,
-			9,
-			0,
-			0,
-			0
-		],
-		"spellbladenext": [
-			9,
-			0,
-			0,
-			12,
-			0,
-			0
-		],
-		"wizards": [
-			0,
-			0,
-			0,
-			9,
-			0,
-			0
-		],
-		"rootsclassic": [
-			0,
-			0,
-			0,
-			0,
-			0,
-			9
-		],
-		"victus": [
-			0,
-			0,
-			0,
-			0,
-			18,
-			0
-		]
-	},
-	"BAN_ITEM_FOR_ENCHANT": {
-		"minecraft:protection": [
-			"minecraft:iron_chestplate",
-			"minecraft:iron_helmet",
-			"minecraft:iron_leggings",
-			"minecraft:iron_boots"
-		],
-		"!minecraft:protection": [
-			"minecraft:iron_chestplate",
-			"minecraft:iron_helmet",
-			"minecraft:iron_leggings",
-			"minecraft:iron_boots",
-			"minecraft:chainmail_chestplate",
-			"minecraft:chainmail_helmet",
-			"minecraft:chainmail_leggings",
-			"minecraft:chainmail_boots"
-		],
-		"!consecration:undead_protection": [
-			"minecraft:iron_chestplate",
-			"minecraft:iron_helmet",
-			"minecraft:iron_leggings",
-			"minecraft:iron_boots",
-			"minecraft:chainmail_chestplate",
-			"minecraft:chainmail_helmet",
-			"minecraft:chainmail_leggings",
-			"minecraft:chainmail_boots"
-		],
-		"!spell_power:magic_protection": [
-			"minecraft:iron_chestplate",
-			"minecraft:iron_helmet",
-			"minecraft:iron_leggings",
-			"minecraft:iron_boots",
-			"minecraft:chainmail_chestplate",
-			"minecraft:chainmail_helmet",
-			"minecraft:chainmail_leggings",
-			"minecraft:chainmail_boots"
-		],
-		"!minecraft:projectile_protection": [
-			"minecraft:iron_chestplate",
-			"minecraft:iron_helmet",
-			"minecraft:iron_leggings",
-			"minecraft:iron_boots",
-			"minecraft:chainmail_chestplate",
-			"minecraft:chainmail_helmet",
-			"minecraft:chainmail_leggings",
-			"minecraft:chainmail_boots"
-		]
-	}
+    "BLACKLISTED_PLACING_STAT_BLOCKS": [
+        "minecraft:end_crystal",
+        "minecraft:enchanting_table",
+        "minecraft:brewing_stand"
+    ],
+    "SOFT_LOCKED_ITEMS": [],
+    "BANNED_ITEMS": [],
+    "ITEM_REQUERIMENTS": {
+        "minecraft:apple": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "minecraft:shield": [
+            9,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "minecraft:golden_apple": [
+            0,
+            0,
+            0,
+            0,
+            9,
+            0
+        ],
+        "minecraft:brewing_stand": [
+            0,
+            0,
+            0,
+            0,
+            100,
+            0
+        ],
+        "minecraft:enchanting_table": [
+            0,
+            0,
+            0,
+            9,
+            0,
+            0
+        ],
+        "minecraft:enchanted_golden_apple": [
+            0,
+            0,
+            0,
+            0,
+            9,
+            0
+        ],
+        "minecraft:golden_carrot": [
+            0,
+            0,
+            0,
+            0,
+            3,
+            0
+        ],
+        "minecraft:end_crystal": [
+            0,
+            0,
+            0,
+            9,
+            0,
+            0
+        ],
+        "minecraft:ender_pearl": [
+            0,
+            0,
+            0,
+            9,
+            0,
+            0
+        ],
+        "minecraft:elytra": [
+            26,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "archers:flint_spear": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "archers:iron_spear": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "paladins:stone_claymore": [
+            6,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "paladins:iron_claymore": [
+            6,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "paladins:wooden_great_hammer": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "paladins:stone_great_hammer": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "paladins:iron_great_hammer": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "paladins:iron_mace": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "archers:ranger_armor_head": [
+            0,
+            0,
+            18,
+            0,
+            0,
+            0
+        ],
+        "archers:ranger_armor_chest": [
+            0,
+            0,
+            18,
+            0,
+            0,
+            0
+        ],
+        "archers:ranger_armor_legs": [
+            0,
+            0,
+            18,
+            0,
+            0,
+            0
+        ],
+        "archers:ranger_armor_feet": [
+            0,
+            0,
+            18,
+            0,
+            0,
+            0
+        ],
+        "paladins:crusader_armor_head": [
+            9,
+            12,
+            0,
+            0,
+            0,
+            0
+        ],
+        "paladins:crusader_armor_chest": [
+            9,
+            12,
+            0,
+            0,
+            0,
+            0
+        ],
+        "paladins:crusader_armor_legs": [
+            9,
+            12,
+            0,
+            0,
+            0,
+            0
+        ],
+        "paladins:acolyte_wand": [
+            0,
+            5,
+            0,
+            0,
+            0,
+            0
+        ],
+        "paladins:holy_wand": [
+            0,
+            5,
+            0,
+            0,
+            0,
+            0
+        ],
+        "paladins:holy_staff": [
+            0,
+            5,
+            0,
+            0,
+            0,
+            0
+        ],
+        "paladins:priest_spell_book": [
+            0,
+            18,
+            0,
+            0,
+            0,
+            0
+        ],
+        "paladins:paladin_spell_book": [
+            9,
+            12,
+            0,
+            0,
+            0,
+            0
+        ],
+        "paladins:crusader_armor_feet": [
+            9,
+            12,
+            0,
+            0,
+            0,
+            0
+        ],
+        "paladins:prior_robe_head": [
+            0,
+            18,
+            0,
+            0,
+            0,
+            0
+        ],
+        "paladins:prior_robe_chest": [
+            0,
+            18,
+            0,
+            0,
+            0,
+            0
+        ],
+        "paladins:prior_robe_legs": [
+            0,
+            18,
+            0,
+            0,
+            0,
+            0
+        ],
+        "paladins:prior_robe_feet": [
+            0,
+            18,
+            0,
+            0,
+            0,
+            0
+        ],
+        "immersive_armors:heavy_helmet": [
+            18,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "immersive_armors:heavy_chestplate": [
+            18,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "immersive_armors:heavy_leggings": [
+            18,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "immersive_armors:heavy_boots": [
+            18,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "arcanuscontinuum:battle_mage_helmet": [
+            9,
+            0,
+            0,
+            12,
+            0,
+            0
+        ],
+        "arcanuscontinuum:battle_mage_chestplate": [
+            9,
+            0,
+            0,
+            12,
+            0,
+            0
+        ],
+        "arcanuscontinuum:battle_mage_leggings": [
+            9,
+            0,
+            0,
+            12,
+            0,
+            0
+        ],
+        "arcanuscontinuum:battle_mage_boots": [
+            9,
+            0,
+            0,
+            12,
+            0,
+            0
+        ],
+        "arcanuscontinuum:battle_mage_upgrade_smithing_template": [
+            9,
+            0,
+            0,
+            12,
+            0,
+            0
+        ],
+        "rootsclassic:engraved_blade": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            18
+        ],
+        "rootsclassic:crystal_staff": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            18
+        ],
+        "rootsclassic:pestle": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "rootsclassic:mortar": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "rootsclassic:rooty_stew": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "rootsclassic:fruit_salad": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "rootsclassic:nightshade": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "rootsclassic:blackcurrant": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "rootsclassic:redcurrant": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "rootsclassic:whitecurrant": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "rootsclassic:elderberry": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "shadow-wizards:iron_rapier": [
+            0,
+            0,
+            6,
+            0,
+            0,
+            0
+        ],
+        "shadow-wizards:gilded_rapier": [
+            0,
+            0,
+            6,
+            0,
+            0,
+            0
+        ],
+        "shadow-wizards:distillery": [
+            0,
+            0,
+            0,
+            0,
+            9,
+            0
+        ],
+        "jewelry:unique_attack_necklace:": [
+            9,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "jewelry:unique_attack_ring:": [
+            9,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "jewelry:unique_defense_necklace:": [
+            9,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "jewelry:unique_defense_ring:": [
+            9,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "jewelry:unique_archer_ring:": [
+            9,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "jewelry:unique_archer_necklace:": [
+            9,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "ITEM_CATEGORY_REQUERIMENTS": {
+        "minecraft": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "rogues": [
+            9,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "arcanuscontinuum": [
+            0,
+            0,
+            0,
+            18,
+            0,
+            0
+        ],
+        "lostrelics": [
+            0,
+            0,
+            0,
+            18,
+            2,
+            0
+        ],
+        "davespotioneering": [
+            0,
+            0,
+            0,
+            0,
+            18,
+            0
+        ],
+        "paladins": [
+            0,
+            9,
+            0,
+            0,
+            0,
+            0
+        ],
+        "archers": [
+            0,
+            0,
+            9,
+            0,
+            0,
+            0
+        ],
+        "spellbladenext": [
+            9,
+            0,
+            0,
+            12,
+            0,
+            0
+        ],
+        "wizards": [
+            0,
+            0,
+            0,
+            9,
+            0,
+            0
+        ],
+        "rootsclassic": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            9
+        ],
+        "victus": [
+            0,
+            0,
+            0,
+            0,
+            18,
+            0
+        ]
+    },
+    "BAN_ITEM_FOR_ENCHANT": {
+        "minecraft:protection": [
+            "minecraft:iron_chestplate",
+            "minecraft:iron_helmet",
+            "minecraft:iron_leggings",
+            "minecraft:iron_boots"
+        ],
+        "!minecraft:protection": [
+            "minecraft:iron_chestplate",
+            "minecraft:iron_helmet",
+            "minecraft:iron_leggings",
+            "minecraft:iron_boots",
+            "minecraft:chainmail_chestplate",
+            "minecraft:chainmail_helmet",
+            "minecraft:chainmail_leggings",
+            "minecraft:chainmail_boots"
+        ],
+        "!consecration:undead_protection": [
+            "minecraft:iron_chestplate",
+            "minecraft:iron_helmet",
+            "minecraft:iron_leggings",
+            "minecraft:iron_boots",
+            "minecraft:chainmail_chestplate",
+            "minecraft:chainmail_helmet",
+            "minecraft:chainmail_leggings",
+            "minecraft:chainmail_boots"
+        ],
+        "!spell_power:magic_protection": [
+            "minecraft:iron_chestplate",
+            "minecraft:iron_helmet",
+            "minecraft:iron_leggings",
+            "minecraft:iron_boots",
+            "minecraft:chainmail_chestplate",
+            "minecraft:chainmail_helmet",
+            "minecraft:chainmail_leggings",
+            "minecraft:chainmail_boots"
+        ],
+        "!minecraft:projectile_protection": [
+            "minecraft:iron_chestplate",
+            "minecraft:iron_helmet",
+            "minecraft:iron_leggings",
+            "minecraft:iron_boots",
+            "minecraft:chainmail_chestplate",
+            "minecraft:chainmail_helmet",
+            "minecraft:chainmail_leggings",
+            "minecraft:chainmail_boots"
+        ]
+    }
 }
