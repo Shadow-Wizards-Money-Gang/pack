@@ -22,6 +22,7 @@ mode = "fancy"
 		[light_sources.settings.entities]
 
 			[light_sources.settings.entities.minecraft]
+				zombie_horse = true
 				panda = true
 				bee = true
 				axolotl = true
@@ -37,18 +38,23 @@ mode = "fancy"
 				armor_stand = true
 				drowned = true
 				experience_orb = true
+				dolphin = true
 				item = true
 				stray = true
 				shulker = true
 				turtle = true
 				salmon = true
 				vex = true
+				wandering_trader = true
 				goat = true
 				ocelot = true
 				item_frame = true
 				vindicator = true
 				horse = true
+				minecart = true
+				leash_knot = true
 				evoker = true
+				mooshroom = true
 				glow_squid = true
 				warden = true
 				glow_item_frame = false
@@ -59,6 +65,7 @@ mode = "fancy"
 				enderman = true
 				chicken = true
 				ravager = true
+				trader_llama = true
 				donkey = true
 				chest_minecart = true
 				fox = true
@@ -75,9 +82,13 @@ mode = "fancy"
 				pufferfish = true
 				illusioner = true
 				potion = true
+				trident = true
 				villager = true
 				wolf = true
+				skeleton_horse = true
 				zombie_villager = true
+				elder_guardian = true
+				painting = true
 				cave_spider = true
 				witch = true
 				cod = true
@@ -86,6 +97,53 @@ mode = "fancy"
 
 			[light_sources.settings.entities.fallingtrees]
 				tree = true
+
+			[light_sources.settings.entities.uselessreptile]
+				moleclaw = true
+				wyvern_projectile = true
+				river_pikehorn = true
+				wyvern = true
+
+			[light_sources.settings.entities.xercapaint]
+				easel = true
+
+			[light_sources.settings.entities.enderzoology]
+				fallen_mount = true
+				owl = true
+				wither_witch = true
+				wither_cat = true
+				owl_egg = true
+				fallen_knight = true
+				infested_zombie = true
+				enderminy = true
+				concussion_creeper = true
+
+			[light_sources.settings.entities.guardvillagers]
+				guard = true
+
+			[light_sources.settings.entities.arcanuscontinuum]
+				opossum = true
+				wizard = true
+
+			[light_sources.settings.entities.mythicmobs]
+				mushroom_thing = true
+
+			[light_sources.settings.entities.mobs_of_mythology]
+				kobold_warrior = true
+				sporeling = true
+				kobold = true
+				chupacabra = true
+
+			[light_sources.settings.entities.shadow-wizards]
+				zotz = true
+				ghoul = true
+				rous = true
+
+			[light_sources.settings.entities.illagerinvasion]
+				sorcerer = true
+				archivist = true
+				provoker = true
+				basher = true
 
 			[light_sources.settings.entities.naturalist]
 				deer = true
@@ -120,42 +178,14 @@ mode = "fancy"
 				illusioner = true
 				tank = true
 
-			[light_sources.settings.entities.uselessreptile]
-				moleclaw = true
-				wyvern_projectile = true
-				river_pikehorn = true
-				wyvern = true
-
-			[light_sources.settings.entities.xercapaint]
-				easel = true
-
-			[light_sources.settings.entities.enderzoology]
-				fallen_mount = true
-				owl = true
-				wither_witch = true
-				wither_cat = true
-				owl_egg = true
-				fallen_knight = true
-				infested_zombie = true
-				enderminy = true
-				concussion_creeper = true
-
-			[light_sources.settings.entities.guardvillagers]
-				guard = true
-
 			[light_sources.settings.entities.dummmmmmy]
 				target_dummy = true
 
-			[light_sources.settings.entities.arcanuscontinuum]
-				opossum = true
-				wizard = true
+			[light_sources.settings.entities.caligo]
+				strow = true
+				deep_strow = true
 
-			[light_sources.settings.entities.mythicmobs]
-				mushroom_thing = true
-
-			[light_sources.settings.entities.illagerinvasion]
-				sorcerer = true
-				archivist = true
-				provoker = true
-				basher = true
+			[light_sources.settings.entities.dungeonnowloading]
+				spawner_carrier = true
+				chaos_spawner = true
 

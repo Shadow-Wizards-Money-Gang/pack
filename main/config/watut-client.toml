@@ -23,6 +23,8 @@
 	screenTypingRelativePosition_Y = 0
 	#Sends relative mouse position and clicking
 	sendMouseInfo = true
+	#String to use next to the typing player(s) name
+	screenTypingText = " is typing"
 	#Sends a calculated rate of typing. If off, uses a default value on server
 	sendTypingSpeed = true
 	#Show any Gui they're using that isn't chat typing related in world

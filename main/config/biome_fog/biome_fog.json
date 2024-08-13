@@ -1,0 +1,468 @@
+{
+  "enabledDimensions": [
+    "minecraft:overworld",
+    "minecraft:the_nether"
+  ],
+  "skyColorAdditions": {
+    "minecraft:overworld": {
+      "field_1352": 0.15000000596046448,
+      "field_1351": 0.15000000596046448,
+      "field_1350": 0.15000000596046448
+    }
+  },
+  "skyColorAdditionsRain": {
+    "minecraft:overworld": {
+      "field_1352": -0.15000000596046448,
+      "field_1351": -0.15000000596046448,
+      "field_1350": -0.15000000596046448
+    }
+  },
+  "skyColorAdditionsNight": {
+    "minecraft:overworld": {
+      "field_1352": 0.0,
+      "field_1351": 0.0,
+      "field_1350": 0.0
+    }
+  },
+  "defaultFogColor": {
+    "field_1352": 0.6800000071525574,
+    "field_1351": 0.8299999833106995,
+    "field_1350": 1.0
+  },
+  "defaultFogColorRain": {
+    "field_1352": 0.4000000059604645,
+    "field_1351": 0.46000000834465027,
+    "field_1350": 0.5400000214576721
+  },
+  "defaultFogColorNight": {
+    "field_1352": 0.0,
+    "field_1351": 0.0,
+    "field_1350": 0.0
+  },
+  "fogColors": {
+    "minecraft:frozen_river": {
+      "field_1352": 0.9599999785423279,
+      "field_1351": 0.9800000190734863,
+      "field_1350": 0.9399999976158142
+    },
+    "minecraft:the_nether": {
+      "field_1352": 0.25999999046325684,
+      "field_1351": 0.0,
+      "field_1350": 0.0
+    },
+    "minecraft:frozen_peaks": {
+      "field_1352": 0.9599999785423279,
+      "field_1351": 0.9800000190734863,
+      "field_1350": 0.9399999976158142
+    },
+    "minecraft:wooded_badlands": {
+      "field_1352": 0.75,
+      "field_1351": 0.4000000059604645,
+      "field_1350": 0.12999999523162842
+    },
+    "minecraft:ice_spikes": {
+      "field_1352": 0.9599999785423279,
+      "field_1351": 0.9800000190734863,
+      "field_1350": 0.9399999976158142
+    },
+    "minecraft:snowy_plains": {
+      "field_1352": 0.9599999785423279,
+      "field_1351": 0.9800000190734863,
+      "field_1350": 0.9399999976158142
+    },
+    "minecraft:snowy_slopes": {
+      "field_1352": 0.9599999785423279,
+      "field_1351": 0.9800000190734863,
+      "field_1350": 0.9399999976158142
+    },
+    "minecraft:snowy_beach": {
+      "field_1352": 0.9599999785423279,
+      "field_1351": 0.9800000190734863,
+      "field_1350": 0.9399999976158142
+    },
+    "minecraft:frozen_ocean": {
+      "field_1352": 0.9599999785423279,
+      "field_1351": 0.9800000190734863,
+      "field_1350": 0.9399999976158142
+    },
+    "minecraft:swamp": {
+      "field_1352": 0.2800000011920929,
+      "field_1351": 0.2800000011920929,
+      "field_1350": 0.05000000074505806
+    },
+    "minecraft:jagged_peaks": {
+      "field_1352": 0.9599999785423279,
+      "field_1351": 0.9800000190734863,
+      "field_1350": 0.9399999976158142
+    },
+    "minecraft:sparse_jungle": {
+      "field_1352": 0.15000000596046448,
+      "field_1351": 0.41999998688697815,
+      "field_1350": 0.12999999523162842
+    },
+    "minecraft:mangrove_swamp": {
+      "field_1352": 0.2800000011920929,
+      "field_1351": 0.2800000011920929,
+      "field_1350": 0.05000000074505806
+    },
+    "minecraft:grove": {
+      "field_1352": 0.9599999785423279,
+      "field_1351": 0.9800000190734863,
+      "field_1350": 0.9399999976158142
+    },
+    "minecraft:eroded_badlands": {
+      "field_1352": 0.75,
+      "field_1351": 0.4000000059604645,
+      "field_1350": 0.12999999523162842
+    },
+    "minecraft:bamboo_jungle": {
+      "field_1352": 0.15000000596046448,
+      "field_1351": 0.41999998688697815,
+      "field_1350": 0.12999999523162842
+    },
+    "minecraft:jungle": {
+      "field_1352": 0.15000000596046448,
+      "field_1351": 0.41999998688697815,
+      "field_1350": 0.12999999523162842
+    },
+    "minecraft:desert": {
+      "field_1352": 0.8399999737739563,
+      "field_1351": 0.7799999713897705,
+      "field_1350": 0.6000000238418579
+    },
+    "minecraft:badlands": {
+      "field_1352": 0.75,
+      "field_1351": 0.4000000059604645,
+      "field_1350": 0.12999999523162842
+    },
+    "minecraft:snowy_taiga": {
+      "field_1352": 0.9599999785423279,
+      "field_1351": 0.9800000190734863,
+      "field_1350": 0.9399999976158142
+    }
+  },
+  "fogColorsRain": {
+    "minecraft:frozen_river": {
+      "field_1352": 0.9599999785423279,
+      "field_1351": 0.9800000190734863,
+      "field_1350": 0.9399999976158142
+    },
+    "minecraft:the_nether": {
+      "field_1352": 0.25999999046325684,
+      "field_1351": 0.0,
+      "field_1350": 0.0
+    },
+    "minecraft:frozen_peaks": {
+      "field_1352": 0.9599999785423279,
+      "field_1351": 0.9800000190734863,
+      "field_1350": 0.9399999976158142
+    },
+    "minecraft:wooded_badlands": {
+      "field_1352": 0.75,
+      "field_1351": 0.4000000059604645,
+      "field_1350": 0.12999999523162842
+    },
+    "minecraft:ice_spikes": {
+      "field_1352": 0.9599999785423279,
+      "field_1351": 0.9800000190734863,
+      "field_1350": 0.9399999976158142
+    },
+    "minecraft:snowy_plains": {
+      "field_1352": 0.9599999785423279,
+      "field_1351": 0.9800000190734863,
+      "field_1350": 0.9399999976158142
+    },
+    "minecraft:snowy_slopes": {
+      "field_1352": 0.9599999785423279,
+      "field_1351": 0.9800000190734863,
+      "field_1350": 0.9399999976158142
+    },
+    "minecraft:snowy_beach": {
+      "field_1352": 0.9599999785423279,
+      "field_1351": 0.9800000190734863,
+      "field_1350": 0.9399999976158142
+    },
+    "minecraft:frozen_ocean": {
+      "field_1352": 0.9599999785423279,
+      "field_1351": 0.9800000190734863,
+      "field_1350": 0.9399999976158142
+    },
+    "minecraft:swamp": {
+      "field_1352": 0.041999999433755875,
+      "field_1351": 0.041999999433755875,
+      "field_1350": 0.007499999832361937
+    },
+    "minecraft:jagged_peaks": {
+      "field_1352": 0.9599999785423279,
+      "field_1351": 0.9800000190734863,
+      "field_1350": 0.9399999976158142
+    },
+    "minecraft:sparse_jungle": {
+      "field_1352": 0.02250000089406967,
+      "field_1351": 0.06300000101327896,
+      "field_1350": 0.019500000402331352
+    },
+    "minecraft:mangrove_swamp": {
+      "field_1352": 0.041999999433755875,
+      "field_1351": 0.041999999433755875,
+      "field_1350": 0.007499999832361937
+    },
+    "minecraft:grove": {
+      "field_1352": 0.9599999785423279,
+      "field_1351": 0.9800000190734863,
+      "field_1350": 0.9399999976158142
+    },
+    "minecraft:eroded_badlands": {
+      "field_1352": 0.75,
+      "field_1351": 0.4000000059604645,
+      "field_1350": 0.12999999523162842
+    },
+    "minecraft:bamboo_jungle": {
+      "field_1352": 0.02250000089406967,
+      "field_1351": 0.06300000101327896,
+      "field_1350": 0.019500000402331352
+    },
+    "minecraft:jungle": {
+      "field_1352": 0.02250000089406967,
+      "field_1351": 0.06300000101327896,
+      "field_1350": 0.019500000402331352
+    },
+    "minecraft:desert": {
+      "field_1352": 0.8399999737739563,
+      "field_1351": 0.7799999713897705,
+      "field_1350": 0.6000000238418579
+    },
+    "minecraft:badlands": {
+      "field_1352": 0.75,
+      "field_1351": 0.4000000059604645,
+      "field_1350": 0.12999999523162842
+    },
+    "minecraft:snowy_taiga": {
+      "field_1352": 0.9599999785423279,
+      "field_1351": 0.9800000190734863,
+      "field_1350": 0.9399999976158142
+    }
+  },
+  "fogColorsNight": {
+    "minecraft:frozen_river": {
+      "field_1352": 0.10000000149011612,
+      "field_1351": 0.10000000149011612,
+      "field_1350": 0.10000000149011612
+    },
+    "minecraft:the_nether": {
+      "field_1352": 0.25999999046325684,
+      "field_1351": 0.0,
+      "field_1350": 0.0
+    },
+    "minecraft:frozen_peaks": {
+      "field_1352": 0.10000000149011612,
+      "field_1351": 0.10000000149011612,
+      "field_1350": 0.10000000149011612
+    },
+    "minecraft:wooded_badlands": {
+      "field_1352": 0.75,
+      "field_1351": 0.4000000059604645,
+      "field_1350": 0.12999999523162842
+    },
+    "minecraft:ice_spikes": {
+      "field_1352": 0.10000000149011612,
+      "field_1351": 0.10000000149011612,
+      "field_1350": 0.10000000149011612
+    },
+    "minecraft:snowy_plains": {
+      "field_1352": 0.10000000149011612,
+      "field_1351": 0.10000000149011612,
+      "field_1350": 0.10000000149011612
+    },
+    "minecraft:snowy_slopes": {
+      "field_1352": 0.10000000149011612,
+      "field_1351": 0.10000000149011612,
+      "field_1350": 0.10000000149011612
+    },
+    "minecraft:snowy_beach": {
+      "field_1352": 0.10000000149011612,
+      "field_1351": 0.10000000149011612,
+      "field_1350": 0.10000000149011612
+    },
+    "minecraft:frozen_ocean": {
+      "field_1352": 0.10000000149011612,
+      "field_1351": 0.10000000149011612,
+      "field_1350": 0.10000000149011612
+    },
+    "minecraft:swamp": {
+      "field_1352": 0.041999999433755875,
+      "field_1351": 0.041999999433755875,
+      "field_1350": 0.007499999832361937
+    },
+    "minecraft:jagged_peaks": {
+      "field_1352": 0.10000000149011612,
+      "field_1351": 0.10000000149011612,
+      "field_1350": 0.10000000149011612
+    },
+    "minecraft:sparse_jungle": {
+      "field_1352": 0.02250000089406967,
+      "field_1351": 0.06300000101327896,
+      "field_1350": 0.019500000402331352
+    },
+    "minecraft:mangrove_swamp": {
+      "field_1352": 0.041999999433755875,
+      "field_1351": 0.041999999433755875,
+      "field_1350": 0.007499999832361937
+    },
+    "minecraft:grove": {
+      "field_1352": 0.10000000149011612,
+      "field_1351": 0.10000000149011612,
+      "field_1350": 0.10000000149011612
+    },
+    "minecraft:eroded_badlands": {
+      "field_1352": 0.75,
+      "field_1351": 0.4000000059604645,
+      "field_1350": 0.12999999523162842
+    },
+    "minecraft:bamboo_jungle": {
+      "field_1352": 0.02250000089406967,
+      "field_1351": 0.06300000101327896,
+      "field_1350": 0.019500000402331352
+    },
+    "minecraft:jungle": {
+      "field_1352": 0.02250000089406967,
+      "field_1351": 0.06300000101327896,
+      "field_1350": 0.019500000402331352
+    },
+    "minecraft:desert": {
+      "field_1352": 0.8399999737739563,
+      "field_1351": 0.7799999713897705,
+      "field_1350": 0.6000000238418579
+    },
+    "minecraft:badlands": {
+      "field_1352": 0.75,
+      "field_1351": 0.4000000059604645,
+      "field_1350": 0.12999999523162842
+    },
+    "minecraft:snowy_taiga": {
+      "field_1352": 0.10000000149011612,
+      "field_1351": 0.10000000149011612,
+      "field_1350": 0.10000000149011612
+    }
+  },
+  "fogStartAdditions": {
+    "minecraft:mangrove_swamp": 0.0,
+    "minecraft:the_nether": 100.0,
+    "minecraft:wooded_badlands": 0.0,
+    "minecraft:overworld": 100.0,
+    "minecraft:eroded_badlands": 0.0,
+    "minecraft:bamboo_jungle": 0.0,
+    "minecraft:jungle": 0.0,
+    "minecraft:desert": 0.0,
+    "minecraft:badlands": 0.0,
+    "minecraft:swamp": 0.0
+  },
+  "fogEndAdditions": {
+    "minecraft:wooded_badlands": 0.0,
+    "minecraft:frozen_river": 150.0,
+    "minecraft:the_nether": 200.0,
+    "minecraft:frozen_peaks": 150.0,
+    "minecraft:overworld": 200.0,
+    "minecraft:ice_spikes": 150.0,
+    "minecraft:snowy_plains": 150.0,
+    "minecraft:snowy_slopes": 150.0,
+    "minecraft:snowy_beach": 150.0,
+    "minecraft:frozen_ocean": 150.0,
+    "minecraft:swamp": 0.0,
+    "minecraft:jagged_peaks": 150.0,
+    "minecraft:mangrove_swamp": 0.0,
+    "minecraft:grove": 150.0,
+    "minecraft:eroded_badlands": 0.0,
+    "minecraft:bamboo_jungle": 0.0,
+    "minecraft:jungle": 0.0,
+    "minecraft:desert": 0.0,
+    "minecraft:badlands": 0.0,
+    "minecraft:snowy_taiga": 150.0
+  },
+  "fogStartAdditionsRain": {
+    "minecraft:wooded_badlands": 0.0,
+    "minecraft:frozen_river": 0.0,
+    "minecraft:the_nether": 100.0,
+    "minecraft:frozen_peaks": 0.0,
+    "minecraft:overworld": 100.0,
+    "minecraft:ice_spikes": 0.0,
+    "minecraft:snowy_plains": 0.0,
+    "minecraft:snowy_slopes": 0.0,
+    "minecraft:snowy_beach": 0.0,
+    "minecraft:frozen_ocean": 0.0,
+    "minecraft:swamp": 0.0,
+    "minecraft:jagged_peaks": 0.0,
+    "minecraft:mangrove_swamp": 0.0,
+    "minecraft:grove": 0.0,
+    "minecraft:eroded_badlands": 0.0,
+    "minecraft:bamboo_jungle": 0.0,
+    "minecraft:jungle": 0.0,
+    "minecraft:desert": 0.0,
+    "minecraft:badlands": 0.0,
+    "minecraft:snowy_taiga": 0.0
+  },
+  "fogEndAdditionsRain": {
+    "minecraft:wooded_badlands": 0.0,
+    "minecraft:frozen_river": 0.0,
+    "minecraft:the_nether": 200.0,
+    "minecraft:frozen_peaks": 0.0,
+    "minecraft:overworld": 200.0,
+    "minecraft:ice_spikes": 0.0,
+    "minecraft:snowy_plains": 0.0,
+    "minecraft:snowy_slopes": 0.0,
+    "minecraft:snowy_beach": 0.0,
+    "minecraft:frozen_ocean": 0.0,
+    "minecraft:swamp": 0.0,
+    "minecraft:jagged_peaks": 0.0,
+    "minecraft:mangrove_swamp": 0.0,
+    "minecraft:grove": 0.0,
+    "minecraft:eroded_badlands": 0.0,
+    "minecraft:bamboo_jungle": 0.0,
+    "minecraft:jungle": 0.0,
+    "minecraft:desert": 0.0,
+    "minecraft:badlands": 0.0,
+    "minecraft:snowy_taiga": 0.0
+  },
+  "fogStartAdditionsNight": {
+    "minecraft:snowy_plains": 100.0,
+    "minecraft:mangrove_swamp": 0.0,
+    "minecraft:frozen_river": 100.0,
+    "minecraft:wooded_badlands": 0.0,
+    "minecraft:bamboo_jungle": 0.0,
+    "minecraft:snowy_beach": 100.0,
+    "minecraft:badlands": 0.0,
+    "minecraft:desert": 0.0,
+    "minecraft:jagged_peaks": 100.0,
+    "minecraft:snowy_taiga": 100.0,
+    "minecraft:grove": 100.0,
+    "minecraft:frozen_peaks": 100.0,
+    "minecraft:swamp": 0.0,
+    "minecraft:eroded_badlands": 0.0,
+    "minecraft:snowy_slopes": 100.0,
+    "minecraft:sparse_jungle": 100.0,
+    "minecraft:frozen_ocean": 100.0,
+    "minecraft:ice_spikes": 100.0,
+    "minecraft:jungle": 0.0
+  },
+  "fogEndAdditionsNight": {
+    "minecraft:snowy_plains": 150.0,
+    "minecraft:mangrove_swamp": 0.0,
+    "minecraft:frozen_river": 150.0,
+    "minecraft:wooded_badlands": 0.0,
+    "minecraft:bamboo_jungle": 0.0,
+    "minecraft:snowy_beach": 150.0,
+    "minecraft:badlands": 0.0,
+    "minecraft:desert": 0.0,
+    "minecraft:jagged_peaks": 150.0,
+    "minecraft:snowy_taiga": 150.0,
+    "minecraft:grove": 150.0,
+    "minecraft:frozen_peaks": 150.0,
+    "minecraft:swamp": 0.0,
+    "minecraft:eroded_badlands": 0.0,
+    "minecraft:snowy_slopes": 150.0,
+    "minecraft:sparse_jungle": 200.0,
+    "minecraft:frozen_ocean": 150.0,
+    "minecraft:ice_spikes": 150.0,
+    "minecraft:jungle": 0.0
+  }
+}

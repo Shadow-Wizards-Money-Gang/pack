@@ -2,13 +2,13 @@
   // -----------------------------------------------------------
   //              Item Obliterator by ElocinDev
   // -----------------------------------------------------------
-  //  
+  //
   // How to add items?
   //   - They are json strings, so you need to separate each
   //     entry with a comma, except the last
   //   - If you start an entry with !, it will be treated as a regular expression
   //     Example: "!minecraft:.*_sword" to disable all swords
-  //  
+  //
   // -----------------------------------------------------------
   // Do not touch this
   "configVersion": 2,
@@ -40,6 +40,18 @@
     "minecraft:netherite_chestplate",
     "minecraft:netherite_leggings",
     "minecraft:netherite_boots",
+    "minecraft:leather_helmet",
+    "minecraft:leather_chestplate",
+    "minecraft:leather_leggings",
+    "minecraft:leather_boots",
+    "minecraft:chainmail_helmet",
+    "minecraft:chainmail_chestplate",
+    "minecraft:chainmail_leggings",
+    "minecraft:chainmail_boots",
+    "minecraft:iron_helmet",
+    "minecraft:iron_chestplate",
+    "minecraft:iron_leggings",
+    "minecraft:iron_boots",
     "minecraft:netherite_sword",
     "minecraft:netherite_hoe",
     "minecraft:netherite_axe",
@@ -144,17 +156,25 @@
     "rechiseled:netherite_block_small_tiles",
     "rechiseled:netherite_block_small_tiles_connecting",
     "rechiseled:netherite_block_smooth",
-    "jaizmobs:klephtopod_chestplate",
-    "jaizmobs:klephtopod_shell",
-    "jaizmobs:hardened_skull",
-    "jaizmobs:void_scale"
+    "rogues:netherite_dagger",
+    "rogues:diamond_dagger",
+    "rogues:gold_dagger",
+    "rogues:netherite_sickle",
+    "rogues:diamond_sickle",
+    "rogues:gold_sickle",
+    "rogues:netherite_double_axe",
+    "rogues:diamond_double_axe",
+    "rogues:gold_double_axe",
+    "rogues:netherite_glaive",
+    "rogues:diamond_glaive",
+    "rogues:gold_glaive"
     ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
   // Use with caution! This is a very expensive operation and can cause lag if you have a lot of items blacklisted.
-  // 	
+  //
   // 	 Example to disable a regeneration potion: Potion:"minecraft:regeneration"
-  // 	
+  //
   // 	 You can also use regular expressions by starting the value with !
   "blacklisted_nbt": [],
   // -----------------------------------------------------------
@@ -179,7 +199,7 @@
   // If true, the mod will use a hashset to handle the blacklisted items
   // This is a more optimized approach only if you have a lot of items blacklisted (20 or more is recommended)
   // If you just have a small amount of items blacklisted, keep this false
-  //  
+  //
   // [!] Enabling this will disable all regular expressions
   // [!] Does not apply to NBT, only item blacklist / interaction / attack
   "use_hashmap_optimizations": true

@@ -17,6 +17,18 @@
 	"hexblade_on": false,
 	// Magus changes the weather on phase end (Default: TRUE)
 	"magusWeather": true,
+	// Magus can be summoned outside the glass ocean (Default: TRUE)
+	"magusWeaker": true,
 	// Reactive ward regen rate coefficient (Default: 1.0)
-	"wardrate": 1.0
+	"wardrate": 1.0,
+	// Horde Spawn with Mutations (Only with Fight or Die: Mutations)
+	"horde": false,
+	// Enable Teleporting to Glass Ocean
+	"glassocean": true,
+	// Horde/Hexblade spawn modifier (Default: 1.0)
+	"spawnmodifier": 1.0,
+	// Magisters give different xp in the Glass Ocean (Default: false)
+	"diffXP": false,
+	// Magister XP in the Glass Ocean, if different (Default: 25)
+	"magisterXP": 25
 }
