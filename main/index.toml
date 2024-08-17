@@ -466,7 +466,7 @@ hash = "89582133e69a7115dfa7df6a62c3a7b8ca56105add691961613c0f4a34df8c7b"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "5bb6aaf43ac48646bf86f4032b2a86f61fc12e77d8e0898f90d7c71d7cf510c6"
+hash = "dde7e32def0e2574df9ae3101bb8b7877a79933257a3f43c9ae84de76b25e0c2"
 
 [[files]]
 file = "config/jei/blacklist.cfg"
@@ -1338,6 +1338,11 @@ hash = "ce71bb4d87f97c84aabeeef207655a10c4e196b699f0ce87f368b3f00bbc3580"
 metafile = true
 
 [[files]]
+file = "mods/connectiblechains.pw.toml"
+hash = "24ceeef91ed4244c63cf0dd4d34fea6b64f13de330ab86ca4929808ee4d2c01f"
+metafile = true
+
+[[files]]
 file = "mods/connectivity.pw.toml"
 hash = "308030498a282075732310b66eecf419baa2217ce88496ad87818ae21b1d2423"
 metafile = true
@@ -1559,6 +1564,11 @@ hash = "28f53f38c111e3d6aa7f6854fa976a1456f4094dc504a929a6d4bf1f9f8cc30a"
 metafile = true
 
 [[files]]
+file = "mods/fixedvillagertrades.pw.toml"
+hash = "db8ad2bef997898adc20603242262598573dc617926f83fb505248413f464067"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
 hash = "5641148e6922cc3e6768726ff5db1d23088fb3969951a67e201ed3cc8183c700"
 metafile = true
@@ -1636,11 +1646,6 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "6be56e4af966f5f08148087a7b5ccd5676bcfc203552b8d0a1439e4be5614da5"
-metafile = true
-
-[[files]]
-file = "mods/immersive-armors.pw.toml"
-hash = "809c13f43e35f7792d420ba0d525fa2adb339886766b55c588ed52c0023e08af"
 metafile = true
 
 [[files]]
@@ -2223,6 +2228,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
+metafile = true
+
+[[files]]
+file = "mods/unionized-villagers.pw.toml"
+hash = "f003599eb71a00b26352c3e642c61696c3bc26906d7cf0c6cf8e8f45f3daa94e"
 metafile = true
 
 [[files]]

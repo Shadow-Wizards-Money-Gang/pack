@@ -1,0 +1,13 @@
+name = "Fixed Villager Trades"
+filename = "fixed-villager-trades-1.2.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/itHGiR2v/versions/bPOEf42Z/fixed-villager-trades-1.2.0.jar"
+hash-format = "sha1"
+hash = "2f132ac83e4fbf52a2db20394864d8e50d03a836"
+
+[update]
+[update.modrinth]
+mod-id = "itHGiR2v"
+version = "bPOEf42Z"

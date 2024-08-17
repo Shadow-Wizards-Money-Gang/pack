@@ -167,7 +167,9 @@
     "rogues:gold_double_axe",
     "rogues:netherite_glaive",
     "rogues:diamond_glaive",
-    "rogues:gold_glaive"
+    "rogues:gold_glaive",
+    "brewery:corn_seeds",
+    "brewery:corn"
     ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
