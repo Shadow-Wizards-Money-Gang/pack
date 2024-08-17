@@ -1225,7 +1225,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "6a4e4b9450aa618bd27346ec81d88231594ac487175c610e2106a6ccfdbce2d7"
+hash = "702c657b08052d134afe33e912bca1e2b7fdfc6167d1882e6ba3584bd2d6557b"
 metafile = true
 
 [[files]]
@@ -1235,7 +1235,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-combat-by-daedelus.pw.toml"
-hash = "93d8db3c64f1770e62a847782836a57996b3ce4f7a4462cf084e42c4f83d19ee"
+hash = "b91695a9291401b4e09a28d7365e26513e5a2359b5edd4def897e673cd582f6d"
 metafile = true
 
 [[files]]
@@ -1329,7 +1329,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "cdba3e523b390a34ba0c121b939976fae2eabe0713637f9ae2775633110faabb"
+hash = "bfd96e4905f01d0aa1917fe581093afe7ad3b51386be9753ef2371fac24f6c1d"
 metafile = true
 
 [[files]]
@@ -1565,7 +1565,7 @@ metafile = true
 
 [[files]]
 file = "mods/fixedvillagertrades.pw.toml"
-hash = "db8ad2bef997898adc20603242262598573dc617926f83fb505248413f464067"
+hash = "76bb9dbc59f38f5b4056b9888b579404e06645b0a5dd5fc4ae8ba7a07b152c5e"
 metafile = true
 
 [[files]]
@@ -1680,7 +1680,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "89624530d4111760d413a7123ce83ddf0485d278f9730a13e54746dbbf6601b3"
+hash = "d70da1b74941ba6c4db09ac160c623a76abfd2223783bd5da5580d2420107c07"
 metafile = true
 
 [[files]]
@@ -1695,7 +1695,7 @@ metafile = true
 
 [[files]]
 file = "mods/kiwi-fabric.pw.toml"
-hash = "39fb4435e630240483ff7714432b27d4c7a48f72d5afd06ae2648be7ccbf4f30"
+hash = "dd02dd1295b6eee5835cca608975083335c8d41c0462f1d63cc23e5709085b28"
 metafile = true
 
 [[files]]
@@ -1770,7 +1770,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "27df30bb49ab3e71eb57790364d3d01a71ecc7d797730d5c10fae4f8144e16fd"
+hash = "790610c2deca97c9416c8639caddbd4c7eb1b50b28bed4a2d8d275ea4e729fe9"
 metafile = true
 
 [[files]]
@@ -1784,7 +1784,7 @@ hash = "02f40f0ffbc7e2de873e0b6c4ba5e0d450d8ba264633f8ea9a7f7921ff2e86e4"
 
 [[files]]
 file = "mods/lukis-grand-capitals.pw.toml"
-hash = "e1890de681619eecb84f1168b909ca4bf473d1337e398b74f3414cd43ba3e448"
+hash = "5bdb68030b5251475a27b1643b5cfec1eaaedacd44be643f108128bd76ee1c80"
 metafile = true
 
 [[files]]
@@ -1853,7 +1853,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "dc0ac3e0a3d1823aa30387953d4151bc155adb087fe4a86b5a550dcde7ce39dc"
+hash = "ee484a8cf66fcf34714c7a23c95d878092d782d2075c702b768949d00f4b6aa6"
 metafile = true
 
 [[files]]
@@ -1863,7 +1863,7 @@ metafile = true
 
 [[files]]
 file = "mods/mru.pw.toml"
-hash = "31e02e6b22a75f70ee43bf26292190ce97ae241a0924258e1ad39d5a6ff2f2ba"
+hash = "cefeb256d63a4aa0b113d16960b9005f7aa75c1dfa0b458007ea19099a31b21f"
 metafile = true
 
 [[files]]
@@ -1903,7 +1903,7 @@ metafile = true
 
 [[files]]
 file = "mods/nocturnal-bats.pw.toml"
-hash = "806c3d1ed3e4dcb1ef3a77d25aa4961fc376b74771c84cd41ed70fceb2368856"
+hash = "96ade94b43e5c5b1630dedd66a366ffecfb11289dd405bf5629812de6949d6c7"
 metafile = true
 
 [[files]]
@@ -2064,7 +2064,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "6b3da7a498a47ac43d2adcef18b1c6f75a4bdc63d82db8e43d1101dd91ff90a7"
+hash = "858c101197cc36f9762656c7389a31d74ed0ee7fd21fc8da267302dcbdc51e28"
 metafile = true
 
 [[files]]
@@ -2113,7 +2113,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
-hash = "5236fefb1e7385a11002da99630103363ca8aeb85d3ffb03feca0c3ea066b437"
+hash = "4ed6972934547af0c590817126353e3f15d358d69e11432e3b0f51e15c7818e6"
 metafile = true
 
 [[files]]
@@ -2128,7 +2128,7 @@ metafile = true
 
 [[files]]
 file = "mods/spell-engine.pw.toml"
-hash = "ce09556fee66e56208264ae8c385852bbdc5bf3a1ddc132dac5bbbf7bf12fa37"
+hash = "43145fba54029bfdec38e31216c92a9dcd2a92aff3a1de20840dc3f7e4d71120"
 metafile = true
 
 [[files]]

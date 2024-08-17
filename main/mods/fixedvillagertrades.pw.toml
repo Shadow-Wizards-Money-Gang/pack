@@ -1,6 +1,6 @@
 name = "Fixed Villager Trades"
 filename = "fixed-villager-trades-1.2.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/itHGiR2v/versions/bPOEf42Z/fixed-villager-trades-1.2.0.jar"
