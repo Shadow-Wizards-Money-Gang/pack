@@ -1530,7 +1530,7 @@ metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "3c529502ac3e20300ea3b9639883f38c6f42e7faad346cb07894fb5aef5c14ad"
+hash = "0e9fc2e4d0b795923e35cafc0f483be29008d1a9b08f455702082606a1a90313"
 metafile = true
 
 [[files]]
@@ -1853,7 +1853,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "ee484a8cf66fcf34714c7a23c95d878092d782d2075c702b768949d00f4b6aa6"
+hash = "40cc35d2f2bd41dd230fe782209bd0d8ad3d8a8839a2ad699b97cb45a927f398"
 metafile = true
 
 [[files]]
@@ -2064,7 +2064,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "858c101197cc36f9762656c7389a31d74ed0ee7fd21fc8da267302dcbdc51e28"
+hash = "5a1aec519aa73b77e0b68d980b45a5171f0e0c2b8c1434a708877eb8997cdd14"
 metafile = true
 
 [[files]]
@@ -2113,7 +2113,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
-hash = "4ed6972934547af0c590817126353e3f15d358d69e11432e3b0f51e15c7818e6"
+hash = "704f534f8f87cfba784e8617e69fb0c91e5b35304f126ec952a26e22fbd5f9c3"
 metafile = true
 
 [[files]]
