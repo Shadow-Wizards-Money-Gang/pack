@@ -145,14 +145,6 @@ file = "config/betteroceanmonuments-fabric-1_20.toml"
 hash = "dbba9af53d8bfb9f46cb4c9ab525a72026ad0a13c36e8dd8efe7398a767c3187"
 
 [[files]]
-file = "config/biome_fog/biome_fog.json"
-hash = "9a60645b29fd1b5b4aef531c7b36250cef5881af1a26839939d9a29399dfbc70"
-
-[[files]]
-file = "config/biome_fog/biome_fog_blacklisted_worlds.json"
-hash = "e4de366bc5515389562531ecdda4e87a6cf24e4bef04def8bdb210432d9ef977"
-
-[[files]]
 file = "config/blur.json"
 hash = "cf0f2178068e6d9766ac8dea96b2a9f51480939a2f97c440816b6295744dd47a"
 
@@ -2676,10 +2668,6 @@ hash = "cb9d42c140edfa350b884b9f6304dd6007c55af175c05a44876db743c386e5da"
 [[files]]
 file = "required_data/WWOO-QUILT-MODIFIED.zip"
 hash = "9924a10019d31b5d64a916d137dc536a34e15df93f78bb75e5a769df073ba6c0"
-
-[[files]]
-file = "required_data/cavernous-r-v-2.1.1-mc1.20.0-4.zip"
-hash = "4bce79861cf704be97d27524962d4e243ab1a9038d967305e20ca0d6397cea7e"
 
 [[files]]
 file = "required_resources/Shadow Wizard Money Gang Pack.zip"
