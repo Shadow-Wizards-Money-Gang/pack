@@ -1244,11 +1244,6 @@ hash = "1a06a46a1f78e713e070beb02d0ff9a4cad3365898a4dadda6deb3eb587b7878"
 metafile = true
 
 [[files]]
-file = "mods/biome-fog.pw.toml"
-hash = "88a08ca4a572c277f8db4cf7722cdf26f19fbdaf8316e1a791c9541a798fa7a9"
-metafile = true
-
-[[files]]
 file = "mods/biome-music.pw.toml"
 hash = "1179d96d728f8a29580042a45ad333bb9e7f50da7787b8c81bade531477e14cb"
 metafile = true
@@ -1264,8 +1259,8 @@ hash = "628ca822826f31018f97293b673e09defe9bc46616a7636bbd4a3b51ee4c9949"
 metafile = true
 
 [[files]]
-file = "mods/bombastic-crystals-0.2.jar"
-hash = "b46b6eb6d4e6a07cc6af28118c9abbd911ebbbaaa6ca2467682bd8228700bbf1"
+file = "mods/bombastic-crystals-0.2.2.jar"
+hash = "9af4ff3dbc0972bb335a717fdb1fc21ea5b937ed1ffac3ad34cb08c045678039"
 
 [[files]]
 file = "mods/borderless-mining.pw.toml"
@@ -1566,6 +1561,11 @@ metafile = true
 [[files]]
 file = "mods/fixedvillagertrades.pw.toml"
 hash = "76bb9dbc59f38f5b4056b9888b579404e06645b0a5dd5fc4ae8ba7a07b152c5e"
+metafile = true
+
+[[files]]
+file = "mods/fog.pw.toml"
+hash = "9c0487ac34608a9be873f40a58491926a42df8385cff38fb86e90f607f28dff1"
 metafile = true
 
 [[files]]
