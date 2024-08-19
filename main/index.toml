@@ -1264,8 +1264,8 @@ hash = "628ca822826f31018f97293b673e09defe9bc46616a7636bbd4a3b51ee4c9949"
 metafile = true
 
 [[files]]
-file = "mods/bombastic-crystals-0.1.1.jar"
-hash = "cd8fb003b4642516f2ce046727c4e59cd7bec2ddb24ef43fd7e30c413898244e"
+file = "mods/bombastic-crystals-0.2.jar"
+hash = "b46b6eb6d4e6a07cc6af28118c9abbd911ebbbaaa6ca2467682bd8228700bbf1"
 
 [[files]]
 file = "mods/borderless-mining.pw.toml"
@@ -1853,7 +1853,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "40cc35d2f2bd41dd230fe782209bd0d8ad3d8a8839a2ad699b97cb45a927f398"
+hash = "f4ea75a3d3cca803108e97345d278caf1d6bc316f4d634f9d755c535cb982b3a"
 metafile = true
 
 [[files]]
@@ -1863,7 +1863,7 @@ metafile = true
 
 [[files]]
 file = "mods/mru.pw.toml"
-hash = "cefeb256d63a4aa0b113d16960b9005f7aa75c1dfa0b458007ea19099a31b21f"
+hash = "57ab6bddc4600575851c6498020aa7b1fd176d29456bfd1d90ff8db560166642"
 metafile = true
 
 [[files]]
@@ -2064,7 +2064,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "5a1aec519aa73b77e0b68d980b45a5171f0e0c2b8c1434a708877eb8997cdd14"
+hash = "d8f05ac2bb7ceb72c3918e834a2b0a06ce103ae03b056a97d5e0f873f702ad6b"
 metafile = true
 
 [[files]]
@@ -2113,7 +2113,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
-hash = "704f534f8f87cfba784e8617e69fb0c91e5b35304f126ec952a26e22fbd5f9c3"
+hash = "894f918aaedbacb58785e410275ba7e63fab8a745058bd1e4b0655ddec8d7cc1"
 metafile = true
 
 [[files]]
@@ -2217,7 +2217,7 @@ metafile = true
 
 [[files]]
 file = "mods/tree-harvester.pw.toml"
-hash = "66d1802fa702b507f07b7f4ee79752916f5e6bc62f2895b30253e57d36e7fa30"
+hash = "c50e0b90082b477650b30a85fed5973efeb26bfc2a16928224b4ad712229b154"
 metafile = true
 
 [[files]]
@@ -2678,8 +2678,8 @@ file = "required_data/WWOO-QUILT-MODIFIED.zip"
 hash = "9924a10019d31b5d64a916d137dc536a34e15df93f78bb75e5a769df073ba6c0"
 
 [[files]]
-file = "required_data/cavernous-r-barebones-v1-0.zip"
-hash = "51028b86d9afabbbcbbf772cef58327509f4baa0120e6e1b2bc18bb4cdb025e4"
+file = "required_data/cavernous-r-v-2.1.1-mc1.20.0-4.zip"
+hash = "4bce79861cf704be97d27524962d4e243ab1a9038d967305e20ca0d6397cea7e"
 
 [[files]]
 file = "required_resources/Shadow Wizard Money Gang Pack.zip"
