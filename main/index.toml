@@ -1506,11 +1506,6 @@ hash = "56f400c8cf8180d1106b6c2cffb2e798bb587156cec5c5a9163b86d4c10bbbea"
 metafile = true
 
 [[files]]
-file = "mods/ender-zoology.pw.toml"
-hash = "ca8cb9025bcbbcb69937b0c3a1766a6e22ab61060153974c0beb3650cb7780d4"
-metafile = true
-
-[[files]]
 file = "mods/eugenes-whistle-spur.pw.toml"
 hash = "82b7536165ccf3b03123934bacbcc4fa5b1384b92ff212c34afa2c2479367860"
 metafile = true
@@ -1758,11 +1753,6 @@ metafile = true
 [[files]]
 file = "mods/lets-do-brewery.pw.toml"
 hash = "d60ef5a75c1b734bd5580d53ca8d7631602b4da38911660dd0defa893cf2886e"
-metafile = true
-
-[[files]]
-file = "mods/lets-do-camping.pw.toml"
-hash = "7d8ac1efe22609e813247ba9a87c8036c4535aa1b4c5735acb58107082355924"
 metafile = true
 
 [[files]]
@@ -2244,7 +2234,7 @@ metafile = true
 
 [[files]]
 file = "mods/trinkets.pw.toml"
-hash = "792155426992079177fe1ee62c1df969fb71540becd719de8efca2ebc6bec896"
+hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
 metafile = true
 
 [[files]]
