@@ -1222,12 +1222,12 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "702c657b08052d134afe33e912bca1e2b7fdfc6167d1882e6ba3584bd2d6557b"
+hash = "d8c757f4a1f9d3abef4a3b25a889af423003a9b8af300d6e3e243f3f53f4d152"
 metafile = true
 
 [[files]]
 file = "mods/better-archeology.pw.toml"
-hash = "358b1f7fae7040aff5256d1670442ada1744368a5ca36af8281f796d413dbde7"
+hash = "53d300d88f508e79d4424a9930f4892906e07d55c0dbb1ec517bc6d3d12afe51"
 metafile = true
 
 [[files]]
@@ -1393,7 +1393,7 @@ hash = "87fab2931c3350ace35bd035132a3e89a87b521968648ae6a374afb3be4a1ca6"
 
 [[files]]
 file = "mods/daves-potioneering.pw.toml"
-hash = "33b2b9b968c1f219eafd8022ea6bcd7eb3ed507e45e8b283358174fc1ec95330"
+hash = "cf89c388615efcebc1d59a03787f57fcae38ef271d6ae2abac3d6a0a3baf1ee6"
 metafile = true
 
 [[files]]
@@ -1423,7 +1423,7 @@ metafile = true
 
 [[files]]
 file = "mods/dramatic-doors.pw.toml"
-hash = "02567eb702d90a5ebef5eb27b6cd8052ee78d9295c10700590e92843b60e80a2"
+hash = "7a34099a0dcd8f9b3147c93a9d4808bc14d9f2f991f48daab9bf76dde86d198a"
 metafile = true
 
 [[files]]
@@ -1687,7 +1687,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "d70da1b74941ba6c4db09ac160c623a76abfd2223783bd5da5580d2420107c07"
+hash = "6097359f4b61dfac75448a03caa23d8e2c8fda8875fd9c099411715792f1c8d7"
 metafile = true
 
 [[files]]
@@ -1870,7 +1870,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "f4ea75a3d3cca803108e97345d278caf1d6bc316f4d634f9d755c535cb982b3a"
+hash = "6f3048b09cf483874885a7f3000206dcff7badfc9a955f6a903944ea25ed8ab6"
 metafile = true
 
 [[files]]
@@ -1880,7 +1880,7 @@ metafile = true
 
 [[files]]
 file = "mods/mru.pw.toml"
-hash = "57ab6bddc4600575851c6498020aa7b1fd176d29456bfd1d90ff8db560166642"
+hash = "f6d610af64557560917daeeb899d51ae33132b81eb11106f1b8fa18c6ba38e51"
 metafile = true
 
 [[files]]
@@ -1920,7 +1920,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "4ecccde3987e389d9acab93fb0692b81da2e865275cf0c50063b4e250f4ed1f3"
+hash = "4bef2974b0ccbf63265a7c430fa37d57c11f4dc0c38c4764b7b7a5336b4f9434"
 metafile = true
 
 [[files]]
@@ -2047,7 +2047,7 @@ metafile = true
 
 [[files]]
 file = "mods/rhino.pw.toml"
-hash = "825be2106446bd057fad8c1474b39cb3245ec2af27eff33de83f1578f84afed6"
+hash = "754cc93538476abed4b4b1752f7684de5841889060f86a0dd8330eb8d3a85b2d"
 metafile = true
 
 [[files]]
@@ -2076,7 +2076,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "d8f05ac2bb7ceb72c3918e834a2b0a06ce103ae03b056a97d5e0f873f702ad6b"
+hash = "88b1c4d297b343f95f2c1774c97cc7975dc3371fe71eccf8ebc6bae7d20d9f41"
 metafile = true
 
 [[files]]
@@ -2130,7 +2130,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
-hash = "894f918aaedbacb58785e410275ba7e63fab8a745058bd1e4b0655ddec8d7cc1"
+hash = "8234594697690ff73886232f1ecce8721abe4b82e063ae6f5e5422b379edabe6"
 metafile = true
 
 [[files]]
@@ -2250,6 +2250,11 @@ metafile = true
 [[files]]
 file = "mods/unionized-villagers.pw.toml"
 hash = "f003599eb71a00b26352c3e642c61696c3bc26906d7cf0c6cf8e8f45f3daa94e"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "8845f58b6b9d21c0074133cb1bb3b14f02c6de547e17fcf16a1c0fae6fe41bf9"
 metafile = true
 
 [[files]]
