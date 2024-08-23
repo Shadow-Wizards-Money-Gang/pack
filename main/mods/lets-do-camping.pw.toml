@@ -1,0 +1,13 @@
+name = "[Let's Do] Camping"
+filename = "letsdo-camping-fabric-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ee8c8073bfb52b18ee9e70287ce1efaa52ca27cb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5652322
+project-id = 1072398

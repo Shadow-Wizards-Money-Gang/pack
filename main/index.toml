@@ -1187,7 +1187,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
+hash = "13cb21e09b9d0d6622359f24f0bfed0e4123fcbaf7e65a1eb7e5396c47a56349"
 metafile = true
 
 [[files]]
@@ -1761,8 +1761,18 @@ hash = "d60ef5a75c1b734bd5580d53ca8d7631602b4da38911660dd0defa893cf2886e"
 metafile = true
 
 [[files]]
+file = "mods/lets-do-camping.pw.toml"
+hash = "7d8ac1efe22609e813247ba9a87c8036c4535aa1b4c5735acb58107082355924"
+metafile = true
+
+[[files]]
 file = "mods/lets-do-candlelight.pw.toml"
 hash = "a8aaf4ad332d42ea99bb4f9c6e03ae5d1c1fe84a6dcaa97f366e0fd09f1de24b"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-farm-charm.pw.toml"
+hash = "96fd2474a245ca6656d4c01698255e27b6c176194d46e7b5d421321d86531dc4"
 metafile = true
 
 [[files]]
@@ -1983,7 +1993,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "9e9da779b67e9a944da81e921ff76c3388dfe9a475a3ff4f597b27af814cd28a"
+hash = "8e4e293525f9eb65c4a3db7044e9fa26721f75010b612d2ac15673f050e64d98"
 metafile = true
 
 [[files]]
@@ -2234,7 +2244,7 @@ metafile = true
 
 [[files]]
 file = "mods/trinkets.pw.toml"
-hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
+hash = "792155426992079177fe1ee62c1df969fb71540becd719de8efca2ebc6bec896"
 metafile = true
 
 [[files]]
