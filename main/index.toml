@@ -1211,6 +1211,11 @@ hash = "77e7285a96a1927ea7db69b80283ed3a24c1ee145ad92360e1bc0d6b632005f9"
 metafile = true
 
 [[files]]
+file = "mods/backpacked-fabric.pw.toml"
+hash = "83a32267aa14479c455eb564df451b8a14a6a4148661264193d2ef6aa84a0537"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "2f44ef7d4597f72f70877fe9b555ecdfe2bf882f96f712d9bbcd1dab8d951544"
 metafile = true
@@ -1578,6 +1583,11 @@ metafile = true
 [[files]]
 file = "mods/forsaken-corpses.pw.toml"
 hash = "0658814874276b59a1deddbfed8df0908e1818427b08b64837bcdf17302f9d12"
+metafile = true
+
+[[files]]
+file = "mods/framework-fabric.pw.toml"
+hash = "afc98470b699a933cbdcc7d95822455596d91864ef14ec21a48f4fdd51d5eb03"
 metafile = true
 
 [[files]]
