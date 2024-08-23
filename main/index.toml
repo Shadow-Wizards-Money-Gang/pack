@@ -458,7 +458,7 @@ hash = "89582133e69a7115dfa7df6a62c3a7b8ca56105add691961613c0f4a34df8c7b"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "dde7e32def0e2574df9ae3101bb8b7877a79933257a3f43c9ae84de76b25e0c2"
+hash = "114698388e575c750a9fca65cfa0c34a015dd82ea7b33c5d056fbbaefe11c5e1"
 
 [[files]]
 file = "config/jei/blacklist.cfg"
@@ -830,7 +830,7 @@ hash = "6e8bfe7a4c301de6e1658f8995a5bc533f6ec850aa57f701e23adf5fb9d708e9"
 
 [[files]]
 file = "config/shadow-wizards-api.json5"
-hash = "07e61479f2b5ff4b62c0b6cc688a1e963c2cb07d2f523aa521deb246602ac937"
+hash = "9b6d225665d9b5ac1a77d6dea06a4e5c37a96bb9210fb8a8159a36cae2fe5d85"
 
 [[files]]
 file = "config/shadow-wizards.json5"
@@ -1241,6 +1241,11 @@ hash = "1179d96d728f8a29580042a45ad333bb9e7f50da7787b8c81bade531477e14cb"
 metafile = true
 
 [[files]]
+file = "mods/biome-replacer.pw.toml"
+hash = "f7c286880a04a25c28db3acade27a040e4651c1c25248a5bd79893985548ea51"
+metafile = true
+
+[[files]]
 file = "mods/blur-fabric.pw.toml"
 hash = "5f53eb8d272bfec2c6f58d6d744397b8152d7561a370f1d6e7e1e495fc4a1e7a"
 metafile = true
@@ -1408,7 +1413,7 @@ metafile = true
 
 [[files]]
 file = "mods/do-api.pw.toml"
-hash = "39b5a8375c756d2ff436829aa67ea45e5447f404e9cb4922095a90cfcffe04ef"
+hash = "aa1e63de697ec8db39b302c9bd21f78fde021dd0040d9162618c06c552bc0d04"
 metafile = true
 
 [[files]]
@@ -1780,6 +1785,11 @@ file = "mods/lostrelics-1.20-1.jar"
 hash = "02f40f0ffbc7e2de873e0b6c4ba5e0d450d8ba264633f8ea9a7f7921ff2e86e4"
 
 [[files]]
+file = "mods/lovely_snails.pw.toml"
+hash = "3226edfff02089c3e716e13474700b8c63450022178d8b818ad6d434c63426bf"
+metafile = true
+
+[[files]]
 file = "mods/lukis-grand-capitals.pw.toml"
 hash = "5bdb68030b5251475a27b1643b5cfec1eaaedacd44be643f108128bd76ee1c80"
 metafile = true
@@ -1886,11 +1896,6 @@ metafile = true
 [[files]]
 file = "mods/nicer-skies.pw.toml"
 hash = "ddbcdf60f634287b6df241a873fc07b4ce56facfb358a0a74cb1df9acff97725"
-metafile = true
-
-[[files]]
-file = "mods/niftycarts.pw.toml"
-hash = "aef89792e4467234cb04a7fd41524414766a975cba684a82055dd11c4937f272"
 metafile = true
 
 [[files]]
@@ -2067,6 +2072,11 @@ metafile = true
 [[files]]
 file = "mods/serious-player-animations.pw.toml"
 hash = "1cda49a5161ed2661ac3e503e7103e5088b44effe757e8fa5c08cbae35959d93"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "182161aa8e4b730555dd9984efb7be8cfd3debbaf1d4cc60e0b3241402e6f2bc"
 metafile = true
 
 [[files]]
