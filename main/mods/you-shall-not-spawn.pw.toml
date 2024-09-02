@@ -1,0 +1,13 @@
+name = "You Shall Not Spawn!"
+filename = "YouShallNotSpawn-fabric-1.20.x-2.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/EjXcpmEA/versions/eGwxWyH4/YouShallNotSpawn-fabric-1.20.x-2.0.1.jar"
+hash-format = "sha1"
+hash = "bb5be5ef36a7c709719503a6b75c9f8a98c9d74a"
+
+[update]
+[update.modrinth]
+mod-id = "EjXcpmEA"
+version = "eGwxWyH4"
