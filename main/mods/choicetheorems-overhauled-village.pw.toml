@@ -1,0 +1,13 @@
+name = "ChoiceTheorem's Overhauled Village"
+filename = "[Fabric]CTOV-v3.4.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9a4bd24dd4d5e2d31202b80a8ecb4895783ea069"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5532168
+project-id = 623908

@@ -1,6 +1,6 @@
 name = "Biome Replacer"
 filename = "biome_replacer-1.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/DAXbR0Wj/versions/AWPxi9Uu/biome_replacer-1.2.jar"

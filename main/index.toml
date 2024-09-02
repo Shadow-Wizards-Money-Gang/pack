@@ -1236,18 +1236,13 @@ hash = "b91695a9291401b4e09a28d7365e26513e5a2359b5edd4def897e673cd582f6d"
 metafile = true
 
 [[files]]
-file = "mods/better-mineshaft.pw.toml"
-hash = "1a06a46a1f78e713e070beb02d0ff9a4cad3365898a4dadda6deb3eb587b7878"
-metafile = true
-
-[[files]]
 file = "mods/biome-music.pw.toml"
 hash = "8a8934f5bea073d7665beb4c377e2eca65686bb38f990f344d3fb94c695d69ce"
 metafile = true
 
 [[files]]
 file = "mods/biome-replacer.pw.toml"
-hash = "f7c286880a04a25c28db3acade27a040e4651c1c25248a5bd79893985548ea51"
+hash = "f3b5725b417c63f63630dc641d5f322bb539a1cc89e95d362b034d49c2d523a0"
 metafile = true
 
 [[files]]
@@ -1307,6 +1302,11 @@ metafile = true
 [[files]]
 file = "mods/charmonium.pw.toml"
 hash = "f2e1d6a93b68fbec1adbbb8fa107682a7fced5115b02a33f1e7eb70c50018c84"
+metafile = true
+
+[[files]]
+file = "mods/choicetheorems-overhauled-village.pw.toml"
+hash = "076b551003da4d0fce850357a9756ed8edcb632a1b78f911c4726c9b3f28ff16"
 metafile = true
 
 [[files]]
@@ -1786,11 +1786,6 @@ hash = "9b150e6964d7b9e7b33cf531aec56b52ab81f6d15ed2362bc5cde2b4f61edc4d"
 metafile = true
 
 [[files]]
-file = "mods/lmd.pw.toml"
-hash = "1bc3accf6072562427ad444cce1c56ae892f0d55d3ee632f5081a4eabf416da9"
-metafile = true
-
-[[files]]
 file = "mods/lostrelics-1.20-1.jar"
 hash = "02f40f0ffbc7e2de873e0b6c4ba5e0d450d8ba264633f8ea9a7f7921ff2e86e4"
 
@@ -2004,11 +1999,6 @@ metafile = true
 [[files]]
 file = "mods/ranged-weapon-api.pw.toml"
 hash = "8a15fb81964fb21577ed2e81c6075489d63024dba1ef357ae5464865bae8052e"
-metafile = true
-
-[[files]]
-file = "mods/realistic-cobwebs.pw.toml"
-hash = "e1a20ae2045a6e6a498bbe22005b3f24021874cedd84c17598c6f8ac64c85aed"
 metafile = true
 
 [[files]]
@@ -2514,11 +2504,11 @@ hash = "c69b995e70731f675072c57489ed167f4d776072777b77a3f375fda3df455108"
 
 [[files]]
 file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/guardvillagers/loot_tables/entities/guard_chestplate.json"
-hash = "97f9d58f4bb0eb833bf641d993e43b020b4b05442f28db23d4b5045d8dac035a"
+hash = "36d54aa848423bcf9594e2dfe92afb84565986b0b69aa4cf527ed9030000d979"
 
 [[files]]
 file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/guardvillagers/loot_tables/entities/guard_feet.json"
-hash = "8d8da62d2fd54b81e2958feab828dac19316c439eb59f7848ea795533cfbbea5"
+hash = "b28b36fca7cd392ce1796a4a11817fb94656e515d2893444543c9450c01d09f9"
 
 [[files]]
 file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/guardvillagers/loot_tables/entities/guard_helmet.json"
@@ -2526,7 +2516,7 @@ hash = "d7e163565015f1384b28843cda934f8f9585d20bcd36394b3cd9ed7b3128c59e"
 
 [[files]]
 file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/guardvillagers/loot_tables/entities/guard_legs.json"
-hash = "3c745b9d14ee2c865e076392eb87acccdc36230dd9093201bc492fc01778a4b8"
+hash = "624b5e1a7adc829cbd97a301523a27436b412a86772b47b79c2d03ba842d2630"
 
 [[files]]
 file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/guardvillagers/loot_tables/entities/guard_main_hand.json"

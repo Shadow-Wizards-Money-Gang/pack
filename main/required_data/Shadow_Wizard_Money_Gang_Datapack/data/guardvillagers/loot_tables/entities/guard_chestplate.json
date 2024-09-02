@@ -15,7 +15,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:leather_chestplate",
+          "name": "shadow-wizards:gamberson_chestplate",
           "conditions": [
             {
               "condition": "minecraft:random_chance",
@@ -25,7 +25,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:chainmail_chestplate",
+          "name": "shadow-wizards:chain_chestplate",
           "conditions": [
             {
               "condition": "minecraft:random_chance",
@@ -35,7 +35,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:iron_chestplate",
+          "name": "shadow-wizards:tier_2_chestplate",
           "conditions": [
             {
               "condition": "minecraft:random_chance",

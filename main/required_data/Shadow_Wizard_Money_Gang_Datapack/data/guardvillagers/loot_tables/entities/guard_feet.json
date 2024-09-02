@@ -15,7 +15,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:leather_boots",
+          "name": "shadow-wizards:gamberson_boots",
           "conditions": [
             {
               "condition": "minecraft:random_chance",
@@ -25,7 +25,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:chainmail_boots",
+          "name": "shadow-wizards:chain_boots",
           "conditions": [
             {
               "condition": "minecraft:random_chance",
@@ -35,7 +35,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:iron_boots",
+          "name": "shadow-wizards:tier_2_boots",
           "conditions": [
             {
               "condition": "minecraft:random_chance",

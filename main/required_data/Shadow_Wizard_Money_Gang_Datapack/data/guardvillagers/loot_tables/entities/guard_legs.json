@@ -15,7 +15,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:leather_leggings",
+          "name": "shadow-wizards:gamberson_leggings",
           "conditions": [
             {
               "condition": "minecraft:random_chance",
@@ -25,7 +25,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:chainmail_leggings",
+          "name": "shadow-wizards:chain_leggings",
           "conditions": [
             {
               "condition": "minecraft:random_chance",
@@ -35,7 +35,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:iron_leggings",
+          "name": "shadow-wizards:tier_2_leggings",
           "conditions": [
             {
               "condition": "minecraft:random_chance",
