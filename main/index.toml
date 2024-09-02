@@ -2512,7 +2512,7 @@ hash = "b28b36fca7cd392ce1796a4a11817fb94656e515d2893444543c9450c01d09f9"
 
 [[files]]
 file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/guardvillagers/loot_tables/entities/guard_helmet.json"
-hash = "d7e163565015f1384b28843cda934f8f9585d20bcd36394b3cd9ed7b3128c59e"
+hash = "38c5fc0d672e9d6474c5f8546c28f6d3e84b1becf14274755d5a106bafe764f8"
 
 [[files]]
 file = "required_data/Shadow_Wizard_Money_Gang_Datapack/data/guardvillagers/loot_tables/entities/guard_legs.json"
