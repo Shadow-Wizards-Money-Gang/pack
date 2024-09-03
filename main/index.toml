@@ -1138,7 +1138,7 @@ hash = "0a6d8536458d9e98c184837e714ba99c6af2d379265a65bea1088b4e07dc3565"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "31e2c39d999f9df1b6a307ff11f622cbbc13b2e7c37881aaee9889a09ab128af"
+hash = "84e3a85a95973a565d3463ca15483fdc17876c0243f28c8a734596ecc8144c9c"
 
 [[files]]
 file = "kubejs/server_scripts/worldgen.js"
@@ -1597,7 +1597,7 @@ metafile = true
 
 [[files]]
 file = "mods/fully-enchanced.pw.toml"
-hash = "61379cab42b6931f8beab9a0de89a277673d37bb41eb1093abc11f604a19665f"
+hash = "08c311dd6c71029bcdd35463aba9e24dec2cd4e4e68c0749619feb1f14f9108f"
 metafile = true
 
 [[files]]
