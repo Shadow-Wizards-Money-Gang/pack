@@ -1257,7 +1257,7 @@ metafile = true
 
 [[files]]
 file = "mods/bombastic-crystals-0.2.2.jar"
-hash = "9af4ff3dbc0972bb335a717fdb1fc21ea5b937ed1ffac3ad34cb08c045678039"
+hash = "285dbacee88b6b50e7004c9d7629290fb9bd5026987bec84dac6ed0f075e5daf"
 
 [[files]]
 file = "mods/borderless-mining.pw.toml"
@@ -2081,7 +2081,7 @@ metafile = true
 
 [[files]]
 file = "mods/shadow-wizards-0.2.3.jar"
-hash = "b2753c7050137510d653ec86311a3034958396e3426412108a3a059f12e05db9"
+hash = "6de05ab3450e0ea505acc8c24fdadd5c7ad556e8087d4e8d5262eee784167d55"
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
