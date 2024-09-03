@@ -2239,7 +2239,7 @@ metafile = true
 
 [[files]]
 file = "mods/unionized-villagers.pw.toml"
-hash = "f003599eb71a00b26352c3e642c61696c3bc26906d7cf0c6cf8e8f45f3daa94e"
+hash = "5cdac209e6f946071231ca3702a5e67e45f8402be8d4c07cb9cd2841096e8246"
 metafile = true
 
 [[files]]
@@ -2302,7 +2302,7 @@ metafile = true
 
 [[files]]
 file = "mods/you-shall-not-spawn.pw.toml"
-hash = "bc24fb4f32a6e86bfc52b0726d0cc52a1b32cfc67b4c6da22b80196707ae4d62"
+hash = "1b92f6f3ec180d3a947e9c387c36c0e0d781dd9cee0f8c55f2593da95ef1138f"
 metafile = true
 
 [[files]]

@@ -1,6 +1,6 @@
 name = "Unionized Villagers"
 filename = "Unionized-Villagers-1.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/axFoPOvA/versions/7lIWLeTV/Unionized-Villagers-1.0.jar"
