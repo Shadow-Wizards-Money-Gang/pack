@@ -11,17 +11,11 @@ description = "Recommended Options."
 [[flavor_groups.rendering_mod.choices]]
 id = "performance"
 name = "Performance"
-
-description = "Instdefaults only the important performance mods on client, and general utility. Doesn't instdefault any fancy rendering that may slow down."
+description = "Defaults, excludes some visual mods "
 [[flavor_groups.rendering_mod.choices]]
 id = "extra"
 name = "Extra"
 description = "Recommended Options + Distant Horizons! + New Music! (May cause lag or performance issues.)"
-
-[[flavor_groups.rendering_mod.choices]]
-id = "no_rendering_mods"
-description = "No rendering mods. No extra mods. Reduces Performance. May be useful for testing. Not Recommended"
-name = "None"
 
 [metafile.sodium]
 flavors = ["performance", "default", "extra"]

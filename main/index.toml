@@ -1306,7 +1306,7 @@ metafile = true
 
 [[files]]
 file = "mods/choicetheorems-overhauled-village.pw.toml"
-hash = "076b551003da4d0fce850357a9756ed8edcb632a1b78f911c4726c9b3f28ff16"
+hash = "7485b78730f025a099feb745f2436f6eeca35bdb66fe5581b9a3be605d597d53"
 metafile = true
 
 [[files]]
@@ -1413,7 +1413,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "efd1092527558e11c3628e4338859393c4ae309eb05f852cef16d73debbeeec3"
+hash = "5955ac62823eacbf9a6d227e3813451b6a14388aa29e9326fdd62e569d159fab"
 metafile = true
 
 [[files]]
@@ -1687,7 +1687,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "e3182dc4f16bb724355ad6cbb3da06badc78b91a2ee469f4d4b8116ddd9cd990"
+hash = "1ea08ba4e831f8a2273a77d7e00555ba31d8af3400108054b9c606f2cad221e4"
 metafile = true
 
 [[files]]
@@ -2708,4 +2708,4 @@ hash = "9f6f9d1667692934657162846253a7d313ad82524dd07a8e72a4cb424b01cf5b"
 
 [[files]]
 file = "unsup.toml"
-hash = "f73b35e432375f01a1377d7cf77d929ea611c02af45b932759dc4a04efed53f6"
+hash = "a4fcb15b7b9fbe7dfa93932374dd4e9949aed2eca6e7090d7b2678f9e2780bf4"
