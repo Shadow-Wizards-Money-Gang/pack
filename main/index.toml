@@ -1305,11 +1305,6 @@ hash = "f2e1d6a93b68fbec1adbbb8fa107682a7fced5115b02a33f1e7eb70c50018c84"
 metafile = true
 
 [[files]]
-file = "mods/choicetheorems-overhauled-village.pw.toml"
-hash = "7485b78730f025a099feb745f2436f6eeca35bdb66fe5581b9a3be605d597d53"
-metafile = true
-
-[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "2cf2d6c7683cbaa8d4d91374d5a92e6166176aefe5e0d7a0a2714c9321f8add0"
 metafile = true
