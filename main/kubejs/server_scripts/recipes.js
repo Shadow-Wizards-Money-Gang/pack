@@ -1,19 +1,5 @@
 console.info("Hello, World! (Loaded server scripts)");
 ServerEvents.recipes((event) => {
-  //listen for the "recipes" server event.
-  event.shaped(
-    Item.of("shadow-wizards:chain_chestplate", 1), // arg 1: output
-    [
-      "A A",
-      "CBC", // arg 2: the shape (array of strings)
-      "ACA",
-    ],
-    {
-      A: "minecraft:iron_nugget",
-      B: "shadow-wizards:gamberson_chestplate",
-      C: "minecraft:chain",
-    },
-  );
   event.shaped(
     Item.of("minecraft:name_tag", 1), // arg 1: output
     [
@@ -24,6 +10,19 @@ ServerEvents.recipes((event) => {
     {
       A: "minecraft:paper",
       B: "minecraft:stick",
+      C: "minecraft:chain",
+    },
+  );
+  event.shaped(
+    Item.of("shadow-wizards:chain_chestplate", 1), // arg 1: output
+    [
+      "A A",
+      "CBC", // arg 2: the shape (array of strings)
+      "ACA",
+    ],
+    {
+      A: "minecraft:iron_nugget",
+      B: "shadow-wizards:gamberson_chestplate",
       C: "minecraft:chain",
     },
   );
@@ -62,6 +61,56 @@ ServerEvents.recipes((event) => {
     {
       A: "minecraft:iron_nugget",
       C: "minecraft:chain",
+    },
+  );
+
+  event.shaped(
+    Item.of("shadow-wizards:gamberson_chestplate", 1), // arg 1: output
+    [
+      "A A",
+      "CCC", // arg 2: the shape (array of strings)
+      "ACA",
+    ],
+    {
+      A: "minecraft:leather",
+      C: "minecraft:leather",
+    },
+  );
+
+  event.shaped(
+    Item.of("shadow-wizards:gamberson_leggings", 1), // arg 1: output
+    [
+      "AAA",
+      "C C", // arg 2: the shape (array of strings)
+      "A A",
+    ],
+    {
+      A: "minecraft:leather",
+      C: "minecraft:leather",
+    },
+  );
+  event.shaped(
+    Item.of("shadow-wizards:gamberson_helmet", 1), // arg 1: output
+    [
+      "ACA",
+      "A A", // arg 2: the shape (array of strings)
+      "   ",
+    ],
+    {
+      A: "minecraft:leather",
+      C: "minecraft:leather",
+    },
+  );
+  event.shaped(
+    Item.of("shadow-wizards:gamberson_boots", 1), // arg 1: output
+    [
+      "C C",
+      "A A", // arg 2: the shape (array of strings)
+      "   ",
+    ],
+    {
+      A: "minecraft:leather",
+      C: "minecraft:leather",
     },
   );
 
