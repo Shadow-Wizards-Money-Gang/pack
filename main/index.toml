@@ -890,27 +890,27 @@ hash = "c69b995e70731f675072c57489ed167f4d776072777b77a3f375fda3df455108"
 
 [[files]]
 file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/guardvillagers/loot_tables/entities/guard_chestplate.json"
-hash = "36d54aa848423bcf9594e2dfe92afb84565986b0b69aa4cf527ed9030000d979"
+hash = "d4d789d065d01573dde27ab43beb7bb288fe3e33b192c9c05af61f74dcfc4c26"
 
 [[files]]
 file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/guardvillagers/loot_tables/entities/guard_feet.json"
-hash = "b28b36fca7cd392ce1796a4a11817fb94656e515d2893444543c9450c01d09f9"
+hash = "a369b8c294ac9588e8926b94b683b7a0e59e8e2338eaa17be58f27be4374a231"
 
 [[files]]
 file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/guardvillagers/loot_tables/entities/guard_helmet.json"
-hash = "38c5fc0d672e9d6474c5f8546c28f6d3e84b1becf14274755d5a106bafe764f8"
+hash = "a6f99cbf2b2b425945ad8940a7471cd310afe48452fcf45390f8445b72021a73"
 
 [[files]]
 file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/guardvillagers/loot_tables/entities/guard_legs.json"
-hash = "624b5e1a7adc829cbd97a301523a27436b412a86772b47b79c2d03ba842d2630"
+hash = "43442ac1c933ddfc04410fdef818187527be8933299d931b2e5621a12a8a924d"
 
 [[files]]
 file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/guardvillagers/loot_tables/entities/guard_main_hand.json"
-hash = "ddac90e5461bdfd4c20b82cbcc024c652b331071b12db299def83f41553e5a31"
+hash = "b5b7be535af227ae99fc820088de2bd901fb532b01ba22e1813a4bfa4a67c1b7"
 
 [[files]]
 file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/guardvillagers/loot_tables/entities/guard_off_hand.json"
-hash = "9d986f42d1533651e6625170d343dfa5529d35ccdac7af57e398c98cbe1eed98"
+hash = "34788ef54d49ab2428eb5194ca7252142f8945e06c4a944673d633c9b28d5e97"
 
 [[files]]
 file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/paladins/recipes/netherite_holy_staff_smithing.json"
