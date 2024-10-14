@@ -1609,6 +1609,10 @@ hash = "a91411cf589615cacd5d8ea32ee686a86ca0bf2534720ebac1d8548b884c2524"
 metafile = true
 
 [[files]]
+file = "mods/graves-3.0.3+1.20.1.jar"
+hash = "bd7877da2e864c6b14586f321f40a8e33b6fafe63eeac0cfab6f46855c0090df"
+
+[[files]]
 file = "mods/guard-villagers-fabric.pw.toml"
 hash = "ab42938fc577fedff12f7f649e6194d19bc2640acc47beaab63a7b6e5ec38086"
 metafile = true
@@ -1782,10 +1786,6 @@ metafile = true
 file = "mods/lost-relics.pw.toml"
 hash = "f3f81127fb4a4032608338fb92f033e00558ccfe3c0205dfda131107f7672478"
 metafile = true
-
-[[files]]
-file = "mods/lostrelics-1.20-1.jar"
-hash = "02f40f0ffbc7e2de873e0b6c4ba5e0d450d8ba264633f8ea9a7f7921ff2e86e4"
 
 [[files]]
 file = "mods/lovely_snails.pw.toml"
@@ -2249,11 +2249,6 @@ metafile = true
 [[files]]
 file = "mods/unionized-villagers.pw.toml"
 hash = "5cdac209e6f946071231ca3702a5e67e45f8402be8d4c07cb9cd2841096e8246"
-metafile = true
-
-[[files]]
-file = "mods/universal-graves.pw.toml"
-hash = "1062bb236672bf7ae0e8868e00befee2617f17f621a53230f68f107b019b104d"
 metafile = true
 
 [[files]]
