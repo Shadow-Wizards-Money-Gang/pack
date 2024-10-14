@@ -1,13 +1,13 @@
 name = "[Kurisu's] Passable Leaves"
-filename = "passableleaves-1.6.1.jar"
+filename = "passableleaves-1.6.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d45ce4a0e9e55c464b22905dcaa8edfccbadd07b"
+hash = "94667c5d7d413c09682b57f8f6241ef90340c5f5"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5766255
+file-id = 5777716
 project-id = 701723
