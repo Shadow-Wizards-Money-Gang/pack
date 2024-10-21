@@ -2128,11 +2128,6 @@ hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
 metafile = true
 
 [[files]]
-file = "mods/lavender.pw.toml"
-hash = "62231160341ef817abdb470b0178423f0005590201bc9da55f9c83655bac6848"
-metafile = true
-
-[[files]]
 file = "mods/leaky.pw.toml"
 hash = "942eac0139c78d7c696c380f06c191ebcb9e01333eb0c5309a0dabd635247bb5"
 metafile = true
@@ -2747,7 +2742,3 @@ hash = "3eeefb1c7a3bfba61a03f1fbe79eab4d44b375450254ace147877896c7b1765f"
 [[files]]
 file = "shaderpacks/rethinking-voxels_r0.1-beta4-fix2.zip"
 hash = "9f6f9d1667692934657162846253a7d313ad82524dd07a8e72a4cb424b01cf5b"
-
-[[files]]
-file = "unsup.toml"
-hash = "18d3b38dd17a692b361798498067723e4f06f6d38bda5076244219961d2144f3"
