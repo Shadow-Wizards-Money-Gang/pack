@@ -1701,7 +1701,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "b2d6595b73bd66167a4d7ace472c54c0eab45f55e1769f4ff7da72ce8b58872a"
+hash = "ae11fe7c63207b7257ecb782d421655c6f56adb551b78ad430066edc94bee3b1"
 metafile = true
 
 [[files]]
@@ -1786,6 +1786,11 @@ metafile = true
 [[files]]
 file = "mods/death-backup.pw.toml"
 hash = "12e38e6975fba3f2793ec19d639204030e403c758dc127f562062724c67610ee"
+metafile = true
+
+[[files]]
+file = "mods/death-knights.pw.toml"
+hash = "d76cfb40235e4f57aefcc6102cb6a45545e2058284f15f8aee1306923224b558"
 metafile = true
 
 [[files]]
@@ -2278,7 +2283,7 @@ metafile = true
 
 [[files]]
 file = "mods/necronomicon.pw.toml"
-hash = "85be70c9a70416034724164bc1ee727f715fe9c6729ece0cfd0d0a30a61e9a6d"
+hash = "020c457eee3a752be52370413f066cd0591bf992bae127b20ea04522b394a60e"
 metafile = true
 
 [[files]]
@@ -2377,7 +2382,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "9e9da779b67e9a944da81e921ff76c3388dfe9a475a3ff4f597b27af814cd28a"
+hash = "8e4e293525f9eb65c4a3db7044e9fa26721f75010b612d2ac15673f050e64d98"
 metafile = true
 
 [[files]]
@@ -2538,6 +2543,11 @@ hash = "e9fb21f65f07763e68fc3646fdff820a3295d66f436867f4ed68ecb8f20948c7"
 metafile = true
 
 [[files]]
+file = "mods/spellblades-sans.pw.toml"
+hash = "79e9eac7880b321141b4bd927cb15b20da6dbe1d91b899175b85576225ec1c04"
+metafile = true
+
+[[files]]
 file = "mods/spells-lab-extras.pw.toml"
 hash = "1494adb953b63e7c0b4cf49ec196e7a8399afddcd7dd51398baa47e85c12974e"
 metafile = true
@@ -2628,7 +2638,7 @@ metafile = true
 
 [[files]]
 file = "mods/trinkets.pw.toml"
-hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
+hash = "792155426992079177fe1ee62c1df969fb71540becd719de8efca2ebc6bec896"
 metafile = true
 
 [[files]]
