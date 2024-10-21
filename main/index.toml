@@ -1909,11 +1909,6 @@ hash = "3de7f974dfe44f63a9c70d4b4afb41941ac33cbd50715019992ded4512f62948"
 metafile = true
 
 [[files]]
-file = "mods/extra-spell-attributes.pw.toml"
-hash = "d50852ff5285d48c9c203146e39d34757a5f31cc55baa7ae7be98683aa74afc6"
-metafile = true
-
-[[files]]
 file = "mods/fabricskyboxes.pw.toml"
 hash = "ae83dfcccd580352eee3cf509ace37f67f1bf0d2862d2d9c9d64d8909892d2d4"
 metafile = true
@@ -2538,11 +2533,6 @@ hash = "7f7cd8af29430b1d5d597aae8682fa87e673f2b359bf57164a9b96762ab8b331"
 metafile = true
 
 [[files]]
-file = "mods/spellblade-next.pw.toml"
-hash = "e9fb21f65f07763e68fc3646fdff820a3295d66f436867f4ed68ecb8f20948c7"
-metafile = true
-
-[[files]]
 file = "mods/spellblades-sans.pw.toml"
 hash = "79e9eac7880b321141b4bd927cb15b20da6dbe1d91b899175b85576225ec1c04"
 metafile = true
@@ -2752,3 +2742,7 @@ hash = "3eeefb1c7a3bfba61a03f1fbe79eab4d44b375450254ace147877896c7b1765f"
 [[files]]
 file = "shaderpacks/rethinking-voxels_r0.1-beta4-fix2.zip"
 hash = "9f6f9d1667692934657162846253a7d313ad82524dd07a8e72a4cb424b01cf5b"
+
+[[files]]
+file = "unsup.toml"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
