@@ -1909,6 +1909,11 @@ hash = "3de7f974dfe44f63a9c70d4b4afb41941ac33cbd50715019992ded4512f62948"
 metafile = true
 
 [[files]]
+file = "mods/extra-spell-attributes.pw.toml"
+hash = "d50852ff5285d48c9c203146e39d34757a5f31cc55baa7ae7be98683aa74afc6"
+metafile = true
+
+[[files]]
 file = "mods/fabricskyboxes.pw.toml"
 hash = "ae83dfcccd580352eee3cf509ace37f67f1bf0d2862d2d9c9d64d8909892d2d4"
 metafile = true
@@ -2628,7 +2633,7 @@ metafile = true
 
 [[files]]
 file = "mods/trinkets.pw.toml"
-hash = "792155426992079177fe1ee62c1df969fb71540becd719de8efca2ebc6bec896"
+hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
 metafile = true
 
 [[files]]
