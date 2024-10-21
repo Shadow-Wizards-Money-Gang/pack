@@ -1,0 +1,13 @@
+name = "Better Combat Extension"
+filename = "bettercombat-extension-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nGFJD9cB/versions/eQjg9Sip/bettercombat-extension-1.3.0.jar"
+hash-format = "sha1"
+hash = "3492e9c5d80477d8f5958b7e41e22d5644e6515f"
+
+[update]
+[update.modrinth]
+mod-id = "nGFJD9cB"
+version = "eQjg9Sip"
