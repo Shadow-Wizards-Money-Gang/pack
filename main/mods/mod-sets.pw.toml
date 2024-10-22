@@ -1,0 +1,13 @@
+name = "Mod Sets"
+filename = "mod_sets-1.10.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/b313lC4Y/versions/9fcRwjWe/mod_sets-1.10.1.jar"
+hash-format = "sha1"
+hash = "37955f7ec7fe7187597c7f414940b0fbfc484af9"
+
+[update]
+[update.modrinth]
+mod-id = "b313lC4Y"
+version = "9fcRwjWe"

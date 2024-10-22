@@ -3,11 +3,11 @@ filename = "player-animation-lib-fabric-1.0.2-rc1+1.20.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/gedNE4y2/versions/yDqYTUaf/player-animation-lib-fabric-1.0.2-rc1%2B1.20.jar"
 hash-format = "sha1"
 hash = "9182c38bcf614d0ed7091b15f7e099a7f2fb3617"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4587215
-project-id = 658587
+[update.modrinth]
+mod-id = "gedNE4y2"
+version = "yDqYTUaf"

@@ -1587,7 +1587,7 @@ metafile = true
 
 [[files]]
 file = "mods/azurelib.pw.toml"
-hash = "12b5153dfeba6c6163a3f9629169bbb58ace4bde75a0583ad075973f6bc4d763"
+hash = "c7197bae2df4f4a95fdcd0016cab76518350a9c87c25e55b3856c85bb5bedc62"
 metafile = true
 
 [[files]]
@@ -1909,6 +1909,11 @@ hash = "3de7f974dfe44f63a9c70d4b4afb41941ac33cbd50715019992ded4512f62948"
 metafile = true
 
 [[files]]
+file = "mods/extra-rpg-attributes.pw.toml"
+hash = "9ff0ae53c404cb47197994fc997203009adfafd7c5c6e91fb15ff90452a0b907"
+metafile = true
+
+[[files]]
 file = "mods/extra-spell-attributes.pw.toml"
 hash = "d50852ff5285d48c9c203146e39d34757a5f31cc55baa7ae7be98683aa74afc6"
 metafile = true
@@ -2093,6 +2098,11 @@ hash = "f3a2939a893321067f5700c2e25c0c48fc1f9d39dd925449865c90597d65df1b"
 metafile = true
 
 [[files]]
+file = "mods/kinecraft-serialization.pw.toml"
+hash = "b771187c913a19d99a21dad064b3ba1bce63cce32466d4a70adc2596c25ece89"
+metafile = true
+
+[[files]]
 file = "mods/kiwi-fabric.pw.toml"
 hash = "b252e71c3db9c44a439d492a4a9ee89a8639a70f86a0199e9d3ed15d4f8b7d86"
 metafile = true
@@ -2232,6 +2242,11 @@ hash = "860db3da30e2e3d9fcec655d38704be88b593b85c7770fa76c30de6a537691d7"
 metafile = true
 
 [[files]]
+file = "mods/mod-sets.pw.toml"
+hash = "eaf6d5ed9b92da6ff9d3e1243625c9dadc094872f2d9a46469597429a7fcf77a"
+metafile = true
+
+[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "e78faacb02c5ad86a31ff1178d48c5b231433bb1128584c987ef60224057fb75"
 metafile = true
@@ -2348,7 +2363,7 @@ metafile = true
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
-hash = "ba530a2e04476bef87448769a8d3609a9225065dfaed24a54c401c3035a79ed3"
+hash = "a3d67082a95f70155d68aec25d7ffba8a7c7bc48b342529e52005ddfc76f11ae"
 metafile = true
 
 [[files]]
@@ -2377,7 +2392,7 @@ metafile = true
 
 [[files]]
 file = "mods/qkl.pw.toml"
-hash = "cff92e04c076facad8c6580e20289cc93bb1ecf025cd4da3500ee89ebfb85ff0"
+hash = "47217cc1489533f668d622f2078351a61873be573311a9a94be7293328a849a7"
 metafile = true
 
 [[files]]
@@ -2446,6 +2461,11 @@ hash = "42b1002001215f4078dbe3db025eb6c566e019a6edb6d8ac2b53f153ccfa9db3"
 [[files]]
 file = "mods/rune-crafting.pw.toml"
 hash = "20921407c1c4c2b8627ebc84950ff412f1c8265f578595d10b8e5b1dea4c6d70"
+metafile = true
+
+[[files]]
+file = "mods/runes.pw.toml"
+hash = "e75baae1134e34434fc8fea4c6ee4272c8fe9d8ce30c2a7845c8d791fd1c078b"
 metafile = true
 
 [[files]]
@@ -2529,12 +2549,17 @@ metafile = true
 
 [[files]]
 file = "mods/spell-engine.pw.toml"
-hash = "1ac7dcff580a64c64c667c0ddf1a8eb1bf9009feb3981161d14c80ede9eea344"
+hash = "b37ea3aaa963bf6776b5805a2c02deacfb199a54be9ba2183da74f78f2e87784"
 metafile = true
 
 [[files]]
 file = "mods/spell-power.pw.toml"
-hash = "7f7cd8af29430b1d5d597aae8682fa87e673f2b359bf57164a9b96762ab8b331"
+hash = "706cd603362fec004317ab9882101c71a27e5634d058b516c5d87fc1ddc48636"
+metafile = true
+
+[[files]]
+file = "mods/spellblades-and-such.pw.toml"
+hash = "93a339809af222064747a6ec773185c1ecebcd08b719d405f53539834ad6bb20"
 metafile = true
 
 [[files]]

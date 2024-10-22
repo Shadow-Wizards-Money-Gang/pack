@@ -1,0 +1,13 @@
+name = "Kinecraft Serialization"
+filename = "kinecraft-serialization-1.16.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/epmEbmF0/versions/XmDPVZir/kinecraft-serialization-1.16.0.jar"
+hash-format = "sha1"
+hash = "1c4b42a49d0db117e71dd9d63ab0027a13e31b6b"
+
+[update]
+[update.modrinth]
+mod-id = "epmEbmF0"
+version = "XmDPVZir"
