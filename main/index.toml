@@ -1647,7 +1647,7 @@ metafile = true
 
 [[files]]
 file = "mods/bombastic-crystals-0.2.2.jar"
-hash = "285dbacee88b6b50e7004c9d7629290fb9bd5026987bec84dac6ed0f075e5daf"
+hash = "c538839117f7d03385d5ec4c31189f66f2bf328931cfef8b6fb9cacd68bc4eb3"
 
 [[files]]
 file = "mods/borderless-mining.pw.toml"
@@ -1711,7 +1711,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "bfd96e4905f01d0aa1917fe581093afe7ad3b51386be9753ef2371fac24f6c1d"
+hash = "56ca5adf65660e95f1acd0a30e3fed0565e490bc545e7b32c628051a5926632c"
 metafile = true
 
 [[files]]
@@ -1860,7 +1860,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "bebac1001de6d3673b905d204f4ba0a87a2ab97857c54524c9e6a30121d51379"
+hash = "0a76afce4e59fe451021c364818f63577f2c8eb7128f31a22431523cb0f57013"
 metafile = true
 
 [[files]]
@@ -2044,7 +2044,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "4853c3181c353feffbe018e22ef0da37cf91e645a895067bd50de38c883bd53b"
+hash = "56725eac541eb27d7e13efc17b24025ce8139c2a70b000a528eb30093149cdda"
 metafile = true
 
 [[files]]
@@ -2263,12 +2263,12 @@ metafile = true
 
 [[files]]
 file = "mods/monolib.pw.toml"
-hash = "4833eb131d1458bd9e8db441d8ed13998e8dfc0d0986c8a1c773a36a84616cf1"
+hash = "9c936104fb8edc233465da4dcdb3610ce7de0fc2f0251bc5958df284633d4fac"
 metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "5db7b2e00b655e2d73c97ddc05d03a917ef43aefda40ba3baa378f061aaf3a65"
+hash = "0585eba2b099c45e0cdab3ff7486d86f3a13bac2dbc988eec786aa2f9ecded58"
 metafile = true
 
 [[files]]
@@ -2358,7 +2358,7 @@ metafile = true
 
 [[files]]
 file = "mods/plasmo-voice.pw.toml"
-hash = "fadba4aa860cb1e1fe0ada96ab3bc402926c5009ef86ae8217a8820406569906"
+hash = "fb2404cd6ef42ac62fa7925325b67aed50c1962c3044ee15f6ecb9f284e4d7ee"
 metafile = true
 
 [[files]]
@@ -2480,7 +2480,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "aca1b1fbbb5b25cb7505f71c8bcf828abb0c0ea5a06014cf7a6182d5d2fe7645"
+hash = "932117cc2a673f5e8377753e81498984e175e5691c9188cd7545a48501cbd572"
 metafile = true
 
 [[files]]
@@ -2494,8 +2494,8 @@ hash = "182161aa8e4b730555dd9984efb7be8cfd3debbaf1d4cc60e0b3241402e6f2bc"
 metafile = true
 
 [[files]]
-file = "mods/shadow-wizards-0.2.4.jar"
-hash = "55084a8414ec6d0bf8b800d48721c9a9a64d4f24f576011c86bca8e0bfb53dc1"
+file = "mods/shadow-wizards-0.2.6.jar"
+hash = "ef02bf6ea13d5d78ea9316acc4c9f5816d1f0842a3f5fc6ad0fe853dff28603b"
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
@@ -2560,11 +2560,6 @@ metafile = true
 [[files]]
 file = "mods/spellblades-and-such.pw.toml"
 hash = "93a339809af222064747a6ec773185c1ecebcd08b719d405f53539834ad6bb20"
-metafile = true
-
-[[files]]
-file = "mods/spellblades-sans.pw.toml"
-hash = "79e9eac7880b321141b4bd927cb15b20da6dbe1d91b899175b85576225ec1c04"
 metafile = true
 
 [[files]]
@@ -2633,7 +2628,7 @@ metafile = true
 
 [[files]]
 file = "mods/thermoo.pw.toml"
-hash = "43e3b35c7fd1ddf4a87326c271db962e95500715ad7df12290e79c9fcc861b38"
+hash = "55d283a0f893de8e1bb0b1efa77b43fd74472477ec523730e546878d1985c66e"
 metafile = true
 
 [[files]]
@@ -2722,7 +2717,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "f02a8e1080165718457169ff3729c4b022aa1d2124e2493a0198a7c93dd1fe68"
+hash = "7bb6a1602023fbdead5222702c4972d1112bc0c029e2797bfd928a0ab9d4a1ec"
 metafile = true
 
 [[files]]
