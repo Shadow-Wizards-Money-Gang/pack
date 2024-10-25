@@ -2094,11 +2094,6 @@ hash = "f3a2939a893321067f5700c2e25c0c48fc1f9d39dd925449865c90597d65df1b"
 metafile = true
 
 [[files]]
-file = "mods/kinecraft-serialization.pw.toml"
-hash = "b771187c913a19d99a21dad064b3ba1bce63cce32466d4a70adc2596c25ece89"
-metafile = true
-
-[[files]]
 file = "mods/kiwi-fabric.pw.toml"
 hash = "b252e71c3db9c44a439d492a4a9ee89a8639a70f86a0199e9d3ed15d4f8b7d86"
 metafile = true
@@ -2235,11 +2230,6 @@ metafile = true
 [[files]]
 file = "mods/mobtimizations.pw.toml"
 hash = "860db3da30e2e3d9fcec655d38704be88b593b85c7770fa76c30de6a537691d7"
-metafile = true
-
-[[files]]
-file = "mods/mod-sets.pw.toml"
-hash = "eaf6d5ed9b92da6ff9d3e1243625c9dadc094872f2d9a46469597429a7fcf77a"
 metafile = true
 
 [[files]]
