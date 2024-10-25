@@ -1910,6 +1910,11 @@ hash = "d50852ff5285d48c9c203146e39d34757a5f31cc55baa7ae7be98683aa74afc6"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "07620e0acf742955b2f10e73244e1828836dd8737ea6142c7c4cd03243a78b7e"
+metafile = true
+
+[[files]]
 file = "mods/fabricskyboxes.pw.toml"
 hash = "ae83dfcccd580352eee3cf509ace37f67f1bf0d2862d2d9c9d64d8909892d2d4"
 metafile = true
@@ -2358,6 +2363,10 @@ hash = "a3d67082a95f70155d68aec25d7ffba8a7c7bc48b342529e52005ddfc76f11ae"
 metafile = true
 
 [[files]]
+file = "mods/playerex-directors-cut-4.0.0+1.20.1-beta.10-swmg.jar"
+hash = "65dbbdc978f04025a19fa1b39d895808c0ccd6c4bd05e2c391a74bca6259a857"
+
+[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "35f2b7d27291e3a313c986137b70b7675bc32b3d0097e0940c7e23b0cf62b92e"
 metafile = true
@@ -2379,11 +2388,6 @@ metafile = true
 [[files]]
 file = "mods/pv-addon-soundphysics.pw.toml"
 hash = "626aec5ea73e3089455b7e1e76a3a3dd1d0fd407f31f51bd5a51190bdf756d45"
-metafile = true
-
-[[files]]
-file = "mods/qkl.pw.toml"
-hash = "47217cc1489533f668d622f2078351a61873be573311a9a94be7293328a849a7"
 metafile = true
 
 [[files]]
