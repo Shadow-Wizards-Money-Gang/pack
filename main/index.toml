@@ -1646,8 +1646,8 @@ hash = "628ca822826f31018f97293b673e09defe9bc46616a7636bbd4a3b51ee4c9949"
 metafile = true
 
 [[files]]
-file = "mods/bombastic-crystals-0.2.2.jar"
-hash = "c538839117f7d03385d5ec4c31189f66f2bf328931cfef8b6fb9cacd68bc4eb3"
+file = "mods/bombastic-crystals-0.2.3.jar"
+hash = "2271142e348725c926ef5cea9f6fae59d463a9f8ade9157356856c62a6e97be4"
 
 [[files]]
 file = "mods/borderless-mining.pw.toml"
