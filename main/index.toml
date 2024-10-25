@@ -1731,7 +1731,7 @@ metafile = true
 
 [[files]]
 file = "mods/consecration.pw.toml"
-hash = "ba7cd4926299918b3c814fa2f4b729b55f817e7e88680f0bdcedd3f57a36f4e8"
+hash = "18fb688c31a4852719c2b4b8efe9048acccb521a378a293b0f53cec3ce31b975"
 metafile = true
 
 [[files]]
@@ -1755,16 +1755,6 @@ hash = "b827d7573c11c91f1230ce944aebabec8aa7ae80a620147449861d36eb230664"
 metafile = true
 
 [[files]]
-file = "mods/ctov-paladins-n-priests-compat.pw.toml"
-hash = "11be057519a291fa5d2dfc58b6e7c9ed2b406e6026dca028a33a867c1d54c34d"
-metafile = true
-
-[[files]]
-file = "mods/ctov-wizards-compat.pw.toml"
-hash = "caa691d40a1819856a0ca2c68343c781e529991155d9f73f34cc89201af509b0"
-metafile = true
-
-[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "4463005ad6ae41db2bf707952d6945297f48601a42ec8b6cac8aef09d653ffd2"
 metafile = true
@@ -1775,8 +1765,9 @@ hash = "339b82907e3a9c77c3925d97da71af67ed65ae08f83de7c1850dec506aeb2ef8"
 metafile = true
 
 [[files]]
-file = "mods/dataattributes_dc-1.6.0+1.20.1.jar"
-hash = "87fab2931c3350ace35bd035132a3e89a87b521968648ae6a374afb3be4a1ca6"
+file = "mods/data-attributes-directors-cut.pw.toml"
+hash = "c5667647b5c385ff181d7502c10abdee5a4d1464f515f43005cc94b600b77baf"
+metafile = true
 
 [[files]]
 file = "mods/daves-potioneering.pw.toml"
@@ -1955,7 +1946,7 @@ metafile = true
 
 [[files]]
 file = "mods/fog.pw.toml"
-hash = "b049411f20a30d287d7aea073adfc140ba00e3a9d92becf682bd7919bdb38588"
+hash = "e906b3525db3aa3194095f9f085edfbfd61abc20922e8cd59cf51fa3a2dfbf24"
 metafile = true
 
 [[files]]
@@ -2278,7 +2269,7 @@ metafile = true
 
 [[files]]
 file = "mods/mru.pw.toml"
-hash = "9946832c8c00ddd218c9eeeb46ebd1e7a8c339e7d2f879b6479513ac4b6bd440"
+hash = "eaebdf1031ae8f0aabdd823dcddd4a50990f14f931f9317caf67efa479c15181"
 metafile = true
 
 [[files]]
@@ -2323,7 +2314,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "9a0ab52020c3a2d073e71f07ce11b9d2d8ae0a17b8a3cf0c9227029a51df51c3"
+hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
 metafile = true
 
 [[files]]
