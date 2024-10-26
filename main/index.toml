@@ -17968,11 +17968,6 @@ file = "mods/majruszs-difficulty-fabric-1.20.1-1.9.10-swmg-edited.jar"
 hash = "0161f9e6d0a43c46f81e3bb41ec8ed902a30e554218da0f25922911be779f11d"
 
 [[files]]
-file = "mods/medieval-music.pw.toml"
-hash = "3ec68923ba927481655db70d8171660d1fdaf1647838aafa72955eb69024b535"
-metafile = true
-
-[[files]]
 file = "mods/melody.pw.toml"
 hash = "57dc365bf7be6358709c450e95e12cd4f48b84d7ea146e8bb7cf5ced1d0abafb"
 metafile = true
