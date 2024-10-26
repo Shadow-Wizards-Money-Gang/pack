@@ -977,18 +977,6 @@ file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/paladins/sp
 hash = "5091c49f2297f6528b11d13992a3b20e23246aa5e505ce100a082714fa3fc222"
 
 [[files]]
-file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/playerex/attributes/entity_types.json"
-hash = "e566d00dc761fc6f104dabc03a6f3304812b16783809e2a5cc650c4775b65020"
-
-[[files]]
-file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/playerex/attributes/functions.json"
-hash = "28f4c237803820798d526ab31efe2b53200bae01a7d999e5a080e48f73d628b0"
-
-[[files]]
-file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/playerex/attributes/overrides/level.json"
-hash = "8b16945117c4e63b19acd5921e8319094ee8ca408b20d4d99be515b10702ca2d"
-
-[[files]]
 file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/spellbladenext/spell_pools/arcane_battlemage.json"
 hash = "c29d4a5045a00934e6eeb04837d62272e60c2ee565328abb46975e96e09aaded"
 
@@ -18116,10 +18104,6 @@ hash = "a3d67082a95f70155d68aec25d7ffba8a7c7bc48b342529e52005ddfc76f11ae"
 metafile = true
 
 [[files]]
-file = "mods/playerex-directors-cut-4.0.0+1.20.1-beta.10-swmg.jar"
-hash = "65dbbdc978f04025a19fa1b39d895808c0ccd6c4bd05e2c391a74bca6259a857"
-
-[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "35f2b7d27291e3a313c986137b70b7675bc32b3d0097e0940c7e23b0cf62b92e"
 metafile = true
@@ -18242,8 +18226,8 @@ hash = "182161aa8e4b730555dd9984efb7be8cfd3debbaf1d4cc60e0b3241402e6f2bc"
 metafile = true
 
 [[files]]
-file = "mods/shadow-wizards-0.3.0.jar"
-hash = "fa1f640ea35a16e30ac5243909186563c8cd14e1fbf1d2078214ce769f4afec2"
+file = "mods/shadow-wizards-0.3.1.jar"
+hash = "35a5589498d9bfb0dd74aeddd28dd92133bf97d65c27c637bdd670aa557a1c82"
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
@@ -18360,18 +18344,8 @@ hash = "272d6f810e6ab5d2626b7822252558b68ed69237dd3f3906abcae3c347070735"
 metafile = true
 
 [[files]]
-file = "mods/tempest.pw.toml"
-hash = "49bfc689edc3ed959f5d003c778b85a57bb99cd330ba52f250dde09db24bc286"
-metafile = true
-
-[[files]]
 file = "mods/terrablender-fabric.pw.toml"
 hash = "4c3e112fd51bd798d94aee2d0b2b760273bea50480ba0f607f0277e3a7da068f"
-metafile = true
-
-[[files]]
-file = "mods/the-orcs.pw.toml"
-hash = "0cb1e957abcf3e608f9534a52d60559fe3f16b6ff1c526e88a204902597187cb"
 metafile = true
 
 [[files]]
