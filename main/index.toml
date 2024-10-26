@@ -1101,8 +1101,8 @@ file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
-file = "config/paxi/resourcepacks/shadow_wizards_pack.zip"
-hash = "b0a44fec8a8f665540b434d4a47c70268a3cce363d9d01e86dcc55e5293598d0"
+file = "config/paxi/resourcepacks/swmg_pack.zip"
+hash = "4af07a6a7846b5bb2a96707c1d045b65311ecca94a5d9be87e500b4abafb2c65"
 
 [[files]]
 file = "config/pehkui/config.json"
