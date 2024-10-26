@@ -18360,18 +18360,8 @@ hash = "272d6f810e6ab5d2626b7822252558b68ed69237dd3f3906abcae3c347070735"
 metafile = true
 
 [[files]]
-file = "mods/tempest.pw.toml"
-hash = "49bfc689edc3ed959f5d003c778b85a57bb99cd330ba52f250dde09db24bc286"
-metafile = true
-
-[[files]]
 file = "mods/terrablender-fabric.pw.toml"
 hash = "4c3e112fd51bd798d94aee2d0b2b760273bea50480ba0f607f0277e3a7da068f"
-metafile = true
-
-[[files]]
-file = "mods/the-orcs.pw.toml"
-hash = "0cb1e957abcf3e608f9534a52d60559fe3f16b6ff1c526e88a204902597187cb"
 metafile = true
 
 [[files]]
