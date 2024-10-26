@@ -977,6 +977,30 @@ file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/paladins/sp
 hash = "5091c49f2297f6528b11d13992a3b20e23246aa5e505ce100a082714fa3fc222"
 
 [[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/playerex/data_attributes/entity_types/stock.json"
+hash = "d91690af16c64003b001000647ecbb4f32bfa41916227f8cad22e6d26f02cc86"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/playerex/data_attributes/functions/stock.json"
+hash = "32d0f35f68fd63a03d965730b975c758f9af76bea64ea6f0854b870db316b22f"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/playerex/data_attributes/overrides/minecraft.json"
+hash = "871c8aa808182b99d5a0f97674e5872bad52afb50dba4b53024654e823e955bf"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/playerex/data_attributes/overrides/ranged_weapon.json"
+hash = "f4ca9d9db098c95ca40e26bb8e6f8cfcee25431d723c1fcce9092ce30af6a3b1"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/playerex/data_attributes/overrides/stock.json"
+hash = "53241152c3829f853ee98e9ab5c9a49e03cbe413619878161ebefb368d322ec0"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/playerex/tags/items/unbreakable.json"
+hash = "298b31cdd753c616d6c3a87a709c52d40eb34ef42cab94059f67c80417993cb7"
+
+[[files]]
 file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/spellbladenext/spell_pools/arcane_battlemage.json"
 hash = "c29d4a5045a00934e6eeb04837d62272e60c2ee565328abb46975e96e09aaded"
 
