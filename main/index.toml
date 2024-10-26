@@ -982,7 +982,7 @@ hash = "d91690af16c64003b001000647ecbb4f32bfa41916227f8cad22e6d26f02cc86"
 
 [[files]]
 file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/playerex/data_attributes/functions/stock.json"
-hash = "15cef880aecac365d04fe52a5831c7b138fb5dcbf014c2af05c120727d3d20d8"
+hash = "32d0f35f68fd63a03d965730b975c758f9af76bea64ea6f0854b870db316b22f"
 
 [[files]]
 file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/playerex/data_attributes/overrides/minecraft.json"
@@ -995,6 +995,10 @@ hash = "f4ca9d9db098c95ca40e26bb8e6f8cfcee25431d723c1fcce9092ce30af6a3b1"
 [[files]]
 file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/playerex/data_attributes/overrides/stock.json"
 hash = "53241152c3829f853ee98e9ab5c9a49e03cbe413619878161ebefb368d322ec0"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/playerex/tags/items/unbreakable.json"
+hash = "298b31cdd753c616d6c3a87a709c52d40eb34ef42cab94059f67c80417993cb7"
 
 [[files]]
 file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/spellbladenext/spell_pools/arcane_battlemage.json"

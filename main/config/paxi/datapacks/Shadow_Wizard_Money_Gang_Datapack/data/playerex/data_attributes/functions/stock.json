@@ -31,7 +31,7 @@
 				"behavior": "Add",
 				"value": 0.25
 			},
-			"Addalentityattributes:generic.lung_capacity": {
+			"additionalentityattributes:generic.lung_capacity": {
 				"enabled": true,
 				"behavior": "Add",
 				"value": 0.01
@@ -75,7 +75,7 @@
 			}
 		},
 		"playerex:intelligence": {
-			"Addalentityattributes:player.dropped_experience": {
+			"additionalentityattributes:player.dropped_experience": {
 				"enabled": true,
 				"behavior": "Multiply",
 				"value": 0.01
@@ -90,7 +90,7 @@
 				"behavior": "Add",
 				"value": 0.01
 			},
-			"Addalentityattributes:generic.magic_protection": {
+			"additionalentityattributes:generic.magic_protection": {
 				"enabled": true,
 				"behavior": "Add",
 				"value": 0.25
@@ -106,23 +106,28 @@
 				"value": 1
 			},
 			"spell_power:fire": {
-				"behaviour": "Add",
+				"enabled": true,
+				"behavior": "Add",
 				"value": 0.25
 			},
 			"spell_power:arcane": {
-				"behaviour": "Add",
+				"enabled": true,
+				"behavior": "Add",
 				"value": 0.25
 			},
 			"spell_power:frost": {
-				"behaviour": "Add",
+				"enabled": true,
+				"behavior": "Add",
 				"value": 0.25
 			},
 			"spell_power:soul": {
-				"behaviour": "Add",
+				"enabled": true,
+				"behavior": "Add",
 				"value": 0.25
 			},
 			"arcanuscontinuum:mana_regen": {
-				"behaviour": "Add",
+				"enabled": true,
+				"behavior": "Add",
 				"value": 0.05
 			}
 		},
@@ -150,11 +155,13 @@
 				"value": 0.02
 			},
 			"spell_power:healing": {
-				"behaviour": "Add",
+				"enabled": true,
+				"behavior": "Add",
 				"value": 0.25
 			},
 			"playerex:heal_amplification": {
-				"behaviour": "ADDITION",
+				"enabled": true,
+				"behavior": "Add",
 				"value": 0.001
 			}
 		},
