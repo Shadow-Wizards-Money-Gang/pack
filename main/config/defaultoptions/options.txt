@@ -1,5 +1,5 @@
 version:3465
-quilt_available_resource_packs:["Medieval_Expansion_edited.zip","Moonlight Mods Dynamic Assets","Shadow Wizard Money Gang Resource Pack.zip","bakery/minecraft_bricks","continuity/default","continuity/glass_pane_culling_fix","cullleaves/smartleaves","dye_depot/dye_override","enchancement/alternate_dash","enchancement/alternate_gale","high_contrast","presencefootsteps/default_sound_pack","programmer_art","supplementaries/darker_ropes","vanilla","file/disable_brewing_v2"]
+quilt_available_resource_packs:["Moonlight Mods Dynamic Assets","bakery/minecraft_bricks","continuity/default","continuity/glass_pane_culling_fix","dye_depot/dye_override","enchancement/alternate_dash","enchancement/alternate_gale","high_contrast","presencefootsteps/default_sound_pack","programmer_art","supplementaries/darker_ropes","vanilla","$polymer-resources","Shadow Wizard Money Gang Pack","bountifulfares/amendments_res","bountifulfares/dye_depot_res_rename","bountifulfares/vanilla_item_override","minecraft/supporteatinganimation"]
 autoJump:false
 operatorItemsTab:false
 autoSuggestions:true
@@ -19,7 +19,7 @@ touchscreen:false
 fullscreen:false
 bobView:true
 toggleCrouch:false
-toggleSprint:false
+toggleSprint:true
 darkMojangStudiosBackground:false
 hideLightningFlashes:false
 mouseSensitivity:0.5
@@ -43,7 +43,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","dye_depot/dye_override","presencefootsteps/default_sound_pack","Medieval_Expansion_edited.zip","Moonlight Mods Dynamic Assets","Shadow Wizard Money Gang Resource Pack.zip","file/disable_brewing_v2"]
+resourcePacks:["vanilla","dye_depot/dye_override","presencefootsteps/default_sound_pack","Moonlight Mods Dynamic Assets","bountifulfares/amendments_res","bountifulfares/dye_depot_res_rename","bountifulfares/vanilla_item_override","minecraft/supporteatinganimation"]
 incompatibleResourcePacks:["Medieval_Expansion_edited.zip","file/disable_brewing_v2"]
 lastServer:
 lang:en_us

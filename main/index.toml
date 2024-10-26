@@ -270,11 +270,11 @@ hash = "a186d6ab6468353cb2a49f5a4229c16b004580a557d4bccaf12041e8a46f9d9e"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "3f1d7768882b9e362d8175d24d208a0b5a5fa48214bfcd87fbf303694574b7bd"
+hash = "d57403b5fa1f7ee025fefb854d9f3b565139eb6fd1ee12910419fa6ff903012d"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "f9f320aaa80e0fe5ea034ebf65c37abd5eb512e145b7401d78f6f2d6d4301826"
+hash = "1045c122f9eff10f216aa77639a321640f1571f540449636f2802e2415c53f5b"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
@@ -16994,7 +16994,7 @@ hash = "6e8bfe7a4c301de6e1658f8995a5bc533f6ec850aa57f701e23adf5fb9d708e9"
 
 [[files]]
 file = "config/shadow-wizards-api.json5"
-hash = "9b6d225665d9b5ac1a77d6dea06a4e5c37a96bb9210fb8a8159a36cae2fe5d85"
+hash = "019f5462d2640e505f7828004013bbefd979bb4be2aa032763ae38cde1e6c3f5"
 
 [[files]]
 file = "config/shadow-wizards.json5"
