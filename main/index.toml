@@ -1646,10 +1646,6 @@ hash = "628ca822826f31018f97293b673e09defe9bc46616a7636bbd4a3b51ee4c9949"
 metafile = true
 
 [[files]]
-file = "mods/bombastic-crystals-0.2.3.jar"
-hash = "0dc93e3b572c0cc5e2a068996234409585512ba3038880c5cb34e9e9eb0f02bb"
-
-[[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "c49d42cddfb05cf5e4882d5753bd98a525c9a994fda5f49651003e8266b7aa9d"
 metafile = true
@@ -1731,7 +1727,7 @@ metafile = true
 
 [[files]]
 file = "mods/consecration.pw.toml"
-hash = "18fb688c31a4852719c2b4b8efe9048acccb521a378a293b0f53cec3ce31b975"
+hash = "ba7cd4926299918b3c814fa2f4b729b55f817e7e88680f0bdcedd3f57a36f4e8"
 metafile = true
 
 [[files]]
@@ -2308,6 +2304,11 @@ hash = "4bef2974b0ccbf63265a7c430fa37d57c11f4dc0c38c4764b7b7a5336b4f9434"
 metafile = true
 
 [[files]]
+file = "mods/opc-directors-cut.pw.toml"
+hash = "420e6f9f3600aa6fb7c8278367927fe02036afb49d3ae41f39617e56d2d05bdb"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
 metafile = true
@@ -2479,8 +2480,8 @@ hash = "182161aa8e4b730555dd9984efb7be8cfd3debbaf1d4cc60e0b3241402e6f2bc"
 metafile = true
 
 [[files]]
-file = "mods/shadow-wizards-0.2.6.jar"
-hash = "ef02bf6ea13d5d78ea9316acc4c9f5816d1f0842a3f5fc6ad0fe853dff28603b"
+file = "mods/shadow-wizards-0.3.0.jar"
+hash = "fa1f640ea35a16e30ac5243909186563c8cd14e1fbf1d2078214ce769f4afec2"
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
