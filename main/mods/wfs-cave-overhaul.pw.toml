@@ -1,0 +1,13 @@
+name = "WF's Cave Overhaul"
+filename = "caveoverhaul-fabric-1.20.1-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bZRPxKjL/versions/MT6hypDO/caveoverhaul-fabric-1.20.1-1.2.2.jar"
+hash-format = "sha1"
+hash = "f3dff26aa65ef4487acb778c03549af5927de874"
+
+[update]
+[update.modrinth]
+mod-id = "bZRPxKjL"
+version = "MT6hypDO"

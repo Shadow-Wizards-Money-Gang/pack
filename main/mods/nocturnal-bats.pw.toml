@@ -1,0 +1,13 @@
+name = "Nocturnal Bats"
+filename = "nocturnal-bats-1.0.0+1.19.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qu8ckNJQ/versions/OYtVku7w/nocturnal-bats-1.0.0%2B1.19.4.jar"
+hash-format = "sha1"
+hash = "7c22da1c5ec58fec7ac15da08eca908762983333"
+
+[update]
+[update.modrinth]
+mod-id = "qu8ckNJQ"
+version = "OYtVku7w"

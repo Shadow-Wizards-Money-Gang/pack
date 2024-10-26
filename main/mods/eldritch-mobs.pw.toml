@@ -1,0 +1,13 @@
+name = "Eldritch Mobs"
+filename = "eldritch-mobs-1.15.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/emXFPmJd/versions/1UqTBkHo/eldritch-mobs-1.15.2.jar"
+hash-format = "sha1"
+hash = "5b8c500e3b02647f05483bf4cff08e0c8e100f40"
+
+[update]
+[update.modrinth]
+mod-id = "emXFPmJd"
+version = "1UqTBkHo"

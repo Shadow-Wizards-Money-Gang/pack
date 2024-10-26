@@ -1,0 +1,13 @@
+name = "Caligo"
+filename = "caligo-0.2.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SdEvidHA/versions/FS7ZyYQr/caligo-0.2.0%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "de51c7e04be0dfd7dd77bcd3a174f5c5c262810b"
+
+[update]
+[update.modrinth]
+mod-id = "SdEvidHA"
+version = "FS7ZyYQr"

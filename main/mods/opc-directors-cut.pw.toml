@@ -1,0 +1,13 @@
+name = "Offline Player Cache: Directors Cut"
+filename = "OfflinePlayerCache-Fabric-2.0.0+1.20.1-beta.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/oLPaySSb/versions/N4r9dXCQ/OfflinePlayerCache-Fabric-2.0.0%2B1.20.1-beta.4.jar"
+hash-format = "sha1"
+hash = "41a783a9d372f37ea6ebe0f186225a45545011c0"
+
+[update]
+[update.modrinth]
+mod-id = "oLPaySSb"
+version = "N4r9dXCQ"
