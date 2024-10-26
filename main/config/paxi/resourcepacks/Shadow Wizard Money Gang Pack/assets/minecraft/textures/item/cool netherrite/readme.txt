@@ -1,1 +1,0 @@
-Simply drag the netherite texture files into the item folder to use these textures.
