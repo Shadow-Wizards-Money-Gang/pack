@@ -1,0 +1,34 @@
+{
+	// Upper bound of Ashes of the Stars (Default: 50)
+	"ashes_upper_bound": 50,
+	// Lower bound of Ashes of the Stars (Default: 10)
+	"ashes_lower_bound": 25,
+	// Upper bound of Crystallised Omniscience (Default: 30)
+	"omni_upper": 30,
+	// Lower bound of Crystallised Omniscience (Default: 5)
+	"omni_lower": 10,
+	// Coefficient for Voidforge gained damage (Default: 1x, results in 100% gained as)
+	"voidforge": 1,
+	// Distance from 0,0 below which Hexblades will not invade in the Glass Ocean (Default: 0)
+	"hexblade_grace": 0,
+	// Damage multiplier for spin attacks (eg: Whirlwind) (Default: 1.0)
+	"spin_attack_coeff": 0.5,
+	// Hexblade module (Default: TRUE)
+	"hexblade_on": false,
+	// Magus changes the weather on phase end (Default: TRUE)
+	"magusWeather": true,
+	// Magus can be summoned outside the glass ocean (Default: TRUE)
+	"magusWeaker": true,
+	// Reactive ward regen rate coefficient (Default: 1.0)
+	"wardrate": 1.0,
+	// Horde Spawn with Mutations (Only with Fight or Die: Mutations)
+	"horde": false,
+	// Enable Teleporting to Glass Ocean
+	"glassocean": true,
+	// Horde/Hexblade spawn modifier (Default: 1.0)
+	"spawnmodifier": 1.0,
+	// Magisters give different xp in the Glass Ocean (Default: false)
+	"diffXP": false,
+	// Magister XP in the Glass Ocean, if different (Default: 25)
+	"magisterXP": 25
+}

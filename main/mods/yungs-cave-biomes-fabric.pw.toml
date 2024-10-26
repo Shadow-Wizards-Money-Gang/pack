@@ -1,0 +1,13 @@
+name = "YUNG's Cave Biomes (Fabric)"
+filename = "YungsCaveBiomes-1.20.1-Fabric-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7f12f56df8d2ccb8e58a374ad770be73dc65ef74"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5772016
+project-id = 1112347

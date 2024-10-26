@@ -1,0 +1,6 @@
+{
+  "parent": "rootsclassic:item/large_handheld",
+  "textures": {
+    "layer0": "rootsclassic:item/engraved_blade"
+  }
+}

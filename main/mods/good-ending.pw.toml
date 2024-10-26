@@ -1,0 +1,13 @@
+name = "Good Ending"
+filename = "GoodEnding-1.20.1-1.0.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/O7B5FVvG/versions/ZjdY0QsL/GoodEnding-1.20.1-1.0.1-Fabric.jar"
+hash-format = "sha1"
+hash = "6aa1dd74c178136c9c249ffc5b57ab016a5af79d"
+
+[update]
+[update.modrinth]
+mod-id = "O7B5FVvG"
+version = "ZjdY0QsL"

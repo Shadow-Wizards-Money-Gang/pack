@@ -1,0 +1,13 @@
+name = "Forsaken Corpses"
+filename = "forsaken_corpses_1.2.0_1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "70d9f0a7b1b62f4422710eb38db4a81285c0ba95"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5385946
+project-id = 1021399

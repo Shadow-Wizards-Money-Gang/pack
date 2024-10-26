@@ -1,0 +1,13 @@
+name = "Fog"
+filename = "Fog-fabric-1.5.2-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2106853e4a2f5edf8659895b58dc740f6ab47cd1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5828580
+project-id = 815438

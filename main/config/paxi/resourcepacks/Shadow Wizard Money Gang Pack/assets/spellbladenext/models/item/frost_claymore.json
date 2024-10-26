@@ -1,0 +1,6 @@
+{
+  "parent": "spellbladenext:item/large_handheld",
+  "textures": {
+    "layer0": "spellbladenext:item/claymore_frost"
+  }
+}

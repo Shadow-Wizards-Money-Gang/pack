@@ -1,0 +1,13 @@
+name = "Parrochute"
+filename = "parrochute-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/odNmUGyT/versions/appxsQi8/parrochute-1.1.jar"
+hash-format = "sha1"
+hash = "502f9c0929605b8e31f56138b01ee38c3cae0c41"
+
+[update]
+[update.modrinth]
+mod-id = "odNmUGyT"
+version = "appxsQi8"

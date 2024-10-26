@@ -1,0 +1,13 @@
+name = "SmartBrainLib"
+filename = "SmartBrainLib-fabric-1.20.1-1.15.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PuyPazRT/versions/ft0ElRBl/SmartBrainLib-fabric-1.20.1-1.15.jar"
+hash-format = "sha1"
+hash = "8426b6718d52d69fb66a268de63c6e886f0d6d4c"
+
+[update]
+[update.modrinth]
+mod-id = "PuyPazRT"
+version = "ft0ElRBl"

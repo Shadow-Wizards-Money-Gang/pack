@@ -1,0 +1,13 @@
+name = "Leaky - Item Lag Fix[Forge/Fabric]"
+filename = "leaky-fabric-1.20.1-2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5de4ca1e51d79e1b4685d2ceacff71f069afa1a1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5340928
+project-id = 856906

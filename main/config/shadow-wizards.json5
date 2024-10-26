@@ -1,0 +1,10 @@
+{
+	"STRUCTURE_INCREASE_FACTOR": 150.0,
+	"STRUCTURES_FACTOR": {
+		"minecraft:mansion": 175.0,
+		"shadow-wizards:stone_rock_1": 100.0,
+		"shadow-wizards:stone_rock_2": 100.0,
+		"shadow-wizards:stone_rock_3": 100.0,
+		"shadow-wizards:stone_rock_4": 100.0
+	}
+}

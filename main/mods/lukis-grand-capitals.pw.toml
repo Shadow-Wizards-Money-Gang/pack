@@ -1,0 +1,13 @@
+name = "Luki's Grand Capitals"
+filename = "lukis-grand-capitals-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "67e5e3a73f8c0562f0c55e1678434b93ca7148ce"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5632422
+project-id = 1003666

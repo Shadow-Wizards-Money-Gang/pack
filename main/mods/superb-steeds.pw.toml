@@ -1,0 +1,13 @@
+name = "Superb Steeds"
+filename = "superbsteeds-1.20-4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dca2220669e00ddde759519805e22395b5cb1938"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5335952
+project-id = 953254

@@ -1,0 +1,13 @@
+name = "Scorchful"
+filename = "scorchful-0.6.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SZQ5qcdn/versions/VBvRYDoc/scorchful-0.6.5.jar"
+hash-format = "sha1"
+hash = "0f4a4d3420fa58e7eef47e1fd5fd57e761d89ff1"
+
+[update]
+[update.modrinth]
+mod-id = "SZQ5qcdn"
+version = "VBvRYDoc"
