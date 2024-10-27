@@ -1883,6 +1883,16 @@ hash = "13294a25794490ea8e2b9ea0b5459d5d6f6031aa28125d30015bf0bcee12ec54"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "bba10da270fda83e148faf69213ec4779886206cde5fab74cae5679ff8e80e93"
+metafile = true
+
+[[files]]
+file = "mods/entity-texture-features-fabric.pw.toml"
+hash = "e3505aeb4c922ba1bfef6e855d7feb3fc76375fc113836739cd7f6ac5fef48e0"
+metafile = true
+
+[[files]]
 file = "mods/eugenes-whistle-spur.pw.toml"
 hash = "82b7536165ccf3b03123934bacbcc4fa5b1384b92ff212c34afa2c2479367860"
 metafile = true
