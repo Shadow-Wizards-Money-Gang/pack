@@ -2083,7 +2083,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "3bdbd298c4f065c0e3ebb7733d4e207b4d7aceb429cd1a3eff410d390d22afd1"
+hash = "396ccf2d8047f5f01aaddb5af8412f48b6bd888820603c722b83a26a5e911487"
 metafile = true
 
 [[files]]
@@ -2178,7 +2178,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "a247918d11ae5e9c807ffdaf486eb8e8a5d765bbf2ebefefe5d36302c4c7ca36"
+hash = "b00304db3f1f6da875c7792c84f5587784fc69e47ae96fe228871ad35d32ea7a"
 metafile = true
 
 [[files]]
@@ -2257,7 +2257,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "0585eba2b099c45e0cdab3ff7486d86f3a13bac2dbc988eec786aa2f9ecded58"
+hash = "dea55f5ea5cab1b0a06859128231c429bfcbaf03e11ee3b41e01ee14aaf7d666"
 metafile = true
 
 [[files]]
