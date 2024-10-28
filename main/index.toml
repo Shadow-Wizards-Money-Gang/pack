@@ -1222,7 +1222,7 @@ hash = "6e8bfe7a4c301de6e1658f8995a5bc533f6ec850aa57f701e23adf5fb9d708e9"
 
 [[files]]
 file = "config/shadow-wizards-api.json5"
-hash = "019f5462d2640e505f7828004013bbefd979bb4be2aa032763ae38cde1e6c3f5"
+hash = "1f59fb15d0f5d5496ef1046ff574231f90ac6d03a21aed8505eb967f093c6eed"
 
 [[files]]
 file = "config/shadow-wizards.json5"
@@ -1883,6 +1883,16 @@ hash = "13294a25794490ea8e2b9ea0b5459d5d6f6031aa28125d30015bf0bcee12ec54"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "bba10da270fda83e148faf69213ec4779886206cde5fab74cae5679ff8e80e93"
+metafile = true
+
+[[files]]
+file = "mods/entity-texture-features-fabric.pw.toml"
+hash = "e3505aeb4c922ba1bfef6e855d7feb3fc76375fc113836739cd7f6ac5fef48e0"
+metafile = true
+
+[[files]]
 file = "mods/eugenes-whistle-spur.pw.toml"
 hash = "82b7536165ccf3b03123934bacbcc4fa5b1384b92ff212c34afa2c2479367860"
 metafile = true
@@ -2073,7 +2083,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "3bdbd298c4f065c0e3ebb7733d4e207b4d7aceb429cd1a3eff410d390d22afd1"
+hash = "396ccf2d8047f5f01aaddb5af8412f48b6bd888820603c722b83a26a5e911487"
 metafile = true
 
 [[files]]
@@ -2168,7 +2178,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "a247918d11ae5e9c807ffdaf486eb8e8a5d765bbf2ebefefe5d36302c4c7ca36"
+hash = "b00304db3f1f6da875c7792c84f5587784fc69e47ae96fe228871ad35d32ea7a"
 metafile = true
 
 [[files]]
@@ -2221,6 +2231,11 @@ hash = "13b7ebe388db4af59260466ab406344b7b39a4b5e8ce831681ee6c696a202856"
 metafile = true
 
 [[files]]
+file = "mods/mobfilter.pw.toml"
+hash = "a9deb9b28ac3873960c52cf608308d3eb468545fb9c9b790027592e93405356b"
+metafile = true
+
+[[files]]
 file = "mods/mobtimizations.pw.toml"
 hash = "860db3da30e2e3d9fcec655d38704be88b593b85c7770fa76c30de6a537691d7"
 metafile = true
@@ -2247,7 +2262,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "0585eba2b099c45e0cdab3ff7486d86f3a13bac2dbc988eec786aa2f9ecded58"
+hash = "dea55f5ea5cab1b0a06859128231c429bfcbaf03e11ee3b41e01ee14aaf7d666"
 metafile = true
 
 [[files]]
@@ -2376,7 +2391,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "8e4e293525f9eb65c4a3db7044e9fa26721f75010b612d2ac15673f050e64d98"
+hash = "9e9da779b67e9a944da81e921ff76c3388dfe9a475a3ff4f597b27af814cd28a"
 metafile = true
 
 [[files]]
@@ -2473,8 +2488,8 @@ hash = "182161aa8e4b730555dd9984efb7be8cfd3debbaf1d4cc60e0b3241402e6f2bc"
 metafile = true
 
 [[files]]
-file = "mods/shadow-wizards-0.3.1.jar"
-hash = "35a5589498d9bfb0dd74aeddd28dd92133bf97d65c27c637bdd670aa557a1c82"
+file = "mods/shadow-wizards-0.3.2.jar"
+hash = "6c172302d1090770b8326917b501fb0e76af64b457fdc3da273e2cb584562304"
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
@@ -2537,9 +2552,8 @@ hash = "706cd603362fec004317ab9882101c71a27e5634d058b516c5d87fc1ddc48636"
 metafile = true
 
 [[files]]
-file = "mods/spellblades-and-such.pw.toml"
-hash = "93a339809af222064747a6ec773185c1ecebcd08b719d405f53539834ad6bb20"
-metafile = true
+file = "mods/spellbladenext-1.21.3+1.20.1.jar"
+hash = "a69d9c14dfc1ab87903d06f2731c34d9c119cafa430a3c5720e488eb6c22a1e7"
 
 [[files]]
 file = "mods/spells-lab-extras.pw.toml"
@@ -2687,11 +2701,6 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "7bb6a1602023fbdead5222702c4972d1112bc0c029e2797bfd928a0ab9d4a1ec"
-metafile = true
-
-[[files]]
-file = "mods/you-shall-not-spawn.pw.toml"
-hash = "0cd77277409170f4377196edb29b8f7eb14496a1c114fd1fd539e3c36ecc86d9"
 metafile = true
 
 [[files]]
