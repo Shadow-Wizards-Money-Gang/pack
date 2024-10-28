@@ -1,0 +1,4 @@
+{
+	// attribute overrides can change the range of the attribute, and can apply different formulas to modify its behavior when computed.
+	"entries": { }
+}

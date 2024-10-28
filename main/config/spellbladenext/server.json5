@@ -9,6 +9,8 @@
 	"omni_lower": 10,
 	// Coefficient for Voidforge gained damage (Default: 1x, results in 100% gained as)
 	"voidforge": 1,
+	// Spellblade passive maximum Strength and Haste(Default: 10
+	"passive": 10,
 	// Distance from 0,0 below which Hexblades will not invade in the Glass Ocean (Default: 0)
 	"hexblade_grace": 0,
 	// Damage multiplier for spin attacks (eg: Whirlwind) (Default: 1.0)
@@ -30,5 +32,9 @@
 	// Magisters give different xp in the Glass Ocean (Default: false)
 	"diffXP": false,
 	// Magister XP in the Glass Ocean, if different (Default: 25)
-	"magisterXP": 25
+	"magisterXP": 25,
+	// Do not apply Spell Oil capability to any item matching this regex. (Not applied of empty)
+	"blacklist_spell_oil_regex": "",
+	// Enable tabula rasa (Default: true
+	"tab": true
 }

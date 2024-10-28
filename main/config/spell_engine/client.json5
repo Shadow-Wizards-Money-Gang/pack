@@ -18,6 +18,7 @@
 	"stickyTarget": true,
 	"filterInvalidTargets": true,
 	"alwaysShowFullTooltip": false,
+	"showSpellBookSuppportTooltip": true,
 	"showSpellBindingTooltip": true,
 	"showSpellCastErrors": true,
 	"shoulderSurfingAdaptiveWhileUse": true

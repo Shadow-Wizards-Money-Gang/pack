@@ -1,9 +1,7 @@
-
 [AmbienceSettings]
 	#The channel that Charmonium will use for playing sounds. Defaults to 'ambient'.
 	#Options: music, record, weather, block, hostile, neutral, player, ambient, voice
 	"Audio channel" = "ambient"
-
 [BiomeAmbience]
 	#Number of blocks above the ground that biome ambience will be silenced.
 	#Set to zero to disable.
@@ -15,7 +13,6 @@
 	"Volume scaling" = 0.55
 	#Dimensions in which biome ambience will be played.
 	"Valid dimensions" = ["minecraft:overworld", "minecraft:the_end"]
-
 [WorldAmbience]
 	#Affects the volume of all situational ambient sounds. 1.0 is full volume.
 	"Volume scaling" = 0.55
@@ -58,4 +55,3 @@
 	Village = true
 	#Dimensions in which cave ambience (drone and depth) will be played.
 	"Valid cave ambience dimensions" = ["minecraft:overworld"]
-

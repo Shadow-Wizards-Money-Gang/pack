@@ -27,6 +27,7 @@ mode = "fancy"
 				bee = true
 				axolotl = true
 				egg = true
+				zoglin = true
 				arrow = true
 				cow = true
 				pig = true
@@ -87,6 +88,7 @@ mode = "fancy"
 				wolf = true
 				skeleton_horse = true
 				zombie_villager = true
+				tnt_minecart = true
 				elder_guardian = true
 				painting = true
 				cave_spider = true
@@ -106,6 +108,10 @@ mode = "fancy"
 
 			[light_sources.settings.entities.xercapaint]
 				easel = true
+
+			[light_sources.settings.entities.spell_engine]
+				spell_projectile = true
+				spell_area_effect = true
 
 			[light_sources.settings.entities.enderzoology]
 				fallen_mount = true
@@ -136,7 +142,10 @@ mode = "fancy"
 
 			[light_sources.settings.entities.shadow-wizards]
 				zotz = true
+				fallen_undead = true
+				gas = true
 				ghoul = true
+				fallen_horse = true
 				rous = true
 
 			[light_sources.settings.entities.illagerinvasion]
@@ -149,6 +158,7 @@ mode = "fancy"
 				deer = true
 				snail = true
 				rhino = true
+				bluejay = true
 				snake = true
 				catfish = true
 				robin = true
@@ -177,6 +187,9 @@ mode = "fancy"
 			[light_sources.settings.entities.majruszsdifficulty]
 				illusioner = true
 				tank = true
+
+			[light_sources.settings.entities.bombastic_crystals]
+				shattering_crystals = true
 
 			[light_sources.settings.entities.dummmmmmy]
 				target_dummy = true

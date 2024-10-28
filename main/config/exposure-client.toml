@@ -1,4 +1,3 @@
-
 [UI]
 	#Photographer name will be shown in Photograph's tooltip.
 	PhotographPhotographerNameTooltip = false
@@ -31,7 +30,6 @@
 		#Allows opening camera controls without dismounting from a vehicle - and keeping controls on sneak as well.
 		#Default: true
 		MiddleClickOpensControls = true
-
 [Capture]
 	#Delay in ticks before capturing an image when shooting with flash.
 	#If you experience flash synchronization issues (Flash having no effect on the image) - try increasing the value.
@@ -42,7 +40,6 @@
 	#(some shaders have temporal effects that take several frames to disappear fully)
 	#Range: 0 ~ 100
 	CaptureDelayFrames = 0
-
 [FileSaving]
 	#When saving, exposures will be placed into folder corresponding to current world name.
 	WorldNameSubfolder = true
@@ -54,7 +51,6 @@
 	Size = "X2"
 	#When the Photograph is viewed in UI, image will be saved to 'exposures' folder as a png.
 	SavePhotographs = true
-
 [Render]
 	#All photographs made by other players will not be rendered.
 	HideAllPhotographsMadeByOthers = false
@@ -64,10 +60,8 @@
 	PhotographFrameCullingDistance = 64
 	#Projected photographs (using Interplanar Projector) made by other players will not be rendered.
 	HideProjectedPhotographsMadeByOthers = false
-
 [Integration]
 	#Useful information about some items will be shown in JEI description category. Default: true
 	JeiInformation = true
 	#[Real Camera] Disable player model rendering when looking through viewfinder. Default: true
 	RealCameraDisableInViewfinder = true
-

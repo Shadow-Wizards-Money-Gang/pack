@@ -1,6 +1,6 @@
 name = "Mob Filter"
 filename = "mobfilter-0.4.2+1.20.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/gRn1FzwR/versions/jjjsoRT4/mobfilter-0.4.2%2B1.20.1.jar"

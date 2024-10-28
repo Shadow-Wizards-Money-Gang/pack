@@ -28,7 +28,6 @@ display_scale = 6
 max_lines = 4
 
 [components]
-
 	#Amount of nbt tags on this item.
 	[components.nbt_count]
 		#Should this tooltip component be included when rendering held item tooltips.
@@ -60,7 +59,6 @@ max_lines = 4
 			obfuscated = false
 			#Should the text in this component appear italic.
 			italic = false
-
 	#Internal identifier of this item.
 	[components.identifier]
 		#Should this tooltip component be included when rendering held item tooltips.
@@ -92,7 +90,6 @@ max_lines = 4
 			obfuscated = false
 			#Should the text in this component appear italic.
 			italic = false
-
 	#A lore tag for this item, only present on custom items.
 	[components.lore]
 		#Should this tooltip component be included when rendering held item tooltips.
@@ -124,7 +121,6 @@ max_lines = 4
 			obfuscated = false
 			#Should the text in this component appear italic.
 			italic = false
-
 	#Additional information supplied by individual items such as potion effect and firework duration.
 	[components.additional]
 		#Should this tooltip component be included when rendering held item tooltips.
@@ -156,7 +152,6 @@ max_lines = 4
 			obfuscated = false
 			#Should the text in this component appear italic.
 			italic = false
-
 	#Durability of this item, only shown if the item is damageable and has been used.
 	[components.durability]
 		#Should this tooltip component be included when rendering held item tooltips.
@@ -188,7 +183,6 @@ max_lines = 4
 			obfuscated = false
 			#Should the text in this component appear italic.
 			italic = false
-
 	#Rendered when this item has the unbreakable tag giving it infinite durability.
 	[components.unbreakable]
 		#Should this tooltip component be included when rendering held item tooltips.
@@ -220,7 +214,6 @@ max_lines = 4
 			obfuscated = false
 			#Should the text in this component appear italic.
 			italic = false
-
 	#Display name of the held item.
 	[components.item_name]
 		#Should this tooltip component be included when rendering held item tooltips.
@@ -252,7 +245,6 @@ max_lines = 4
 			obfuscated = false
 			#Should the text in this component appear italic.
 			italic = false
-
 	#The color of dyed items such a leather armor.
 	[components.coloring]
 		#Should this tooltip component be included when rendering held item tooltips.
@@ -284,7 +276,6 @@ max_lines = 4
 			obfuscated = false
 			#Should the text in this component appear italic.
 			italic = false
-
 	#All enchantments on this item if any are present.
 	[components.enchantments]
 		#Should this tooltip component be included when rendering held item tooltips.
@@ -316,7 +307,6 @@ max_lines = 4
 			obfuscated = false
 			#Should the text in this component appear italic.
 			italic = false
-
 	#Attributes this item provides when used or equipped, like attack damage and armor protection.
 	[components.modifiers]
 		#Should this tooltip component be included when rendering held item tooltips.
@@ -348,4 +338,3 @@ max_lines = 4
 			obfuscated = false
 			#Should the text in this component appear italic.
 			italic = false
-
