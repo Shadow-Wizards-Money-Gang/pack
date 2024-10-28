@@ -669,6 +669,10 @@ file = "config/midnightlib.json"
 hash = "b14c45c6447f9ee5474d70784a2ef96731abbeca1e92485b7599e76e9dce1444"
 
 [[files]]
+file = "config/mobfilter.json5"
+hash = "49c87802e26206052a572d6b38b71f08b6160bf3808ab7f93409b79f002286c4"
+
+[[files]]
 file = "config/mobs_of_mythology.properties"
 hash = "65a0c4b946b3941548c60ab68bc5ac365e508da7bfee3ad177e24da8f3cd9fd1"
 
@@ -1001,6 +1005,14 @@ file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/paladins/sp
 hash = "f1aeb7a5c46a3a3f73f149d5aac4d47be178a13d2bf724483749d4ba827295fe"
 
 [[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/paladins/spell_pools/paladin.json"
+hash = "1e7b0d83981ffa473b237e875d2b86e58417832d7b2acf0f10751abbdc1dd2a2"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/paladins/spell_pools/priest.json"
+hash = "91f347f2da3011caf90d718e153efbbbbcc6a251721c356e59ab4eb94eecf542"
+
+[[files]]
 file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/paladins/spells/barrier.json"
 hash = "152ba59400d0277113e44b548b87edcbafbf4ea2f402f5996a38f3a1cfbb0b97"
 
@@ -1059,34 +1071,6 @@ hash = "53241152c3829f853ee98e9ab5c9a49e03cbe413619878161ebefb368d322ec0"
 [[files]]
 file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/playerex/tags/items/unbreakable.json"
 hash = "298b31cdd753c616d6c3a87a709c52d40eb34ef42cab94059f67c80417993cb7"
-
-[[files]]
-file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/spellbladenext/spell_pools/arcane_battlemage.json"
-hash = "c29d4a5045a00934e6eeb04837d62272e60c2ee565328abb46975e96e09aaded"
-
-[[files]]
-file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/spellbladenext/spell_pools/deathchill.json"
-hash = "541c27df3aa2cd0e07ca2f78653cbfbcdfb6211112d4368a269455b047d796ae"
-
-[[files]]
-file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/spellbladenext/spell_pools/fire_battlemage.json"
-hash = "c29d4a5045a00934e6eeb04837d62272e60c2ee565328abb46975e96e09aaded"
-
-[[files]]
-file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/spellbladenext/spell_pools/frost_battlemage.json"
-hash = "2e1e0cbe8e53c77730403f8e185584883fd0941208213e50feb5157ba03b975a"
-
-[[files]]
-file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/spellbladenext/spell_pools/phoenix.json"
-hash = "58cb999419b1084e98282fb71930cb7d4a5bf47bfb0ca7799db8698b18d1cfcb"
-
-[[files]]
-file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/spellbladenext/spell_pools/runic_echoes.json"
-hash = "0c0f29ff560f19d0a4411a09f3d4b36b5159d053291ec11ce5c21f6666d25315"
-
-[[files]]
-file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/spellbladenext/spell_pools/tabula_rasa.json"
-hash = "d7a8f1629fd98a1037155011a722a078532b29658e0737f14307b0e5c62dfec2"
 
 [[files]]
 file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/spellslabextra/spells/arrow_rain.json"
@@ -2823,8 +2807,8 @@ hash = "706cd603362fec004317ab9882101c71a27e5634d058b516c5d87fc1ddc48636"
 metafile = true
 
 [[files]]
-file = "mods/spellbladenext-1.21.3+1.20.1.jar"
-hash = "a69d9c14dfc1ab87903d06f2731c34d9c119cafa430a3c5720e488eb6c22a1e7"
+file = "mods/spellbladenext-1.21.4+1.20.1.jar"
+hash = "19669927877db9de5c8e360564d477b97321efb13fbe1eba85759b1016d22dba"
 
 [[files]]
 file = "mods/spells-lab-extras.pw.toml"
