@@ -21,7 +21,8 @@
 		"soundEvent": "minecraft:block.note_block.chime"
 	},
 	"mentionKeywords": [
-		"@Zankrid"
+		"@Zankrid",
+		"@SantyPlays"
 	],
 	"ignoreSystemChats": false,
 	"enableChatSoundCooldown": false,

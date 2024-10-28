@@ -1,0 +1,6 @@
+#The maximum discount a trade can have. Vanilla Minecraft is equivalent to 1.0. Must be between 0.0 and 1.0.
+MaxDiscount = 0.5
+#Whether villager professions are fixed upon acquiring them. Must be either true or false.
+FixedProfession = false
+#Whether villager trades are fixed to their profession upon generation. Must be either true or false.
+FixedTrades = true

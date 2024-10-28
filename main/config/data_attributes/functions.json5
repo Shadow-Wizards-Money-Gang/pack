@@ -1,0 +1,4 @@
+{
+	// attribute functions are able to compute child attributes based on an increment/decrement, or multiplication of a parent attribute.
+	"entries": { }
+}

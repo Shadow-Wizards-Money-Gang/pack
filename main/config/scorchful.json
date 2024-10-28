@@ -5,8 +5,10 @@
   },
   "clientConfig": {
     "doBurningHeartOverlay": true,
+    "doSoakingOverlay": true,
     "doSunHatShading": true,
     "enableSoundTemperatureEffects": true,
+    "enableWetDripParticles": true,
     "enableHeatStrokePostProcessing": true,
     "sunHatShadeOpacity": 0.2,
     "enableSandstormParticles": true,
@@ -20,6 +22,7 @@
   },
   "heatingConfig": {
     "doPassiveHeating": true,
+    "passiveHeatingTickInterval": 1,
     "maxPassiveHeatingScale": 1.0,
     "enableTurtleArmorEffects": true,
     "coolingFromIce": 12,

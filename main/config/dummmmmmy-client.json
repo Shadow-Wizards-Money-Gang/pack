@@ -5,6 +5,7 @@
     "show_hearths": false,
     "damage_numbers": true,
     "full_bright_damage_numbers": true,
+    "hay_particles": true,
     "texture": "DEFAULT",
     "damage_type_colors": {
       "minecraft:generic": "#00FFFFFF",

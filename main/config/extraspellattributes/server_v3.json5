@@ -1,4 +1,34 @@
 {
+	// Enchantments exclusive with each other - Default: True
+	"exclusiveEachOther": true,
+	// Enchantments exclusive with protection - Default: False
+	"exclusiveProtection": false,
+	// Warding enchant bonus per 1 level - Default: 1.0
+	"wardingenchant": 1.0,
+	// Battle Rouse enchant bonus per 1 level - Default: 0.04
+	"battlerouseenchant": 0.03999999910593033,
+	// Defiance enchant bonus per 1 level - Default: 0.25
+	"defianceEnchant": 0.25,
+	// Evasion enchant bonus per 1 level - Default: 0.04
+	"evasionEnchant": 0.03999999910593033,
+	// Spellbreak enchant bonus per 1 level - Default: 0.04
+	"spellbreakEnchant": 0.03999999910593033,
+	// Suppressing enchant bonus per 1 level - Default: 0.04
+	"suppressingEnchant": 0.03999999910593033,
+	// Glancing Blow damage factor - Default: 0.65
+	"glancingBlowFactor": 0.6499999761581421,
+	// Suppression damage factor - Default: 0.5
+	"suppressionDamageFactor": 0.5,
+	// Spellbreak damage factor - Default: 0.0
+	"spellbreakDamageFactor": 0.0,
+	// Max spellbreak - Default: 0.75
+	"maxSpellbreak": 0.75,
+	// Reabsorption regeneration factor (proportion of 25% of maximum per second) - Default: 1.0
+	"factor": 1.0,
+	// Reabsorption regeneration delay in seconds - Default: 4.0
+	"delay": 4.0,
+	// Reabsorption custom visuals (Default: true)
+	"visuals": true,
 	// Registration of turtle bracer
 	"turtle_bracer": true,
 	// Mod of turtle bracer

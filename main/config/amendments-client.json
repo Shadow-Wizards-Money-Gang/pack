@@ -57,8 +57,11 @@
   },
   "misc": {
     "torch_item_holding": true,
-    "handle_holder_item_holding": true,
+    "torch_item_size": 1.0,
+    "candle_holder_item_holding": true,
+    "handle_holder_item_size": 0.625,
     "fixed_holding_animations": false,
-    "sign_text_color_multiplier": 1.2
+    "sign_text_color_multiplier": 1.2,
+    "campfire_smoke_through_blocks": false
   }
 }

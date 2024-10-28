@@ -1,11 +1,9 @@
-
 [dimension]
 	#Determines if dimensionsList contains allowed dimensions or denied dimensions.
 	#Allowed Values: DENY, ALLOW
 	dimensionsListType = "DENY"
 	#Dimensions for empowered undead.
 	dimensionsList = []
-
 [vulnerability]
 	#The number of seconds that vulnerability from fire lasts.
 	#Range: 0 ~ 100
@@ -15,7 +13,6 @@
 	#The number of seconds that vulnerability from holy sources lasts.
 	#Range: 0 ~ 100
 	holyVulnerableDuration = 10
-
 [undying]
 	#The undying bonus speed modifier as a percent increase.
 	#Range: 0 ~ 1000
@@ -31,4 +28,3 @@
 	healthRegeneration = 1
 	#If enabled, default undead creatures will be given the undying trait.
 	giveDefaultUndeadUndying = true
-

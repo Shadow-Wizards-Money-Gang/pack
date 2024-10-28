@@ -1,0 +1,9 @@
+{
+  "#README": "This config file does not support comments. To see them configure it in-game using YACL or Cloth Config",
+  "nuke_all": false,
+  "nuke_recipes": true,
+  "nuke_mods": [],
+  "whitelist_keywords": [
+    "bumblezone:root"
+  ]
+}
