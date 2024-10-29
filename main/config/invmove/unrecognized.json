@@ -7,13 +7,17 @@
     "xerca.xercamusic.client.GuiInstrument": true,
     "net.spell_engine.spellbinding.SpellBindingScreen": true,
     "com.bibireden.playerex.ui.PlayerEXScreen": true,
-    "dev.cammiescorner.arcanuscontinuum.client.gui.screens.SpellcraftScreen": true
+    "dev.cammiescorner.arcanuscontinuum.client.gui.screens.SpellcraftScreen": true,
+    "com.mrcrayfish.backpacked.client.gui.screen.inventory.BackpackScreen": true,
+    "com.mrcrayfish.backpacked.client.gui.screen.CustomiseBackpackScreen": true
   },
   "hideBackground": {
     "folk.sisby.antique_atlas.gui.AtlasScreen": true,
     "com.github.clevernucleus.playerex.client.gui.ExScreen": true,
     "mezz.jei.gui.recipes.RecipesGui": true,
     "net.spell_engine.spellbinding.SpellBindingScreen": true,
-    "dev.cammiescorner.arcanuscontinuum.client.gui.screens.SpellcraftScreen": true
+    "dev.cammiescorner.arcanuscontinuum.client.gui.screens.SpellcraftScreen": true,
+    "com.mrcrayfish.backpacked.client.gui.screen.inventory.BackpackScreen": true,
+    "com.mrcrayfish.backpacked.client.gui.screen.CustomiseBackpackScreen": true
   }
 }

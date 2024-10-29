@@ -134,7 +134,7 @@ hash = "60df30348c78814befb0d89b173d49dd5543a9da7f0a928d5405e3543c558849"
 
 [[files]]
 file = "config/bettercombatextension/server.json5"
-hash = "7c516f41acdf3a295a7d8e93146d998469e8c046b222baac14ba2549b1a6a5c7"
+hash = "a867f3a9cd5fcbc0e13730df53143bdacb1d969c3c71a1f16e8c81e1833d501e"
 
 [[files]]
 file = "config/betterdeserttemples-fabric-1_20.toml"
@@ -422,7 +422,7 @@ hash = "a689f61dcbf04750bb206587275e34ff3105f7b3eed8a29c6a08714c9d76c8be"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "562e4f5074724e96c1f393bf498141483fe470a43c1e2fd94b52c6672cc13eb8"
+hash = "ffc943350929d4562ffb4edee40e4a3271e0b4f7d61296d5415d4dfb1ae11b79"
 
 [[files]]
 file = "config/fabricskyboxes-config.json"
@@ -462,7 +462,7 @@ hash = "ebeeb3ad6a574d20f2fabaffd46b0cd8cebcfa5cdd63efd3c8faeb26162b6388"
 
 [[files]]
 file = "config/frostiful.json"
-hash = "63e3434a649381763ff66dcc0b5306ec251453f6f2d960dc27c650fcfcee2c72"
+hash = "27838128940db86f5a12df29907fb154dd4fbfe16ec8dcd90c33675da12aa793"
 
 [[files]]
 file = "config/fullyenchanced.json"
@@ -502,7 +502,7 @@ hash = "18f35367a756de0dec235774a24eae56162c31ce43c12b7c0c8bb8e8fe38bed3"
 
 [[files]]
 file = "config/indium-renderer.properties"
-hash = "094e2e00c0c4dd1817eeb3411ad61498297498df3649730349bd11b17480498d"
+hash = "13ea454117aa4727c0ac30c834d19545350fc41187bd55e7f2b81b9655b9f49b"
 
 [[files]]
 file = "config/invmove.json"
@@ -510,7 +510,7 @@ hash = "f07273670fb6fbd2012d7a63e2453826f00e42dd82efb3ea82a4d81894f3b410"
 
 [[files]]
 file = "config/invmove/unrecognized.json"
-hash = "210f48a0b1535550f71218c8cfd3c27487f68ca80ad911fb4b26767dbf54dbf5"
+hash = "3b20acecc8ade3942ac55ce8cbab1855c5cc9a10d339406b11676a454c67519b"
 
 [[files]]
 file = "config/invmove/vanilla.json"
@@ -518,7 +518,7 @@ hash = "e2c5633901520e37f24995b2fd0f619af5cdb3fb6acd70e4a5ddd0f8f6c2a352"
 
 [[files]]
 file = "config/iris.properties"
-hash = "4655ad48ab9dfe198bbc72195400250f5f81e095238a8e463f4b2f00af21a0a8"
+hash = "259b49bb6993f2504f438c099802f830707639e9387fcb0bb0ee1d5082657cb2"
 
 [[files]]
 file = "config/item_obliterator.json5"
@@ -538,7 +538,7 @@ hash = "5064fb08f3a4af3321de4746ac60fe83ac464732b684a38c68d97ad2c4bce440"
 
 [[files]]
 file = "config/jei/jei-client.ini"
-hash = "cba337712ed12b05bbbe3c7a046d88cdba7c2b301f4dbcfb47cfd82e3759897e"
+hash = "84853f772f2aa9d9670bdfa25b7f28508397fe58e9e61c20591e34a60a493123"
 
 [[files]]
 file = "config/jei/jei-colors.ini"
@@ -618,7 +618,7 @@ hash = "bd4b88a98aec1426b6c79c43ddf6438c7d58569d0d43d42ff0d9d24a7195acae"
 
 [[files]]
 file = "config/lambdynlights.toml"
-hash = "e115cdd17f8c81c8c1b1ac808040ae1767b2f98fb2b9291477d03e1a34246210"
+hash = "b3b14161d241826ec098eb601bb78372cfef25d45a9bc9194a4cadc110cd349a"
 
 [[files]]
 file = "config/leaky.json"
@@ -746,7 +746,7 @@ hash = "04e13fe2902072703b859be66a9610f1d012122491a855e133dcbf747bd24664"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "9039de63a17c69a13577aee71d506f96fa0f9c1a72ebc832151eaebd09e8e9e1"
+hash = "de38a1495b436418447bf048981660a3c640ec80fc9c564e06ab9cc77aadeb2f"
 
 [[files]]
 file = "config/paladins/effects.json"
@@ -1434,7 +1434,7 @@ hash = "60577cf7d8c68f47fa223d6f60aa03553ab3a89e603fe504d09168fb2275139c"
 
 [[files]]
 file = "config/rpg_series/tag_cache.json"
-hash = "be049f9cc16f8ce707d5fe24d4bf97a4d6289b4316caf79c72c5ee5b91de3ec2"
+hash = "19e4297a54ce8f1d652f7980058dce6038b2e178b0fb085cee86fb70c8428899"
 
 [[files]]
 file = "config/rrp.properties"
@@ -1442,7 +1442,7 @@ hash = "2b55336124a4bffde3ca13a8eb97db80e48ad0f36a05a8d901523ff75fb95683"
 
 [[files]]
 file = "config/scorchful.json"
-hash = "6ba4d3d5f6d5c8aff36084c71ba88c3f54cab4b1861eb419ac35fdbe4a45d41f"
+hash = "6fe7b63a307f8663869bfdf747091d954d788a7a0c0ed0171ba8efdbdee1d781"
 
 [[files]]
 file = "config/scout.css"
@@ -1462,7 +1462,7 @@ hash = "299965ce464b4c0bb4a79dfd2dba2cdfd63f3360628b0d5b0d3b3988003f4f0d"
 
 [[files]]
 file = "config/shadow-wizards-api.json5"
-hash = "0c36ec55a50b297caf05a6d70c2952b2005031bb0714b2cec60ccfd69c735612"
+hash = "620131254bc7ce626487c55f364383a82074553cb228ad7cedcb7315f3b27e64"
 
 [[files]]
 file = "config/shadow-wizards.json5"
@@ -1506,15 +1506,15 @@ hash = "7620262e9a6f3bc0d285e9d29c56b8f2d3e1a520bbd459820d2a1e6d4c4b5fc0"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "59c5eefda1f4cd910ddce5d1078bea9845f01211f40aec6c790996fa7ddb96b7"
+hash = "0cc1a0fa3d02b9de6dba9f377e4e8b6e849ec559c3298e1207c9db112d8f0848"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "55a2299f4d8089d9198f7b015655947a697666d49c2c816f0c8a00a91e0dd655"
+hash = "7be15b1ae3b8147b0599624ec486e96387b631b5b57e9591df9519b5d0dc21a8"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "7931438a7e48cf2d27edefa28c0e281264ea8ccd2ebd1f33f677460066674855"
+hash = "102785c59567a2bda26ff64c50ae0758f28d6b30d9e711a289fa93782dddf968"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -1557,6 +1557,10 @@ file = "config/spark/tmp/about.txt"
 hash = "8057ccf4540ea269b0fc332225859f44d8f3a55d891fa2e7a3447b6202658d2a"
 
 [[files]]
+file = "config/spark/tmp/spark-9e153ceed26-profile-data.jfr.tmp"
+hash = "e45aa8080b392fdc33387b656974a24f9b481d6b9f5dd961f3810e06453af50f"
+
+[[files]]
 file = "config/spell_engine/client.json5"
 hash = "cf0497eb6937b5a745c3cf9bce50000166bcb6befddc20b0daea54975cf0d37f"
 
@@ -1570,7 +1574,7 @@ hash = "0b5bdb344e4a4f804a7ff5a7d2ebad5d59f98ddd2aa4d5bc810cfc8feceb473b"
 
 [[files]]
 file = "config/spell_engine/server.json5"
-hash = "9e4a16a04f8c5c6e667a0ccab182b045acabd32c6da0d202e0f605ce5ce32f34"
+hash = "8de161509536c57ef0a0f4395ea324c30d7be5851e973156e8b54a9d5ad582da"
 
 [[files]]
 file = "config/spell_power/attributes.json"
@@ -2744,7 +2748,7 @@ metafile = true
 
 [[files]]
 file = "mods/shadow-wizards-0.3.2.jar"
-hash = "6c172302d1090770b8326917b501fb0e76af64b457fdc3da273e2cb584562304"
+hash = "b427983a36292d93f8dcdf46968d8dbb227c2933ed57a2a9ae360502a8f75148"
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"

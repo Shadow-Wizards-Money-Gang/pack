@@ -6,6 +6,10 @@
       "wizards:wizard_robe_feet",
       "wizards:wizard_robe_head",
       "wizards:wizard_robe_legs",
+      "archers:archer_armor_chest",
+      "archers:archer_armor_feet",
+      "archers:archer_armor_head",
+      "archers:archer_armor_legs",
       "rogues:rogue_armor_chest",
       "rogues:rogue_armor_feet",
       "rogues:rogue_armor_head",
@@ -21,11 +25,7 @@
       "paladins:priest_robe_chest",
       "paladins:priest_robe_feet",
       "paladins:priest_robe_head",
-      "paladins:priest_robe_legs",
-      "archers:archer_armor_chest",
-      "archers:archer_armor_feet",
-      "archers:archer_armor_head",
-      "archers:archer_armor_legs"
+      "paladins:priest_robe_legs"
     ],
     "rpg_series:tier_2_armors": [
       "wizards:arcane_robe_chest",
@@ -40,6 +40,10 @@
       "wizards:frost_robe_feet",
       "wizards:frost_robe_head",
       "wizards:frost_robe_legs",
+      "archers:ranger_armor_chest",
+      "archers:ranger_armor_feet",
+      "archers:ranger_armor_head",
+      "archers:ranger_armor_legs",
       "rogues:assassin_armor_chest",
       "rogues:assassin_armor_head",
       "rogues:assassin_armor_feet",
@@ -55,11 +59,7 @@
       "paladins:prior_robe_chest",
       "paladins:prior_robe_feet",
       "paladins:prior_robe_head",
-      "paladins:prior_robe_legs",
-      "archers:ranger_armor_chest",
-      "archers:ranger_armor_feet",
-      "archers:ranger_armor_head",
-      "archers:ranger_armor_legs"
+      "paladins:prior_robe_legs"
     ],
     "rpg_series:tier_3_armors": [],
     "rpg_series:tier_0_accessories": [
@@ -76,6 +76,11 @@
       "wizards:staff_netherite_arcane",
       "wizards:staff_netherite_fire",
       "wizards:staff_netherite_frost",
+      "archers:netherite_shortbow",
+      "archers:netherite_longbow",
+      "archers:netherite_rapid_crossbow",
+      "archers:netherite_heavy_crossbow",
+      "archers:netherite_spear",
       "rogues:netherite_dagger",
       "rogues:netherite_sickle",
       "rogues:netherite_double_axe",
@@ -83,12 +88,7 @@
       "paladins:netherite_mace",
       "paladins:netherite_great_hammer",
       "paladins:netherite_claymore",
-      "paladins:netherite_holy_staff",
-      "archers:netherite_shortbow",
-      "archers:netherite_longbow",
-      "archers:netherite_rapid_crossbow",
-      "archers:netherite_heavy_crossbow",
-      "archers:netherite_spear"
+      "paladins:netherite_holy_staff"
     ],
     "rpg_series:tier_2_accessories": [
       "jewelry:ruby_ring",
@@ -121,10 +121,13 @@
       "paladins:netherite_kite_shield"
     ],
     "rpg_series:tier_1_weapons": [
+      "wizards:staff_wizard",
       "spellbladenext:fire_blade",
       "spellbladenext:arcane_blade",
       "spellbladenext:frost_blade",
-      "wizards:staff_wizard",
+      "minecraft:crossbow",
+      "archers:composite_longbow",
+      "archers:iron_spear",
       "rogues:iron_dagger",
       "rogues:iron_sickle",
       "rogues:iron_double_axe",
@@ -132,12 +135,10 @@
       "paladins:iron_mace",
       "paladins:iron_great_hammer",
       "paladins:iron_claymore",
-      "paladins:holy_staff",
-      "minecraft:crossbow",
-      "archers:composite_longbow",
-      "archers:iron_spear"
+      "paladins:holy_staff"
     ],
     "rpg_series:golden_weapons": [
+      "archers:golden_spear",
       "rogues:golden_dagger",
       "rogues:golden_sickle",
       "rogues:golden_double_axe",
@@ -145,8 +146,7 @@
       "paladins:golden_claymore",
       "paladins:golden_great_hammer",
       "paladins:golden_mace",
-      "paladins:golden_kite_shield",
-      "archers:golden_spear"
+      "paladins:golden_kite_shield"
     ],
     "rpg_series:tier_2_weapons": [],
     "rpg_series:tier_4_accessories": [
@@ -169,14 +169,14 @@
     ],
     "rpg_series:tier_0_weapons": [
       "wizards:wand_novice",
+      "minecraft:bow",
+      "archers:flint_spear",
       "rogues:flint_dagger",
       "rogues:stone_double_axe",
       "paladins:wooden_great_hammer",
       "paladins:stone_great_hammer",
       "paladins:stone_claymore",
-      "paladins:acolyte_wand",
-      "minecraft:bow",
-      "archers:flint_spear"
+      "paladins:acolyte_wand"
     ]
   }
 }

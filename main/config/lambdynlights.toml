@@ -100,6 +100,9 @@ mode = "fancy"
 			[light_sources.settings.entities.fallingtrees]
 				tree = true
 
+			[light_sources.settings.entities.paladins]
+				barrier = true
+
 			[light_sources.settings.entities.uselessreptile]
 				moleclaw = true
 				wyvern_projectile = true
@@ -194,6 +197,9 @@ mode = "fancy"
 			[light_sources.settings.entities.dummmmmmy]
 				target_dummy = true
 
+			[light_sources.settings.entities.frostiful]
+				frost_tipped_arrow = true
+
 			[light_sources.settings.entities.caligo]
 				strow = true
 				deep_strow = true
@@ -201,4 +207,7 @@ mode = "fancy"
 			[light_sources.settings.entities.dungeonnowloading]
 				spawner_carrier = true
 				chaos_spawner = true
+
+			[light_sources.settings.entities.yungscavebiomes]
+				ice_cube = true
 
