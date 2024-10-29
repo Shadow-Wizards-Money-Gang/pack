@@ -21,7 +21,7 @@
     "sandStormFogEnd": 64.0
   },
   "heatingConfig": {
-    "doPassiveHeating": true,
+    "doPassiveHeating": false,
     "passiveHeatingTickInterval": 1,
     "maxPassiveHeatingScale": 1.0,
     "enableTurtleArmorEffects": true,

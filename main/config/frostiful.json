@@ -12,7 +12,7 @@
     "enableConfigUpdates": true
   },
   "environmentConfig": {
-    "doDryBiomeNightFreezing": true,
+    "doDryBiomeNightFreezing": false,
     "nightTemperatureShift": -1,
     "coldBiomeTemperatureChange": -1,
     "freezingBiomeTemperatureChange": -3,

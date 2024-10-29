@@ -462,7 +462,7 @@ hash = "ebeeb3ad6a574d20f2fabaffd46b0cd8cebcfa5cdd63efd3c8faeb26162b6388"
 
 [[files]]
 file = "config/frostiful.json"
-hash = "63e3434a649381763ff66dcc0b5306ec251453f6f2d960dc27c650fcfcee2c72"
+hash = "27838128940db86f5a12df29907fb154dd4fbfe16ec8dcd90c33675da12aa793"
 
 [[files]]
 file = "config/fullyenchanced.json"
@@ -1442,7 +1442,7 @@ hash = "2b55336124a4bffde3ca13a8eb97db80e48ad0f36a05a8d901523ff75fb95683"
 
 [[files]]
 file = "config/scorchful.json"
-hash = "6ba4d3d5f6d5c8aff36084c71ba88c3f54cab4b1861eb419ac35fdbe4a45d41f"
+hash = "6fe7b63a307f8663869bfdf747091d954d788a7a0c0ed0171ba8efdbdee1d781"
 
 [[files]]
 file = "config/scout.css"
