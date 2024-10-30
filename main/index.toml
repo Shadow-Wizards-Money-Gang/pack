@@ -2113,7 +2113,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "0a76afce4e59fe451021c364818f63577f2c8eb7128f31a22431523cb0f57013"
+hash = "679dc8c14612e1fcad5c5d44e651c59885ab6abe6fac73fed51edd428deeb759"
 metafile = true
 
 [[files]]
@@ -2252,11 +2252,6 @@ hash = "31debdc5b3f34599e7641d421a253d92f5966d20956a3b4f741824f810c39a8f"
 metafile = true
 
 [[files]]
-file = "mods/fully-enchanced.pw.toml"
-hash = "1700ab898a3d9118c71448bca6247ebf358aa1e971e2800a02d47a10fa0aa5e4"
-metafile = true
-
-[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "dc59c6208d7b2e6c2609e0a2d0aadbe4c24a2090abf9afaad1fd21f33b521a2d"
 metafile = true
@@ -2312,7 +2307,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "56725eac541eb27d7e13efc17b24025ce8139c2a70b000a528eb30093149cdda"
+hash = "f4de05e69135c21ec307b290c73f3c2275241653ddf3a5c01e9a9610e8254e9d"
 metafile = true
 
 [[files]]
@@ -2387,7 +2382,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "a73defaa93f5622ec5efbbcb9f8dd71f9ed4d0d27c8376fe14cc1ac41d0ff3f9"
+hash = "8e3536092375aecb58eff2d81714fab7a3272375c9e6e19481ea500e6fbd9726"
 metafile = true
 
 [[files]]
@@ -2442,7 +2437,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "b00304db3f1f6da875c7792c84f5587784fc69e47ae96fe228871ad35d32ea7a"
+hash = "eb7bbfeb8898ec2ff5ff09bcd541d0bd924018847611d4140ba34409331bcaf8"
 metafile = true
 
 [[files]]
@@ -2526,7 +2521,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "dea55f5ea5cab1b0a06859128231c429bfcbaf03e11ee3b41e01ee14aaf7d666"
+hash = "112bfab29c52e2740c3ac0f1a698e4516af95dee83f3087dda900b7e2c5ecc03"
 metafile = true
 
 [[files]]
@@ -2536,7 +2531,7 @@ metafile = true
 
 [[files]]
 file = "mods/mru.pw.toml"
-hash = "eaebdf1031ae8f0aabdd823dcddd4a50990f14f931f9317caf67efa479c15181"
+hash = "af08167c54469e813be96edb6240390513c74f8810e55a8d2431799ec6838815"
 metafile = true
 
 [[files]]
@@ -2747,8 +2742,8 @@ hash = "182161aa8e4b730555dd9984efb7be8cfd3debbaf1d4cc60e0b3241402e6f2bc"
 metafile = true
 
 [[files]]
-file = "mods/shadow-wizards-0.3.2.jar"
-hash = "b427983a36292d93f8dcdf46968d8dbb227c2933ed57a2a9ae360502a8f75148"
+file = "mods/shadow-wizards-0.3.3.jar"
+hash = "049393ca17bfae08da81d2588e5a4e6c69c3cc2d278e23c5db4d1ecb9b7fa2f0"
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
@@ -2787,7 +2782,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
-hash = "57a1d1fc1098912a65b7ed7b823d128c1e6bd7de0c0380f4c128788f0d6a9258"
+hash = "220a8c3b1d9d5ffcf7f614f1a526f4e7f35b8984d2e8b523aee3a2ea1e6aea77"
 metafile = true
 
 [[files]]
