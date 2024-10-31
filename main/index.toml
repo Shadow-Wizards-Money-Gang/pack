@@ -954,7 +954,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/enchancement/tags/items/retains_durability.json"
-hash = "c69b995e70731f675072c57489ed167f4d776072777b77a3f375fda3df455108"
+hash = "37a47c538abb088e2227af70d68f4985b4752ebdb38a0b700f7ec35dd9a8e93f"
 
 [[files]]
 file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/guardvillagers/loot_tables/entities/guard_chestplate.json"
@@ -2742,8 +2742,8 @@ hash = "182161aa8e4b730555dd9984efb7be8cfd3debbaf1d4cc60e0b3241402e6f2bc"
 metafile = true
 
 [[files]]
-file = "mods/shadow-wizards-0.3.3.jar"
-hash = "049393ca17bfae08da81d2588e5a4e6c69c3cc2d278e23c5db4d1ecb9b7fa2f0"
+file = "mods/shadow-wizards-0.3.4.jar"
+hash = "9d7970bd1ee5e5225136a93a0a01ceece43860cdfa4a776e7ff1f628d200b2d4"
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
