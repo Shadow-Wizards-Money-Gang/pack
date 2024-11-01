@@ -2649,11 +2649,6 @@ hash = "626aec5ea73e3089455b7e1e76a3a3dd1d0fd407f31f51bd5a51190bdf756d45"
 metafile = true
 
 [[files]]
-file = "mods/qkl.pw.toml"
-hash = "47217cc1489533f668d622f2078351a61873be573311a9a94be7293328a849a7"
-metafile = true
-
-[[files]]
 file = "mods/qsl.pw.toml"
 hash = "9e9da779b67e9a944da81e921ff76c3388dfe9a475a3ff4f597b27af814cd28a"
 metafile = true
@@ -2856,11 +2851,6 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "e63f3f83f8e4a90b0a604ef29863cf371d9af163e763f1df5524c64341a830ed"
-metafile = true
-
-[[files]]
-file = "mods/surveyor-atlases.pw.toml"
-hash = "ce2e6c8e657a2c7acb23bb0ab49e02c3ee1aa34bc6f3e3a7238132fe0d2ff09d"
 metafile = true
 
 [[files]]
