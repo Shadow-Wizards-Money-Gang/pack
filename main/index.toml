@@ -298,7 +298,7 @@ hash = "54c5606e845fa2f939fe3a574c803c3abb9fc357c722e0ec5f86b05e7c35a6d3"
 
 [[files]]
 file = "config/deathbackup.json5"
-hash = "e96cb6bacbddf60b7912a750140818c7bf675a13c9bc8cc14b43cb059c38a0e8"
+hash = "9292dabe8b0a5a4b0118b4cacbd6a548234cb31d27e85e65d685fd1aaa414833"
 
 [[files]]
 file = "config/debugify-descriptions.json"
@@ -1462,7 +1462,7 @@ hash = "299965ce464b4c0bb4a79dfd2dba2cdfd63f3360628b0d5b0d3b3988003f4f0d"
 
 [[files]]
 file = "config/shadow-wizards-api.json5"
-hash = "620131254bc7ce626487c55f364383a82074553cb228ad7cedcb7315f3b27e64"
+hash = "7e8c3783b877238731138562982f9227d2f5e0e78cf85ce14c1d224c232cc08c"
 
 [[files]]
 file = "config/shadow-wizards.json5"
@@ -2407,7 +2407,7 @@ metafile = true
 
 [[files]]
 file = "mods/leawind-third-person.pw.toml"
-hash = "a4c779b9a1269722443b010e90a62b74f005d7bbee81a8789418c546298760ef"
+hash = "b6eb2e6bf1fbbd0e41ed13fc19baa7b747d0bbbc19c75f7ba30ac76d52eb6316"
 metafile = true
 
 [[files]]
@@ -2521,7 +2521,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "112bfab29c52e2740c3ac0f1a698e4516af95dee83f3087dda900b7e2c5ecc03"
+hash = "3cd29f937a1272c48007e367452da9a4ef6254226c170de12fbde38077fd6bdc"
 metafile = true
 
 [[files]]
@@ -2646,6 +2646,11 @@ metafile = true
 [[files]]
 file = "mods/pv-addon-soundphysics.pw.toml"
 hash = "626aec5ea73e3089455b7e1e76a3a3dd1d0fd407f31f51bd5a51190bdf756d45"
+metafile = true
+
+[[files]]
+file = "mods/qkl.pw.toml"
+hash = "47217cc1489533f668d622f2078351a61873be573311a9a94be7293328a849a7"
 metafile = true
 
 [[files]]
@@ -2854,6 +2859,11 @@ hash = "e63f3f83f8e4a90b0a604ef29863cf371d9af163e763f1df5524c64341a830ed"
 metafile = true
 
 [[files]]
+file = "mods/surveyor-atlases.pw.toml"
+hash = "ce2e6c8e657a2c7acb23bb0ab49e02c3ee1aa34bc6f3e3a7238132fe0d2ff09d"
+metafile = true
+
+[[files]]
 file = "mods/surveyor.pw.toml"
 hash = "272d6f810e6ab5d2626b7822252558b68ed69237dd3f3906abcae3c347070735"
 metafile = true
@@ -2991,14 +3001,6 @@ metafile = true
 file = "mods/yungs-cave-biomes-fabric.pw.toml"
 hash = "180930fada48ba5e18802943c83fe0805803fba6f9a2fda04977b184aad9378a"
 metafile = true
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.2.1.zip"
-hash = "3eeefb1c7a3bfba61a03f1fbe79eab4d44b375450254ace147877896c7b1765f"
-
-[[files]]
-file = "shaderpacks/rethinking-voxels_r0.1-beta4-fix2.zip"
-hash = "9f6f9d1667692934657162846253a7d313ad82524dd07a8e72a4cb424b01cf5b"
 
 [[files]]
 file = "unsup.toml"

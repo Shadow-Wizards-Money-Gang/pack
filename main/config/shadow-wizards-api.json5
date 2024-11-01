@@ -2,7 +2,9 @@
 	"BLACKLISTED_PLACING_STAT_BLOCKS": [
 		"minecraft:end_crystal",
 		"minecraft:enchanting_table",
-		"minecraft:brewing_stand"
+		"minecraft:brewing_stand",
+		"minecraft:bee_nest",
+		"minecraft:bee_hive"
 	],
 	"SOFT_LOCKED_ITEMS": [],
 	"BANNED_ITEMS": [],
@@ -24,6 +26,22 @@
 			0,
 			0,
 			0
+		],
+		"minecraft:bee_nest": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			9
+		],
+        "minecraft:bee_hive": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			9
 		],
 		"bountifulfares:green_tea_candle": [
 			0,
