@@ -13,10 +13,10 @@
   },
   "environmentConfig": {
     "doDryBiomeNightFreezing": false,
-    "nightTemperatureShift": -1,
-    "coldBiomeTemperatureChange": -1,
-    "freezingBiomeTemperatureChange": -3,
-    "rainWetnessIncrease": 1,
+    "nightTemperatureShift": 0,
+    "coldBiomeTemperatureChange": 0,
+    "freezingBiomeTemperatureChange": 0,
+    "rainWetnessIncrease": 0,
     "touchingWaterWetnessIncrease": 5,
     "dryRate": 1,
     "onFireDryDate": 50,
@@ -51,7 +51,7 @@
     "skateUpgradeTemplateGenerateChance": 0.33
   },
   "freezingConfig": {
-    "doPassiveFreezing": true,
+    "doPassiveFreezing": false,
     "doWindSpawning": true,
     "windSpawnStrategy": "POINT",
     "spawnWindInAir": true,

@@ -23,7 +23,7 @@
 
 	   Default: 15.0
 	*/
-	"attack_pitch_range": 15.0,
+	"attack_pitch_range": 45.0,
 	/* Enables an alternative two_handed condition.
 	   If the offhand stack is empty and this is true, the mainhand stack is two_handed
 	   This is not active if the "two_handed" field in the weapon_attribute file is set to true.

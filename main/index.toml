@@ -134,7 +134,7 @@ hash = "60df30348c78814befb0d89b173d49dd5543a9da7f0a928d5405e3543c558849"
 
 [[files]]
 file = "config/bettercombatextension/server.json5"
-hash = "a867f3a9cd5fcbc0e13730df53143bdacb1d969c3c71a1f16e8c81e1833d501e"
+hash = "65c04692bd5a907b735f3a5802fad4a6b0e86503c92a445ff3e262ee5e59f00c"
 
 [[files]]
 file = "config/betterdeserttemples-fabric-1_20.toml"
@@ -462,7 +462,7 @@ hash = "ebeeb3ad6a574d20f2fabaffd46b0cd8cebcfa5cdd63efd3c8faeb26162b6388"
 
 [[files]]
 file = "config/frostiful.json"
-hash = "27838128940db86f5a12df29907fb154dd4fbfe16ec8dcd90c33675da12aa793"
+hash = "63eefa6b3dd46230613c9cdc9917eb2a27b8ce6a981fb466f7bc539c3aa6ae28"
 
 [[files]]
 file = "config/fullyenchanced.json"
@@ -1462,7 +1462,7 @@ hash = "299965ce464b4c0bb4a79dfd2dba2cdfd63f3360628b0d5b0d3b3988003f4f0d"
 
 [[files]]
 file = "config/shadow-wizards-api.json5"
-hash = "7e8c3783b877238731138562982f9227d2f5e0e78cf85ce14c1d224c232cc08c"
+hash = "be16ee74b9dd6704bc95bf6e95ef78adc6a86051b43c9a875667bba1512e1ec5"
 
 [[files]]
 file = "config/shadow-wizards.json5"
@@ -1849,6 +1849,11 @@ metafile = true
 [[files]]
 file = "mods/areas.pw.toml"
 hash = "dd043c29e6b038696b709a25ff45b5c0323137679acc2dac6f7f5fde4da53108"
+metafile = true
+
+[[files]]
+file = "mods/artsandcrafts.pw.toml"
+hash = "2ae1f6eedd5be0059c64d842fa383d950b5c1b5d5a4a938b011497bdbf4a5eab"
 metafile = true
 
 [[files]]
@@ -2854,7 +2859,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "da1f3332aa3fb39450944cbbbb0b5987c903d3c3eac06cd79ee41326da2561c7"
+hash = "88a320cf3f48a2973bd7fc4d6e3d65a746d14a548185496b043ecf260e82e75e"
 metafile = true
 
 [[files]]
