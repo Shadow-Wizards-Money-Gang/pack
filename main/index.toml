@@ -2068,7 +2068,7 @@ metafile = true
 
 [[files]]
 file = "mods/dramatic-doors.pw.toml"
-hash = "dac6d0e60317188914d4d344b2e84250adac428ab8575a4d93606f8ca40f3e0c"
+hash = "299ad211422fefa7b4af86b12cfd8e2fc573ca5f69b1ff5b730503e0f4aa0f50"
 metafile = true
 
 [[files]]
@@ -2210,6 +2210,10 @@ metafile = true
 file = "mods/faster-random.pw.toml"
 hash = "31cd9b39f38befed65a8607df20ab6f5e3f43cdf260829d7fc56e400fad12924"
 metafile = true
+
+[[files]]
+file = "mods/faunus-pre1.jar"
+hash = "ceb6fd10d11253d63d438257a5dba2715dbe0ba5562f65c3dfdce59d7687d269"
 
 [[files]]
 file = "mods/ferritecore-fabric.pw.toml"
@@ -2850,7 +2854,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "e63f3f83f8e4a90b0a604ef29863cf371d9af163e763f1df5524c64341a830ed"
+hash = "da1f3332aa3fb39450944cbbbb0b5987c903d3c3eac06cd79ee41326da2561c7"
 metafile = true
 
 [[files]]
