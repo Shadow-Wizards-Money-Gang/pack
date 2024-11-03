@@ -2022,11 +2022,6 @@ hash = "754b65581daa4a2d8462d5e62b43555a85a2f24106e8662925a1adefcc9f07cf"
 metafile = true
 
 [[files]]
-file = "mods/ct-overhaul-village.pw.toml"
-hash = "b827d7573c11c91f1230ce944aebabec8aa7ae80a620147449861d36eb230664"
-metafile = true
-
-[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "4463005ad6ae41db2bf707952d6945297f48601a42ec8b6cac8aef09d653ffd2"
 metafile = true
@@ -2751,7 +2746,7 @@ metafile = true
 
 [[files]]
 file = "mods/shadow-wizards-0.3.6.jar"
-hash = "fa525e283ab3d84508f038b5b9a1aa1ecef006a093c62a15195a879febcf44a3"
+hash = "b5db03032037fa245d020f81b18586ff825330b0ee07f3afbd45d01a9d3f2003"
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
@@ -2815,7 +2810,7 @@ metafile = true
 
 [[files]]
 file = "mods/spellbladenext-1.21.4+1.20.1.jar"
-hash = "19669927877db9de5c8e360564d477b97321efb13fbe1eba85759b1016d22dba"
+hash = "bfdd37ad6e4f211d9b518d55cbc253664f5116f72c391d197886aee6e508db52"
 
 [[files]]
 file = "mods/spells-lab-extras.pw.toml"
