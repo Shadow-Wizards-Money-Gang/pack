@@ -1462,7 +1462,7 @@ hash = "299965ce464b4c0bb4a79dfd2dba2cdfd63f3360628b0d5b0d3b3988003f4f0d"
 
 [[files]]
 file = "config/shadow-wizards-api.json5"
-hash = "be16ee74b9dd6704bc95bf6e95ef78adc6a86051b43c9a875667bba1512e1ec5"
+hash = "56c302383183a16b528efdae6bc178a3e78e0bde205180959a083ffe13449c34"
 
 [[files]]
 file = "config/shadow-wizards.json5"
@@ -1869,11 +1869,6 @@ metafile = true
 [[files]]
 file = "mods/azurelib.pw.toml"
 hash = "c7197bae2df4f4a95fdcd0016cab76518350a9c87c25e55b3856c85bb5bedc62"
-metafile = true
-
-[[files]]
-file = "mods/backpacked-fabric.pw.toml"
-hash = "83a32267aa14479c455eb564df451b8a14a6a4148661264193d2ef6aa84a0537"
 metafile = true
 
 [[files]]
@@ -2435,11 +2430,6 @@ hash = "a8aaf4ad332d42ea99bb4f9c6e03ae5d1c1fe84a6dcaa97f366e0fd09f1de24b"
 metafile = true
 
 [[files]]
-file = "mods/lets-do-farm-charm.pw.toml"
-hash = "db0e8eeda36909b50f8be1f4a0b3cfb0e4d10eec2bdcd9b3348ba40a81a6b4fb"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
@@ -2450,9 +2440,8 @@ hash = "eb7bbfeb8898ec2ff5ff09bcd541d0bd924018847611d4140ba34409331bcaf8"
 metafile = true
 
 [[files]]
-file = "mods/lost-relics.pw.toml"
-hash = "f3f81127fb4a4032608338fb92f033e00558ccfe3c0205dfda131107f7672478"
-metafile = true
+file = "mods/lostrelics-1.20-2-test.jar"
+hash = "780a0b86ba2296ec64218422ce0896e1c2a3d979b8276d892207a64a857d4804"
 
 [[files]]
 file = "mods/lovely_snails.pw.toml"
@@ -2566,6 +2555,11 @@ metafile = true
 [[files]]
 file = "mods/nicer-skies.pw.toml"
 hash = "ddbcdf60f634287b6df241a873fc07b4ce56facfb358a0a74cb1df9acff97725"
+metafile = true
+
+[[files]]
+file = "mods/niftycarts.pw.toml"
+hash = "4e6a9a58f47f4dca75608a6954abe6923318f3c3fd8c16aa3f61ff35db8d1106"
 metafile = true
 
 [[files]]
@@ -2751,8 +2745,8 @@ hash = "182161aa8e4b730555dd9984efb7be8cfd3debbaf1d4cc60e0b3241402e6f2bc"
 metafile = true
 
 [[files]]
-file = "mods/shadow-wizards-0.3.4.jar"
-hash = "9d7970bd1ee5e5225136a93a0a01ceece43860cdfa4a776e7ff1f628d200b2d4"
+file = "mods/shadow-wizards-0.3.5.jar"
+hash = "14209995a5351c59348eaa2d0c4131f3fec90c2878733ac0ad7d11f629a33be2"
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"

@@ -1,0 +1,13 @@
+name = "NiftyCarts"
+filename = "niftycarts-20.1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "15ed135158ff80114b399969b7f8450e7089a9b7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5706718
+project-id = 900093
