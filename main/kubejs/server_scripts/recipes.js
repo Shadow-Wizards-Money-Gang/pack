@@ -65,6 +65,18 @@ ServerEvents.recipes((event) => {
   );
 
   event.shaped(
+    Item.of("shadow-wizards:gamberson_helmet", 1), // arg 1: output
+    [
+      "ACA",
+      "A A", // arg 2: the shape (array of strings)
+      "   ",
+    ],
+    {
+      A: "minecraft:leather",
+      C: "minecraft:leather",
+    },
+  );
+  event.shaped(
     Item.of("shadow-wizards:gamberson_chestplate", 1), // arg 1: output
     [
       "A A",
@@ -76,25 +88,12 @@ ServerEvents.recipes((event) => {
       C: "minecraft:leather",
     },
   );
-
   event.shaped(
     Item.of("shadow-wizards:gamberson_leggings", 1), // arg 1: output
     [
       "AAA",
       "C C", // arg 2: the shape (array of strings)
       "A A",
-    ],
-    {
-      A: "minecraft:leather",
-      C: "minecraft:leather",
-    },
-  );
-  event.shaped(
-    Item.of("shadow-wizards:gamberson_helmet", 1), // arg 1: output
-    [
-      "ACA",
-      "A A", // arg 2: the shape (array of strings)
-      "   ",
     ],
     {
       A: "minecraft:leather",
@@ -111,6 +110,55 @@ ServerEvents.recipes((event) => {
     {
       A: "minecraft:leather",
       C: "minecraft:leather",
+    },
+  );
+
+  event.shaped(
+    Item.of("shadow-wizards:tier_2_helmet", 1), // arg 1: output
+    [
+      "AAA",
+      "ACA", // arg 2: the shape (array of strings)
+      "   ",
+    ],
+    {
+      A: "minecraft:iron_ingot",
+      C: "shadow-wizards:chain_helmet",
+    },
+  );
+  event.shaped(
+    Item.of("shadow-wizards:tier_2_chestplate", 1), // arg 1: output
+    [
+      "A A",
+      "ACA", // arg 2: the shape (array of strings)
+      "AAA",
+    ],
+    {
+      A: "minecraft:iron_ingot",
+      C: "shadow-wizards:chain_chestplate",
+    },
+  );
+  event.shaped(
+    Item.of("shadow-wizards:tier_2_leggings", 1), // arg 1: output
+    [
+      "ACA",
+      "A A", // arg 2: the shape (array of strings)
+      "A A",
+    ],
+    {
+      A: "minecraft:iron_ingot",
+      C: "shadow-wizards:chain_leggings",
+    },
+  );
+  event.shaped(
+    Item.of("shadow-wizards:tier_2_boots", 1), // arg 1: output
+    [
+      "ACA",
+      "A A", // arg 2: the shape (array of strings)
+      "   ",
+    ],
+    {
+      A: "minecraft:iron_ingot",
+      C: "shadow-wizards:chain_boots",
     },
   );
 

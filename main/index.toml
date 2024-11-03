@@ -1794,7 +1794,7 @@ hash = "0a6d8536458d9e98c184837e714ba99c6af2d379265a65bea1088b4e07dc3565"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "fc372e44503b7ebb2d235dc97de2a2c699ae43b8acd2a8c98e95280f28feabf6"
+hash = "fba3305fa8570ad6a6e552755628455b3661fcbe383516134d80dec94cdedcd8"
 
 [[files]]
 file = "kubejs/server_scripts/worldgen.js"
