@@ -2750,8 +2750,8 @@ hash = "182161aa8e4b730555dd9984efb7be8cfd3debbaf1d4cc60e0b3241402e6f2bc"
 metafile = true
 
 [[files]]
-file = "mods/shadow-wizards-0.3.5.jar"
-hash = "60d66b21ec3485f426f4386d9ddfc83d6dd8c81a14c0c403612285bc119b226a"
+file = "mods/shadow-wizards-0.3.6.jar"
+hash = "fa525e283ab3d84508f038b5b9a1aa1ecef006a093c62a15195a879febcf44a3"
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
