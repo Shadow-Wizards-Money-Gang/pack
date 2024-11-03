@@ -2569,7 +2569,7 @@ metafile = true
 
 [[files]]
 file = "mods/nocturnal-bats.pw.toml"
-hash = "96ade94b43e5c5b1630dedd66a366ffecfb11289dd405bf5629812de6949d6c7"
+hash = "8bc40f9110362acd40ab3341a4f8a3f9e3c90a4c79a19dd488d2583e9c0caf22"
 metafile = true
 
 [[files]]
@@ -2853,7 +2853,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "125cab54bb1ead338636cda23db33bad6d7db97991811ab946f1ceeafa7fbac6"
+hash = "03595bc313e16a103b6aad6b131fb859b829a87b37ccceaf590ec22746be5889"
 metafile = true
 
 [[files]]
