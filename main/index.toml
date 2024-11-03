@@ -2518,11 +2518,6 @@ hash = "9c936104fb8edc233465da4dcdb3610ce7de0fc2f0251bc5958df284633d4fac"
 metafile = true
 
 [[files]]
-file = "mods/moonlight.pw.toml"
-hash = "3cd29f937a1272c48007e367452da9a4ef6254226c170de12fbde38077fd6bdc"
-metafile = true
-
-[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "979e6d73369f2e45666e49c387f7f4f9b266df1085d4a7a949039aac461b3c13"
 metafile = true
@@ -2569,7 +2564,7 @@ metafile = true
 
 [[files]]
 file = "mods/nocturnal-bats.pw.toml"
-hash = "8bc40f9110362acd40ab3341a4f8a3f9e3c90a4c79a19dd488d2583e9c0caf22"
+hash = "806c3d1ed3e4dcb1ef3a77d25aa4961fc376b74771c84cd41ed70fceb2368856"
 metafile = true
 
 [[files]]
@@ -2653,7 +2648,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "9e9da779b67e9a944da81e921ff76c3388dfe9a475a3ff4f597b27af814cd28a"
+hash = "8e4e293525f9eb65c4a3db7044e9fa26721f75010b612d2ac15673f050e64d98"
 metafile = true
 
 [[files]]
@@ -2732,6 +2727,11 @@ metafile = true
 [[files]]
 file = "mods/scout.pw.toml"
 hash = "165ae0e8372b385ce08ef55645af17b9affaf4f8db123a060e2e7eb766c4bedd"
+metafile = true
+
+[[files]]
+file = "mods/selene.pw.toml"
+hash = "71a34d3ec371a744845971de4dc327789c56892dc8786e71cf4bbd7fc03a0364"
 metafile = true
 
 [[files]]
