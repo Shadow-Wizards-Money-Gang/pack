@@ -2137,6 +2137,16 @@ hash = "3305a3fdc37dba5a3c21072786b53d6d765c7e22d913daa09ee91df8f90e5649"
 metafile = true
 
 [[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "91477cf93a41ce754e1dcaf83a778cea12bc33276a4ccf01fe78295ac3d00eb1"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "f45b18b380575d10b1fa45f2bfdf2d3a41aced7375a6235d221a05b81126d3e3"
+metafile = true
+
+[[files]]
 file = "mods/enchancement.pw.toml"
 hash = "4091cbd06fc8806b90a28a1e841b7d43620bcbc47395383d78dd0ac37fa8f175"
 metafile = true
@@ -2261,6 +2271,11 @@ hash = "dc59c6208d7b2e6c2609e0a2d0aadbe4c24a2090abf9afaad1fd21f33b521a2d"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "f4cd0cd05613983f5a1fbeaf65bb49838550f748eb59d8dd480e7ba26757b15a"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "bd0c76f438f67e2611fa8458ab153be304acfb4aaed4acebd0dcdfbbb74f1388"
 metafile = true
@@ -2345,11 +2360,6 @@ hash = "7780c92a7cc9d48ca548cb3fb875bccf26a18fbf42456a6a059a86526e662cb1"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "396ccf2d8047f5f01aaddb5af8412f48b6bd888820603c722b83a26a5e911487"
-metafile = true
-
-[[files]]
 file = "mods/jewelry.pw.toml"
 hash = "f1de7e0580ac0d7a3defd87cb8bb4a5597c4e0fd7b903227efc12678bc0dc5d4"
 metafile = true
@@ -2357,11 +2367,6 @@ metafile = true
 [[files]]
 file = "mods/joy-of-painting.pw.toml"
 hash = "1e5a89f9f111c331e555664cf73e830d9ea2626e8356e4f695137cfd0b255320"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-resources-jer.pw.toml"
-hash = "f3a2939a893321067f5700c2e25c0c48fc1f9d39dd925449865c90597d65df1b"
 metafile = true
 
 [[files]]
