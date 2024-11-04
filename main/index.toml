@@ -1462,7 +1462,7 @@ hash = "299965ce464b4c0bb4a79dfd2dba2cdfd63f3360628b0d5b0d3b3988003f4f0d"
 
 [[files]]
 file = "config/shadow-wizards-api.json5"
-hash = "56c302383183a16b528efdae6bc178a3e78e0bde205180959a083ffe13449c34"
+hash = "00766cb407beac614c06b54b61e4017739e426f62b9795cfb990c879d27bbfb5"
 
 [[files]]
 file = "config/shadow-wizards.json5"
@@ -2745,8 +2745,8 @@ hash = "182161aa8e4b730555dd9984efb7be8cfd3debbaf1d4cc60e0b3241402e6f2bc"
 metafile = true
 
 [[files]]
-file = "mods/shadow-wizards-0.3.6.jar"
-hash = "1e30b96734775a0ad9487597b6715835cbb1891fd171eac7204beff539c97df4"
+file = "mods/shadow-wizards-0.3.7.jar"
+hash = "47da1de63ab214c474c12b0910b3ae519ae51bf71ffc4a8c0274bf50b7d4d8f1"
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"

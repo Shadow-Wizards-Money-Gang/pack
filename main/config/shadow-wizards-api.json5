@@ -4,7 +4,8 @@
 		"minecraft:enchanting_table",
 		"minecraft:brewing_stand",
 		"minecraft:bee_nest",
-		"minecraft:bee_hive"
+		"minecraft:beehive",
+		"betterarcheology:growth_totem"
 	],
 	"SOFT_LOCKED_ITEMS": [],
 	"BANNED_ITEMS": [],
@@ -35,7 +36,7 @@
 			0,
 			9
 		],
-        "minecraft:bee_hive": [
+        "minecraft:beedhive": [
 			0,
 			0,
 			0,
@@ -755,7 +756,182 @@
 			0,
 			0
 		],
-
+		"lostrelics:cursed_amulet": [
+			0,
+			0,
+			0,
+			18,
+			2,
+			0
+		],
+		"betterarcheology:torrent_totem": [
+			9,
+			0,
+			0,
+			0,
+			2,
+			0
+		],
+		"betterarcheology:soul_totem": [
+			0,
+			0,
+			0,
+			9,
+			2,
+			0
+		],
+		"betterarcheology:radiance_totem": [
+			0,
+			0,
+			0,
+			9,
+			2,
+			0
+		],
+		"betterarcheology:growth_totem": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			9
+		],
+		"lostrelics:triple_toothed_snake": [
+			0,
+			16,
+			0,
+			0,
+			4,
+			0
+		],
+		"spellbladenext:frost_orb": [
+			0,
+			0,
+			0,
+			9,
+			0,
+			0
+		],
+		"spellbladenext:arcane_orb": [
+			0,
+			0,
+			0,
+			9,
+			0,
+			0
+		],
+		"spellbladenext:fire_orb": [
+			0,
+			0,
+			0,
+			9,
+			0,
+			0
+		],
+		"spellbladenext:runic_echoes_spell_book": [
+			0,
+			0,
+			0,
+			16,
+			0,
+			0
+		],
+		"spellbladenext:phoenix_spell_book": [
+			0,
+			0,
+			0,
+			12,
+			0,
+			0
+		],
+		"spellbladenext:deathchill_spell_book": [
+			0,
+			0,
+			0,
+			12,
+			0,
+			0
+		],
+		"spellbladenext:ashes": [
+			0,
+			0,
+			0,
+			18,
+			0,
+			0
+		],
+        "spellbladenext:omni": [
+			0,
+			0,
+			0,
+			18,
+			0,
+			0
+		],
+        "wizards:wand_novice": [
+			0,
+			0,
+			0,
+			6,
+			0,
+			0
+		],
+        "wizards:wand_fire": [
+			0,
+			0,
+			0,
+			8,
+			0,
+			0
+		],
+        "wizards:wand_arcane": [
+			0,
+			0,
+			0,
+			8,
+			0,
+			0
+		],
+        "wizards:wand_frost": [
+			0,
+			0,
+			0,
+			8,
+			0,
+			0
+		],
+		"frostiful:frost_wand": [
+			0,
+			0,
+			0,
+			8,
+			0,
+			0
+		],
+		"frostiful:frost_wand": [
+			0,
+			0,
+			0,
+			8,
+			0,
+			0
+		],
+		"majruszsdifficulty:evoker_fang_scroll": [
+			0,
+			0,
+			0,
+			8,
+			0,
+			0
+		],
+		"majruszsdifficulty:sonic_boom_scroll": [
+			0,
+			0,
+			0,
+			8,
+			0,
+			0
+		]
 	},
 	"ITEM_CATEGORY_REQUERIMENTS": {
 		"minecraft": [
@@ -786,8 +962,8 @@
 			0,
 			0,
 			0,
-			18,
-			2,
+			4,
+			16,
 			0
 		],
 		"davespotioneering": [
