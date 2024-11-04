@@ -937,10 +937,6 @@ file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/consecratio
 hash = "1248ebe5d6207dcd16dd28abbc79ae701eb9ae1d570f370fa8576cc022e610bc"
 
 [[files]]
-file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/ctov/worldgen/structure_set/villages.json"
-hash = "eb28795b2615b2e83f2fa82c029a66945bd5a6fa0e63a716581a3fb3c5ef7109"
-
-[[files]]
 file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/dynamiclights/item/fire_stick.json"
 hash = "977ecb1ae1394e2a7810f4c6af8138f9caaed7b9ee637320cf290a9a5bd6b6b7"
 
