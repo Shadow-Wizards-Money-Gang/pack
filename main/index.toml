@@ -522,7 +522,7 @@ hash = "259b49bb6993f2504f438c099802f830707639e9387fcb0bb0ee1d5082657cb2"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "114698388e575c750a9fca65cfa0c34a015dd82ea7b33c5d056fbbaefe11c5e1"
+hash = "3b08a9c443dd07abfb5b72476565a5bad28288b4018a4b6a633ce9b5b07eb50f"
 
 [[files]]
 file = "config/jei/blacklist.cfg"
@@ -659,10 +659,6 @@ hash = "f0df27db47a3d3a42f7a12297f1c00447b931eb75a718b39fb639ed9984b5606"
 [[files]]
 file = "config/map_atlases-client.json"
 hash = "d16c23cc2c353e5fced7eb82cfece39f642832c24155eb43d3ff8a42c1014c36"
-
-[[files]]
-file = "config/map_atlases-common.json"
-hash = "b60a3eec748420788516aa36b569bd800feaf143614321b2309db59f6fdce223"
 
 [[files]]
 file = "config/midnightlib.json"
