@@ -2019,7 +2019,7 @@ metafile = true
 
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
-hash = "b1fcf4fe4058eef79dbc50e8c8b7f809a1a6d11131d5bfa8e61afd4c5ca27baa"
+hash = "b827d7573c11c91f1230ce944aebabec8aa7ae80a620147449861d36eb230664"
 metafile = true
 
 [[files]]
@@ -2576,11 +2576,6 @@ metafile = true
 [[files]]
 file = "mods/noisium.pw.toml"
 hash = "4bef2974b0ccbf63265a7c430fa37d57c11f4dc0c38c4764b7b7a5336b4f9434"
-metafile = true
-
-[[files]]
-file = "mods/nvidium.pw.toml"
-hash = "07dd8775324c01058896b4572e23a1ca1c355186cc501c61fc68e1151c5e177c"
 metafile = true
 
 [[files]]
