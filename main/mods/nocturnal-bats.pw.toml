@@ -1,13 +1,13 @@
 name = "Nocturnal Bats"
-filename = "nocturnal-bats-1.0.0+1.19.4.jar"
+filename = "nocturnal-bats-1.1.0+1.21.3.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/qu8ckNJQ/versions/OYtVku7w/nocturnal-bats-1.0.0%2B1.19.4.jar"
+url = "https://cdn.modrinth.com/data/qu8ckNJQ/versions/ceWhOH7i/nocturnal-bats-1.1.0%2B1.21.3.jar"
 hash-format = "sha1"
-hash = "7c22da1c5ec58fec7ac15da08eca908762983333"
+hash = "c8a1e25a437e8d9e160969b060b95a8a4fdb64ac"
 
 [update]
 [update.modrinth]
 mod-id = "qu8ckNJQ"
-version = "OYtVku7w"
+version = "ceWhOH7i"

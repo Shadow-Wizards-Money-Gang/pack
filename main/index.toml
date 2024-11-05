@@ -937,6 +937,10 @@ file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/consecratio
 hash = "1248ebe5d6207dcd16dd28abbc79ae701eb9ae1d570f370fa8576cc022e610bc"
 
 [[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/ctov/worldgen/structure_set/villages.json"
+hash = "2bdba040f5171ea76c3c57fa7225310e7a7547bc1a4e396854865011b5e981fe"
+
+[[files]]
 file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/dynamiclights/item/fire_stick.json"
 hash = "977ecb1ae1394e2a7810f4c6af8138f9caaed7b9ee637320cf290a9a5bd6b6b7"
 
@@ -2018,6 +2022,11 @@ hash = "754b65581daa4a2d8462d5e62b43555a85a2f24106e8662925a1adefcc9f07cf"
 metafile = true
 
 [[files]]
+file = "mods/ct-overhaul-village.pw.toml"
+hash = "b1fcf4fe4058eef79dbc50e8c8b7f809a1a6d11131d5bfa8e61afd4c5ca27baa"
+metafile = true
+
+[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "4463005ad6ae41db2bf707952d6945297f48601a42ec8b6cac8aef09d653ffd2"
 metafile = true
@@ -2134,7 +2143,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "f45b18b380575d10b1fa45f2bfdf2d3a41aced7375a6235d221a05b81126d3e3"
+hash = "44efbd1c8561f3431c31e7c49deb433d0a9e48e4b3dd2ed78251120ce8baa315"
 metafile = true
 
 [[files]]
@@ -2154,17 +2163,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "e3505aeb4c922ba1bfef6e855d7feb3fc76375fc113836739cd7f6ac5fef48e0"
-metafile = true
-
-[[files]]
-file = "mods/eugenes-whistle-spur.pw.toml"
-hash = "82b7536165ccf3b03123934bacbcc4fa5b1384b92ff212c34afa2c2479367860"
-metafile = true
-
-[[files]]
-file = "mods/exordium.pw.toml"
-hash = "2b9b5a34a6f3cb5796b4e9996fe1da41d7b063b2727743aeed6c8d350d7cdbb6"
+hash = "082f2bcd06dc427e0d6558645b002e3ed7195223812a0907645217234e91c04a"
 metafile = true
 
 [[files]]
@@ -2209,7 +2208,7 @@ metafile = true
 
 [[files]]
 file = "mods/faster-random.pw.toml"
-hash = "31cd9b39f38befed65a8607df20ab6f5e3f43cdf260829d7fc56e400fad12924"
+hash = "630d153069a6340bbbfb12c1ada0a03eafe049fcc2bd25cd248ea37084d3822c"
 metafile = true
 
 [[files]]
@@ -2279,6 +2278,11 @@ metafile = true
 [[files]]
 file = "mods/good-ol-regen.pw.toml"
 hash = "a91411cf589615cacd5d8ea32ee686a86ca0bf2534720ebac1d8548b884c2524"
+metafile = true
+
+[[files]]
+file = "mods/gputape.pw.toml"
+hash = "6e4d625a8bd6dba83cbe603b7fc95aea226b054c825012b3b17ec3cdf23dd387"
 metafile = true
 
 [[files]]
@@ -2381,6 +2385,11 @@ hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
 
 [[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "cf4d50556f99d310bea0745680a9d8574791ad55880e5a8d85029e85711601ff"
+metafile = true
+
+[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "8e3536092375aecb58eff2d81714fab7a3272375c9e6e19481ea500e6fbd9726"
 metafile = true
@@ -2432,7 +2441,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "eb7bbfeb8898ec2ff5ff09bcd541d0bd924018847611d4140ba34409331bcaf8"
+hash = "2484ec60dd9a49afd77720f362af65fa5900184c3c5ad09ec6e7841be6c18002"
 metafile = true
 
 [[files]]
@@ -2519,6 +2528,11 @@ hash = "979e6d73369f2e45666e49c387f7f4f9b266df1085d4a7a949039aac461b3c13"
 metafile = true
 
 [[files]]
+file = "mods/mpalladium.pw.toml"
+hash = "8848b1b8eefa212971aba2395551a448183a8c95076be3312675f38893f3ee9e"
+metafile = true
+
+[[files]]
 file = "mods/mru.pw.toml"
 hash = "af08167c54469e813be96edb6240390513c74f8810e55a8d2431799ec6838815"
 metafile = true
@@ -2560,12 +2574,17 @@ metafile = true
 
 [[files]]
 file = "mods/nocturnal-bats.pw.toml"
-hash = "806c3d1ed3e4dcb1ef3a77d25aa4961fc376b74771c84cd41ed70fceb2368856"
+hash = "5c581bc6924853f8e50f5a2dcc93f8604b429c22ad2db18f4649e2517e7cf13c"
 metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
 hash = "4bef2974b0ccbf63265a7c430fa37d57c11f4dc0c38c4764b7b7a5336b4f9434"
+metafile = true
+
+[[files]]
+file = "mods/nvidium.pw.toml"
+hash = "07dd8775324c01058896b4572e23a1ca1c355186cc501c61fc68e1151c5e177c"
 metafile = true
 
 [[files]]
@@ -2644,7 +2663,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "8e4e293525f9eb65c4a3db7044e9fa26721f75010b612d2ac15673f050e64d98"
+hash = "9e9da779b67e9a944da81e921ff76c3388dfe9a475a3ff4f597b27af814cd28a"
 metafile = true
 
 [[files]]
@@ -2849,7 +2868,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "03595bc313e16a103b6aad6b131fb859b829a87b37ccceaf590ec22746be5889"
+hash = "b7b3cfb8a064b3563c8e0697a5a655bc7cc6361325c9c86e9c7ec48d78a80e92"
 metafile = true
 
 [[files]]
@@ -2868,8 +2887,8 @@ hash = "55d283a0f893de8e1bb0b1efa77b43fd74472477ec523730e546878d1985c66e"
 metafile = true
 
 [[files]]
-file = "mods/tooltipfix.pw.toml"
-hash = "a9b60e8434424b2c10e0de9b5d3ab98325b10df2dd9e6aed82e8d7828c981b9f"
+file = "mods/toadlib.pw.toml"
+hash = "0e7ea65a88d0c5f61a3dae0ba4c330b3e4d018836b2e3d217dc57a49accd3673"
 metafile = true
 
 [[files]]
@@ -2905,11 +2924,6 @@ metafile = true
 [[files]]
 file = "mods/victus-0.1.16-nerfed+1.20.jar"
 hash = "198b7c7643ba8d794f9ddcbc97d3d1ebeda637b55cd0d3f1fc3c1f7d36902f7b"
-
-[[files]]
-file = "mods/videotape.pw.toml"
-hash = "9551dd0b80f44fd212a0ce14d9c3ffa2c1775468f2b4c94f891385d4806c783d"
-metafile = true
 
 [[files]]
 file = "mods/village-healthcare.pw.toml"
