@@ -2524,11 +2524,6 @@ hash = "979e6d73369f2e45666e49c387f7f4f9b266df1085d4a7a949039aac461b3c13"
 metafile = true
 
 [[files]]
-file = "mods/mpalladium.pw.toml"
-hash = "8848b1b8eefa212971aba2395551a448183a8c95076be3312675f38893f3ee9e"
-metafile = true
-
-[[files]]
 file = "mods/mru.pw.toml"
 hash = "af08167c54469e813be96edb6240390513c74f8810e55a8d2431799ec6838815"
 metafile = true
