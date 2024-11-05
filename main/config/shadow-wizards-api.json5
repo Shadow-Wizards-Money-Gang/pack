@@ -36,7 +36,7 @@
 			0,
 			9
 		],
-        "minecraft:beedhive": [
+		"minecraft:beedhive": [
 			0,
 			0,
 			0,
@@ -860,7 +860,7 @@
 			0,
 			0
 		],
-        "spellbladenext:omni": [
+		"spellbladenext:omni": [
 			0,
 			0,
 			0,
@@ -868,7 +868,7 @@
 			0,
 			0
 		],
-        "wizards:wand_novice": [
+		"wizards:wand_novice": [
 			0,
 			0,
 			0,
@@ -876,7 +876,7 @@
 			0,
 			0
 		],
-        "wizards:wand_fire": [
+		"wizards:wand_fire": [
 			0,
 			0,
 			0,
@@ -884,7 +884,7 @@
 			0,
 			0
 		],
-        "wizards:wand_arcane": [
+		"wizards:wand_arcane": [
 			0,
 			0,
 			0,
@@ -892,15 +892,7 @@
 			0,
 			0
 		],
-        "wizards:wand_frost": [
-			0,
-			0,
-			0,
-			8,
-			0,
-			0
-		],
-		"frostiful:frost_wand": [
+		"wizards:wand_frost": [
 			0,
 			0,
 			0,

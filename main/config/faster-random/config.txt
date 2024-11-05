@@ -1,0 +1,8 @@
+# Enables future versions of Faster Random deal with older configs, don't edit this yourself! 
+version: 0.0.1
+# The engine to use for Faster Random. The default engine is L64X128MixRandom. Other engines have not been tested, and may cause worse performance/crashes! 
+random_engine_name: L64X128MixRandom
+# Patches for Faster Random, these may cause instability, or more crashes with other mods. Most of these patches exist to improve performance. 
+ 
+# Merge random generators for entities. Improves entity random performance, but may make entity behaviour less predictable. 
+patches.mergeEntityRandom: false

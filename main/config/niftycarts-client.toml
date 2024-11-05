@@ -9,4 +9,3 @@ render_supply_flowers = true
 render_supply_paintings = true
 #Falls back to rendering as items if false
 render_supply_wheel = true
-

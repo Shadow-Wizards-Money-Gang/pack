@@ -1,0 +1,196 @@
+{
+  "injectors": {
+    "minecraft:chests/abandoned_mineshaft": {
+      "rolls": 1.1,
+      "bonus_rolls": 0.25,
+      "entries": [
+        {
+          "id": "#shadow-wizards:risk_1_items",
+          "weight": 1
+        },
+        {
+          "id": "#shadow-wizards:risk_2_items",
+          "weight": 1
+        }
+      ]
+    },
+    "minecraft:chests/woodland_mansion": {
+      "rolls": 1.1,
+      "bonus_rolls": 0.25,
+      "entries": [
+        {
+          "id": "#shadow-wizards:risk_2_items",
+          "weight": 1
+        },
+        {
+          "id": "#shadow-wizards:risk_0_items",
+          "weight": 1
+        },
+        {
+          "id": "#shadow-wizards:risk_1_items",
+          "weight": 1
+        }
+      ]
+    },
+    "minecraft:chests/ancient_city": {
+      "rolls": 0.5,
+      "bonus_rolls": 0.2,
+      "entries": [
+        {
+          "id": "#shadow-wizards:risk_3_items",
+          "weight": 1,
+          "enchant": {
+            "min_power": 1.0,
+            "max_power": 30.0,
+            "allow_treasure": true
+          }
+        }
+      ]
+    },
+    "minecraft:chests/shipwreck_treasure": {
+      "rolls": 0.5,
+      "bonus_rolls": 0.2,
+      "entries": [
+        {
+          "id": "#shadow-wizards:risk_3_items",
+          "weight": 1,
+          "enchant": {
+            "min_power": 1.0,
+            "max_power": 30.0,
+            "allow_treasure": true
+          }
+        }
+      ]
+    },
+    "minecraft:chests/underwater_ruin_big": {
+      "rolls": 0.5,
+      "bonus_rolls": 0.2,
+      "entries": [
+        {
+          "id": "#shadow-wizards:risk_3_items",
+          "weight": 1,
+          "enchant": {
+            "min_power": 1.0,
+            "max_power": 30.0,
+            "allow_treasure": true
+          }
+        }
+      ]
+    },
+    "minecraft:chests/stronghold_library": {
+      "rolls": 0.5,
+      "bonus_rolls": 0.2,
+      "entries": [
+        {
+          "id": "#shadow-wizards:risk_3_items",
+          "weight": 1,
+          "enchant": {
+            "min_power": 1.0,
+            "max_power": 30.0,
+            "allow_treasure": true
+          }
+        }
+      ]
+    },
+    "minecraft:chests/jungle_temple": {
+      "rolls": 0.5,
+      "bonus_rolls": 0.2,
+      "entries": [
+        {
+          "id": "#shadow-wizards:risk_3_items",
+          "weight": 1,
+          "enchant": {
+            "min_power": 1.0,
+            "max_power": 30.0,
+            "allow_treasure": true
+          }
+        }
+      ]
+    },
+    "minecraft:chests/simple_dungeon": {
+      "rolls": 1.0,
+      "bonus_rolls": 0.2,
+      "entries": [
+        {
+          "id": "#shadow-wizards:risk_0_items",
+          "weight": 1
+        },
+        {
+          "id": "#shadow-wizards:risk_1_items",
+          "weight": 1
+        }
+      ]
+    },
+    "minecraft:chests/pillager_outpost": {
+      "rolls": 1.0,
+      "bonus_rolls": 0.2,
+      "entries": [
+        {
+          "id": "#shadow-wizards:risk_0_items",
+          "weight": 1
+        },
+        {
+          "id": "#shadow-wizards:risk_1_items",
+          "weight": 1
+        }
+      ]
+    },
+    "minecraft:chests/stronghold_crossing": {
+      "rolls": 1.0,
+      "bonus_rolls": 0.2,
+      "entries": [
+        {
+          "id": "#shadow-wizards:risk_0_items",
+          "weight": 1
+        },
+        {
+          "id": "#shadow-wizards:risk_1_items",
+          "weight": 1
+        }
+      ]
+    },
+    "minecraft:chests/desert_pyramid": {
+      "rolls": 1.0,
+      "bonus_rolls": 0.2,
+      "entries": [
+        {
+          "id": "#shadow-wizards:risk_0_items",
+          "weight": 1
+        },
+        {
+          "id": "#shadow-wizards:risk_1_items",
+          "weight": 1
+        }
+      ]
+    },
+    "minecraft:chests/shipwreck_supply": {
+      "rolls": 1.0,
+      "bonus_rolls": 0.2,
+      "entries": [
+        {
+          "id": "#shadow-wizards:risk_0_items",
+          "weight": 1
+        },
+        {
+          "id": "#shadow-wizards:risk_1_items",
+          "weight": 1
+        }
+      ]
+    },
+    "minecraft:chests/igloo_chest": {
+      "rolls": 1.0,
+      "bonus_rolls": 0.2,
+      "entries": [
+        {
+          "id": "#shadow-wizards:risk_0_items",
+          "weight": 1
+        },
+        {
+          "id": "#shadow-wizards:risk_1_items",
+          "weight": 1
+        }
+      ]
+    }
+  },
+  "regex_injectors": {}
+}

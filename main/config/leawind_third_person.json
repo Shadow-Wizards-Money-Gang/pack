@@ -1,6 +1,7 @@
 {
   "is_mod_enabled": true,
   "center_offset_when_flying": true,
+  "temp_first_person_in_narrow_space": true,
   "player_rotate_with_camera_when_not_aiming": false,
   "player_rotate_to_interest_point": true,
   "rotate_to_moving_direction": true,
@@ -25,6 +26,7 @@
   "aiming_smooth_halflife_vertical": 0.05,
   "aiming_camera_offset_smooth_halflife": 0.03,
   "aiming_distance_smooth_halflife": 0.04,
+  "aiming_fov_divisor": 1.125,
   "normal_max_distance": 2.5,
   "normal_offset_x": 0.28,
   "normal_offset_y": 0.31,
@@ -41,6 +43,7 @@
   "use_to_first_person_patterns": [],
   "config_screen_api": "YACL",
   "camera_distance_mode": "STRAIGHT",
+  "rotate_center_height_offset": 0.3,
   "enable_target_entity_predict": true,
   "skip_vanilla_second_person_camera": true,
   "allow_double_tap_sprint": false,

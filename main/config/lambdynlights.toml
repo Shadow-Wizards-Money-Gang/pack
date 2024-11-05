@@ -53,6 +53,7 @@ mode = "fancy"
 				vindicator = true
 				horse = true
 				minecart = true
+				ender_dragon = true
 				leash_knot = true
 				evoker = true
 				mooshroom = true
@@ -115,6 +116,9 @@ mode = "fancy"
 			[light_sources.settings.entities.spell_engine]
 				spell_projectile = true
 				spell_area_effect = true
+
+			[light_sources.settings.entities.goodending]
+				woodpecker = true
 
 			[light_sources.settings.entities.enderzoology]
 				fallen_mount = true
