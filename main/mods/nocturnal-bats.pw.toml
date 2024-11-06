@@ -1,6 +1,6 @@
 name = "Nocturnal Bats"
 filename = "nocturnal-bats-1.1.0+1.21.3.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/qu8ckNJQ/versions/ceWhOH7i/nocturnal-bats-1.1.0%2B1.21.3.jar"
