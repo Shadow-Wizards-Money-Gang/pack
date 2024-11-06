@@ -2749,7 +2749,7 @@ metafile = true
 
 [[files]]
 file = "mods/shadow-wizards-0.4.1.jar"
-hash = "71952adce2b504616728277879d833e1214c88f9f90e1324c0869736ec5460ca"
+hash = "8dcad084359855a65b88e1011b09446f0299c25e59dfc000d4a823772348f6f5"
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
