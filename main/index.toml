@@ -29,10 +29,6 @@ file = "config/NoChatReports/README.md"
 hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
 
 [[files]]
-file = "config/adv_nuker-common.json"
-hash = "934074ea5eaab77395501a1c71aef962780ba74c6d488c8b79973c8aee0a361c"
-
-[[files]]
 file = "config/amendments-client.json"
 hash = "a68bf2889f9740adc332627f66fbca01afa78d81f110810fc33374aa1528228d"
 
@@ -790,7 +786,7 @@ hash = "c70f3399426fb90aa8c2a09f9eb0001b70a5a0017c18a26be9dbbdc575ebc6f0"
 
 [[files]]
 file = "config/patchouli.json5"
-hash = "f025fe9200c89f808a4459ce10b332a2f763c3d6d9622de61b10278e54161117"
+hash = "b3f24653fa6f78c535e609a3ef015cbd2e50e6a67a51ef84765f84913c19f37e"
 
 [[files]]
 file = "config/paxi/datapack_load_order.json"
@@ -2667,11 +2663,6 @@ metafile = true
 [[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "8515079e00355e8e6010a6a18b53e6f19593d19c649a84d02afe6ea4b5a7b9d8"
-metafile = true
-
-[[files]]
-file = "mods/recipe-advancements-nuker.pw.toml"
-hash = "4d5eab19a1189bd35b0c3b9c55c2a3fb2fd85e2beb580138ad1d03aae221297a"
 metafile = true
 
 [[files]]
