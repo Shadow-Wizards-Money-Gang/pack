@@ -1,0 +1,20 @@
+{
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 6,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "cavernous:village/lush/mobs/villager",
+        "projection": "rigid",
+        "processors": "cavernous:lush_village"
+      }
+    },
+		{
+			"weight": 1,
+			"element": {
+				"element_type": "minecraft:empty_pool_element"
+			}
+		}
+  ]
+}

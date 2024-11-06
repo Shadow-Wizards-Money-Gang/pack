@@ -1,0 +1,14 @@
+{
+  "fallback": "cavernous:village/stone/terminators",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "cavernous:village/stone/streets/start",
+        "projection": "rigid",
+        "processors": "cavernous:stone_village"
+      }
+    }
+  ]
+}

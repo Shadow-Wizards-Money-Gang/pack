@@ -1,0 +1,128 @@
+{
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "cavernous:village/lush/buildings/armorer",
+        "projection": "rigid",
+        "processors": "cavernous:lush_village"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "cavernous:village/lush/buildings/large_house",
+        "projection": "rigid",
+        "processors": "cavernous:lush_village"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "cavernous:village/lush/buildings/blacksmith",
+        "projection": "rigid",
+        "processors": "cavernous:lush_village"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "cavernous:village/lush/buildings/church",
+        "projection": "rigid",
+        "processors": "cavernous:lush_village"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "cavernous:village/lush/buildings/fletcher",
+        "projection": "rigid",
+        "processors": "cavernous:lush_village"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "cavernous:village/lush/buildings/library",
+        "projection": "rigid",
+        "processors": "cavernous:lush_village"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "cavernous:village/lush/buildings/mason",
+        "projection": "rigid",
+        "processors": "cavernous:lush_village"
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "cavernous:village/lush/buildings/museum",
+        "projection": "rigid",
+        "processors": "cavernous:lush_village"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "cavernous:village/lush/buildings/medium_house",
+        "projection": "rigid",
+        "processors": "cavernous:stone_village"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "cavernous:village/lush/buildings/small_house",
+        "projection": "rigid",
+        "processors": "cavernous:stone_village"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "cavernous:village/lush/buildings/farm_1",
+        "projection": "rigid",
+        "processors": "cavernous:stone_village"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "cavernous:village/lush/buildings/farm_2",
+        "projection": "rigid",
+        "processors": "cavernous:stone_village"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "cavernous:village/lush/buildings/farm_3",
+        "projection": "rigid",
+        "processors": "cavernous:stone_village"
+      }
+    },
+		{
+			"weight": 3,
+			"element": {
+				"element_type": "minecraft:empty_pool_element"
+			}
+		}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "cavernous:village/stone/farm/wheat_beet_potato",
+        "projection": "rigid",
+        "processors": "cavernous:stone_village"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "cavernous:village/stone/farm/wheat_carrot",
+        "projection": "rigid",
+        "processors": "cavernous:stone_village"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "cavernous:village/stone/farm/glow",
+        "projection": "rigid",
+        "processors": "cavernous:stone_village"
+      }
+    }
+  ]
+}

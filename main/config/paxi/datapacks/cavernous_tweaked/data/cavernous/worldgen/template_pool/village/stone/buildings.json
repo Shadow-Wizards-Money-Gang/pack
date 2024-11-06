@@ -1,0 +1,86 @@
+{
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "cavernous:village/stone/buildings/armorer",
+        "projection": "rigid",
+        "processors": "cavernous:stone_village"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "cavernous:village/stone/buildings/big_house",
+        "projection": "rigid",
+        "processors": "cavernous:stone_village"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "cavernous:village/stone/buildings/blacksmith",
+        "projection": "rigid",
+        "processors": "cavernous:stone_village"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "cavernous:village/stone/buildings/church",
+        "projection": "rigid",
+        "processors": "cavernous:stone_village"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "cavernous:village/stone/buildings/fletcher",
+        "projection": "rigid",
+        "processors": "cavernous:stone_village"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "cavernous:village/stone/buildings/library",
+        "projection": "rigid",
+        "processors": "cavernous:stone_village"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "cavernous:village/stone/buildings/mason",
+        "projection": "rigid",
+        "processors": "cavernous:stone_village"
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "cavernous:village/stone/buildings/museum",
+        "projection": "rigid",
+        "processors": "cavernous:stone_village"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "cavernous:village/stone/buildings/toolsmith",
+        "projection": "rigid",
+        "processors": "cavernous:stone_village"
+      }
+    }
+  ]
+}
