@@ -190,6 +190,76 @@
           "weight": 1
         }
       ]
+    },
+    "arcanuscontinuum:chests/wizard_tower": {
+      "rolls": 1.0,
+      "bonus_rolls": 0.2,
+      "entries": [
+        {
+          "id": "#shadow-wizards:risk_1_items",
+          "weight": 1
+        },
+        {
+          "id": "#shadow-wizards:risk_3_items",
+          "weight": 1
+        }
+      ]
+    },
+    "better_desert_temple:chests/tomb_pharaoh": {
+      "rolls": 1.0,
+      "bonus_rolls": 0.2,
+      "entries": [
+        {
+          "id": "#shadow-wizards:risk_1_items",
+          "weight": 1
+        },
+        {
+          "id": "#shadow-wizards:risk_3_items",
+          "weight": 1
+        }
+      ]
+    },
+    "illagerinvasion:chests/labyrinth": {
+      "rolls": 1.0,
+      "bonus_rolls": 0.2,
+      "entries": [
+        {
+          "id": "#shadow-wizards:risk_1_items",
+          "weight": 1
+        },
+        {
+          "id": "#shadow-wizards:risk_3_items",
+          "weight": 1
+        }
+      ]
+    },
+    "cavernous:dungeon/hidden": {
+      "rolls": 1.0,
+      "bonus_rolls": 0.2,
+      "entries": [
+        {
+          "id": "#shadow-wizards:risk_1_items",
+          "weight": 1
+        },
+        {
+          "id": "#shadow-wizards:risk_3_items",
+          "weight": 1
+        }
+      ]
+    },
+    "cavernous:sandstone_temple/treasure_room": {
+      "rolls": 1.0,
+      "bonus_rolls": 0.2,
+      "entries": [
+        {
+          "id": "#shadow-wizards:risk_1_items",
+          "weight": 1
+        },
+        {
+          "id": "#shadow-wizards:risk_3_items",
+          "weight": 1
+        }
+      ]
     }
   },
   "regex_injectors": {}

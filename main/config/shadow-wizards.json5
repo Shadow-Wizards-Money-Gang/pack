@@ -5,6 +5,8 @@
 		"shadow-wizards:stone_rock_1": 100.0,
 		"shadow-wizards:stone_rock_2": 100.0,
 		"shadow-wizards:stone_rock_3": 100.0,
-		"shadow-wizards:stone_rock_4": 100.0
+		"shadow-wizards:stone_rock_4": 100.0,
+		"illagerinvasion:labyrinth": 200.0,
+		"illagerinvasion:illusioner_tower": 200.0
 	}
 }
