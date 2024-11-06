@@ -2670,6 +2670,11 @@ hash = "8515079e00355e8e6010a6a18b53e6f19593d19c649a84d02afe6ea4b5a7b9d8"
 metafile = true
 
 [[files]]
+file = "mods/recipe-advancements-nuker.pw.toml"
+hash = "4d5eab19a1189bd35b0c3b9c55c2a3fb2fd85e2beb580138ad1d03aae221297a"
+metafile = true
+
+[[files]]
 file = "mods/recipe-essentials-forge-fabric.pw.toml"
 hash = "a201a90062857204411b75444d2baa707d87c30aadaed780bf0845b9559be6e9"
 metafile = true
