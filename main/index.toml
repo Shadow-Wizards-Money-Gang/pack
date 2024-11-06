@@ -2030,6 +2030,11 @@ hash = "754b65581daa4a2d8462d5e62b43555a85a2f24106e8662925a1adefcc9f07cf"
 metafile = true
 
 [[files]]
+file = "mods/crunchy-crunchy-advancements.pw.toml"
+hash = "b5ab626a745ddbc5b8aafdad68d020a4ca209680d5245aa8118caddc8d808600"
+metafile = true
+
+[[files]]
 file = "mods/ct-overhaul-village.pw.toml"
 hash = "b827d7573c11c91f1230ce944aebabec8aa7ae80a620147449861d36eb230664"
 metafile = true
