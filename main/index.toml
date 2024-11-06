@@ -30,7 +30,7 @@ hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
 
 [[files]]
 file = "config/adv_nuker-common.json"
-hash = "57b2006e2d6da181a2248c4657bd5638384819e6d2ad66ff270c92c76f740c92"
+hash = "934074ea5eaab77395501a1c71aef962780ba74c6d488c8b79973c8aee0a361c"
 
 [[files]]
 file = "config/amendments-client.json"

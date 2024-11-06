@@ -4,6 +4,7 @@
   "nuke_recipes": true,
   "nuke_mods": [],
   "whitelist_keywords": [
-    "bumblezone:root"
+    "bumblezone:root",
+    "arcanuscontinuum:grant_compendium_arcanus"
   ]
 }
