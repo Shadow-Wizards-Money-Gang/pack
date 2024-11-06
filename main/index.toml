@@ -1777,6 +1777,10 @@ file = "config/yungscavebiomes-fabric-1_20_1.toml"
 hash = "4a06e35e5bb6cda0cb5cb56a2a69068014c3ac8b15a5ff7807c9582cf3fa87cb"
 
 [[files]]
+file = "icon.png"
+hash = "8aee91b355637ac7b7f481f0bdf8ac240266a2ebc2915c161158f9727df922fe"
+
+[[files]]
 file = "instance.png"
 hash = "8aee91b355637ac7b7f481f0bdf8ac240266a2ebc2915c161158f9727df922fe"
 
