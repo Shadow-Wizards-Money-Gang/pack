@@ -1169,10 +1169,6 @@ file = "config/paxi/datapacks/cavernous_tweaked/data/cavernous/advancements/cavi
 hash = "da9bea794fc201d512ae0c9d328c07ad3c09948d2d18b2ee1c0f9c05b82ad2ea"
 
 [[files]]
-file = "config/paxi/datapacks/cavernous_tweaked/data/cavernous/advancements/come_on_geys.json"
-hash = "f7f3ce3b2f198fcd0a597dc06a1e874af6fcca7634902f1bd1d1ac3000663d1e"
-
-[[files]]
 file = "config/paxi/datapacks/cavernous_tweaked/data/cavernous/advancements/delver.json"
 hash = "c870e5603be1c2ee1d53806f8542a6c1cfa5fec84bdd7310fab8639ca692db01"
 
@@ -1241,10 +1237,6 @@ file = "config/paxi/datapacks/cavernous_tweaked/data/cavernous/advancements/tool
 hash = "d0a86d230839407fc343ad54a44519809d9dbfe7003a4c9408b99c73651415a1"
 
 [[files]]
-file = "config/paxi/datapacks/cavernous_tweaked/data/cavernous/advancements/tropical_excavation.json"
-hash = "caf08c47b65f59884909991da918e96cbe7c75d2d8c49fd3c89cc64f8ffb6b17"
-
-[[files]]
 file = "config/paxi/datapacks/cavernous_tweaked/data/cavernous/loot_tables/dungeon/hidden.json"
 hash = "de7ba58ed95485ad0f0b8bc9d62f540f5b24857baddcb3821c0f26a3f355541a"
 
@@ -1275,18 +1267,6 @@ hash = "2cb5c46eb3a1c4ae64e6ee56e62f800b11e9d2478c60620a8c98fa7586d6971c"
 [[files]]
 file = "config/paxi/datapacks/cavernous_tweaked/data/cavernous/loot_tables/husk_spawner/suspicious_sand.json"
 hash = "88dbd654168659f5b16777d7b92bda21e057890413d900c7bb44675a441e5232"
-
-[[files]]
-file = "config/paxi/datapacks/cavernous_tweaked/data/cavernous/loot_tables/overgrown_temple/basic_barrel.json"
-hash = "531620b03692d147a6b6b34fb916d6488b8f93c113cf08a0469b011ad4564461"
-
-[[files]]
-file = "config/paxi/datapacks/cavernous_tweaked/data/cavernous/loot_tables/overgrown_temple/special_barrel.json"
-hash = "4024ec1273eed0aea9383f3f41786ec85ee49b3a73d46c8837b8cf668904234f"
-
-[[files]]
-file = "config/paxi/datapacks/cavernous_tweaked/data/cavernous/loot_tables/overgrown_temple/suspicious_gravel.json"
-hash = "e1835b6ba76af354f36ef50c4eb5ecdef84ef262c9b95175208d90ce871fc97d"
 
 [[files]]
 file = "config/paxi/datapacks/cavernous_tweaked/data/cavernous/loot_tables/sandstone_temple/ancient_city_map.json"
@@ -1811,10 +1791,6 @@ hash = "970f371d083ba49c7ca62053fea9c46671c3a212dfd097a7ef3e228e28d1c22f"
 [[files]]
 file = "config/paxi/datapacks/cavernous_tweaked/data/cavernous/tags/worldgen/biome/has_structure/stone_village.json"
 hash = "3581bf309609ea5258592e6802bb65bf8d163f262da4e5077e6a3b90cd811f02"
-
-[[files]]
-file = "config/paxi/datapacks/cavernous_tweaked/data/cavernous/tags/worldgen/biome/has_structure/thermal_plant.json"
-hash = "b2e3193d93ccf826270d0a1c6a9046b6e21ee4c67bc965d8ca2ca6d50409a82a"
 
 [[files]]
 file = "config/paxi/datapacks/cavernous_tweaked/data/cavernous/tags/worldgen/biome/ice.json"
@@ -2861,20 +2837,12 @@ file = "config/paxi/datapacks/cavernous_tweaked/data/cavernous/worldgen/processo
 hash = "8670b851cf77dd0dcb271ff9a40a046f942c9b0eb08cca00779ece2d93ce6f16"
 
 [[files]]
-file = "config/paxi/datapacks/cavernous_tweaked/data/cavernous/worldgen/processor_list/overgrown_temple.json"
-hash = "5e7d04de1e61d5a1e697bae0e5ecb01e476df5c57594cd7f9ef1d65f94050ec7"
-
-[[files]]
 file = "config/paxi/datapacks/cavernous_tweaked/data/cavernous/worldgen/processor_list/sandstone_temple.json"
 hash = "c8e16520e6689b727ec9ccd98036c1b526e5bb2561097a8cc45269b8975df03f"
 
 [[files]]
 file = "config/paxi/datapacks/cavernous_tweaked/data/cavernous/worldgen/processor_list/stone_village.json"
 hash = "43606e7a2a09634d5fc32a98fb9d2e529c2f7c261cabaa502f98a782f90aab6f"
-
-[[files]]
-file = "config/paxi/datapacks/cavernous_tweaked/data/cavernous/worldgen/processor_list/thermal_plant.json"
-hash = "dfc4a7de67f8831015a4f22d642015f092eb197ddd44148f4106e872c0085036"
 
 [[files]]
 file = "config/paxi/datapacks/cavernous_tweaked/data/cavernous/worldgen/structure/dungeon.json"
@@ -2887,10 +2855,6 @@ hash = "e5aeafdb1d4714160764ee1eccd7b683b2c89c4d1454f75233f755f5be31c8c1"
 [[files]]
 file = "config/paxi/datapacks/cavernous_tweaked/data/cavernous/worldgen/structure/lush_village.json"
 hash = "80ece056e7de442aec0a62a2d38db90bd6ed38187a463d126bdf484eaf683b68"
-
-[[files]]
-file = "config/paxi/datapacks/cavernous_tweaked/data/cavernous/worldgen/structure/overgrown_temple.json"
-hash = "2e1d042b805a82e235dcc537e269321701d15fc36c26360502cd958768eef5da"
 
 [[files]]
 file = "config/paxi/datapacks/cavernous_tweaked/data/cavernous/worldgen/structure/sandstone_temple.json"
@@ -2911,10 +2875,6 @@ hash = "1de8a77a6d2374e7e5e6eae74ffba8c1bd2e3ea4fa0d70d4c025f1a525425409"
 [[files]]
 file = "config/paxi/datapacks/cavernous_tweaked/data/cavernous/worldgen/structure_set/lush_village.json"
 hash = "e291eff0a07f0dd7a479099257b7496b9e9ea94dcc6d04972b1951ac72e32cc3"
-
-[[files]]
-file = "config/paxi/datapacks/cavernous_tweaked/data/cavernous/worldgen/structure_set/overgrown_temple.json"
-hash = "ba159b9c9b2b24819f29f79d03ef54e304fd41ead920f62fa73deff18e637226"
 
 [[files]]
 file = "config/paxi/datapacks/cavernous_tweaked/data/cavernous/worldgen/structure_set/sandstone_temple.json"
@@ -2943,10 +2903,6 @@ hash = "fe485f7db8e97651247170d100f9d92d826a730d3bb245d4bfecdf9f44254920"
 [[files]]
 file = "config/paxi/datapacks/cavernous_tweaked/data/cavernous/worldgen/template_pool/husk_spawner.json"
 hash = "ca6ed9aac707aa868c9a136cee3370e4f03797a8918923adfff28356009e6606"
-
-[[files]]
-file = "config/paxi/datapacks/cavernous_tweaked/data/cavernous/worldgen/template_pool/overgrown_temple.json"
-hash = "0fd4d8ec4a1870305e080af05e648abf5049766975c2b4fdfe0ba1447633b6ed"
 
 [[files]]
 file = "config/paxi/datapacks/cavernous_tweaked/data/cavernous/worldgen/template_pool/sandstone_temple.json"
