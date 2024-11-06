@@ -1153,6 +1153,10 @@ file = "config/paxi/datapacks/WWOO-QUILT-MODIFIED.zip"
 hash = "9924a10019d31b5d64a916d137dc536a34e15df93f78bb75e5a769df073ba6c0"
 
 [[files]]
+file = "config/paxi/datapacks/cavernous_tweaked.zip"
+hash = "16a7ddfab0cffafc6e012b65bfe3f4af2f0add7a2126b6403ce7aa18021ccd87"
+
+[[files]]
 file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
@@ -2641,10 +2645,6 @@ hash = "35f2b7d27291e3a313c986137b70b7675bc32b3d0097e0940c7e23b0cf62b92e"
 metafile = true
 
 [[files]]
-file = "mods/profundis-1.6.2.jar"
-hash = "f4f941029fa5590de76295098e35c083350eebe97683ab5d3b82f5cea8df2634"
-
-[[files]]
 file = "mods/projectile-damage-attribute.pw.toml"
 hash = "5d6fc87d397cd2da57d3779e5728cc28d7fc3a455ead4e4f82e21f6e636278c2"
 metafile = true
@@ -2759,7 +2759,7 @@ metafile = true
 
 [[files]]
 file = "mods/shadow-wizards-0.3.8.jar"
-hash = "36bde83bd789cf8d415055e230cb94f86b7a6498b913020cdcb2b44a264a36a1"
+hash = "416522f77842a74daeec81d2a28ddfb9d3a27e05069fffa7e7da8fd2a7ed03e1"
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
@@ -2946,11 +2946,6 @@ metafile = true
 [[files]]
 file = "mods/wallpapers.pw.toml"
 hash = "435d03588c2f65713276c224fa393ca7f3768f4145cb745d111b46ea8c8a154a"
-metafile = true
-
-[[files]]
-file = "mods/wfs-cave-overhaul.pw.toml"
-hash = "c9f9fc066761083984691cf44bb2dd141813d76471276b7a6d3bf4662a4efcea"
 metafile = true
 
 [[files]]
