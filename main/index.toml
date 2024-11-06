@@ -2585,11 +2585,6 @@ hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
 
 [[files]]
-file = "mods/nocturnal-bats.pw.toml"
-hash = "8bc40f9110362acd40ab3341a4f8a3f9e3c90a4c79a19dd488d2583e9c0caf22"
-metafile = true
-
-[[files]]
 file = "mods/noisium.pw.toml"
 hash = "4bef2974b0ccbf63265a7c430fa37d57c11f4dc0c38c4764b7b7a5336b4f9434"
 metafile = true
@@ -2753,8 +2748,8 @@ hash = "182161aa8e4b730555dd9984efb7be8cfd3debbaf1d4cc60e0b3241402e6f2bc"
 metafile = true
 
 [[files]]
-file = "mods/shadow-wizards-0.4.0.jar"
-hash = "2859cd2d9fb3d5299090197f4e29ae8b9a7dd08aac8d4af4e496221518cb0d15"
+file = "mods/shadow-wizards-0.4.1.jar"
+hash = "71952adce2b504616728277879d833e1214c88f9f90e1324c0869736ec5460ca"
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
@@ -2773,7 +2768,7 @@ metafile = true
 
 [[files]]
 file = "mods/snow-real-magic-fabric.pw.toml"
-hash = "d298611e601fe6cad7850392aaa95948adc78f4a3506d6ba90b3807ce7c142ec"
+hash = "b48c891653174a9f80e1763f15f23a42e0349a8c0b444be446d4cd63010c630c"
 metafile = true
 
 [[files]]
@@ -2936,6 +2931,11 @@ metafile = true
 [[files]]
 file = "mods/villages-and-pillages.pw.toml"
 hash = "b3d987a4fd3225f75647a486bba9160a03088af5b5793227c7f6724967fc7b91"
+metafile = true
+
+[[files]]
+file = "mods/voice-chat-interaction.pw.toml"
+hash = "ed77ef0ba487dea1aa253926993b0a4b5bd03a4997d7ab42ea0ac7246040a03e"
 metafile = true
 
 [[files]]
