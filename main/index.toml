@@ -2752,6 +2752,11 @@ file = "mods/shadow-wizards-0.4.0.jar"
 hash = "2859cd2d9fb3d5299090197f4e29ae8b9a7dd08aac8d4af4e496221518cb0d15"
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "bdde9847098ca88245845d36dc4af3a05387f6e46f93daceb4e16481397edcd4"
+metafile = true
+
+[[files]]
 file = "mods/smartbrainlib.pw.toml"
 hash = "aedb311fc1b55ad67fd6d9b425b09ebf8b7638367b8036f87f6bf759edd948a3"
 metafile = true
