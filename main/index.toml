@@ -1859,11 +1859,6 @@ hash = "13cb21e09b9d0d6622359f24f0bfed0e4123fcbaf7e65a1eb7e5396c47a56349"
 metafile = true
 
 [[files]]
-file = "mods/areas.pw.toml"
-hash = "dd043c29e6b038696b709a25ff45b5c0323137679acc2dac6f7f5fde4da53108"
-metafile = true
-
-[[files]]
 file = "mods/artsandcrafts.pw.toml"
 hash = "2ae1f6eedd5be0059c64d842fa383d950b5c1b5d5a4a938b011497bdbf4a5eab"
 metafile = true
@@ -2034,11 +2029,6 @@ hash = "754b65581daa4a2d8462d5e62b43555a85a2f24106e8662925a1adefcc9f07cf"
 metafile = true
 
 [[files]]
-file = "mods/crunchy-crunchy-advancements.pw.toml"
-hash = "3df253f02cc0cb510b53389ac4f2183803792ee7b93c6b542750978ad274991e"
-metafile = true
-
-[[files]]
 file = "mods/ct-overhaul-village.pw.toml"
 hash = "b827d7573c11c91f1230ce944aebabec8aa7ae80a620147449861d36eb230664"
 metafile = true
@@ -2061,11 +2051,6 @@ metafile = true
 [[files]]
 file = "mods/daves-potioneering.pw.toml"
 hash = "cf89c388615efcebc1d59a03787f57fcae38ef271d6ae2abac3d6a0a3baf1ee6"
-metafile = true
-
-[[files]]
-file = "mods/death-backup.pw.toml"
-hash = "12e38e6975fba3f2793ec19d639204030e403c758dc127f562062724c67610ee"
 metafile = true
 
 [[files]]
