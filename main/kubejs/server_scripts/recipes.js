@@ -182,6 +182,12 @@ ServerEvents.recipes((event) => {
     "minecraft:coal",
     "4x shadow-wizards:resin",
   ]);
+
+  event.shapeless("shadow-wizards:resin", [
+    "3x #shadow-wizards:sapling",
+    "1x rootsclassic:pestle"
+  ]).keepIngredient("rootsclassic:pestle");
+
   event.shapeless("shadow-wizards:fire_grease", [
     // arg 1: output
     "2x minecraft:coal",
@@ -209,8 +215,7 @@ BlockEvents.rightClicked((event) => {
     event.player.mainHandItem == "rootsclassic:pestle"
   ) {
     if (
-      event.player.offHandItem == "minecraft:oak_sapling" ||
-      event.player.offHandItem == "minecraft:dark_oak_sapling"
+      event.player.offHandItem.hasTag("shadow-wizards:sapling")
     ) {
       event.player.offHandItem.count--;
       event.player.give("shadow-wizards:resin");

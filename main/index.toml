@@ -1806,7 +1806,7 @@ hash = "0a6d8536458d9e98c184837e714ba99c6af2d379265a65bea1088b4e07dc3565"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "fba3305fa8570ad6a6e552755628455b3661fcbe383516134d80dec94cdedcd8"
+hash = "75188d4ef441f6f960f029c55f165d53445c19ed6aac33295ddaffd9018e02f1"
 
 [[files]]
 file = "kubejs/server_scripts/worldgen.js"
@@ -2733,8 +2733,8 @@ hash = "182161aa8e4b730555dd9984efb7be8cfd3debbaf1d4cc60e0b3241402e6f2bc"
 metafile = true
 
 [[files]]
-file = "mods/shadow-wizards-0.4.1.jar"
-hash = "8dcad084359855a65b88e1011b09446f0299c25e59dfc000d4a823772348f6f5"
+file = "mods/shadow-wizards-0.4.2.jar"
+hash = "dc1e4e5f63af584fdf5fffb1ea9428de52867f3e4564498fce8e28490efae890"
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
@@ -2987,6 +2987,10 @@ metafile = true
 file = "mods/yungs-cave-biomes-fabric.pw.toml"
 hash = "180930fada48ba5e18802943c83fe0805803fba6f9a2fda04977b184aad9378a"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "d22f9164ba40365cca43010cd2db689fe6151b33e5a4071e407307c9d84381e9"
 
 [[files]]
 file = "unsup.toml"
