@@ -6,7 +6,7 @@
   "levelFormula": "5+(0.1*x^2)+(x+0+abs(x+0))/2",
   "restorativeForceTicks": 600,
   "restorativeForceMultiplier": 110,
-  "expNegationFactor": 95,
+  "expNegationFactor": 98,
   "levelUpVolume": 100,
   "skillUpVolume": 100,
   "skillUpPitch": 100,

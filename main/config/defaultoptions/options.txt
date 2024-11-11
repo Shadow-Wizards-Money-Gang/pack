@@ -1,5 +1,5 @@
 version:3465
-quilt_available_resource_packs:["Moonlight Mods Dynamic Assets","bakery/minecraft_bricks","continuity/default","continuity/glass_pane_culling_fix","dye_depot/dye_override","enchancement/alternate_dash","enchancement/alternate_gale","high_contrast","presencefootsteps/default_sound_pack","programmer_art","supplementaries/darker_ropes","vanilla","$polymer-resources","Shadow Wizard Money Gang Pack","bountifulfares/amendments_res","bountifulfares/dye_depot_res_rename","bountifulfares/vanilla_item_override","minecraft/supporteatinganimation"]
+quilt_available_resource_packs:["Moonlight Mods Dynamic Assets","bakery/minecraft_bricks","continuity/default","continuity/glass_pane_culling_fix","dye_depot/dye_override","enchancement/alternate_dash","enchancement/alternate_gale","high_contrast","presencefootsteps/default_sound_pack","programmer_art","supplementaries/darker_ropes","vanilla","$polymer-resources","bountifulfares/amendments_res","bountifulfares/dye_depot_res_rename","bountifulfares/vanilla_item_override","minecraft/supporteatinganimation","black_icons","classic_icons","swmg_pack.zip","white_icons"]
 autoJump:false
 operatorItemsTab:false
 autoSuggestions:true
@@ -19,7 +19,7 @@ touchscreen:false
 fullscreen:false
 bobView:true
 toggleCrouch:false
-toggleSprint:true
+toggleSprint:false
 darkMojangStudiosBackground:false
 hideLightningFlashes:false
 mouseSensitivity:0.5

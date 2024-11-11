@@ -33,12 +33,21 @@
       ]
     },
     "minecraft:chests/ancient_city": {
-      "rolls": 0.5,
+      "rolls": 1.0,
       "bonus_rolls": 0.2,
       "entries": [
         {
           "id": "#shadow-wizards:risk_3_items",
           "weight": 1,
+          "enchant": {
+            "min_power": 1.0,
+            "max_power": 30.0,
+            "allow_treasure": true
+          }
+        },
+        {
+          "id": "#shadow-wizards:risk_2_items",
+          "weight": 2,
           "enchant": {
             "min_power": 1.0,
             "max_power": 30.0,

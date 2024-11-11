@@ -184,7 +184,7 @@ ServerEvents.recipes((event) => {
   ]);
 
   event.shapeless("shadow-wizards:resin", [
-    "3x #shadow-wizards:sapling",
+    "1x #shadow-wizards:sapling",
     "1x rootsclassic:pestle"
   ]).keepIngredient("rootsclassic:pestle");
 
@@ -218,7 +218,7 @@ BlockEvents.rightClicked((event) => {
       event.player.offHandItem.hasTag("shadow-wizards:sapling")
     ) {
       event.player.offHandItem.count--;
-      event.player.give("shadow-wizards:resin");
+      event.player.give("2x shadow-wizards:resin");
       event.cancel();
     }
   }

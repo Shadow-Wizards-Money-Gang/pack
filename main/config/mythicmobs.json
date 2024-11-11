@@ -1,6 +1,6 @@
 {
-  "koboldSpawnWeight": 10,
-  "koboldWarriorSpawnWeight": 8,
+  "koboldSpawnWeight": 0,
+  "koboldWarriorSpawnWeight": 1,
   "chupacabraSpawnWeight": 20,
   "drakeSpawnWeight": 0,
   "mushroomSpawnWeight": 20,

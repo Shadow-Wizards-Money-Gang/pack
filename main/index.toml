@@ -314,11 +314,11 @@ hash = "a186d6ab6468353cb2a49f5a4229c16b004580a557d4bccaf12041e8a46f9d9e"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "d57403b5fa1f7ee025fefb854d9f3b565139eb6fd1ee12910419fa6ff903012d"
+hash = "092c37672c680df758db0698b16204925a435ab4f839652c89311cd9b2a3d90c"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "1045c122f9eff10f216aa77639a321640f1571f540449636f2802e2415c53f5b"
+hash = "5d1c63e876d4d64d0a710737714b7a4670506e8b2c39cbc2b12eac6bb3a5362d"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
@@ -722,7 +722,7 @@ hash = "6b0e3ee823563d94940769cc61e79598bfc07722c62febac4bdbae55dd9ef1f3"
 
 [[files]]
 file = "config/mythicmobs.json"
-hash = "20b8da8621e8db0c9ccc8c4d2441e5b1c614040b5f8fcacd4560e888e88a5266"
+hash = "2de27e1eb7b984a3116d3717552a8a0b73c9d0c1cad9734dfe9ad3f660cb060d"
 
 [[files]]
 file = "config/naturalist.json"
@@ -1354,7 +1354,7 @@ hash = "a0ab2486363d8ce3df3846b70e813d10fe23a88f6edae9d8147c5c94874be2bb"
 
 [[files]]
 file = "config/playerex.json"
-hash = "573ed274bd21f6cf0f92ff500f34adae298146e21d8e6705ef1725766e2a8697"
+hash = "ff57d7ad47ed808a06e2da2c97f0c9d5600ba55994eebfeeaee659aa50888ea0"
 
 [[files]]
 file = "config/polymer/client.json"
@@ -1414,7 +1414,7 @@ hash = "74283b0e4334a4692dea01212ec4ebcb4ea76a5fffaf6e382012195e4d2f735f"
 
 [[files]]
 file = "config/respawnobelisks.jsonc"
-hash = "2afb21a7cfdf37db763c03b27dbe17d12d3fa7a9428c5c4d6f068ae4f62e4f5a"
+hash = "2aff5475dc8844ba9eb5f6148875476b17a04f515305572b1ee5a63efef794a2"
 
 [[files]]
 file = "config/rogues/items_v2.json"
@@ -1474,7 +1474,7 @@ hash = "299965ce464b4c0bb4a79dfd2dba2cdfd63f3360628b0d5b0d3b3988003f4f0d"
 
 [[files]]
 file = "config/shadow-wizards-api.json5"
-hash = "edb34b7c7a302789e77178c0bd6c7978eed41045c86de692cad6229a081dd209"
+hash = "8146f2e029390dbffa335d1e1e6bf0743bb9bff5094deb2295163c06f833b614"
 
 [[files]]
 file = "config/shadow-wizards.json5"
@@ -1482,7 +1482,7 @@ hash = "b88d463e825f183da08f4f4c9aeacfc47c5556473b40c303b08fcafcb1c1e9fb"
 
 [[files]]
 file = "config/shadow-wizards/loot_v2.json"
-hash = "5d64050dd77d7d1ce55064db37270c7007654d8583c5a97d929bd76e7993cbf6"
+hash = "f960efe96143f73e20ebbb4a826490e5b61a3075828affd73fbcbd854e9b0bf3"
 
 [[files]]
 file = "config/smoothchunk.json"
@@ -1669,10 +1669,6 @@ file = "config/ukulib.toml"
 hash = "5aeb223632f06c008fab3c64f8e53623ea9fda4fd1fb12ec80ee1501d7bade5b"
 
 [[files]]
-file = "config/umu_backpack.json"
-hash = "d7b3d6020222171a01f509a8f6cc0a5be76ddd9bb69c7dc7110772fc566412b0"
-
-[[files]]
 file = "config/umu_config_client.json"
 hash = "28fbb2d49a1c8a98647bdb75abaecd801b817c5ccae432ccc8631627545877e3"
 
@@ -1806,7 +1802,7 @@ hash = "0a6d8536458d9e98c184837e714ba99c6af2d379265a65bea1088b4e07dc3565"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "75188d4ef441f6f960f029c55f165d53445c19ed6aac33295ddaffd9018e02f1"
+hash = "aa225f355eb6638a3dedb74760ea4aad8e4e9dd9109550704e47c8303e908722"
 
 [[files]]
 file = "kubejs/server_scripts/worldgen.js"
