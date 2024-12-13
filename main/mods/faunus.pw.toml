@@ -1,0 +1,13 @@
+name = "Faunus"
+filename = "faunus-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bBmZyAxk/versions/nCyKtqy0/faunus-1.0.0.jar"
+hash-format = "sha1"
+hash = "72e238503a316387437346cf1ea731aac2f3dfb6"
+
+[update]
+[update.modrinth]
+mod-id = "bBmZyAxk"
+version = "nCyKtqy0"
