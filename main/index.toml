@@ -1860,7 +1860,7 @@ metafile = true
 
 [[files]]
 file = "mods/artsandcrafts.pw.toml"
-hash = "2ae1f6eedd5be0059c64d842fa383d950b5c1b5d5a4a938b011497bdbf4a5eab"
+hash = "90717540f90078d4cb0bb62a3f6150d66326c937c4128afa14779cc3b7a3e102"
 metafile = true
 
 [[files]]
@@ -2215,7 +2215,7 @@ metafile = true
 
 [[files]]
 file = "mods/faunus.pw.toml"
-hash = "85a4e61069845e1461ab9d1c0a16b8284e51d39d70c68bd1eef3f71e3a6418fc"
+hash = "248f46b145bdabb2fe31edc5cbeb8487c003fdb1a275f44f632b1e2ea62c3505"
 metafile = true
 
 [[files]]
@@ -2774,7 +2774,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "c69ab9ce4f22533944263667f2e777294045c506a82ebe2de77cdae246b6926b"
+hash = "44d11fde8292189cdc5043fcf9aaaae252b0dded6db0cddfa7fb967e9e0c3e6c"
 metafile = true
 
 [[files]]
