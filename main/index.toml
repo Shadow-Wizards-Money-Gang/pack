@@ -965,6 +965,10 @@ file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/enchancemen
 hash = "37a47c538abb088e2227af70d68f4985b4752ebdb38a0b700f7ec35dd9a8e93f"
 
 [[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/farm_and_charm/recipes/pot_cooking/pot_firebomb.json"
+hash = "ec7e76448e07e7b8d962dacd5493ecc545dc250e979da90b0f88cb0ed113f9b5"
+
+[[files]]
 file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/guardvillagers/loot_tables/entities/guard_chestplate.json"
 hash = "d4d789d065d01573dde27ab43beb7bb288fe3e33b192c9c05af61f74dcfc4c26"
 
@@ -1158,7 +1162,7 @@ hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
 file = "config/paxi/resourcepacks/swmg_pack.zip"
-hash = "4af07a6a7846b5bb2a96707c1d045b65311ecca94a5d9be87e500b4abafb2c65"
+hash = "e25338c2d8f744fb0098860fa4fc8567dad375ee51b8a0626e64b4d013c80b9c"
 
 [[files]]
 file = "config/pehkui/config.json"
@@ -2208,10 +2212,6 @@ metafile = true
 file = "mods/faster-random.pw.toml"
 hash = "31cd9b39f38befed65a8607df20ab6f5e3f43cdf260829d7fc56e400fad12924"
 metafile = true
-
-[[files]]
-file = "mods/faunus-pre1.jar"
-hash = "ceb6fd10d11253d63d438257a5dba2715dbe0ba5562f65c3dfdce59d7687d269"
 
 [[files]]
 file = "mods/faunus.pw.toml"
