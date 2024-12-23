@@ -966,7 +966,7 @@ hash = "37a47c538abb088e2227af70d68f4985b4752ebdb38a0b700f7ec35dd9a8e93f"
 
 [[files]]
 file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/farm_and_charm/recipes/pot_cooking/pot_firebomb.json"
-hash = "38bab19d24425f0f805ddcd07112809cfc49513426186a276c62e8a8f0379cfa"
+hash = "ac77ce78ce14f3f038db48079fe9fdbe02b442f3f64dee6e0b35d153b3534eee"
 
 [[files]]
 file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/guardvillagers/loot_tables/entities/guard_chestplate.json"
@@ -1855,7 +1855,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "13cb21e09b9d0d6622359f24f0bfed0e4123fcbaf7e65a1eb7e5396c47a56349"
+hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
 metafile = true
 
 [[files]]
@@ -2435,6 +2435,11 @@ metafile = true
 [[files]]
 file = "mods/lets-do-candlelight.pw.toml"
 hash = "a8aaf4ad332d42ea99bb4f9c6e03ae5d1c1fe84a6dcaa97f366e0fd09f1de24b"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-farm-charm.pw.toml"
+hash = "7bf17d3c1ed1e876f623e7d342270550fa34f22634720764cd4b7d0e86448089"
 metafile = true
 
 [[files]]

@@ -2,19 +2,19 @@
   "type": "farm_and_charm:pot_cooking",
   "ingredients": [
     {
-      "tag": "minecraft:slime_ball"
+      "item": "minecraft:slime_ball"
     },
     {
-      "tag": "minecraft:clay_ball"
+      "item": "minecraft:clay_ball"
     },
     {
-      "tag": "minecraft:gunpowder"
+      "item": "minecraft:gunpowder"
     },
     {
-      "tag": "shadow-wizards:fire_grease"
+      "item": "shadow-wizards:fire_grease"
     }
   ],
- "container": {
+  "container": {
     "required": true,
     "item": {
       "item": "minecraft:glass_bottle"
