@@ -121,7 +121,7 @@
 			0,
 			0,
 			0,
-			9,
+			6,
 			0
 		],
 		"minecraft:brewing_stand": [
@@ -205,7 +205,7 @@
 			0
 		],
 		"paladins:iron_claymore": [
-			6,
+			7,
 			0,
 			0,
 			0,
@@ -668,6 +668,14 @@
 			0,
 			0
 		],
+		"rogues:golden_dagger": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
 		"rogues:iron_sickle": [
 			0,
 			0,
@@ -751,16 +759,16 @@
 		"extraspellattributes:goldquartzring": [
 			0,
 			0,
-			6,
 			0,
+			9,
 			0,
 			0
 		],
 		"extraspellattributes:netheritediamondring": [
 			0,
 			0,
-			9,
 			0,
+			9,
 			0,
 			0
 		],
@@ -806,10 +814,10 @@
 		],
 		"lostrelics:triple_toothed_snake": [
 			0,
-			16,
 			0,
+			13,
 			0,
-			4,
+			12,
 			0
 		],
 		"spellbladenext:frost_orb": [
@@ -931,6 +939,70 @@
 			8,
 			0,
 			0
+		],
+		"dungeonnowloading:spawner_boots": [
+			9,
+			0,
+			0,
+			0,
+			9,
+			0
+		],
+		"dungeonnowloading:spawner_leggings": [
+			9,
+			0,
+			0,
+			0,
+			9,
+			0
+		],
+		"dungeonnowloading:spawner_chestplate": [
+			9,
+			0,
+			0,
+			0,
+			9,
+			0
+		],
+		"dungeonnowloading:spawner_helmet": [
+			9,
+			0,
+			0,
+			0,
+			9,
+			0
+		],
+		"dungeonnowloading:spawner_sword": [
+			9,
+			0,
+			0,
+			0,
+			9,
+			0
+		],
+		"dungeonnowloading:spawner_sword": [
+			9,
+			0,
+			0,
+			0,
+			9,
+			0
+		],
+		"dungeonnowloading:life_stealer": [
+			0,
+			12,
+			0,
+			0,
+			0,
+			0
+		],
+		"dungeonnowloading:scepter_of_sealed_chaos": [
+			0,
+			0,
+			0,
+			9,
+			0,
+			9
 		]
 	},
 	"ITEM_CATEGORY_REQUERIMENTS": {

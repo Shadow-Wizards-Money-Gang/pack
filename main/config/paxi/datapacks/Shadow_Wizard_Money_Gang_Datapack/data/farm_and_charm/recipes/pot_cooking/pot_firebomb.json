@@ -14,8 +14,11 @@
       "tag": "shadow-wizards:fire_grease"
     }
   ],
-  "container": {
-    "item": "minecraft:glass_bottle"
+ "container": {
+    "required": true,
+    "item": {
+      "item": "minecraft:glass_bottle"
+    }
   },
   "result": {
     "item": "shadow-wizards:firebomb",

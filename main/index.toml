@@ -534,7 +534,7 @@ hash = "61cb7ed490b89f5ff981aef3e008ea7ce4feb8aa1c60690282776907b1d100ef"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "3b08a9c443dd07abfb5b72476565a5bad28288b4018a4b6a633ce9b5b07eb50f"
+hash = "d4085a2040a1e053fc46bb0226243901a60df98c57707ef8a654e630b79e0219"
 
 [[files]]
 file = "config/jei/blacklist.cfg"
@@ -966,7 +966,7 @@ hash = "37a47c538abb088e2227af70d68f4985b4752ebdb38a0b700f7ec35dd9a8e93f"
 
 [[files]]
 file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/farm_and_charm/recipes/pot_cooking/pot_firebomb.json"
-hash = "ec7e76448e07e7b8d962dacd5493ecc545dc250e979da90b0f88cb0ed113f9b5"
+hash = "38bab19d24425f0f805ddcd07112809cfc49513426186a276c62e8a8f0379cfa"
 
 [[files]]
 file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/guardvillagers/loot_tables/entities/guard_chestplate.json"
@@ -1354,7 +1354,7 @@ hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "config/playerex-config.json5"
-hash = "a0ab2486363d8ce3df3846b70e813d10fe23a88f6edae9d8147c5c94874be2bb"
+hash = "249c3acb982383a6ca7ba3063e91d292a82aef39851ef0c63283a85a57187115"
 
 [[files]]
 file = "config/playerex.json"
@@ -1478,7 +1478,7 @@ hash = "299965ce464b4c0bb4a79dfd2dba2cdfd63f3360628b0d5b0d3b3988003f4f0d"
 
 [[files]]
 file = "config/shadow-wizards-api.json5"
-hash = "8146f2e029390dbffa335d1e1e6bf0743bb9bff5094deb2295163c06f833b614"
+hash = "1a7de6207cc0e9882a9d07ced60a9de69b97c7234d9f6b4159588ba20bc13330"
 
 [[files]]
 file = "config/shadow-wizards.json5"
@@ -1845,7 +1845,7 @@ metafile = true
 
 [[files]]
 file = "mods/arcanus-continuum.pw.toml"
-hash = "bec9efb7ba7519dcd0e198ddc490d0e630fb10923825cd6d1640b633aa430c1f"
+hash = "2361c4a6e3849a4c4ef7408f1332a4d284774365b6460030b572ace8f54d9ec3"
 metafile = true
 
 [[files]]
@@ -1870,12 +1870,12 @@ metafile = true
 
 [[files]]
 file = "mods/azurelib-armor.pw.toml"
-hash = "0962d4388dabc82fbe7651fc13cc880876ba66b8c4efd76c9e28bbcf751131c5"
+hash = "b39837b3e37380994b4284f984bba3093746db066ef8346ac321085eba0094c2"
 metafile = true
 
 [[files]]
 file = "mods/azurelib.pw.toml"
-hash = "c7197bae2df4f4a95fdcd0016cab76518350a9c87c25e55b3856c85bb5bedc62"
+hash = "36a55756b3df88edcdb9be3857d70d9740425ea771a8ddbad895b38a2757f787"
 metafile = true
 
 [[files]]
@@ -1885,7 +1885,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "d8c757f4a1f9d3abef4a3b25a889af423003a9b8af300d6e3e243f3f53f4d152"
+hash = "73faa6a82be2e6c791fa9754b3e05fbfdec82732d9f9a50573b497a07cb8797a"
 metafile = true
 
 [[files]]
@@ -1905,7 +1905,7 @@ metafile = true
 
 [[files]]
 file = "mods/bettercombat-extension.pw.toml"
-hash = "1ddf15c2f6433043e4a8e6b454afb94744c98f0f7b2ef7ae3517f6248a99fedc"
+hash = "549887b81056574f011aa6bf048cd35e96a232a3bff54cb0bac2529824f895bf"
 metafile = true
 
 [[files]]
@@ -2045,7 +2045,7 @@ metafile = true
 
 [[files]]
 file = "mods/data-attributes-directors-cut.pw.toml"
-hash = "8a134d79034c65b332c01b245da36d2a6ee03775e6047033644806f760876e0e"
+hash = "b2d7ba854e51f4f953b16bbfc9f7a0a1ab102c61f66670db5aa83105693abde8"
 metafile = true
 
 [[files]]
@@ -2160,7 +2160,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "bba10da270fda83e148faf69213ec4779886206cde5fab74cae5679ff8e80e93"
+hash = "ca5437e7ec18441fddebc8435aa77da5f47a3a48d071da556548cde668c2c102"
 metafile = true
 
 [[files]]
@@ -2175,12 +2175,12 @@ metafile = true
 
 [[files]]
 file = "mods/extra-rpg-attributes.pw.toml"
-hash = "9ff0ae53c404cb47197994fc997203009adfafd7c5c6e91fb15ff90452a0b907"
+hash = "12691f88aef7e6c64e9b6826bf3d5a86c6dd9e746511a8f1a6728e7ae241ff44"
 metafile = true
 
 [[files]]
 file = "mods/extra-spell-attributes.pw.toml"
-hash = "d50852ff5285d48c9c203146e39d34757a5f31cc55baa7ae7be98683aa74afc6"
+hash = "8eb76eb0e6159bc06f152ab340750fb2b46e7fb4c6e0ec4b41657782fbc9d945"
 metafile = true
 
 [[files]]
@@ -2200,7 +2200,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-async-world-save-forge-fabric.pw.toml"
-hash = "9e525b31263cc8c7caa45efc23d180a085b51286e3bde80640d74dc1d982e8f7"
+hash = "89bbd6f7b8824e084e81542de218ed05f2be74ad7e8ad211d845cad85aec3978"
 metafile = true
 
 [[files]]
@@ -2369,7 +2369,7 @@ metafile = true
 
 [[files]]
 file = "mods/kiwi-fabric.pw.toml"
-hash = "526a6c76f250351de661e54c7d3af87356f6139dd91c6829999c2fc1de615cae"
+hash = "f9ca251f79ae0b521c5da2ba465014b000fd6508178a8c505c5d66f6963894a9"
 metafile = true
 
 [[files]]
@@ -2444,7 +2444,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "b4864dfa25e434870f9db0992646c605f197a28fc4e9b70e45fc53962ef703e8"
+hash = "c57ec0ac8fc5125eb48960cdfebe200ff61ef83698eb1a60247ef38b94b96a85"
 metafile = true
 
 [[files]]
@@ -2642,7 +2642,7 @@ metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
-hash = "5f8cba674aca78a4f0c583dbf8b372313e967b5caa53a39e60d350a6c3d3bd18"
+hash = "3ef4dbdb9a77b7b1f52a77f6745ea0983826e8aed8a57ba2c62f6a33b5d7deac"
 metafile = true
 
 [[files]]
@@ -2720,7 +2720,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "3e306c29ba2be1fa4b80a99d256272d9868086b6ad7742869115d8f16b64cfe6"
+hash = "558e39174311780b7ced4bc9d7ba707cd7ac3b36e726779893df1debe9f25edc"
 metafile = true
 
 [[files]]
@@ -2734,12 +2734,12 @@ hash = "2a3f43bcb818999b3228849ad0e3dacc97e9809654076adf483fe6046cab21ea"
 metafile = true
 
 [[files]]
-file = "mods/shadow-wizards-0.5.2.jar"
-hash = "c5d5e5013c99fd87fa5bf8b27f37df26145d5cab35ffcd39617e2de74d2f7ff5"
+file = "mods/shadow-wizards-0.6.0.jar"
+hash = "cc49ee97b8310b78cdb43e753c73d89b161834d354171284b380135f029d0fec"
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "407d9fabf2cb030da7d2fe0a862a3b88c013f8e60226bd5a97d70665f04c937e"
+hash = "c218375feeaec2ea93e256d170fb41cbca9b77312e93a321ee8fac814aa4b722"
 metafile = true
 
 [[files]]
@@ -2789,12 +2789,12 @@ metafile = true
 
 [[files]]
 file = "mods/sparkweave.pw.toml"
-hash = "7f79b5b72fbb01e97b6a2eb8e3371234988f491a3ca2cb9210a455b3e7dbf185"
+hash = "58db5ab5da8397f17b0dc09f9c2be95d15b98b156d2d29a2d91dd0f8e9644f46"
 metafile = true
 
 [[files]]
 file = "mods/spell-engine.pw.toml"
-hash = "b37ea3aaa963bf6776b5805a2c02deacfb199a54be9ba2183da74f78f2e87784"
+hash = "8d9ebb44bfa4fa850877c974b452910ed488fcd7827efe199bbb3b4e3d8120a7"
 metafile = true
 
 [[files]]
