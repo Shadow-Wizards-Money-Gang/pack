@@ -1,7 +1,7 @@
 {
   "injectors": {
     "minecraft:chests/abandoned_mineshaft": {
-      "rolls": 1.1,
+      "rolls": 3,
       "bonus_rolls": 0.25,
       "entries": [
         {
@@ -15,7 +15,7 @@
       ]
     },
     "minecraft:chests/woodland_mansion": {
-      "rolls": 1.1,
+      "rolls": 2,
       "bonus_rolls": 0.25,
       "entries": [
         {
@@ -33,7 +33,7 @@
       ]
     },
     "minecraft:chests/ancient_city": {
-      "rolls": 1.0,
+      "rolls": 2.0,
       "bonus_rolls": 0.2,
       "entries": [
         {
@@ -57,7 +57,7 @@
       ]
     },
     "minecraft:chests/shipwreck_treasure": {
-      "rolls": 0.5,
+      "rolls": 3,
       "bonus_rolls": 0.2,
       "entries": [
         {
@@ -72,7 +72,7 @@
       ]
     },
     "minecraft:chests/underwater_ruin_big": {
-      "rolls": 0.5,
+      "rolls": 2,
       "bonus_rolls": 0.2,
       "entries": [
         {
@@ -87,7 +87,7 @@
       ]
     },
     "minecraft:chests/stronghold_library": {
-      "rolls": 0.5,
+      "rolls": 1,
       "bonus_rolls": 0.2,
       "entries": [
         {
@@ -102,7 +102,7 @@
       ]
     },
     "minecraft:chests/jungle_temple": {
-      "rolls": 0.5,
+      "rolls": 2,
       "bonus_rolls": 0.2,
       "entries": [
         {
@@ -131,7 +131,7 @@
       ]
     },
     "minecraft:chests/pillager_outpost": {
-      "rolls": 1.0,
+      "rolls": 1.5,
       "bonus_rolls": 0.2,
       "entries": [
         {
@@ -159,7 +159,7 @@
       ]
     },
     "minecraft:chests/desert_pyramid": {
-      "rolls": 1.0,
+      "rolls": 3.0,
       "bonus_rolls": 0.2,
       "entries": [
         {
@@ -215,7 +215,7 @@
       ]
     },
     "better_desert_temple:chests/tomb_pharaoh": {
-      "rolls": 1.0,
+      "rolls": 4.0,
       "bonus_rolls": 0.2,
       "entries": [
         {
@@ -257,7 +257,7 @@
       ]
     },
     "cavernous:sandstone_temple/treasure_room": {
-      "rolls": 1.0,
+      "rolls": 2.0,
       "bonus_rolls": 0.2,
       "entries": [
         {

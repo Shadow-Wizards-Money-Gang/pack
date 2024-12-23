@@ -1482,7 +1482,7 @@ hash = "b88d463e825f183da08f4f4c9aeacfc47c5556473b40c303b08fcafcb1c1e9fb"
 
 [[files]]
 file = "config/shadow-wizards/loot_v2.json"
-hash = "f960efe96143f73e20ebbb4a826490e5b61a3075828affd73fbcbd854e9b0bf3"
+hash = "1a6ef2361d0780dbefb70b476af8265cf4ecc2437bfee07300dc3c3ca514360d"
 
 [[files]]
 file = "config/smoothchunk.json"
@@ -2447,6 +2447,10 @@ metafile = true
 file = "mods/lithostitched.pw.toml"
 hash = "c57ec0ac8fc5125eb48960cdfebe200ff61ef83698eb1a60247ef38b94b96a85"
 metafile = true
+
+[[files]]
+file = "mods/lodestone-1.20.1-1.6.2.3e-swmg-fabric.jar"
+hash = "7588a8105aa3a9e5964ef53c77e34fe3b1fcc449dcc7a700eec419bc066e54e0"
 
 [[files]]
 file = "mods/lostrelics-1.20-2-test.jar"
