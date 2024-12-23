@@ -965,10 +965,6 @@ file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/enchancemen
 hash = "37a47c538abb088e2227af70d68f4985b4752ebdb38a0b700f7ec35dd9a8e93f"
 
 [[files]]
-file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/farm_and_charm/recipes/pot_cooking/pot_firebomb.json"
-hash = "ac77ce78ce14f3f038db48079fe9fdbe02b442f3f64dee6e0b35d153b3534eee"
-
-[[files]]
 file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/guardvillagers/loot_tables/entities/guard_chestplate.json"
 hash = "d4d789d065d01573dde27ab43beb7bb288fe3e33b192c9c05af61f74dcfc4c26"
 
@@ -2739,8 +2735,8 @@ hash = "2a3f43bcb818999b3228849ad0e3dacc97e9809654076adf483fe6046cab21ea"
 metafile = true
 
 [[files]]
-file = "mods/shadow-wizards-0.6.0.jar"
-hash = "cc49ee97b8310b78cdb43e753c73d89b161834d354171284b380135f029d0fec"
+file = "mods/shadow-wizards-0.6.1.jar"
+hash = "c68ab22861900eda7c38e189f741a2cb92b54edbaca89ea0402ed02d4af2cd2b"
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
