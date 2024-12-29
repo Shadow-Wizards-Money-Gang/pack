@@ -11,8 +11,8 @@
       "velocity": 0.0
     },
     "archers:royal_longbow": {
-      "pull_time": 30,
-      "damage": 10.0,
+      "pull_time": 40,
+      "damage": 8.5,
       "velocity": 0.0
     },
     "archers:netherite_rapid_crossbow": {

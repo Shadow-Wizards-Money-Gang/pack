@@ -50,7 +50,7 @@ hash = "b69c583e430f4d7defaaeb7297fb1897e227badc8cfb8bf564f5a70d193b4c72"
 
 [[files]]
 file = "config/archers/items_v2.json"
-hash = "028773c8d0be112be6f276831de95f7406414080e146dbefd16c7b90c3a56446"
+hash = "966d21f05f2d21399361a9f6bf55140728ccf4f39f03eb83e85de30c02d5eb9e"
 
 [[files]]
 file = "config/archers/tweaks.json"
