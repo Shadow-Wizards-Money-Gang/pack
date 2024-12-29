@@ -24,14 +24,6 @@
     ],
     "rpg_series:tier_4_weapons": [],
     "rpg_series:tier_1_armors": [
-      "paladins:paladin_armor_chest",
-      "paladins:paladin_armor_feet",
-      "paladins:paladin_armor_head",
-      "paladins:paladin_armor_legs",
-      "paladins:priest_robe_chest",
-      "paladins:priest_robe_feet",
-      "paladins:priest_robe_head",
-      "paladins:priest_robe_legs",
       "rogues:rogue_armor_chest",
       "rogues:rogue_armor_feet",
       "rogues:rogue_armor_head",
@@ -47,17 +39,17 @@
       "wizards:wizard_robe_chest",
       "wizards:wizard_robe_feet",
       "wizards:wizard_robe_head",
-      "wizards:wizard_robe_legs"
+      "wizards:wizard_robe_legs",
+      "paladins:paladin_armor_chest",
+      "paladins:paladin_armor_feet",
+      "paladins:paladin_armor_head",
+      "paladins:paladin_armor_legs",
+      "paladins:priest_robe_chest",
+      "paladins:priest_robe_feet",
+      "paladins:priest_robe_head",
+      "paladins:priest_robe_legs"
     ],
     "rpg_series:tier_2_armors": [
-      "paladins:crusader_armor_chest",
-      "paladins:crusader_armor_feet",
-      "paladins:crusader_armor_head",
-      "paladins:crusader_armor_legs",
-      "paladins:prior_robe_chest",
-      "paladins:prior_robe_feet",
-      "paladins:prior_robe_head",
-      "paladins:prior_robe_legs",
       "rogues:assassin_armor_chest",
       "rogues:assassin_armor_head",
       "rogues:assassin_armor_feet",
@@ -81,11 +73,20 @@
       "wizards:frost_robe_chest",
       "wizards:frost_robe_feet",
       "wizards:frost_robe_head",
-      "wizards:frost_robe_legs"
+      "wizards:frost_robe_legs",
+      "paladins:crusader_armor_chest",
+      "paladins:crusader_armor_feet",
+      "paladins:crusader_armor_head",
+      "paladins:crusader_armor_legs",
+      "paladins:prior_robe_chest",
+      "paladins:prior_robe_feet",
+      "paladins:prior_robe_head",
+      "paladins:prior_robe_legs"
     ],
     "shadow-wizards:risk_2_items": [
       "faunus:quetzal_feather",
       "faunus:hoatzin_feather",
+      "shadow-wizards:identification_scroll",
       "shadow-wizards:holy_grease",
       "shadow-wizards:fire_grease",
       "shadow-wizards:white_ash",
@@ -121,7 +122,9 @@
       "shadow-wizards:jade_serpent_talisman",
       "shadow-wizards:jade_winged_talisman",
       "shadow-wizards:jade_visage_talisman",
-      "shadow-wizards:ancient_spell_scroll"
+      "shadow-wizards:ancient_spell_scroll",
+      "shadow-wizards:kapala",
+      "shadow-wizards:oracle_bone_spell_book"
     ],
     "rpg_series:tier_0_accessories": [
       "jewelry:copper_ring",
@@ -129,15 +132,11 @@
       "jewelry:gold_ring"
     ],
     "rpg_series:tier_1_accessories": [
-      "paladins:iron_kite_shield",
       "jewelry:emerald_necklace",
-      "jewelry:diamond_necklace"
+      "jewelry:diamond_necklace",
+      "paladins:iron_kite_shield"
     ],
     "rpg_series:tier_3_weapons": [
-      "paladins:netherite_mace",
-      "paladins:netherite_great_hammer",
-      "paladins:netherite_claymore",
-      "paladins:netherite_holy_staff",
       "rogues:netherite_dagger",
       "rogues:netherite_sickle",
       "rogues:netherite_double_axe",
@@ -149,10 +148,13 @@
       "archers:netherite_spear",
       "wizards:staff_netherite_arcane",
       "wizards:staff_netherite_fire",
-      "wizards:staff_netherite_frost"
+      "wizards:staff_netherite_frost",
+      "paladins:netherite_mace",
+      "paladins:netherite_great_hammer",
+      "paladins:netherite_claymore",
+      "paladins:netherite_holy_staff"
     ],
     "rpg_series:tier_2_accessories": [
-      "paladins:diamond_kite_shield",
       "jewelry:ruby_ring",
       "jewelry:topaz_ring",
       "jewelry:citrine_ring",
@@ -164,10 +166,10 @@
       "jewelry:citrine_necklace",
       "jewelry:jade_necklace",
       "jewelry:sapphire_necklace",
-      "jewelry:tanzanite_necklace"
+      "jewelry:tanzanite_necklace",
+      "paladins:diamond_kite_shield"
     ],
     "rpg_series:tier_3_accessories": [
-      "paladins:netherite_kite_shield",
       "jewelry:netherite_ruby_ring",
       "jewelry:netherite_topaz_ring",
       "jewelry:netherite_citrine_ring",
@@ -179,13 +181,10 @@
       "jewelry:netherite_citrine_necklace",
       "jewelry:netherite_jade_necklace",
       "jewelry:netherite_sapphire_necklace",
-      "jewelry:netherite_tanzanite_necklace"
+      "jewelry:netherite_tanzanite_necklace",
+      "paladins:netherite_kite_shield"
     ],
     "rpg_series:tier_1_weapons": [
-      "paladins:iron_mace",
-      "paladins:iron_great_hammer",
-      "paladins:iron_claymore",
-      "paladins:holy_staff",
       "rogues:iron_dagger",
       "rogues:iron_sickle",
       "rogues:iron_double_axe",
@@ -193,24 +192,24 @@
       "minecraft:crossbow",
       "archers:composite_longbow",
       "archers:iron_spear",
-      "wizards:staff_wizard"
+      "wizards:staff_wizard",
+      "paladins:iron_mace",
+      "paladins:iron_great_hammer",
+      "paladins:iron_claymore",
+      "paladins:holy_staff"
     ],
     "rpg_series:golden_weapons": [
-      "paladins:golden_claymore",
-      "paladins:golden_great_hammer",
-      "paladins:golden_mace",
-      "paladins:golden_kite_shield",
       "rogues:golden_dagger",
       "rogues:golden_sickle",
       "rogues:golden_double_axe",
       "rogues:golden_glaive",
-      "archers:golden_spear"
+      "archers:golden_spear",
+      "paladins:golden_claymore",
+      "paladins:golden_great_hammer",
+      "paladins:golden_mace",
+      "paladins:golden_kite_shield"
     ],
     "rpg_series:tier_2_weapons": [
-      "paladins:diamond_mace",
-      "paladins:diamond_great_hammer",
-      "paladins:diamond_claymore",
-      "paladins:diamond_holy_staff",
       "rogues:diamond_dagger",
       "rogues:diamond_sickle",
       "rogues:diamond_double_axe",
@@ -222,9 +221,14 @@
       "archers:diamond_spear",
       "wizards:staff_arcane",
       "wizards:staff_fire",
-      "wizards:staff_frost"
+      "wizards:staff_frost",
+      "paladins:diamond_mace",
+      "paladins:diamond_great_hammer",
+      "paladins:diamond_claymore",
+      "paladins:diamond_holy_staff"
     ],
     "shadow-wizards:risk_0_items": [
+      "minecraft:leather",
       "scout:satchel",
       "scout:pouch",
       "archers:archer_spell_book",
@@ -251,15 +255,15 @@
       "jewelry:unique_healing_necklace"
     ],
     "rpg_series:tier_0_weapons": [
-      "paladins:wooden_great_hammer",
-      "paladins:stone_great_hammer",
-      "paladins:stone_claymore",
-      "paladins:acolyte_wand",
       "rogues:flint_dagger",
       "rogues:stone_double_axe",
       "minecraft:bow",
       "archers:flint_spear",
-      "wizards:wand_novice"
+      "wizards:wand_novice",
+      "paladins:wooden_great_hammer",
+      "paladins:stone_great_hammer",
+      "paladins:stone_claymore",
+      "paladins:acolyte_wand"
     ]
   }
 }

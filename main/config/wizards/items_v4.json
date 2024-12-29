@@ -170,7 +170,7 @@
       "armor_toughness": 0.0,
       "knockback_resistance": 0.0,
       "head": {
-        "armor": 1.5,
+        "armor": 1,
         "attributes": [
           {
             "id": "spell_power:arcane",
@@ -185,21 +185,6 @@
         ]
       },
       "chest": {
-        "armor": 4,
-        "attributes": [
-          {
-            "id": "spell_power:arcane",
-            "value": 0.25,
-            "operation": "MULTIPLY_BASE"
-          },
-          {
-            "id": "spell_power:haste",
-            "value": 0.03,
-            "operation": "MULTIPLY_BASE"
-          }
-        ]
-      },
-      "legs": {
         "armor": 3,
         "attributes": [
           {
@@ -214,8 +199,23 @@
           }
         ]
       },
+      "legs": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:arcane",
+            "value": 0.25,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "spell_power:haste",
+            "value": 0.03,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
       "feet": {
-        "armor": 1.5,
+        "armor": 1,
         "attributes": [
           {
             "id": "spell_power:arcane",
@@ -234,7 +234,7 @@
       "armor_toughness": 0.0,
       "knockback_resistance": 0.0,
       "head": {
-        "armor": 1.5,
+        "armor": 1,
         "attributes": [
           {
             "id": "spell_power:fire",
@@ -249,21 +249,6 @@
         ]
       },
       "chest": {
-        "armor": 4,
-        "attributes": [
-          {
-            "id": "spell_power:fire",
-            "value": 0.25,
-            "operation": "MULTIPLY_BASE"
-          },
-          {
-            "id": "spell_power:critical_chance",
-            "value": 0.02,
-            "operation": "MULTIPLY_BASE"
-          }
-        ]
-      },
-      "legs": {
         "armor": 3,
         "attributes": [
           {
@@ -278,8 +263,23 @@
           }
         ]
       },
+      "legs": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:fire",
+            "value": 0.25,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "spell_power:critical_chance",
+            "value": 0.02,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
       "feet": {
-        "armor": 1.5,
+        "armor": 1,
         "attributes": [
           {
             "id": "spell_power:fire",
@@ -298,7 +298,7 @@
       "armor_toughness": 0.0,
       "knockback_resistance": 0.0,
       "head": {
-        "armor": 1.5,
+        "armor": 1,
         "attributes": [
           {
             "id": "spell_power:frost",
@@ -313,21 +313,6 @@
         ]
       },
       "chest": {
-        "armor": 4,
-        "attributes": [
-          {
-            "id": "spell_power:frost",
-            "value": 0.25,
-            "operation": "MULTIPLY_BASE"
-          },
-          {
-            "id": "spell_power:critical_damage",
-            "value": 0.1,
-            "operation": "MULTIPLY_BASE"
-          }
-        ]
-      },
-      "legs": {
         "armor": 3,
         "attributes": [
           {
@@ -342,8 +327,23 @@
           }
         ]
       },
+      "legs": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:frost",
+            "value": 0.25,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "spell_power:critical_damage",
+            "value": 0.1,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
       "feet": {
-        "armor": 1.5,
+        "armor": 1,
         "attributes": [
           {
             "id": "spell_power:frost",
@@ -362,7 +362,7 @@
       "armor_toughness": 0.0,
       "knockback_resistance": 0.0,
       "head": {
-        "armor": 1.5,
+        "armor": 1,
         "attributes": [
           {
             "id": "spell_power:arcane",
@@ -382,26 +382,6 @@
         ]
       },
       "chest": {
-        "armor": 4,
-        "attributes": [
-          {
-            "id": "spell_power:arcane",
-            "value": 1.0,
-            "operation": "ADDITION"
-          },
-          {
-            "id": "spell_power:fire",
-            "value": 1.0,
-            "operation": "ADDITION"
-          },
-          {
-            "id": "spell_power:frost",
-            "value": 1.0,
-            "operation": "ADDITION"
-          }
-        ]
-      },
-      "legs": {
         "armor": 3,
         "attributes": [
           {
@@ -421,8 +401,28 @@
           }
         ]
       },
+      "legs": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:arcane",
+            "value": 1.0,
+            "operation": "ADDITION"
+          },
+          {
+            "id": "spell_power:fire",
+            "value": 1.0,
+            "operation": "ADDITION"
+          },
+          {
+            "id": "spell_power:frost",
+            "value": 1.0,
+            "operation": "ADDITION"
+          }
+        ]
+      },
       "feet": {
-        "armor": 1.5,
+        "armor": 1,
         "attributes": [
           {
             "id": "spell_power:arcane",

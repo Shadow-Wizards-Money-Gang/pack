@@ -96,7 +96,7 @@
       "armor_toughness": 0.0,
       "knockback_resistance": 0.0,
       "head": {
-        "armor": 3,
+        "armor": 2,
         "attributes": [
           {
             "id": "minecraft:generic.attack_damage",
@@ -116,7 +116,7 @@
         ]
       },
       "chest": {
-        "armor": 5,
+        "armor": 4,
         "attributes": [
           {
             "id": "minecraft:generic.attack_damage",
@@ -156,7 +156,7 @@
         ]
       },
       "feet": {
-        "armor": 3,
+        "armor": 2,
         "attributes": [
           {
             "id": "minecraft:generic.attack_damage",
@@ -210,7 +210,7 @@
         ]
       },
       "legs": {
-        "armor": 7,
+        "armor": 6,
         "attributes": [
           {
             "id": "minecraft:generic.attack_damage",
@@ -225,7 +225,7 @@
         ]
       },
       "feet": {
-        "armor": 4,
+        "armor": 3,
         "attributes": [
           {
             "id": "minecraft:generic.attack_damage",
@@ -244,7 +244,7 @@
       "armor_toughness": 0.0,
       "knockback_resistance": 0.0,
       "head": {
-        "armor": 3,
+        "armor": 2,
         "attributes": [
           {
             "id": "minecraft:generic.attack_damage",
@@ -254,16 +254,6 @@
         ]
       },
       "chest": {
-        "armor": 6,
-        "attributes": [
-          {
-            "id": "minecraft:generic.attack_damage",
-            "value": 0.04,
-            "operation": "MULTIPLY_BASE"
-          }
-        ]
-      },
-      "legs": {
         "armor": 5,
         "attributes": [
           {
@@ -273,8 +263,18 @@
           }
         ]
       },
+      "legs": {
+        "armor": 4,
+        "attributes": [
+          {
+            "id": "minecraft:generic.attack_damage",
+            "value": 0.04,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
       "feet": {
-        "armor": 2,
+        "armor": 1,
         "attributes": [
           {
             "id": "minecraft:generic.attack_damage",
@@ -288,7 +288,7 @@
       "armor_toughness": 0.0,
       "knockback_resistance": 0.0,
       "head": {
-        "armor": 1.5,
+        "armor": 1,
         "attributes": [
           {
             "id": "minecraft:generic.attack_speed",
@@ -318,7 +318,7 @@
         ]
       },
       "legs": {
-        "armor": 2.5,
+        "armor": 3,
         "attributes": [
           {
             "id": "minecraft:generic.attack_speed",
@@ -333,7 +333,7 @@
         ]
       },
       "feet": {
-        "armor": 1.5,
+        "armor": 1,
         "attributes": [
           {
             "id": "minecraft:generic.attack_speed",
