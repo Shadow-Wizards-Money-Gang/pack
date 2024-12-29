@@ -2,9 +2,9 @@
 	// Enchantments exclusive with each other - Default: True
 	"exclusiveEachOther": true,
 	// Enchantments exclusive with protection - Default: False
-	"exclusiveProtection": false,
+	"exclusiveProtection": true,
 	// Warding enchant bonus per 1 level - Default: 1.0
-	"wardingenchant": 1.0,
+	"wardingenchant": 0.2,
 	// Battle Rouse enchant bonus per 1 level - Default: 0.04
 	"battlerouseenchant": 0.03999999910593033,
 	// Defiance enchant bonus per 1 level - Default: 0.25
@@ -24,9 +24,9 @@
 	// Max spellbreak - Default: 0.75
 	"maxSpellbreak": 0.75,
 	// Reabsorption regeneration factor (proportion of 25% of maximum per second) - Default: 1.0
-	"factor": 1.0,
+	"factor": 0.5,
 	// Reabsorption regeneration delay in seconds - Default: 4.0
-	"delay": 4.0,
+	"delay": 3,
 	// Reabsorption custom visuals (Default: true)
 	"visuals": true,
 	// Registration of turtle bracer

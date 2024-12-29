@@ -50,7 +50,7 @@ hash = "b69c583e430f4d7defaaeb7297fb1897e227badc8cfb8bf564f5a70d193b4c72"
 
 [[files]]
 file = "config/archers/items_v2.json"
-hash = "83063eb68bbe43e74c5b30485935322bc9a6ee3b0c36f1cf6bb8386b53436041"
+hash = "028773c8d0be112be6f276831de95f7406414080e146dbefd16c7b90c3a56446"
 
 [[files]]
 file = "config/archers/tweaks.json"
@@ -418,7 +418,7 @@ hash = "41a560ed4bc779692864004c74ea1fd5578ace5382d4ab82284cd7a5bf758ea6"
 
 [[files]]
 file = "config/extraspellattributes/server_v3.json5"
-hash = "81b5baadbe2f33ceee4644b5a70caf7784784a80124545d6c4b80331b562b6c9"
+hash = "281ff47c68e646e0d71e6581b5d8f6c416d96eb4fbdc542b02a73d3e630f1143"
 
 [[files]]
 file = "config/f2d/settings.conf"
@@ -814,7 +814,7 @@ hash = "199291e70e0e7f5c3413e51cd46506151e0ebe722d4e372bd8ace34897d57340"
 
 [[files]]
 file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/bettercombat/weapon_attributes/axe.json"
-hash = "9063ed9d4a224da4339258414f160ac6c2fafa1774023278d98c4bae5b632f9f"
+hash = "8abc6ef2bde07b5488903ee18ed2d759a83f349eb40e133a758b477fd5e2b4e1"
 
 [[files]]
 file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/bettercombat/weapon_attributes/battlestaff.json"
@@ -854,11 +854,11 @@ hash = "9ca0afe76caad1b4c3e4e0f889656468dbaa3ff7577f535291b4b10907f28b0b"
 
 [[files]]
 file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/bettercombat/weapon_attributes/dagger.json"
-hash = "ffd1f6da2dd775d7078436e9b971803c282849328d04bd7515fcd9b40d38c5a5"
+hash = "8895948c0bf79e239c80985a61c04e3398d82e66bc27bfa7ccac823472f385f1"
 
 [[files]]
 file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/bettercombat/weapon_attributes/double_axe.json"
-hash = "408e5d3f106dcf636617ba39732d8986c6a1267f4995863485541db1a4b22745"
+hash = "6ffb353b9f15cbec2973013ee76093a7ee97d057453d4d005fb1e44056ee3693"
 
 [[files]]
 file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/bettercombat/weapon_attributes/fist.json"
@@ -870,7 +870,7 @@ hash = "9a11b5dd7c11c6c68132e5245d6784d848bf8ae1529e6aa825e3b0fb935fb880"
 
 [[files]]
 file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/bettercombat/weapon_attributes/halberd.json"
-hash = "3bf0813465587f9f3d4983f44581fac7943f595da3668f8d7cd00c2f881a224d"
+hash = "5ca8fa92ee20cae340f9d4928e61ad2be290f492e78a45edf0c6ab6fb8059c40"
 
 [[files]]
 file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/bettercombat/weapon_attributes/hammer.json"
@@ -922,7 +922,7 @@ hash = "c374ae00ca7013deae4e90cc455c62c4bbed916e2241db932822217eec35696d"
 
 [[files]]
 file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/bettercombat/weapon_attributes/sword.json"
-hash = "68a1f1a2108f2e6b6eb02fadabefa625c23d5f403faf555b95fe8d7064a3ebe0"
+hash = "470659289c5428fcd2e8b83f1e1f3a7e72c5a68cd1feceb5b8a47d5c31fcb623"
 
 [[files]]
 file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/bettercombat/weapon_attributes/trident.json"
@@ -1055,30 +1055,6 @@ hash = "8935403ba4077b2e80d7ecc1b8f5274babd165630fb2230250bc6d608c16b2d6"
 [[files]]
 file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/paladins/spells/judgement.json"
 hash = "5091c49f2297f6528b11d13992a3b20e23246aa5e505ce100a082714fa3fc222"
-
-[[files]]
-file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/playerex/data_attributes/entity_types/stock.json"
-hash = "d91690af16c64003b001000647ecbb4f32bfa41916227f8cad22e6d26f02cc86"
-
-[[files]]
-file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/playerex/data_attributes/functions/stock.json"
-hash = "32d0f35f68fd63a03d965730b975c758f9af76bea64ea6f0854b870db316b22f"
-
-[[files]]
-file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/playerex/data_attributes/overrides/minecraft.json"
-hash = "871c8aa808182b99d5a0f97674e5872bad52afb50dba4b53024654e823e955bf"
-
-[[files]]
-file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/playerex/data_attributes/overrides/ranged_weapon.json"
-hash = "f4ca9d9db098c95ca40e26bb8e6f8cfcee25431d723c1fcce9092ce30af6a3b1"
-
-[[files]]
-file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/playerex/data_attributes/overrides/stock.json"
-hash = "53241152c3829f853ee98e9ab5c9a49e03cbe413619878161ebefb368d322ec0"
-
-[[files]]
-file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/playerex/tags/items/unbreakable.json"
-hash = "298b31cdd753c616d6c3a87a709c52d40eb34ef42cab94059f67c80417993cb7"
 
 [[files]]
 file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/spellslabextra/spells/arrow_rain.json"
@@ -1414,11 +1390,11 @@ hash = "74283b0e4334a4692dea01212ec4ebcb4ea76a5fffaf6e382012195e4d2f735f"
 
 [[files]]
 file = "config/respawnobelisks.jsonc"
-hash = "2aff5475dc8844ba9eb5f6148875476b17a04f515305572b1ee5a63efef794a2"
+hash = "0be219f0fbd0c907511fbabeb5fddaef44f425aec9531d4031f006fe051896f5"
 
 [[files]]
 file = "config/rogues/items_v2.json"
-hash = "8500f19a9f4294f20854545054fd699af514e2034304b75878f1723b520a3e6a"
+hash = "2f7d2af347dddd3e595c557cfa0750bd636b9c5dbe973d9140a744520e9f9222"
 
 [[files]]
 file = "config/rogues/tweaks.json"
@@ -1454,7 +1430,7 @@ hash = "2b55336124a4bffde3ca13a8eb97db80e48ad0f36a05a8d901523ff75fb95683"
 
 [[files]]
 file = "config/scorchful.json"
-hash = "6f919a87c889a42039bfc5184aebb23715ccea888e6a1e1e8e5bc2ee859f916b"
+hash = "06cb420d59d125a562115e185a9460d435d325f67e1e300a0b1a6e0e4c2e20db"
 
 [[files]]
 file = "config/scout.css"
@@ -1474,7 +1450,7 @@ hash = "299965ce464b4c0bb4a79dfd2dba2cdfd63f3360628b0d5b0d3b3988003f4f0d"
 
 [[files]]
 file = "config/shadow-wizards-api.json5"
-hash = "1a7de6207cc0e9882a9d07ced60a9de69b97c7234d9f6b4159588ba20bc13330"
+hash = "4d61ac069ab3c5a9dbdc1bbdc5b6efdb3da9e03178051a4d513eca27e57eabe4"
 
 [[files]]
 file = "config/shadow-wizards.json5"
@@ -1750,7 +1726,7 @@ hash = "e45218c204af73c3633f3126fcfe424b2b946a6d347b19cea2b46680a3726ec7"
 
 [[files]]
 file = "config/wizards/items_v4.json"
-hash = "eda9aaf9361cc21a6be1d3d415e5f176591b5aa6801af03a298f618b5448efb6"
+hash = "68e712c9a50523ea092e5eed4e39e796da9b7419dc33b8fa778a857ded86c79f"
 
 [[files]]
 file = "config/wizards/loot_v2.json"
@@ -1831,12 +1807,12 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "330f559f4dcab6e0e60a9e5022d254d365b99dc9297e4eaa66b1055a7ca4a343"
+hash = "556de6305e090827c218e7e37a0cffe486d2fdcde101019a792e46640989628b"
 metafile = true
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
-hash = "81eb15f2c0ad52076b141fed58782a92140e1584ea31b457d65a3f53e2045aba"
+hash = "3cbffddbfae46df3ef1d64d2f1069f3bd0baecc1c7b491da8c28c5134ed946da"
 metafile = true
 
 [[files]]
@@ -1911,7 +1887,7 @@ metafile = true
 
 [[files]]
 file = "mods/biome-replacer.pw.toml"
-hash = "f3b5725b417c63f63630dc641d5f322bb539a1cc89e95d362b034d49c2d523a0"
+hash = "38a94e393b49ff51d1fe13f657243043b2a568f363824f1275f81ebe23cc57f3"
 metafile = true
 
 [[files]]
@@ -2001,7 +1977,7 @@ metafile = true
 
 [[files]]
 file = "mods/connectivity.pw.toml"
-hash = "1552ffbe9ef9cd182f847784a9f1038c8e53c0bd0a4c672b3aa3dd06ec49283e"
+hash = "b4d8488356c85c80def434b88d26e64f75c090e0a542bc8a597e8962a2f92477"
 metafile = true
 
 [[files]]
@@ -2266,7 +2242,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "bd0c76f438f67e2611fa8458ab153be304acfb4aaed4acebd0dcdfbbb74f1388"
+hash = "2321bdba8aed2b99d75de3fc2116bc28c1a1d671292bde0e4af4a3be2dee0dfe"
 metafile = true
 
 [[files]]
@@ -2281,7 +2257,7 @@ metafile = true
 
 [[files]]
 file = "mods/gputape.pw.toml"
-hash = "6e4d625a8bd6dba83cbe603b7fc95aea226b054c825012b3b17ec3cdf23dd387"
+hash = "28444ff8e25eb7688aa8b2dfd8a7b5c76729c8ae3d1c3037db4254653e852041"
 metafile = true
 
 [[files]]
@@ -2351,6 +2327,11 @@ metafile = true
 [[files]]
 file = "mods/item-obliterator.pw.toml"
 hash = "7780c92a7cc9d48ca548cb3fb875bccf26a18fbf42456a6a059a86526e662cb1"
+metafile = true
+
+[[files]]
+file = "mods/jamlib.pw.toml"
+hash = "c5b4553ad9250281b03636917cd21c26a0e58aa49d88712dac5750cacdf9cb66"
 metafile = true
 
 [[files]]
@@ -2517,7 +2498,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "9d3efa99729c1fc119636c4d3328abbe60898f8b575ed44fef31848c91b1b718"
+hash = "ece1c73bdc292cc91416eda1c7b878dc1613e9fe7ee76b52a5994011225e2aaa"
 metafile = true
 
 [[files]]
@@ -2592,7 +2573,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "2ccd92e0741d2f47c9a986fa3fb3325c81078d3599216a0cb7bcfa4d69deae74"
+hash = "8d404cad586f237206b8ebe2ed2413ea66c3e07e8a485809af718e9bc5d97ec8"
 metafile = true
 
 [[files]]
@@ -2642,7 +2623,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "7d7d72c26625edfc2f49247bded95192dd98bd0389bcddc82e0b03fa33661afe"
+hash = "b3cddfa7777f3622f7cd6d74647ae3ae35e9c2156c48d9137e6511e90f8ebbd4"
 metafile = true
 
 [[files]]
@@ -2695,6 +2676,11 @@ hash = "13d4d6c3cc4766448894ee84eb6f36494838cc99e4092b68a2eda6407b1df7ed"
 metafile = true
 
 [[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "45a0be935bcca91138996460610bd84312729d6ae00648fbb7ea332bd23bb437"
+metafile = true
+
+[[files]]
 file = "mods/rogues-and-warriors.pw.toml"
 hash = "5d47427d2d8e13164af132620ff91bbcc1c3dd4460b9bf91affb2a9bd6496bce"
 metafile = true
@@ -2725,7 +2711,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "558e39174311780b7ced4bc9d7ba707cd7ac3b36e726779893df1debe9f25edc"
+hash = "000e2d5db070156fca01f7317e754b328d04ac2754a6e0b68b77782e3c01fe85"
 metafile = true
 
 [[files]]
@@ -2739,8 +2725,8 @@ hash = "2a3f43bcb818999b3228849ad0e3dacc97e9809654076adf483fe6046cab21ea"
 metafile = true
 
 [[files]]
-file = "mods/shadow-wizards-0.6.1.jar"
-hash = "c68ab22861900eda7c38e189f741a2cb92b54edbaca89ea0402ed02d4af2cd2b"
+file = "mods/shadow-wizards-0.6.3.jar"
+hash = "d351ab6b3f31718dcb970d06bce328cac2c31386e80f2631a4ab870fa6351011"
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
