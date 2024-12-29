@@ -167,7 +167,7 @@
         ]
       },
       "feet": {
-        "armor": 2,
+        "armor": 3,
         "attributes": [
           {
             "id": "ranged_weapon:damage",

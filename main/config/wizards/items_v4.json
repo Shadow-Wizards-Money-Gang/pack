@@ -170,7 +170,7 @@
       "armor_toughness": 0.0,
       "knockback_resistance": 0.0,
       "head": {
-        "armor": 1,
+        "armor": 2,
         "attributes": [
           {
             "id": "spell_power:arcane",
@@ -215,7 +215,7 @@
         ]
       },
       "feet": {
-        "armor": 1,
+        "armor": 2,
         "attributes": [
           {
             "id": "spell_power:arcane",
@@ -234,7 +234,7 @@
       "armor_toughness": 0.0,
       "knockback_resistance": 0.0,
       "head": {
-        "armor": 1,
+        "armor": 2,
         "attributes": [
           {
             "id": "spell_power:fire",
@@ -279,7 +279,7 @@
         ]
       },
       "feet": {
-        "armor": 1,
+        "armor": 2,
         "attributes": [
           {
             "id": "spell_power:fire",
@@ -298,7 +298,7 @@
       "armor_toughness": 0.0,
       "knockback_resistance": 0.0,
       "head": {
-        "armor": 1,
+        "armor": 2,
         "attributes": [
           {
             "id": "spell_power:frost",
@@ -343,7 +343,7 @@
         ]
       },
       "feet": {
-        "armor": 1,
+        "armor": 2,
         "attributes": [
           {
             "id": "spell_power:frost",
@@ -362,7 +362,7 @@
       "armor_toughness": 0.0,
       "knockback_resistance": 0.0,
       "head": {
-        "armor": 1,
+        "armor": 2,
         "attributes": [
           {
             "id": "spell_power:arcane",
@@ -422,7 +422,7 @@
         ]
       },
       "feet": {
-        "armor": 1,
+        "armor": 2,
         "attributes": [
           {
             "id": "spell_power:arcane",
