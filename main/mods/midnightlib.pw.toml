@@ -1,13 +1,13 @@
 name = "MidnightLib"
-filename = "midnightlib-quilt-1.4.1.1.jar"
+filename = "midnightlib-fabric-1.4.1.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/codAaoxh/versions/3YykTkmJ/midnightlib-quilt-1.4.1.1.jar"
+url = "https://cdn.modrinth.com/data/codAaoxh/versions/YXz8kIQl/midnightlib-fabric-1.4.1.1.jar"
 hash-format = "sha1"
-hash = "51c3c548e3df53a486d8425f0b380779b985d3b6"
+hash = "23ab09b69c30e296d35fc957c2e9168b10a94001"
 
 [update]
 [update.modrinth]
 mod-id = "codAaoxh"
-version = "3YykTkmJ"
+version = "YXz8kIQl"

@@ -4,7 +4,7 @@
 	// Enchantments exclusive with protection - Default: False
 	"exclusiveProtection": true,
 	// Warding enchant bonus per 1 level - Default: 1.0
-	"wardingenchant": 0.2,
+	"wardingenchant": 0.20000000298023224,
 	// Battle Rouse enchant bonus per 1 level - Default: 0.04
 	"battlerouseenchant": 0.03999999910593033,
 	// Defiance enchant bonus per 1 level - Default: 0.25
@@ -26,7 +26,7 @@
 	// Reabsorption regeneration factor (proportion of 25% of maximum per second) - Default: 1.0
 	"factor": 0.5,
 	// Reabsorption regeneration delay in seconds - Default: 4.0
-	"delay": 3,
+	"delay": 3.0,
 	// Reabsorption custom visuals (Default: true)
 	"visuals": true,
 	// Registration of turtle bracer
@@ -36,7 +36,7 @@
 	// Registration of turtle girdle
 	"turtle_girdle": true,
 	// Mod of turtle girdle
-	"turtle_girdle_mod": 1.0,
+	"turtle_girdle_mod": 0.1,
 	// Registration of arcane bracer
 	"arcane_bracer": true,
 	// Mod of arcane bracer

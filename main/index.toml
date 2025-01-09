@@ -414,7 +414,7 @@ hash = "41a560ed4bc779692864004c74ea1fd5578ace5382d4ab82284cd7a5bf758ea6"
 
 [[files]]
 file = "config/extraspellattributes/server_v3.json5"
-hash = "281ff47c68e646e0d71e6581b5d8f6c416d96eb4fbdc542b02a73d3e630f1143"
+hash = "bd24bb4c4a6400aa36d79b02a7163c42faf9b0e5d56d9809982a3ff136b09e7e"
 
 [[files]]
 file = "config/f2d/settings.conf"
@@ -1801,7 +1801,7 @@ metafile = true
 
 [[files]]
 file = "mods/arcanus-continuum.pw.toml"
-hash = "2361c4a6e3849a4c4ef7408f1332a4d284774365b6460030b572ace8f54d9ec3"
+hash = "dd74cbb4b02cd4de5f6adc42d9bef67811f5c65b8c133c5779019a58565467bc"
 metafile = true
 
 [[files]]
@@ -1921,7 +1921,7 @@ metafile = true
 
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
-hash = "6f0676fe7167a5a5e992ac1588e5a7f62bb6ffcaad158d7f1ace220c73adb938"
+hash = "b3503cb0b7eae56e27e1d7980882795c0b81f4750ec9b140beb996a9d7c0dfb3"
 metafile = true
 
 [[files]]
@@ -1966,7 +1966,7 @@ metafile = true
 
 [[files]]
 file = "mods/consecration.pw.toml"
-hash = "ba7cd4926299918b3c814fa2f4b729b55f817e7e88680f0bdcedd3f57a36f4e8"
+hash = "18fb688c31a4852719c2b4b8efe9048acccb521a378a293b0f53cec3ce31b975"
 metafile = true
 
 [[files]]
@@ -2071,7 +2071,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "7a3c5d0b65753cbba5d36bac7f9afce62e45bc7b4d88aea7ffa99a47a59ee1af"
+hash = "7829eb3d2bb0e05cc590404dcc35c8803d4f3985c711884fe304ff7900e85389"
 metafile = true
 
 [[files]]
@@ -2156,7 +2156,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-async-world-save-forge-fabric.pw.toml"
-hash = "89bbd6f7b8824e084e81542de218ed05f2be74ad7e8ad211d845cad85aec3978"
+hash = "c8140405a6c917524778a4e5d2c717b9c9e5f69a4c72f4515ef7c9c5b1250b8f"
 metafile = true
 
 [[files]]
@@ -2241,7 +2241,7 @@ metafile = true
 
 [[files]]
 file = "mods/gputape.pw.toml"
-hash = "28444ff8e25eb7688aa8b2dfd8a7b5c76729c8ae3d1c3037db4254653e852041"
+hash = "612459382c4e073f1a372f7c5f8aa2ba6dc43db753e0ce85f31f5e1855e6a963"
 metafile = true
 
 [[files]]
@@ -2300,7 +2300,7 @@ metafile = true
 
 [[files]]
 file = "mods/invmove.pw.toml"
-hash = "653e58478a80fa179802706cf4aafd705820c2afe8664f0558d6c9453adfd74b"
+hash = "881ad6ef91c24ce547c8062685cf361b1937b4162c8a238196c8106ef62ab15d"
 metafile = true
 
 [[files]]
@@ -2452,7 +2452,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "50149a97b2d959bfac8e1c377fdab49fc52f1439d004b1ac1c26a3a7f790e044"
+hash = "bc79745faf3cfec5d60e239817905c2bebfb692f8ae3ff3671fc8afd4800227e"
 metafile = true
 
 [[files]]
@@ -2606,11 +2606,6 @@ hash = "e67b646a37b34c077b5a99001d22b8eee964320a79c8bb7a83dc25ce851f8457"
 metafile = true
 
 [[files]]
-file = "mods/qsl.pw.toml"
-hash = "b3cddfa7777f3622f7cd6d74647ae3ae35e9c2156c48d9137e6511e90f8ebbd4"
-metafile = true
-
-[[files]]
 file = "mods/raknetify.pw.toml"
 hash = "3ef4dbdb9a77b7b1f52a77f6745ea0983826e8aed8a57ba2c62f6a33b5d7deac"
 metafile = true
@@ -2627,7 +2622,7 @@ metafile = true
 
 [[files]]
 file = "mods/recipe-essentials-forge-fabric.pw.toml"
-hash = "a201a90062857204411b75444d2baa707d87c30aadaed780bf0845b9559be6e9"
+hash = "543eb2026a89f31393f6d49b7cc7f19057737f3aa050a9492608355553fd8df2"
 metafile = true
 
 [[files]]
@@ -2641,7 +2636,7 @@ hash = "79acbc5dc87d8f250a96466883070b14a4fe1c29fe38dc043990c24e14aed16f"
 
 [[files]]
 file = "mods/resourceful-config.pw.toml"
-hash = "2937f8044610c554d49b4617210885a76d3f81cb9325a36dba6bfbd131cc45ab"
+hash = "4d4bcf62b73bcc53dbb6d9edfe0ed84b4ad9c267a37807c0c653486add6f89a8"
 metafile = true
 
 [[files]]
@@ -2695,7 +2690,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "000e2d5db070156fca01f7317e754b328d04ac2754a6e0b68b77782e3c01fe85"
+hash = "00cd949eaa2b439bd884c27e0301f3c900790c49a91f05885d95d36b69d6a004"
 metafile = true
 
 [[files]]
@@ -2714,12 +2709,12 @@ hash = "a66701982bdaffadd67177460caf3a5d386d11f451cb64aeec8d837b6c155b3b"
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "c218375feeaec2ea93e256d170fb41cbca9b77312e93a321ee8fac814aa4b722"
+hash = "e950dc5083326f0ec27bbf95171c5d7c6b1a1926c952730f17f9a4f6c7e15799"
 metafile = true
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
-hash = "aedb311fc1b55ad67fd6d9b425b09ebf8b7638367b8036f87f6bf759edd948a3"
+hash = "1eafe78871eb78c4c25635c1668de901d81f3dc7cb8f7c21c5be9a481c359fa2"
 metafile = true
 
 [[files]]
@@ -2764,7 +2759,7 @@ metafile = true
 
 [[files]]
 file = "mods/sparkweave.pw.toml"
-hash = "58db5ab5da8397f17b0dc09f9c2be95d15b98b156d2d29a2d91dd0f8e9644f46"
+hash = "3382a0bccc11c1eaa63549262732fe20bfe125d0d4dec368e10671eb98112e82"
 metafile = true
 
 [[files]]
@@ -2817,7 +2812,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "da31954dee4b88e0bedbda2414d3b225f5df997d8f597fda208572ec07c2152b"
+hash = "897ea5227e271dff591fa9102aa74a18e9f9ba5ffb9c1d265700f26362464cce"
 metafile = true
 
 [[files]]
@@ -2966,7 +2961,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "d22f9164ba40365cca43010cd2db689fe6151b33e5a4071e407307c9d84381e9"
+hash = "b697cb84b89e700c35de5bd1394cce65faaef17b695703e657b8b76835c92487"
 
 [[files]]
 file = "unsup.toml"
