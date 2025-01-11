@@ -1801,7 +1801,7 @@ metafile = true
 
 [[files]]
 file = "mods/arcanus-continuum.pw.toml"
-hash = "dd74cbb4b02cd4de5f6adc42d9bef67811f5c65b8c133c5779019a58565467bc"
+hash = "01ee05b867f187657d44c3c17c10c688ecf77c7afab27564cd28741a0a29ffec"
 metafile = true
 
 [[files]]
@@ -1921,7 +1921,7 @@ metafile = true
 
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
-hash = "b3503cb0b7eae56e27e1d7980882795c0b81f4750ec9b140beb996a9d7c0dfb3"
+hash = "fd522c425b7dd722dcd7a1d5785829ff9f12c67a1907b51d8731bd0ac5984a3a"
 metafile = true
 
 [[files]]
@@ -2101,7 +2101,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "44efbd1c8561f3431c31e7c49deb433d0a9e48e4b3dd2ed78251120ce8baa315"
+hash = "0326f90e469344f2ca0ae026c31631497755cb52aa1dddcfc66c82e7748e0622"
 metafile = true
 
 [[files]]
@@ -2216,12 +2216,12 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "dc59c6208d7b2e6c2609e0a2d0aadbe4c24a2090abf9afaad1fd21f33b521a2d"
+hash = "29e501218e3128db64ee890562b44ba6d890d8cd27f8eaee6dfceab56a6aba6f"
 metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "04a0c0e942e733c850cf9dd77fa5f1dc47554fd972b099e1eb69255514f52969"
+hash = "e1d70fa741150af4f6b090b7fdcafe3606087942b19cdafd6c0fe9e8e5565946"
 metafile = true
 
 [[files]]
@@ -2410,7 +2410,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "c57ec0ac8fc5125eb48960cdfebe200ff61ef83698eb1a60247ef38b94b96a85"
+hash = "a3d9e35a7ddd0f0a6f571cfaf9561b1df0a129c3450aa57a1d118bd744d63b4a"
 metafile = true
 
 [[files]]
@@ -2690,7 +2690,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "00cd949eaa2b439bd884c27e0301f3c900790c49a91f05885d95d36b69d6a004"
+hash = "cc77646e6e5668f225c755b5519e376d65e7b8c15a04c7ec959709c30d18c352"
 metafile = true
 
 [[files]]
@@ -2719,7 +2719,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-chunk-save.pw.toml"
-hash = "59415593d917326a44382ddb0fa4713a80b1daea51dadc666420bb17c3a37261"
+hash = "51f081c23f5f93d39b0384ee31ad7d9b9dd8a21a1bda0d6f9dd7fe0ce49c69be"
 metafile = true
 
 [[files]]
@@ -2759,7 +2759,7 @@ metafile = true
 
 [[files]]
 file = "mods/sparkweave.pw.toml"
-hash = "3382a0bccc11c1eaa63549262732fe20bfe125d0d4dec368e10671eb98112e82"
+hash = "2b417e0ebd1eeae7036f4f35e517c6bc8062932315c2be64989e2712b008f6b4"
 metafile = true
 
 [[files]]
