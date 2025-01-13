@@ -1931,7 +1931,7 @@ metafile = true
 
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
-hash = "fd522c425b7dd722dcd7a1d5785829ff9f12c67a1907b51d8731bd0ac5984a3a"
+hash = "bb111f705b13e7fca180b273cd1dcf78842dc52b00149ffc67cc74f4f1fcca3a"
 metafile = true
 
 [[files]]
@@ -2734,7 +2734,7 @@ metafile = true
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
-hash = "1eafe78871eb78c4c25635c1668de901d81f3dc7cb8f7c21c5be9a481c359fa2"
+hash = "aedb311fc1b55ad67fd6d9b425b09ebf8b7638367b8036f87f6bf759edd948a3"
 metafile = true
 
 [[files]]
