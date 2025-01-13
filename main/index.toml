@@ -1815,6 +1815,11 @@ hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
 metafile = true
 
 [[files]]
+file = "mods/arsenal.pw.toml"
+hash = "bf7a7b2049755db147593bbae3dfc9cd8c658f54ef227741c563533a17af2a3d"
+metafile = true
+
+[[files]]
 file = "mods/artsandcrafts.pw.toml"
 hash = "90717540f90078d4cb0bb62a3f6150d66326c937c4128afa14779cc3b7a3e102"
 metafile = true
@@ -1822,6 +1827,11 @@ metafile = true
 [[files]]
 file = "mods/async-locator.pw.toml"
 hash = "b0b72c2a6b6c969315878bf7a813fea74491653282f0fa50c87f64742547647a"
+metafile = true
+
+[[files]]
+file = "mods/axiom.pw.toml"
+hash = "0acb8388ce42a88a8d8c9448cb5ff21ff4c2e69ffd5b00fcbacbd020b86ca0cf"
 metafile = true
 
 [[files]]
@@ -1841,7 +1851,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "73faa6a82be2e6c791fa9754b3e05fbfdec82732d9f9a50573b497a07cb8797a"
+hash = "07da089a374927ef57c4854079eee4e495f9498932358212d75854e7bd2c04b8"
 metafile = true
 
 [[files]]
@@ -1986,7 +1996,7 @@ metafile = true
 
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
-hash = "754da0cdd1991dd811f90159ccfab8c3e1006fcd1afc016e730d597435c10f73"
+hash = "add0cece3831da760db22ffe0caaba784956aefb0982690e278418a9999a8063"
 metafile = true
 
 [[files]]
@@ -2140,6 +2150,11 @@ hash = "8eb76eb0e6159bc06f152ab340750fb2b46e7fb4c6e0ec4b41657782fbc9d945"
 metafile = true
 
 [[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "a74044f64e15149ea7e2efd2a2fcb2d8818e26ff0d27d2f684a287a12e2378aa"
+metafile = true
+
+[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "4daf4333e077af7302ee17b14c7d45c245b89be171e2f5f9659033a458371cbb"
 metafile = true
@@ -2161,7 +2176,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-paintings.pw.toml"
-hash = "82d79ccb90397c279befef3c7252afd1651705085ac33429db44f58047a43662"
+hash = "47a15513ff0bdc6e5cc6278af9fbbf47b5d4d9193e99effcfbe18005be664840"
 metafile = true
 
 [[files]]
@@ -2216,7 +2231,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "29e501218e3128db64ee890562b44ba6d890d8cd27f8eaee6dfceab56a6aba6f"
+hash = "93cae801c201b7455d8ace92abd8f98b626ea4c51aa581b6b9d4006c38810a2a"
 metafile = true
 
 [[files]]
@@ -2616,6 +2631,11 @@ hash = "8a15fb81964fb21577ed2e81c6075489d63024dba1ef357ae5464865bae8052e"
 metafile = true
 
 [[files]]
+file = "mods/ratatouille.pw.toml"
+hash = "95536753f3ec204722da2f2b5c6d615b16a1c674b9cfc3311da12b6873fc8708"
+metafile = true
+
+[[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "8515079e00355e8e6010a6a18b53e6f19593d19c649a84d02afe6ea4b5a7b9d8"
 metafile = true
@@ -2787,6 +2807,11 @@ hash = "6ce103cf463401162eb2f09934b5aed9277e1f4788879e11d41b3574c6f7b37c"
 metafile = true
 
 [[files]]
+file = "mods/stackdeobf.pw.toml"
+hash = "621e56ad677649509141a20b4a4a6042ea30af69c1527153681f8f2c4cf0104b"
+metafile = true
+
+[[files]]
 file = "mods/steep-surface-fix-1.0.0.jar"
 hash = "c821a6eda00139092d49d07d45fcf143c3b50e15bacbf39aecadedc30a8d87e0"
 
@@ -2812,7 +2837,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "897ea5227e271dff591fa9102aa74a18e9f9ba5ffb9c1d265700f26362464cce"
+hash = "01517bbce0fa34ab1a08764bb169c532e9cb4e30df04b838d3e5935692a25491"
 metafile = true
 
 [[files]]
