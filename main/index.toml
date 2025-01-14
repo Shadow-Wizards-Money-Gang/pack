@@ -1053,6 +1053,278 @@ file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/paladins/sp
 hash = "5091c49f2297f6528b11d13992a3b20e23246aa5e505ce100a082714fa3fc222"
 
 [[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/advancements/recipes/food/fruit_salad.json"
+hash = "15c54479cff8d3b2927ba2b47c94995a9ee9cd5e12b5075b24ab0c70b6854a4b"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/advancements/recipes/food/rooty_stew.json"
+hash = "b7c3f690b9d565a6a9d899380c2bf872daf86f5cef21c2818ad5c21db3af002e"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/advancements/recipes/misc/altar.json"
+hash = "8dbfca122cb6862e15bb151b598c57faa1e4a9d6b18cf3dddf8b6dffa2b5aa6f"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/advancements/recipes/misc/attuned_standing_stone.json"
+hash = "cbc2d4328de8d5b571f31f0240bdd79f4d76507717dd35904ea36af807c873ee"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/advancements/recipes/misc/brazier.json"
+hash = "cd75021f2aff90838f33910ad3c9794e88c55d3f35b7c06838afd0c988a42c0d"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/advancements/recipes/misc/ender_pearl.json"
+hash = "7fad1ed219342e9f4c94ad561f3120c565c3f7022f8a705c9cfe9b6b3c167708"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/advancements/recipes/misc/growth_powder.json"
+hash = "9c3c22e7263cb27819ca42348029a3d4198f90e65950da5e00f85741d8ab203d"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/advancements/recipes/misc/healing_poultice.json"
+hash = "7f73e05012f2afc33737a35b5d9a15aafc64d0bdc19aa7849d13626ff6dd9c6c"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/advancements/recipes/misc/imbuer.json"
+hash = "e1a7a0e64ced3f9f1b1f51325f0499c8a7df0181fb90dec0cfdb202d4e3752cc"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/advancements/recipes/misc/mortar.json"
+hash = "b80c59c21d721eeb1cde8ac768be7a01b6d50f146947a2860db8344407818d21"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/advancements/recipes/misc/mundane_standing_stone.json"
+hash = "5341607a220124388995146801295928ebc38992858e6cf92543a9a7add18c32"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/advancements/recipes/misc/mutating_powder.json"
+hash = "b7fe24c502d7f9fba7fa6382aa1c02906d2efe755b11a8abb641fbcbfa4c5f7c"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/advancements/recipes/misc/pestle.json"
+hash = "0f3f41b72d71a270698c79daace07fe0f5987603cb45d8bb1120417f49a29af8"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/advancements/recipes/misc/pestle2.json"
+hash = "f0f982afd53f4d3c2a637e09c759f2afcfbe70441dbd503f240ca20bafbbd8b3"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/advancements/recipes/misc/runic_tablet.json"
+hash = "8aacf869850a1d63342c7cf812855d42e3cf02ab79150a84d8f36b5d3410ef6f"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/advancements/recipes/tools/bark_knife.json"
+hash = "95c543a0e404c6291e1d2cb4f17256c70b0c2f1be247c2b499c790797f53c4e9"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/damage_type/cactus.json"
+hash = "9764409671803b92988ea82b19b07d0c6c4d1e9c7c1e038f827a0a9ede859d65"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/damage_type/fire.json"
+hash = "a82d51a0499a534ebad830e5e5bd5d95fb9bd6d23ab08fb1b0ff9fe5ea01ac7e"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/damage_type/generic.json"
+hash = "63decc6b1dbe32d1e3929decd199072b924bf0ed3b5838351a6c6244107d5096"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/damage_type/wither.json"
+hash = "812e044c3f8c988c6c45c6b3b4c2a79b25192c611f482393331f4f2f15638b50"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/recipes/altar.json"
+hash = "aa5bb4ee9814eb43889d4336154d33cacd735d8d940b0704171fb8961ec91493"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/recipes/attuned_standing_stone.json"
+hash = "07c51f7026eb553654d12228cda5bed9fdf7c8cac5b9ccb5d7a8a8032b2f5c55"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/recipes/bark_knife.json"
+hash = "a0de01d81548cf76feb859ef71a7cdcb96bca9838d7119a4a96db53d6c6a8c49"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/recipes/brazier.json"
+hash = "79ca889a110d223bc37cc8744245c3e17978506967655d9b47370127f0bf2895"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/recipes/component/allium.json"
+hash = "cf11aa8e584cb7130c6cbb55b9c7712f710f677bd958fba1f92f55d5c3e6cb12"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/recipes/component/apple.json"
+hash = "4222f0e41bb070c33fcf7a1b3dfeea9125493365ef51207b73899203b407b7ae"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/recipes/component/azure_bluet.json"
+hash = "7d5395df825995b64946a8deb1e0d3e4435322e03fbc5bf246f3f973234c0e71"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/recipes/component/blue_orchid.json"
+hash = "dfd5f4945b18188f672c744b4d76dfb324e716f130a913acdc684988560952a0"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/recipes/component/chorus.json"
+hash = "071fa60748cab799bd0576120cfdd79e8ca6ba23f96b9c252fcc8e31b812cf78"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/recipes/component/dandelion.json"
+hash = "c64a3790439ab8223754068a9c250e7b3dc537e720e47057c73022b16f53558e"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/recipes/component/flare_orchid.json"
+hash = "430443fc3a6864365b8ecef58b240ce5e369edaa27b7c1857c5e7eb61f62ae8e"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/recipes/component/lilac.json"
+hash = "9562a9c4191826d37eecfffad07efe01aedb614f6d9b7121fd9af6188e873a65"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/recipes/component/lily_pad.json"
+hash = "45862838ef83480a4eda665df6adf7f92a3d39e797b393b803d68164974c63d5"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/recipes/component/midnight_bloom.json"
+hash = "d1d0532fa51a4f949d2ff49ee444790f019021e37628acc33ad0a787e8bb443c"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/recipes/component/nether_wart.json"
+hash = "96f0872c2856bc1244278141b61ac257b531dfa7e380562a27c4d8d7ebd99f8f"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/recipes/component/orange_tulip.json"
+hash = "51a7850fe5ef16f9df6f2c13aa2f088e933ec0354f8b78c6b055be9721b86d4c"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/recipes/component/oxeye_daisy.json"
+hash = "737954bc130d837688ac45a8543553dc3bf2df98fb1ea31e714eedf51806c341"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/recipes/component/peony.json"
+hash = "20937c8ffd38c2bd3d4f5ac8078e7a6cf9dd2f42afb48e8e9ceb814291c2ce72"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/recipes/component/pink_tulip.json"
+hash = "ccbb091c2452c9b7c6600a0a7a140bd7462e5afb0b640df89fb3710a5a95bc01"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/recipes/component/poisonous_potato.json"
+hash = "94c638042b7635170531af19f4f3d98c7f8f30567ef9aefdcf7b9a858b810cf9"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/recipes/component/poppy.json"
+hash = "d21426642d9bfb1e84d501ea6ae99404ea2fbc30a65293d0f40a926227085e8f"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/recipes/component/radiant_daisy.json"
+hash = "90dc4e79be10fad6b179ddc0fa9f42907d87d399faf2b18e52a02f0e2e9a4be7"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/recipes/component/red_tulip.json"
+hash = "a9ded4090496e3533488cb5a072ec1ea91cccc1884ccded3db1cd426617dafac"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/recipes/component/rose_bush.json"
+hash = "5693241315f4624f78df041005a7fd0767bc5f5dc0bed37a4920048b16795c91"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/recipes/component/sunflower.json"
+hash = "da0b9a1950fb5926dd68e56e3e52bd02bf771ab885a64ac2369150c0235b4e86"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/recipes/component/white_tulip.json"
+hash = "d09ae321bc153681e86e48cd73a907f149bbb2ebc19f508dd5c79d28245fc1f4"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/recipes/ender_pearl.json"
+hash = "4af15f80741cc35ec8cf619c5f9239f4c74c6ebb4607145000ef503b47d94f4a"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/recipes/fruit_salad.json"
+hash = "f1fa3c010c40d3e11716d93c0cd3ddd4a819ee5e4ff2f94ba345d9391b135bf1"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/recipes/growth_powder.json"
+hash = "12ae97203b7747b0707d54c493cacdb03e156b5709ad13a5aa0251e16741381b"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/recipes/healing_poultice.json"
+hash = "dc16d97775bf911a35ccc1ffb09e8be990903f871495b7f6a67bb29b5bfc0447"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/recipes/imbuer.json"
+hash = "5875df35127501a9baeee291333241d408839f9ad00735c971b612c18bde2cc4"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/recipes/mortar.json"
+hash = "97fb55b8125b88c90d170ef11fdf25b9df5ae03f59f3484c8bee0c23b93d2aa5"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/recipes/mundane_standing_stone.json"
+hash = "54399ff71f2d598ab7bff1a01a2ecd125af2124d301a25d794cdb85c6ac9c20b"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/recipes/mutating_powder.json"
+hash = "f260120750220cb89d134e400a248361d11246a51600a1dfc26dab5dc6d2368a"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/recipes/pestle.json"
+hash = "0f00c6ddc50cc095e11ef731b2b92403f8c0b153fd3b997bf108c5be17611a3a"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/recipes/pestle2.json"
+hash = "5dedd8f14dcbf61f01ef17b344f1f7bcdf6f26a8b45620021ff8bfd4045939e4"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/recipes/rooty_stew.json"
+hash = "fc0d02ad282b429c9272b32db870d5facfe0cf8809b9dcb0fe940507c0441f94"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/recipes/runic_tablet.json"
+hash = "1cf15804c7d5c39fd050d85f69fdc45e2e5ec171f470a326427cf3fee77532ec"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/tags/blocks/needs_engraved_tool.json"
+hash = "3cbf8ce6ea206c72230f9876c62bc96f5bb878653607f6e83f759bacf612b898"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/tags/blocks/needs_living_tool.json"
+hash = "3cbf8ce6ea206c72230f9876c62bc96f5bb878653607f6e83f759bacf612b898"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/tags/items/barks.json"
+hash = "d955158e113b4d2d6a689d2c42fdcd0ee303756bb44be30de26f57ce42ab3a92"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/tags/items/barks/acacia.json"
+hash = "dbb4bafa1d26a8cab81e515ed90bcd4b254461ea914ee6a80c23753b8007bea0"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/tags/items/barks/birch.json"
+hash = "5ab463bccc8693a4ce90d85bd89b91a7f02eb5297d4f014370887d04a601f469"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/tags/items/barks/dark_oak.json"
+hash = "6b780ede2d3d0983499d8b81a9f7ed572cee42f30984aace31a7b76c6ff0fb32"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/tags/items/barks/jungle.json"
+hash = "0ddd489d3ad8e00ef99b6089afe5ff4907d0dea96bfade7923b4fc4aa7ea336d"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/tags/items/barks/oak.json"
+hash = "fba2bca5c9bcce5af33bcff310c93434c96463b1d1e0fd9740f7d0b26ab3f6cb"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/tags/items/barks/spruce.json"
+hash = "88daf31650135ad8259e880d8bcf93a38c2220c977aeea614d8daf1d1aa7cec2"
+
+[[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/rootsclassic/tags/items/berries.json"
+hash = "51d3e1ab72b9bed00a440750002309f4efc99547fc6f32c398719d175ff57e43"
+
+[[files]]
 file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/spellslabextra/spells/arrow_rain.json"
 hash = "73428a23a314062f6b59eaca48d9f93ab095c8dcc2624fe2879b2b78a81b0645"
 
@@ -1614,7 +1886,7 @@ hash = "eff54e15648a2ca7fa7be7a3995a5c0b9db716024e242561b69b0115a51dada7"
 
 [[files]]
 file = "config/surveyor.toml"
-hash = "7d6ff653412b5adc5aa85ba2eca4428139fc2e89f39f6592407db3d7fa5e70da"
+hash = "57f189032ccc1d8b5118baacee2b73a886698c8fde2dd1f7f4d4c4dabd32c6fd"
 
 [[files]]
 file = "config/terrablender.toml"
@@ -1796,7 +2068,7 @@ metafile = true
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
-hash = "3cbffddbfae46df3ef1d64d2f1069f3bd0baecc1c7b491da8c28c5134ed946da"
+hash = "73b9d76d4758ba539d6b6abb820d6ed76d31f5078c0670f838fd9ab8fc5fb6fc"
 metafile = true
 
 [[files]]
@@ -2171,7 +2443,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-async-world-save-forge-fabric.pw.toml"
-hash = "c8140405a6c917524778a4e5d2c717b9c9e5f69a4c72f4515ef7c9c5b1250b8f"
+hash = "f834e60e68d8641f911f3950cab55146cd452cd7204786ca3bca756f5316763a"
 metafile = true
 
 [[files]]
@@ -2622,7 +2894,7 @@ metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
-hash = "3ef4dbdb9a77b7b1f52a77f6745ea0983826e8aed8a57ba2c62f6a33b5d7deac"
+hash = "c6b02929199e628de95da015e8ba02e00fb75c23b363b5107e96d233f6891262"
 metafile = true
 
 [[files]]
@@ -2685,8 +2957,8 @@ hash = "5d47427d2d8e13164af132620ff91bbcc1c3dd4460b9bf91affb2a9bd6496bce"
 metafile = true
 
 [[files]]
-file = "mods/rootsclassic-1.20-1.2.2-test-fabric.jar"
-hash = "42b1002001215f4078dbe3db025eb6c566e019a6edb6d8ac2b53f153ccfa9db3"
+file = "mods/rootsclassic-1.20-swmg-1.2.3-fabric.jar"
+hash = "4ea2ae6ca8e72173b93955a47311135416e3c461778e8bc3d932d50c96eb146f"
 
 [[files]]
 file = "mods/rune-crafting.pw.toml"
@@ -2710,7 +2982,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "b169465bd82303a2d82f0582aafdae72cfecbd77048d3686169cb70c974fcba2"
+hash = "79a2ab66ec2444fcc9e24bbd4d47aea275502d0f4282fbc39123a3b0a2493430"
 metafile = true
 
 [[files]]
@@ -2735,11 +3007,6 @@ metafile = true
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
 hash = "aedb311fc1b55ad67fd6d9b425b09ebf8b7638367b8036f87f6bf759edd948a3"
-metafile = true
-
-[[files]]
-file = "mods/smooth-chunk-save.pw.toml"
-hash = "51f081c23f5f93d39b0384ee31ad7d9b9dd8a21a1bda0d6f9dd7fe0ce49c69be"
 metafile = true
 
 [[files]]
@@ -2779,7 +3046,7 @@ metafile = true
 
 [[files]]
 file = "mods/sparkweave.pw.toml"
-hash = "2b417e0ebd1eeae7036f4f35e517c6bc8062932315c2be64989e2712b008f6b4"
+hash = "5294a8751eca5ee98f2bfe4d7d925d962c92524c30f2983f9a05fb60ceda8038"
 metafile = true
 
 [[files]]
@@ -2847,7 +3114,7 @@ metafile = true
 
 [[files]]
 file = "mods/surveyor.pw.toml"
-hash = "272d6f810e6ab5d2626b7822252558b68ed69237dd3f3906abcae3c347070735"
+hash = "6aab4e9403dcd7aa534fcdb8837e62c5ba2b05aa2c4938aa5bd490427902c97a"
 metafile = true
 
 [[files]]
