@@ -2146,7 +2146,7 @@ metafile = true
 
 [[files]]
 file = "mods/extra-spell-attributes.pw.toml"
-hash = "8eb76eb0e6159bc06f152ab340750fb2b46e7fb4c6e0ec4b41657782fbc9d945"
+hash = "b2963e684e7dbcfae3e7302b8711dd9ffa6055900aea90d83f698288fec5c74a"
 metafile = true
 
 [[files]]
@@ -2685,8 +2685,8 @@ hash = "5d47427d2d8e13164af132620ff91bbcc1c3dd4460b9bf91affb2a9bd6496bce"
 metafile = true
 
 [[files]]
-file = "mods/rootsclassic-1.20-swmg-1.2.4-fabric.jar"
-hash = "a1b54b4cd28087554e041b15d8bcfc70bc6ef771056da3f733227c269e99f149"
+file = "mods/rootsclassic-1.20-swmg-1.2.5-fabric.jar"
+hash = "7ab6f7cfb7e4b598106af2f7d6aab7ee7454cbfcf5bae3e8d6560d914a1a6432"
 
 [[files]]
 file = "mods/rune-crafting.pw.toml"
