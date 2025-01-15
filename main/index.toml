@@ -2685,8 +2685,8 @@ hash = "5d47427d2d8e13164af132620ff91bbcc1c3dd4460b9bf91affb2a9bd6496bce"
 metafile = true
 
 [[files]]
-file = "mods/rootsclassic-1.20-swmg-1.2.3-fabric.jar"
-hash = "4ea2ae6ca8e72173b93955a47311135416e3c461778e8bc3d932d50c96eb146f"
+file = "mods/rootsclassic-1.20-swmg-1.2.4-fabric.jar"
+hash = "a1b54b4cd28087554e041b15d8bcfc70bc6ef771056da3f733227c269e99f149"
 
 [[files]]
 file = "mods/rune-crafting.pw.toml"
