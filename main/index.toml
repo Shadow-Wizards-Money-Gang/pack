@@ -1815,11 +1815,6 @@ hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
 metafile = true
 
 [[files]]
-file = "mods/arsenal.pw.toml"
-hash = "bf7a7b2049755db147593bbae3dfc9cd8c658f54ef227741c563533a17af2a3d"
-metafile = true
-
-[[files]]
 file = "mods/artsandcrafts.pw.toml"
 hash = "90717540f90078d4cb0bb62a3f6150d66326c937c4128afa14779cc3b7a3e102"
 metafile = true
@@ -2185,9 +2180,8 @@ hash = "31cd9b39f38befed65a8607df20ab6f5e3f43cdf260829d7fc56e400fad12924"
 metafile = true
 
 [[files]]
-file = "mods/faunus.pw.toml"
-hash = "248f46b145bdabb2fe31edc5cbeb8487c003fdb1a275f44f632b1e2ea62c3505"
-metafile = true
+file = "mods/faunus-1.0.5.jar"
+hash = "3b1b7d25ee1965198da59479b8e9e340deb95436bb9bb472888e1095ae3593b8"
 
 [[files]]
 file = "mods/ferritecore-fabric.pw.toml"
@@ -2628,11 +2622,6 @@ metafile = true
 [[files]]
 file = "mods/ranged-weapon-api.pw.toml"
 hash = "8a15fb81964fb21577ed2e81c6075489d63024dba1ef357ae5464865bae8052e"
-metafile = true
-
-[[files]]
-file = "mods/ratatouille.pw.toml"
-hash = "95536753f3ec204722da2f2b5c6d615b16a1c674b9cfc3311da12b6873fc8708"
 metafile = true
 
 [[files]]
