@@ -674,7 +674,7 @@ hash = "b14c45c6447f9ee5474d70784a2ef96731abbeca1e92485b7599e76e9dce1444"
 
 [[files]]
 file = "config/mobfilter.json5"
-hash = "49c87802e26206052a572d6b38b71f08b6160bf3808ab7f93409b79f002286c4"
+hash = "91054d0d4e18c1b4af09a5eab984811bb1f0cbd29a9f95ca4762388a46a491d1"
 
 [[files]]
 file = "config/mobs_of_mythology.properties"
@@ -1758,11 +1758,11 @@ hash = "47130ec50fa27e6bd01efdc1ebba501d7d6eebfb2948aac78651406c08222ced"
 
 [[files]]
 file = "kubejs/server_scripts/events.js"
-hash = "0a6d8536458d9e98c184837e714ba99c6af2d379265a65bea1088b4e07dc3565"
+hash = "dbcc8880f7af24419a009ee79fe9b214ed75386f09c77b9db40e397a5055c6eb"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "aa225f355eb6638a3dedb74760ea4aad8e4e9dd9109550704e47c8303e908722"
+hash = "7e53c7c4c22ea66314dfbc48caea92ca7ba83f7646ba86518b8d21f18f0b2409"
 
 [[files]]
 file = "kubejs/server_scripts/worldgen.js"
@@ -2713,8 +2713,8 @@ hash = "2a3f43bcb818999b3228849ad0e3dacc97e9809654076adf483fe6046cab21ea"
 metafile = true
 
 [[files]]
-file = "mods/shadow-wizards-0.6.4.jar"
-hash = "a66701982bdaffadd67177460caf3a5d386d11f451cb64aeec8d837b6c155b3b"
+file = "mods/shadow-wizards-0.6.6.jar"
+hash = "04beb1c4ebaa6085df6c8e73c482a0a5be31a62c8c621eef3616fe375e599666"
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
