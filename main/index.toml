@@ -985,6 +985,10 @@ file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/guardvillag
 hash = "34788ef54d49ab2428eb5194ca7252142f8945e06c4a944673d633c9b28d5e97"
 
 [[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/mobs_of_mythology/loot_tables/entities/kobold_warrior.json"
+hash = "e69c0178620b80ad017dd83d352d3fae7396c3c2cfe98a1d3fc7fb9b0ebff9ac"
+
+[[files]]
 file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/paladins/recipes/netherite_holy_staff_smithing.json"
 hash = "8fba24c4277241625b27cbb1e4908feee042df2b3d42bddbdc1912deb0b4c369"
 
