@@ -183,12 +183,25 @@ ServerEvents.recipes((event) => {
     "4x shadow-wizards:resin",
   ]);
 
+  event.shapeless("2x shadow-wizards:fire_grease", [
+    // arg 1: output
+    "minecraft:bone_meal",
+    "minecraft:charcoal",
+    "4x shadow-wizards:resin",
+  ]);
+
+  event.shapeless("shadow-wizards:fire_grease", [
+    // arg 1: output
+    "2x minecraft:charcoal",
+    "2x shadow-wizards:resin",
+  ]);
+
   event.shapeless("shadow-wizards:resin", [
     "1x #shadow-wizards:sapling",
     "1x rootsclassic:pestle"
   ]).keepIngredient("rootsclassic:pestle");
 
-  event.shapeless("shadow-wizards:fire_grease", [
+  event.shapeless("2x shadow-wizards:fire_grease", [
     // arg 1: output
     "2x minecraft:coal",
     "2x shadow-wizards:resin",

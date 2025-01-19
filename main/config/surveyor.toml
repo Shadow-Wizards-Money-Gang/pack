@@ -18,7 +18,7 @@ landmarks = "DYNAMIC"
 netherPortalLandmarks = true
 # Whether to automatically add player death waypoints
 # default: true
-playerDeathLandmarks = true
+playerDeathLandmarks = false
 # Displays the following logs and messages:
 # [Action Bar] Structure Discovery
 # default: false
@@ -33,7 +33,7 @@ debugMode = false
 	# SERVER sends server-known data, GROUP sends group-known data, SOLO sends player-known data, NONE sends no data
 	# options: NONE, SOLO, GROUP, SERVER
 	# default: GROUP
-	terrain = "GROUP"
+	terrain = "SERVER"
 	# How much structure data to send to clients
 	# SERVER sends server-known data, GROUP sends group-known data, SOLO sends player-known data, NONE sends no data
 	# When NONE, clients will never see structures

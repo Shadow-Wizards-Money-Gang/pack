@@ -414,7 +414,7 @@ hash = "41a560ed4bc779692864004c74ea1fd5578ace5382d4ab82284cd7a5bf758ea6"
 
 [[files]]
 file = "config/extraspellattributes/server_v3.json5"
-hash = "281ff47c68e646e0d71e6581b5d8f6c416d96eb4fbdc542b02a73d3e630f1143"
+hash = "bd24bb4c4a6400aa36d79b02a7163c42faf9b0e5d56d9809982a3ff136b09e7e"
 
 [[files]]
 file = "config/f2d/settings.conf"
@@ -674,7 +674,7 @@ hash = "b14c45c6447f9ee5474d70784a2ef96731abbeca1e92485b7599e76e9dce1444"
 
 [[files]]
 file = "config/mobfilter.json5"
-hash = "49c87802e26206052a572d6b38b71f08b6160bf3808ab7f93409b79f002286c4"
+hash = "91054d0d4e18c1b4af09a5eab984811bb1f0cbd29a9f95ca4762388a46a491d1"
 
 [[files]]
 file = "config/mobs_of_mythology.properties"
@@ -985,6 +985,10 @@ file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/guardvillag
 hash = "34788ef54d49ab2428eb5194ca7252142f8945e06c4a944673d633c9b28d5e97"
 
 [[files]]
+file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/mobs_of_mythology/loot_tables/entities/kobold_warrior.json"
+hash = "e69c0178620b80ad017dd83d352d3fae7396c3c2cfe98a1d3fc7fb9b0ebff9ac"
+
+[[files]]
 file = "config/paxi/datapacks/Shadow_Wizard_Money_Gang_Datapack/data/paladins/recipes/netherite_holy_staff_smithing.json"
 hash = "8fba24c4277241625b27cbb1e4908feee042df2b3d42bddbdc1912deb0b4c369"
 
@@ -1137,190 +1141,6 @@ file = "config/pehkui/config.json"
 hash = "03566f5b722d000ee785cccf8a55651c75c7bc00fea16d2538899578188ebb32"
 
 [[files]]
-file = "config/plasmovoice/.crowdin/de_de.json"
-hash = "1fe30625fb96f11e1513d848a04bc4fbad707f4ad0ba61849a388a9e7a33ca9d"
-
-[[files]]
-file = "config/plasmovoice/.crowdin/es_es.json"
-hash = "417294d3f7a09af6c21d1eb06d21556ea5f370a74c07bfe271265e70e5f5df32"
-
-[[files]]
-file = "config/plasmovoice/.crowdin/fr_fr.json"
-hash = "576bd3bdfbaa2c7f994c2ceca56456162416706e6153526b4380cd41f81176bd"
-
-[[files]]
-file = "config/plasmovoice/.crowdin/he_il.json"
-hash = "81af917b226159198f9a76cb9caa4ffa5ba108684106d0a7d7a46a0e756f4a29"
-
-[[files]]
-file = "config/plasmovoice/.crowdin/ja_jp.json"
-hash = "4a078a0f89c4d8eddce0fbd9931d5c6945c4fec38da311fe6a06f876f786abe8"
-
-[[files]]
-file = "config/plasmovoice/.crowdin/ko_kr.json"
-hash = "8e0d47316caee0b490f6bedabb5532da30567094b6438deead1f3f0f85e66346"
-
-[[files]]
-file = "config/plasmovoice/.crowdin/pl_pl.json"
-hash = "e283d029a09dd394c76ef9a905c2bb629df5155dd3277124342d499dc0ae1683"
-
-[[files]]
-file = "config/plasmovoice/.crowdin/pt_br.json"
-hash = "f0b3be808fb9db38b22edd50fae4d8acc3a27bfb65a7491591070c8efdaa75d6"
-
-[[files]]
-file = "config/plasmovoice/.crowdin/ru_ru.json"
-hash = "06d6da4d4bfc2f9e1d528373f8d9cdc6d3e05432392c00978a27d5e0c4c5104c"
-
-[[files]]
-file = "config/plasmovoice/.crowdin/timestamp"
-hash = "761d2a9b86ffaf60483a09b4d0ab894cc4447a21c742bcfb15b138c4e84f73c0"
-
-[[files]]
-file = "config/plasmovoice/.crowdin/tt_ru.json"
-hash = "4437e99ad9a5a3c95a7522a149c97d83ed5755228e1a2ce6478cc6c447351157"
-
-[[files]]
-file = "config/plasmovoice/.crowdin/uk_ua.json"
-hash = "3348f1728d61f8a274f99a73d03a6dbd3b43fa47662cce41035a8cad6cb36b60"
-
-[[files]]
-file = "config/plasmovoice/.crowdin/zh_cn.json"
-hash = "cd1c2105923401d9ce4e5cbfb38ca53087e48e5188500856a833dbe10e039d81"
-
-[[files]]
-file = "config/plasmovoice/.crowdin/zh_tw.json"
-hash = "2800e6b4b1c3a9bb5179f1aeeb0093ff4ce6e5d751930285ccdf20067cb5e92b"
-
-[[files]]
-file = "config/plasmovoice/client.toml"
-hash = "e0b73fb06f9ff8502fae5094b3acaf5d5f6589ed596465818865f0b1e7bc1cf1"
-
-[[files]]
-file = "config/plasmovoice/meta_cache.json"
-hash = "872812e5372241d74715b9814e8d9da68cfc0751fb39f2bfc9628d6abfb25e7a"
-
-[[files]]
-file = "config/plasmovoice/server/config.toml"
-hash = "205af68849cbc8b5cd0bd53c522d4fbb643b9bdd48012062284c2e1daf7089d2"
-
-[[files]]
-file = "config/plasmovoice/server/languages/.crowdin/de_de.toml"
-hash = "29fab82d4a3280d63e9df7a0f02473b0098f3b5312979ea61aaf8f4b187eaa19"
-
-[[files]]
-file = "config/plasmovoice/server/languages/.crowdin/es_es.toml"
-hash = "f434de429907bd810d018ba0db4584eb63f3a1dfbd8fa0d374ca8342416a0017"
-
-[[files]]
-file = "config/plasmovoice/server/languages/.crowdin/fr_fr.toml"
-hash = "59931182a23c8691011180014ab5cdf8d676a64d129b55175a8521e24d67ffb7"
-
-[[files]]
-file = "config/plasmovoice/server/languages/.crowdin/he_il.toml"
-hash = "fa6fded3bbb26f21f9e7ef521370c6d4ce368529cbe927eee741467e75e04817"
-
-[[files]]
-file = "config/plasmovoice/server/languages/.crowdin/ko_kr.toml"
-hash = "df06537abcd1e218d48357beec47441cc43c3dcf2c318bfd22b921244d81fa0d"
-
-[[files]]
-file = "config/plasmovoice/server/languages/.crowdin/pl_pl.toml"
-hash = "06196ef2e05c14f360d561e08ac5ebf9ef89272161b6ce382c312bece82196af"
-
-[[files]]
-file = "config/plasmovoice/server/languages/.crowdin/pt_br.toml"
-hash = "a3931d10e96140e381350850744c702cc9d7c1a4aac264dd996e2a21a8144aee"
-
-[[files]]
-file = "config/plasmovoice/server/languages/.crowdin/ru_ru.toml"
-hash = "15bd38137eb9e786c5b6d3091a5a982bc892b2074fd0d67d0c448ff16045afa4"
-
-[[files]]
-file = "config/plasmovoice/server/languages/.crowdin/timestamp"
-hash = "7894c31b20bdeeec1347f4d55c8b0f14a129c326de87aeaae029d5c205dc8350"
-
-[[files]]
-file = "config/plasmovoice/server/languages/.crowdin/tr_tr.toml"
-hash = "912de4e7a4cc3224eccb6eb5e72314c3ce0b71c7b90ba0465c14bd716202e943"
-
-[[files]]
-file = "config/plasmovoice/server/languages/.crowdin/tt_ru.toml"
-hash = "4381a87ef626fa46045c8322e8431d902eb8bb9ff4f4fbbbc546e65a17975844"
-
-[[files]]
-file = "config/plasmovoice/server/languages/.crowdin/uk_ua.toml"
-hash = "1f9cafc386ca07036f9dc4cb84175fe0d222111db44a74dd9043981dbe02a102"
-
-[[files]]
-file = "config/plasmovoice/server/languages/.crowdin/zh_cn.toml"
-hash = "503c383b6921681dbc7c2896cea946ded969d4d62ab2f439bd7ffb33f1d24310"
-
-[[files]]
-file = "config/plasmovoice/server/languages/.crowdin/zh_tw.toml"
-hash = "cb5ad0855fe3bf0a298de8d02e6e91d76c9c4e3a21ab206297c71b745eb1cfc7"
-
-[[files]]
-file = "config/plasmovoice/server/languages/de_de.toml"
-hash = "9fc73031a7de8225670bf43c35b545be21c665bc9fb501b7005e4633b3ab0a88"
-
-[[files]]
-file = "config/plasmovoice/server/languages/en_us.toml"
-hash = "a3ffc8d6709904df88d81d4fddbf7c54185faf1595519a13288f78be8d287ced"
-
-[[files]]
-file = "config/plasmovoice/server/languages/es_es.toml"
-hash = "2cfd2e058a09fbd0fc2d6bb7d5eda62f1f322b103be3d33a835e39dea463c1b3"
-
-[[files]]
-file = "config/plasmovoice/server/languages/fr_fr.toml"
-hash = "e8974fccbb16c616728967bf1e45eedfdfb849b12a6f1b91b398d1da3ffea988"
-
-[[files]]
-file = "config/plasmovoice/server/languages/he_il.toml"
-hash = "c499b39e46b90cba9bd875b15f119d8948a6ec45782e6482f03ffae1bdbb5856"
-
-[[files]]
-file = "config/plasmovoice/server/languages/ko_kr.toml"
-hash = "68bb146f89fe3c6ba23c688e51cdb7f5415294230966ff185afebe90d8b422ac"
-
-[[files]]
-file = "config/plasmovoice/server/languages/pl_pl.toml"
-hash = "904c5cffcfa2a5f142e397154447b4b138b5c50516cd2858412c4f254177f733"
-
-[[files]]
-file = "config/plasmovoice/server/languages/pt_br.toml"
-hash = "d7849d3e40e584131d615b67d2c3abaaf63ed0d77dc7646818fc4341cf83eefb"
-
-[[files]]
-file = "config/plasmovoice/server/languages/ru_ru.toml"
-hash = "41fbf6d84808dcc9a9ccba4b25cd5c203859aadf39d775b1dce5ad0fba8d0560"
-
-[[files]]
-file = "config/plasmovoice/server/languages/tr_tr.toml"
-hash = "c4b471933343c6733af78328d05ac0ce71cccd60cf9091546147480030a2ba2f"
-
-[[files]]
-file = "config/plasmovoice/server/languages/tt_ru.toml"
-hash = "c6f05167951ab06e56aa8d881782e7892cdd3f5eed5d9823dea5610cba4e7b76"
-
-[[files]]
-file = "config/plasmovoice/server/languages/uk_ua.toml"
-hash = "532b19f1f11994022cd7a51cd655a24fdae99fa91c31b1cd5c80f1546abac55a"
-
-[[files]]
-file = "config/plasmovoice/server/languages/zh_cn.toml"
-hash = "53f32195245cbe77c14678e8f7110922dd19bcbb90cfd5c5e9742696da1a6220"
-
-[[files]]
-file = "config/plasmovoice/server/languages/zh_tw.toml"
-hash = "3bd383cba134a2baffe26afcf93866259e2b4b1338887cf77495efbcbf0d78d5"
-
-[[files]]
-file = "config/plasmovoice/server/voice_mutes.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
 file = "config/playerex-config.json5"
 hash = "249c3acb982383a6ca7ba3063e91d292a82aef39851ef0c63283a85a57187115"
 
@@ -1371,10 +1191,6 @@ hash = "ba938fa64c8406254c34b11d723e537a496926dba14f060e796c9af99dedb34c"
 [[files]]
 file = "config/quilt-loader.txt.orig"
 hash = "44fd27acf67a21802245fcb4a8eb18527cfcb1bfdb4fa99eca83536e3c228dbf"
-
-[[files]]
-file = "config/quilt/qsl/registry.toml"
-hash = "77911d9f201ecb0eecb3ba0394855983386094e45e3794ad74f6d74985a6d2ec"
 
 [[files]]
 file = "config/recipeessentials.json"
@@ -1537,10 +1353,6 @@ file = "config/sounds/world.json"
 hash = "ece8fe11dfcc448a0b485fd9ae423612f2700808c69a678ee074971f3336aedf"
 
 [[files]]
-file = "config/spark/config.json"
-hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
-
-[[files]]
 file = "config/spell_engine/client.json5"
 hash = "cf0497eb6937b5a745c3cf9bce50000166bcb6befddc20b0daea54975cf0d37f"
 
@@ -1614,7 +1426,7 @@ hash = "eff54e15648a2ca7fa7be7a3995a5c0b9db716024e242561b69b0115a51dada7"
 
 [[files]]
 file = "config/surveyor.toml"
-hash = "7d6ff653412b5adc5aa85ba2eca4428139fc2e89f39f6592407db3d7fa5e70da"
+hash = "57f189032ccc1d8b5118baacee2b73a886698c8fde2dd1f7f4d4c4dabd32c6fd"
 
 [[files]]
 file = "config/terrablender.toml"
@@ -1758,11 +1570,11 @@ hash = "47130ec50fa27e6bd01efdc1ebba501d7d6eebfb2948aac78651406c08222ced"
 
 [[files]]
 file = "kubejs/server_scripts/events.js"
-hash = "0a6d8536458d9e98c184837e714ba99c6af2d379265a65bea1088b4e07dc3565"
+hash = "dbcc8880f7af24419a009ee79fe9b214ed75386f09c77b9db40e397a5055c6eb"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "aa225f355eb6638a3dedb74760ea4aad8e4e9dd9109550704e47c8303e908722"
+hash = "7e53c7c4c22ea66314dfbc48caea92ca7ba83f7646ba86518b8d21f18f0b2409"
 
 [[files]]
 file = "kubejs/server_scripts/worldgen.js"
@@ -1796,12 +1608,12 @@ metafile = true
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
-hash = "3cbffddbfae46df3ef1d64d2f1069f3bd0baecc1c7b491da8c28c5134ed946da"
+hash = "73b9d76d4758ba539d6b6abb820d6ed76d31f5078c0670f838fd9ab8fc5fb6fc"
 metafile = true
 
 [[files]]
 file = "mods/arcanus-continuum.pw.toml"
-hash = "2361c4a6e3849a4c4ef7408f1332a4d284774365b6460030b572ace8f54d9ec3"
+hash = "01ee05b867f187657d44c3c17c10c688ecf77c7afab27564cd28741a0a29ffec"
 metafile = true
 
 [[files]]
@@ -1825,6 +1637,11 @@ hash = "b0b72c2a6b6c969315878bf7a813fea74491653282f0fa50c87f64742547647a"
 metafile = true
 
 [[files]]
+file = "mods/axiom.pw.toml"
+hash = "0acb8388ce42a88a8d8c9448cb5ff21ff4c2e69ffd5b00fcbacbd020b86ca0cf"
+metafile = true
+
+[[files]]
 file = "mods/azurelib-armor.pw.toml"
 hash = "b39837b3e37380994b4284f984bba3093746db066ef8346ac321085eba0094c2"
 metafile = true
@@ -1841,7 +1658,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "73faa6a82be2e6c791fa9754b3e05fbfdec82732d9f9a50573b497a07cb8797a"
+hash = "07da089a374927ef57c4854079eee4e495f9498932358212d75854e7bd2c04b8"
 metafile = true
 
 [[files]]
@@ -1921,7 +1738,7 @@ metafile = true
 
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
-hash = "6f0676fe7167a5a5e992ac1588e5a7f62bb6ffcaad158d7f1ace220c73adb938"
+hash = "bb111f705b13e7fca180b273cd1dcf78842dc52b00149ffc67cc74f4f1fcca3a"
 metafile = true
 
 [[files]]
@@ -1966,7 +1783,7 @@ metafile = true
 
 [[files]]
 file = "mods/consecration.pw.toml"
-hash = "ba7cd4926299918b3c814fa2f4b729b55f817e7e88680f0bdcedd3f57a36f4e8"
+hash = "18fb688c31a4852719c2b4b8efe9048acccb521a378a293b0f53cec3ce31b975"
 metafile = true
 
 [[files]]
@@ -1986,7 +1803,7 @@ metafile = true
 
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
-hash = "754da0cdd1991dd811f90159ccfab8c3e1006fcd1afc016e730d597435c10f73"
+hash = "add0cece3831da760db22ffe0caaba784956aefb0982690e278418a9999a8063"
 metafile = true
 
 [[files]]
@@ -2071,7 +1888,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "7a3c5d0b65753cbba5d36bac7f9afce62e45bc7b4d88aea7ffa99a47a59ee1af"
+hash = "7829eb3d2bb0e05cc590404dcc35c8803d4f3985c711884fe304ff7900e85389"
 metafile = true
 
 [[files]]
@@ -2101,7 +1918,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "44efbd1c8561f3431c31e7c49deb433d0a9e48e4b3dd2ed78251120ce8baa315"
+hash = "0326f90e469344f2ca0ae026c31631497755cb52aa1dddcfc66c82e7748e0622"
 metafile = true
 
 [[files]]
@@ -2136,7 +1953,12 @@ metafile = true
 
 [[files]]
 file = "mods/extra-spell-attributes.pw.toml"
-hash = "8eb76eb0e6159bc06f152ab340750fb2b46e7fb4c6e0ec4b41657782fbc9d945"
+hash = "b2963e684e7dbcfae3e7302b8711dd9ffa6055900aea90d83f698288fec5c74a"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "a74044f64e15149ea7e2efd2a2fcb2d8818e26ff0d27d2f684a287a12e2378aa"
 metafile = true
 
 [[files]]
@@ -2156,12 +1978,12 @@ metafile = true
 
 [[files]]
 file = "mods/fast-async-world-save-forge-fabric.pw.toml"
-hash = "89bbd6f7b8824e084e81542de218ed05f2be74ad7e8ad211d845cad85aec3978"
+hash = "f834e60e68d8641f911f3950cab55146cd452cd7204786ca3bca756f5316763a"
 metafile = true
 
 [[files]]
 file = "mods/fast-paintings.pw.toml"
-hash = "82d79ccb90397c279befef3c7252afd1651705085ac33429db44f58047a43662"
+hash = "47a15513ff0bdc6e5cc6278af9fbbf47b5d4d9193e99effcfbe18005be664840"
 metafile = true
 
 [[files]]
@@ -2170,9 +1992,8 @@ hash = "31cd9b39f38befed65a8607df20ab6f5e3f43cdf260829d7fc56e400fad12924"
 metafile = true
 
 [[files]]
-file = "mods/faunus.pw.toml"
-hash = "248f46b145bdabb2fe31edc5cbeb8487c003fdb1a275f44f632b1e2ea62c3505"
-metafile = true
+file = "mods/faunus-1.0.5.jar"
+hash = "3b1b7d25ee1965198da59479b8e9e340deb95436bb9bb472888e1095ae3593b8"
 
 [[files]]
 file = "mods/ferritecore-fabric.pw.toml"
@@ -2216,12 +2037,12 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "dc59c6208d7b2e6c2609e0a2d0aadbe4c24a2090abf9afaad1fd21f33b521a2d"
+hash = "93cae801c201b7455d8ace92abd8f98b626ea4c51aa581b6b9d4006c38810a2a"
 metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "04a0c0e942e733c850cf9dd77fa5f1dc47554fd972b099e1eb69255514f52969"
+hash = "e1d70fa741150af4f6b090b7fdcafe3606087942b19cdafd6c0fe9e8e5565946"
 metafile = true
 
 [[files]]
@@ -2241,7 +2062,7 @@ metafile = true
 
 [[files]]
 file = "mods/gputape.pw.toml"
-hash = "28444ff8e25eb7688aa8b2dfd8a7b5c76729c8ae3d1c3037db4254653e852041"
+hash = "612459382c4e073f1a372f7c5f8aa2ba6dc43db753e0ce85f31f5e1855e6a963"
 metafile = true
 
 [[files]]
@@ -2300,7 +2121,7 @@ metafile = true
 
 [[files]]
 file = "mods/invmove.pw.toml"
-hash = "653e58478a80fa179802706cf4aafd705820c2afe8664f0558d6c9453adfd74b"
+hash = "881ad6ef91c24ce547c8062685cf361b1937b4162c8a238196c8106ef62ab15d"
 metafile = true
 
 [[files]]
@@ -2410,7 +2231,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "c57ec0ac8fc5125eb48960cdfebe200ff61ef83698eb1a60247ef38b94b96a85"
+hash = "a3d9e35a7ddd0f0a6f571cfaf9561b1df0a129c3450aa57a1d118bd744d63b4a"
 metafile = true
 
 [[files]]
@@ -2452,7 +2273,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "50149a97b2d959bfac8e1c377fdab49fc52f1439d004b1ac1c26a3a7f790e044"
+hash = "bc79745faf3cfec5d60e239817905c2bebfb692f8ae3ff3671fc8afd4800227e"
 metafile = true
 
 [[files]]
@@ -2606,13 +2427,8 @@ hash = "e67b646a37b34c077b5a99001d22b8eee964320a79c8bb7a83dc25ce851f8457"
 metafile = true
 
 [[files]]
-file = "mods/qsl.pw.toml"
-hash = "b3cddfa7777f3622f7cd6d74647ae3ae35e9c2156c48d9137e6511e90f8ebbd4"
-metafile = true
-
-[[files]]
 file = "mods/raknetify.pw.toml"
-hash = "3ef4dbdb9a77b7b1f52a77f6745ea0983826e8aed8a57ba2c62f6a33b5d7deac"
+hash = "c6b02929199e628de95da015e8ba02e00fb75c23b363b5107e96d233f6891262"
 metafile = true
 
 [[files]]
@@ -2627,7 +2443,7 @@ metafile = true
 
 [[files]]
 file = "mods/recipe-essentials-forge-fabric.pw.toml"
-hash = "a201a90062857204411b75444d2baa707d87c30aadaed780bf0845b9559be6e9"
+hash = "543eb2026a89f31393f6d49b7cc7f19057737f3aa050a9492608355553fd8df2"
 metafile = true
 
 [[files]]
@@ -2641,7 +2457,7 @@ hash = "79acbc5dc87d8f250a96466883070b14a4fe1c29fe38dc043990c24e14aed16f"
 
 [[files]]
 file = "mods/resourceful-config.pw.toml"
-hash = "2937f8044610c554d49b4617210885a76d3f81cb9325a36dba6bfbd131cc45ab"
+hash = "4d4bcf62b73bcc53dbb6d9edfe0ed84b4ad9c267a37807c0c653486add6f89a8"
 metafile = true
 
 [[files]]
@@ -2670,8 +2486,8 @@ hash = "5d47427d2d8e13164af132620ff91bbcc1c3dd4460b9bf91affb2a9bd6496bce"
 metafile = true
 
 [[files]]
-file = "mods/rootsclassic-1.20-1.2.2-test-fabric.jar"
-hash = "42b1002001215f4078dbe3db025eb6c566e019a6edb6d8ac2b53f153ccfa9db3"
+file = "mods/rootsclassic-1.20-swmg-1.2.5-fabric.jar"
+hash = "7ab6f7cfb7e4b598106af2f7d6aab7ee7454cbfcf5bae3e8d6560d914a1a6432"
 
 [[files]]
 file = "mods/rune-crafting.pw.toml"
@@ -2695,7 +2511,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "000e2d5db070156fca01f7317e754b328d04ac2754a6e0b68b77782e3c01fe85"
+hash = "79a2ab66ec2444fcc9e24bbd4d47aea275502d0f4282fbc39123a3b0a2493430"
 metafile = true
 
 [[files]]
@@ -2709,22 +2525,17 @@ hash = "2a3f43bcb818999b3228849ad0e3dacc97e9809654076adf483fe6046cab21ea"
 metafile = true
 
 [[files]]
-file = "mods/shadow-wizards-0.6.4.jar"
-hash = "a66701982bdaffadd67177460caf3a5d386d11f451cb64aeec8d837b6c155b3b"
+file = "mods/shadow-wizards-0.6.8.jar"
+hash = "26cff702507dcaf05f19d2de356fbe5825f6fe018b41948c175858db3b90caa3"
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "c218375feeaec2ea93e256d170fb41cbca9b77312e93a321ee8fac814aa4b722"
+hash = "e950dc5083326f0ec27bbf95171c5d7c6b1a1926c952730f17f9a4f6c7e15799"
 metafile = true
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
 hash = "aedb311fc1b55ad67fd6d9b425b09ebf8b7638367b8036f87f6bf759edd948a3"
-metafile = true
-
-[[files]]
-file = "mods/smooth-chunk-save.pw.toml"
-hash = "59415593d917326a44382ddb0fa4713a80b1daea51dadc666420bb17c3a37261"
 metafile = true
 
 [[files]]
@@ -2764,7 +2575,7 @@ metafile = true
 
 [[files]]
 file = "mods/sparkweave.pw.toml"
-hash = "58db5ab5da8397f17b0dc09f9c2be95d15b98b156d2d29a2d91dd0f8e9644f46"
+hash = "5294a8751eca5ee98f2bfe4d7d925d962c92524c30f2983f9a05fb60ceda8038"
 metafile = true
 
 [[files]]
@@ -2789,6 +2600,11 @@ metafile = true
 [[files]]
 file = "mods/spice-of-fabric.pw.toml"
 hash = "6ce103cf463401162eb2f09934b5aed9277e1f4788879e11d41b3574c6f7b37c"
+metafile = true
+
+[[files]]
+file = "mods/stackdeobf.pw.toml"
+hash = "621e56ad677649509141a20b4a4a6042ea30af69c1527153681f8f2c4cf0104b"
 metafile = true
 
 [[files]]
@@ -2817,7 +2633,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "da31954dee4b88e0bedbda2414d3b225f5df997d8f597fda208572ec07c2152b"
+hash = "01517bbce0fa34ab1a08764bb169c532e9cb4e30df04b838d3e5935692a25491"
 metafile = true
 
 [[files]]
@@ -2827,7 +2643,7 @@ metafile = true
 
 [[files]]
 file = "mods/surveyor.pw.toml"
-hash = "272d6f810e6ab5d2626b7822252558b68ed69237dd3f3906abcae3c347070735"
+hash = "6aab4e9403dcd7aa534fcdb8837e62c5ba2b05aa2c4938aa5bd490427902c97a"
 metafile = true
 
 [[files]]
@@ -2966,7 +2782,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "d22f9164ba40365cca43010cd2db689fe6151b33e5a4071e407307c9d84381e9"
+hash = "b697cb84b89e700c35de5bd1394cce65faaef17b695703e657b8b76835c92487"
 
 [[files]]
 file = "unsup.toml"
