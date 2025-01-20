@@ -1,0 +1,13 @@
+name = "Valkyrien Pirates"
+filename = "ValkyrienPirates-1.4.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jv8hXuHT/versions/buZD9yIB/ValkyrienPirates-1.4.2.jar"
+hash-format = "sha1"
+hash = "a3338a1faeae97087c934f9c42f7ffeb5f1c335e"
+
+[update]
+[update.modrinth]
+mod-id = "jv8hXuHT"
+version = "buZD9yIB"

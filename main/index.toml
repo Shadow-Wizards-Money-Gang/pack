@@ -1917,6 +1917,11 @@ hash = "8f6edf8b6066bc65daaeecb7fc995fa6b4e014f92d53c10260963570d9e0243b"
 metafile = true
 
 [[files]]
+file = "mods/eureka.pw.toml"
+hash = "b9776960dcc40b4688a1ef1129932694cc8a5b7248c057284022446ac19101cf"
+metafile = true
+
+[[files]]
 file = "mods/exposure.pw.toml"
 hash = "3de7f974dfe44f63a9c70d4b4afb41941ac33cbd50715019992ded4512f62948"
 metafile = true
@@ -2669,6 +2674,16 @@ metafile = true
 [[files]]
 file = "mods/useless-reptile.pw.toml"
 hash = "2c4fa0fa6b2fec95d59a339bb478d78c4cca77e4968267acdc0113dd94f08eda"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-pirates.pw.toml"
+hash = "6e3bf3c85f7a23203668d8a60c7177d5ac4c1de2e9283103a421cb9e0d2da709"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "acc29f4d30641c8138744b8c15cad479e17c601567de64b19ddb82aff37b3ad1"
 metafile = true
 
 [[files]]
