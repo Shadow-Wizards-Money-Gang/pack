@@ -142,5 +142,5 @@ globalExecutorParallelism = "default"
 		# Set to false for the following reasons: 
 		# Incompatible with bobby@5.0.1 (*) (defined in c2me) 
 		enabled = "default"
-		# (Default: 35) Max render distance allowed in game options
+		# (Default: 43) Max render distance allowed in game options
 		maxViewDistance = "default"

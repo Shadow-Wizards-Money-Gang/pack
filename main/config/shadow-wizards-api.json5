@@ -35,7 +35,7 @@
 			0,
 			0
 		],
-        "shadow-wizards:prayer_spell_book": [
+		"shadow-wizards:prayer_spell_book": [
 			0,
 			0,
 			0,
@@ -987,14 +987,6 @@
 			9,
 			0
 		],
-		"dungeonnowloading:spawner_sword": [
-			9,
-			0,
-			0,
-			0,
-			9,
-			0
-		],
 		"dungeonnowloading:life_stealer": [
 			0,
 			12,
@@ -1103,6 +1095,12 @@
 		]
 	},
 	"BAN_ITEM_FOR_ENCHANT": {
+		"minecraft:protection": [
+			"minecraft:iron_chestplate",
+			"minecraft:iron_helmet",
+			"minecraft:iron_leggings",
+			"minecraft:iron_boots"
+		],
 		"!minecraft:protection": [
 			"wizards:arcane_robe_chest",
 			"wizards:fire_robe_chest",

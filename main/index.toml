@@ -2130,6 +2130,11 @@ hash = "a4ead715d6d053581edbbecac7d8cdae57d941503d0ccec8aca5ef26ba3b1341"
 metafile = true
 
 [[files]]
+file = "mods/it-takes-a-pillage-continuation.pw.toml"
+hash = "c1019c25cda3fcb0843d54b65bf6bfb9adb2cddd0313b5f57eb947cb11f69f25"
+metafile = true
+
+[[files]]
 file = "mods/item-obliterator.pw.toml"
 hash = "7780c92a7cc9d48ca548cb3fb875bccf26a18fbf42456a6a059a86526e662cb1"
 metafile = true

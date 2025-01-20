@@ -36,6 +36,7 @@ mode = "fancy"
 				bat = true
 				frog = true
 				rabbit = true
+				firework_rocket = true
 				armor_stand = true
 				drowned = true
 				experience_orb = true
@@ -47,6 +48,7 @@ mode = "fancy"
 				salmon = true
 				vex = true
 				wandering_trader = true
+				wither_skeleton = true
 				goat = true
 				ocelot = true
 				item_frame = true
@@ -69,6 +71,7 @@ mode = "fancy"
 				ravager = true
 				trader_llama = true
 				donkey = true
+				evoker_fangs = true
 				chest_minecart = true
 				fox = true
 				tropical_fish = true
@@ -91,6 +94,8 @@ mode = "fancy"
 				zombie_villager = true
 				tnt_minecart = true
 				elder_guardian = true
+				boat = true
+				small_fireball = true
 				painting = true
 				cave_spider = true
 				witch = true
@@ -105,10 +110,13 @@ mode = "fancy"
 				barrier = true
 
 			[light_sources.settings.entities.uselessreptile]
+				lightning_chaser = true
+				lightning_breath = true
 				moleclaw = true
 				wyvern_projectile = true
 				river_pikehorn = true
 				wyvern = true
+				acid_blast = true
 
 			[light_sources.settings.entities.xercapaint]
 				easel = true
@@ -118,7 +126,9 @@ mode = "fancy"
 				spell_area_effect = true
 
 			[light_sources.settings.entities.goodending]
+				firefly_swarm = true
 				woodpecker = true
+				boat = true
 
 			[light_sources.settings.entities.enderzoology]
 				fallen_mount = true
@@ -130,6 +140,10 @@ mode = "fancy"
 				infested_zombie = true
 				enderminy = true
 				concussion_creeper = true
+
+			[light_sources.settings.entities.niftycarts]
+				supply_cart = true
+				animal_cart = true
 
 			[light_sources.settings.entities.guardvillagers]
 				guard = true
@@ -148,28 +162,50 @@ mode = "fancy"
 				chupacabra = true
 
 			[light_sources.settings.entities.shadow-wizards]
+				spider_scorpion = true
 				zotz = true
+				firebomb = true
+				small_spider_scorpion = true
+				manticore = true
 				fallen_undead = true
 				gas = true
 				ghoul = true
 				fallen_horse = true
 				rous = true
+				cupcake = true
+
+			[light_sources.settings.entities.faunus]
+				leech = true
+				cocoa_bean_projectile = true
+				capuchin = true
+				iguana = true
+				piranha = true
+				yacare = true
+				crayfish = true
+				songbird = true
+				arapaima = true
 
 			[light_sources.settings.entities.illagerinvasion]
+				skull_bolt = true
 				sorcerer = true
 				archivist = true
 				provoker = true
 				basher = true
+				necromancer = true
+				firecaller = true
+				invoker = true
 
 			[light_sources.settings.entities.naturalist]
 				deer = true
 				snail = true
+				alligator = true
 				rhino = true
 				bluejay = true
 				snake = true
 				catfish = true
 				robin = true
 				boar = true
+				dragonfly = true
 				duck_egg = true
 				tortoise = true
 				duck = true
@@ -188,11 +224,15 @@ mode = "fancy"
 				vulture = true
 				bass = true
 				giraffe = true
+				lizard_tail = true
 				elephant = true
 				finch = true
 
 			[light_sources.settings.entities.majruszsdifficulty]
 				illusioner = true
+				giant = true
+				cerberus = true
+				cursed_armor = true
 				tank = true
 
 			[light_sources.settings.entities.bombastic_crystals]
@@ -207,10 +247,12 @@ mode = "fancy"
 			[light_sources.settings.entities.caligo]
 				strow = true
 				deep_strow = true
+				coppice = true
 
 			[light_sources.settings.entities.dungeonnowloading]
 				spawner_carrier = true
 				chaos_spawner = true
+				great_experience_bottle = true
 
 			[light_sources.settings.entities.yungscavebiomes]
 				ice_cube = true

@@ -22,7 +22,7 @@
       when : {
         entityId : [ 'goodending:marsh' ]
       }
-    }
+    },
     {
     name : 'No Marsh',
     what : 'DISALLOW_SPAWN',

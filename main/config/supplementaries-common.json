@@ -188,6 +188,7 @@
     },
     "sugar_cube": {
       "enabled": true,
+      "dissolve_in_rain": true,
       "horse_speed_duration": 10
     },
     "planter": {
@@ -268,6 +269,7 @@
     "statue": true,
     "doormat": true,
     "flint_block": true,
+    "fine_wood": true,
     "candle_holder": true,
     "fire_pit": true,
     "wicker_fence": true
@@ -351,6 +353,7 @@
     "dispensers": true,
     "debug_save_dynamic_pack": false,
     "server_protection": false,
+    "sanity_checks_messages": true,
     "red_merchant_spawn_multiplier": 1.0
   },
   "tweaks": {

@@ -1,7 +1,7 @@
 {
   "injectors": {
     "minecraft:chests/abandoned_mineshaft": {
-      "rolls": 3,
+      "rolls": 3.0,
       "bonus_rolls": 0.25,
       "entries": [
         {
@@ -15,7 +15,7 @@
       ]
     },
     "minecraft:chests/woodland_mansion": {
-      "rolls": 2,
+      "rolls": 2.0,
       "bonus_rolls": 0.25,
       "entries": [
         {
@@ -57,7 +57,7 @@
       ]
     },
     "minecraft:chests/shipwreck_treasure": {
-      "rolls": 3,
+      "rolls": 3.0,
       "bonus_rolls": 0.2,
       "entries": [
         {
@@ -72,7 +72,7 @@
       ]
     },
     "minecraft:chests/underwater_ruin_big": {
-      "rolls": 2,
+      "rolls": 2.0,
       "bonus_rolls": 0.2,
       "entries": [
         {
@@ -87,7 +87,7 @@
       ]
     },
     "minecraft:chests/stronghold_library": {
-      "rolls": 1,
+      "rolls": 1.0,
       "bonus_rolls": 0.2,
       "entries": [
         {
@@ -102,7 +102,7 @@
       ]
     },
     "minecraft:chests/jungle_temple": {
-      "rolls": 2,
+      "rolls": 2.0,
       "bonus_rolls": 0.2,
       "entries": [
         {
