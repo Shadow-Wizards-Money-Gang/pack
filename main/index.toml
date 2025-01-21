@@ -2387,6 +2387,10 @@ hash = "a3d67082a95f70155d68aec25d7ffba8a7c7bc48b342529e52005ddfc76f11ae"
 metafile = true
 
 [[files]]
+file = "mods/playerex-directors-cut-4.0.3+1.20.1+swmg.jar"
+hash = "c97a12cb25436790005220d40f55971d5c82fdd6b645960a3f94f55594493eb2"
+
+[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "daddb2872c14e126b612f98ddcf7727a454400046a6ff31b8a440aedcbc88581"
 metafile = true
@@ -2500,8 +2504,8 @@ hash = "2a3f43bcb818999b3228849ad0e3dacc97e9809654076adf483fe6046cab21ea"
 metafile = true
 
 [[files]]
-file = "mods/shadow-wizards-0.6.10.jar"
-hash = "fb6d6067e23cb7272e8e41cff328632bda312cd742618fa99ee3ac0c22ee7133"
+file = "mods/shadow-wizards-0.6.12.jar"
+hash = "b00c970802e53a05a772a47a56445c94bbdd180fa9491fcfbe9f5be3970d4baa"
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
