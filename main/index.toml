@@ -2120,6 +2120,11 @@ hash = "f1de7e0580ac0d7a3defd87cb8bb4a5597c4e0fd7b903227efc12678bc0dc5d4"
 metafile = true
 
 [[files]]
+file = "mods/jinxedlib.pw.toml"
+hash = "9c740ed247042beaca9145b88ff96c28223b3e2625455f57a9b4400223b5924f"
+metafile = true
+
+[[files]]
 file = "mods/joy-of-painting.pw.toml"
 hash = "1e5a89f9f111c331e555664cf73e830d9ea2626e8356e4f695137cfd0b255320"
 metafile = true

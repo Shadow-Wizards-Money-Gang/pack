@@ -1,0 +1,13 @@
+name = "JinxedLib"
+filename = "JinxedLib-fabric-1.20.1-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Vrr7WtS4/versions/3ij6RuIq/JinxedLib-fabric-1.20.1-1.0.1.jar"
+hash-format = "sha1"
+hash = "b293bd36645251e342c72e1f87e2de730fe0e726"
+
+[update]
+[update.modrinth]
+mod-id = "Vrr7WtS4"
+version = "3ij6RuIq"
