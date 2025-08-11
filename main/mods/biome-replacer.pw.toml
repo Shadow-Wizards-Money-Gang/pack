@@ -1,13 +1,13 @@
 name = "Biome Replacer"
-filename = "biome_replacer-1.7-mc1.20.jar"
+filename = "biomereplacer-2.1-hippo-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/DAXbR0Wj/versions/zpGahHIz/biome_replacer-1.7-mc1.20.jar"
+url = "https://cdn.modrinth.com/data/DAXbR0Wj/versions/IeQCQzcl/biomereplacer-2.1-hippo-fabric.jar"
 hash-format = "sha1"
-hash = "287423a4c0daf45d134f8fcfb947a22e78a41fb5"
+hash = "8e3573f3384e7031afa663d7fe3dbbd0011bae9c"
 
 [update]
 [update.modrinth]
 mod-id = "DAXbR0Wj"
-version = "zpGahHIz"
+version = "IeQCQzcl"

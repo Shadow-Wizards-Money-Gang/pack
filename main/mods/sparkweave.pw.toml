@@ -1,13 +1,13 @@
 name = "Sparkweave Engine"
-filename = "sparkweave-0.7.0.jar"
+filename = "sparkweave-0.8.8.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/nf68xfAw/versions/WQ4aILHw/sparkweave-0.7.0.jar"
+url = "https://cdn.modrinth.com/data/nf68xfAw/versions/JKx2dI3P/sparkweave-0.8.8.jar"
 hash-format = "sha1"
-hash = "6ed62d4fa8e1d6ce03af7ddd5610529a1d717300"
+hash = "029324adaa2376c3dcba0d96d814a49b696ecfae"
 
 [update]
 [update.modrinth]
 mod-id = "nf68xfAw"
-version = "WQ4aILHw"
+version = "JKx2dI3P"

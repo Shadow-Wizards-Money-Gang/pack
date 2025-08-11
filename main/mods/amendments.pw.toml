@@ -1,13 +1,13 @@
 name = "Amendments"
-filename = "amendments-1.20-1.2.14-fabric.jar"
+filename = "amendments-1.20-2.0.7-fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2a08cfe741edd6cf2f82337e8e58c1da1aab0598"
+hash = "3e69c70050f36c0478add5ae748781311bd951d4"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6030671
+file-id = 6869287
 project-id = 896746

@@ -1,13 +1,13 @@
 name = "Snow! Real Magic! ⛄ (Fabric)"
-filename = "SnowRealMagic-1.20.1-Fabric-10.5.4.jar"
+filename = "SnowRealMagic-1.20.1-Fabric-10.6.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b9e0a9ecd509a4df98d0cb904a5aea932b88e83c"
+hash = "08c77113838a460415d2642455c2c96bd3207bab"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5880796
+file-id = 6779484
 project-id = 560441

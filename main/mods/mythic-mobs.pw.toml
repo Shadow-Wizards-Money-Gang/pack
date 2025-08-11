@@ -1,13 +1,13 @@
 name = "Mythic Mobs"
-filename = "mobs_of_mythology-fabric-1.20.1-2.0.3.jar"
+filename = "mobs_of_mythology-fabric-1.20.1-2.1.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/avrKhvsK/versions/zTV1z8pA/mobs_of_mythology-fabric-1.20.1-2.0.3.jar"
+url = "https://cdn.modrinth.com/data/avrKhvsK/versions/KGcX3jv3/mobs_of_mythology-fabric-1.20.1-2.1.2.jar"
 hash-format = "sha1"
-hash = "b16911b73bace1a89f4dbf6e14b6dcfbbb6b83bb"
+hash = "5a0f34cdb6d43c5d6a6417997d9d8c4dffab890c"
 
 [update]
 [update.modrinth]
 mod-id = "avrKhvsK"
-version = "zTV1z8pA"
+version = "KGcX3jv3"
