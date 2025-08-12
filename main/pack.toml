@@ -9,9 +9,9 @@ hash-format = "sha256"
 hash = "16cd4f909abe5d32c7dd2f3004e610b1107871f5bfc2adf08bf8ce5c92ce2ea6"
 
 [versions]
-fabric = "0.16.9"
+fabric = "0.17.2"
 minecraft = "1.20.1"
-unsup = "0.2.3"
+unsup = "1.1.5"
 
 [options]
 acceptable-game-versions = ["1.20.1"]
