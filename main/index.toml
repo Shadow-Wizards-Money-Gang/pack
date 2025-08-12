@@ -2082,11 +2082,6 @@ hash = "8190bea6b572764f27a16d0e1d4d7262645a37528c54676b2b2456c8cae23783"
 metafile = true
 
 [[files]]
-file = "mods/inverse-phantoms.pw.toml"
-hash = "09bda00568bb0ce832f0860817b94f1f21577408a326c3c211f7e2c59c7979cf"
-metafile = true
-
-[[files]]
 file = "mods/invmove.pw.toml"
 hash = "0f24eed5d6e6513c88fca31766cd534ec8af93908a1c720cd75b884e1fc69455"
 metafile = true
