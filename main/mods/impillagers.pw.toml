@@ -1,0 +1,13 @@
+name = "Impillagers"
+filename = "impillagers-1.6.1+1.20.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qTL0SYMP/versions/8DYsHZky/impillagers-1.6.1%2B1.20.1-fabric.jar"
+hash-format = "sha1"
+hash = "367e2f92cce474f15888867aeb1d27a2c4c1e2c2"
+
+[update]
+[update.modrinth]
+mod-id = "qTL0SYMP"
+version = "8DYsHZky"
